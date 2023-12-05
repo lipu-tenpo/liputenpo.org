@@ -1,0 +1,21 @@
+- id: 22
+  title: nanpa sin
+  date: 2023-11-01
+  pdf: 0022sin.pdf
+  pdf_pf: 0022sin_pf.pdf
+  pdf_bwpf: 0022sin_bwpf.pdf
+  cover_image: 0022sin_sinpin.png
+- id: 22
+  title: nanpa ma
+  date: 2023-08-24
+  pdf: 0021ma.pdf
+  pdf_pf: 0021ma_pf.pdf
+  pdf_bwpf: 0021ma_bwpf.pdf
+  cover_image: 0021ma_sinpin.png
+- id: 21
+  title: nanpa nasin
+  date: 2023-07-01
+  pdf: 0020nasin.pdf
+  pdf_pf: 0020nasin_pf.pdf
+  pdf_bwpf: 0020nasin_bwpf.pdf
+  cover_image: 0020nasin_sinpin.png

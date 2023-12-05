@@ -1,12 +1,11 @@
 ---
 pagination:
-  data: lipu
+  data: lipu_ale
   size: 1
   alias: lipu
-permalink: "lipu-tenpo-{{ lipu.title | slugify }}/"
+permalink: /lipu-tenpo-{{ lipu.title | slugify }}/
 layout: frame.html
 eleventyComputed:
-  title: lipu tenpo - {{ lipu.title }}
+  title: "lipu tenpo - {{ lipu.title }}"
+  header_text: "lipu tenpo {{ lipu.title }}"
 ---
-
-<h1>{{lipu.title}}</h1>
