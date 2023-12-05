@@ -4,16 +4,18 @@
   pdf: 0022sin.pdf
   pdf-pf: 0022sin-pf.pdf
   pdf-bwpf: 0022sin-bwpf.pdf
+  cover-image: 0022sin_sinpin.png
 - id: 22
   title: nanpa ma
   date: 2023-08-24
   pdf: 0021ma.pdf
   pdf-pf: 0021ma-pf.pdf
   pdf-bwpf: 0021ma-bwpf.pdf
+  cover-image: 0021ma_sinpin.png
 - id: 21
   title: nanpa nasin
   date: 2023-07-01
   pdf: 0020nasin.pdf
   pdf-pf: 0020nasin-pf.pdf
   pdf-bwpf: 0020nasin-bwpf.pdf
-  
+  cover-image: 0020nasin_sinpin.png
