@@ -56,3 +56,21 @@ eleventyComputed:
     pages now with a stapler.
   </p>
 </section>
+<nav class="py-4 flex flex-col justify-center items-center gap-4">
+  <ul class="flex flex-row justify-center items-baseline gap-4">
+    <li>
+      {% if pagination.href.previous %}<a
+        class="text-blue-500"
+        href="{{ pagination.href.previous }}"
+        >Previous</a
+      >{% else %}<span class="text-gray-500">Previous</span>{% endif %}
+    </li>
+    <li>
+      {% if pagination.href.next %}<a
+        class="text-blue-500"
+        href="{{ pagination.href.next }}"
+        >Next</a
+      >{% else %}<span class="text-gray-500">Next</span>{% endif %}
+    </li>
+  </ul>
+</nav>
