@@ -7,19 +7,16 @@ Under construction
 ## Folder structure
 
 ```text
-lipu (zines)
- - title: "nanpa sin"
-   date: "2023-11-01"
-   pdf: "nanpa-sin.pdf"
-   pdf-pf: "nanpa-sin_pf.pdf"
-   pdf-bwpf: "nanpa-sin_bwpf.pdf"
- nanpa-ma.md
-   ...
- nanpa-nasin.md
-   ...
- ...
-toki (articles)
- ...
+_data
+  linluwi.yaml (external links)
+  lipu_ale.yaml (all issue information)
+_includes
+  base html template (for <head>)
+  frame html template (for header/footer)
+public
+  static site stuff (favicons/images/stylesheets)
+index.html (main page layout)
+lipu.html (layout of issue page(s))
 ```
 
 ## Commands
