@@ -6,3 +6,17 @@ layout: frame.html
 <p>o kama pona lon lipu pi lipu tenpo!</p>
 <p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
 <hr />
+{% for lipu in lipu %}
+<article>
+  <img
+    class="lipu-cover"
+    src="pdfs/{{ lipu.cover-image }}"
+    alt="{{ lipu.title }} cover image"
+  />
+  <h2>
+    <a href="lipu-tenpo-{{ lipu.title | slugify }}">{{ lipu.title }}</a>
+  </h2>
+  <p>{{ lipu.title }}</p>
+  <p>{{ lipu.date | date: "%B %d, %Y" }}</p>
+</article>
+{% endfor %}
