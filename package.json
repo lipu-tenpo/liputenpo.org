@@ -1,0 +1,20 @@
+{
+  "name": "lipu-tenpo-website",
+  "version": "0.1.0",
+  "description": "Static site generator for lipu tenpo",
+  "main": "index.js",
+  "scripts": {
+    "develop": "eleventy --serve",
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tokipona",
+    "liputenpo"
+  ],
+  "author": "alifeee",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}
