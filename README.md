@@ -2,6 +2,8 @@
 
 Rewrite of <https://liputenpo.org> using <https://www.11ty.dev/>
 
+See live on <https://liputenpo.alifeee.co.uk/>
+
 Under construction
 
 ## Folder structure
