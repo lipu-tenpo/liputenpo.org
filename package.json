@@ -9,7 +9,7 @@
     "dev:11ty": "eleventy --serve",
     "dev:css": "tailwindcss -i tailwind/tailwind.css -o tailwind/tailwind.out.css --watch --postcss",
     "build:11ty": "eleventy",
-    "build:css": "tailwindcss -i tailwind/tailwind.css -o tailwind/tailwind.out.css --postcss",
+    "build:css": "tailwindcss -i tailwind/tailwind.css -o _site/tailwind.css --postcss",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
