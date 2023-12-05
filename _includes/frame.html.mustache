@@ -2,7 +2,24 @@
 layout: base.html
 ---
 <header>
-
+    <nav>
+        <img src="/logo.png" alt="lipu tenpo logo" width="475px" height="497px" />
+        <ul>
+            <li>
+                <a href="/">tomo</a>
+                <a href="/lipu-ante">lipu ante</a>
+                <a href="/category/lipu">lipu</a>
+                <a href="/category/toki">toki</a>
+                <a href="/sonapona">sona pona</a>
+                <a href="/about">jan pali</a>
+            </li>
+        </ul>
+        <!-- search bar -->
+        <form onsubmit="">
+            <input type="text" name="q" placeholder="search" />
+        </form>
+    </nav>
+    <h1>lipu tenpo</h1>
 </header>
 <main>
     {{{ content }}}
