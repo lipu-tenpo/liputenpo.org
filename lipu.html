@@ -1,12 +1,12 @@
 ---
 pagination:
-    data: lipu
-    size: 1
-    alias: lipu
+  data: lipu
+  size: 1
+  alias: lipu
 permalink: /{{ lipu.title | slugify }}/
 layout: base.html.mustache
 eleventyComputed:
-    title: lipu tenpo - {{ lipu.title }}
+  title: lipu tenpo - {{ lipu.title }}
 ---
 
-# {{lipu.title}}
+<h1>{{lipu.title}}</h1>
