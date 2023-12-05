@@ -1,6 +1,8 @@
 ---
 title: lipu tenpo - lipu ale
-layout: base.html.mustache
+layout: frame.html
 ---
 
-# lipu tenpo
+o kama pona lon lipu pi lipu tenpo!
+
+mi mute li pali e lipu tenpo nanpa wan pi toki pona.
