@@ -5,18 +5,26 @@ layout: frame.html
 
 <p>o kama pona lon lipu pi lipu tenpo!</p>
 <p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
-<hr />
-{% for lipu in lipu %}
-<article>
-  <img
-    class="lipu-cover"
-    src="pdfs/{{ lipu.cover-image }}"
-    alt="{{ lipu.title }} cover image"
-  />
-  <h2>
-    <a href="lipu-tenpo-{{ lipu.title | slugify }}">{{ lipu.title }}</a>
-  </h2>
-  <p>{{ lipu.title }}</p>
-  <p>{{ lipu.date | date: "%B %d, %Y" }}</p>
-</article>
-{% endfor %}
+<hr class="my-4" />
+<section class="flex flex-wrap items-center gap-4">
+  {% for lipu in lipu %}
+  <article class="grid grid-cols-2 gap-4">
+    <img
+      class="max-w-xs max-h-80 w-full h-auto"
+      src="pdfs/{{ lipu.cover-image }}"
+      alt="{{ lipu.title }} cover image"
+      width="1536"
+      height="1083"
+    />
+    <div class="flex flex-col justify-center">
+      <h2 class="text-2xl">
+        <a class="text-blue-500" href="lipu-tenpo-{{ lipu.title | slugify }}">
+          {{ lipu.title }}
+        </a>
+      </h2>
+      <p>{{ lipu.title }}</p>
+      <p>{{ lipu.date | date: "%B %d, %Y" }}</p>
+    </div>
+  </article>
+  {% endfor %}
+</section>

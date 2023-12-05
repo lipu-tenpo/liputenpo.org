@@ -7,14 +7,3 @@ body {
   margin: 0;
   padding: 0;
 }
-
-header img.logo {
-  max-width: 10rem;
-  width: 100%;
-  max-height: 20rem;
-  height: 100%;
-}
-
-img.lipu-cover {
-  max-width: 20rem;
-}
