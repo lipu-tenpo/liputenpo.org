@@ -2,15 +2,15 @@
 layout: base.html
 ---
 
-<header>
+<header class="p-4">
   <img
-    class="logo"
+    class="w-40"
     src="/logo.png"
     alt="lipu tenpo logo"
     width="475px"
     height="497px"
   />
-  <nav>
+  <nav class="float-right">
     <ul>
       <li>
         <a href="/">tomo</a>
@@ -26,16 +26,20 @@ layout: base.html
       <input type="text" name="q" placeholder="search" />
     </form>
   </nav>
-  <h1>lipu tenpo</h1>
+  <h1 class="text-4xl">lipu tenpo</h1>
 </header>
-<main>{{{ content }}}</main>
-<footer>
-  <hr />
-  <nav>
-    <ul>
+<main class="p-4">{{ content | safe }}</main>
+<footer class="p-4">
+  <hr class="my-4" />
+  <nav class="py-4">
+    <ul class="flex flex-col justify-center items-center gap-4">
       <li>
         <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
+      </li>
+      <li>
         <a href="mailto:{{ linluwi.email }}">{{ linluwi.email }}</a>
+      </li>
+      <li>
         <a href="{{ linluwi.article_submission_form }}" target="_blank">
           o pana e pali sina
         </a>
