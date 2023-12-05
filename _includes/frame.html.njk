@@ -1,5 +1,6 @@
 ---
 layout: base.html
+header_text: lipu tenpo
 ---
 
 <header class="p-4">
@@ -10,14 +11,24 @@ layout: base.html
     width="475px"
     height="497px"
   />
-  <nav class="float-right">
+  <nav class="">
     <ul>
       <li>
         <a href="/">tomo</a>
+      </li>
+      <li>
         <a href="/lipu-ante">lipu ante</a>
+      </li>
+      <li>
         <a href="/category/lipu">lipu</a>
+      </li>
+      <li>
         <a href="/category/toki">toki</a>
+      </li>
+      <li>
         <a href="/sonapona">sona pona</a>
+      </li>
+      <li>
         <a href="/about">jan pali</a>
       </li>
     </ul>
@@ -26,7 +37,7 @@ layout: base.html
       <input type="text" name="q" placeholder="search" />
     </form>
   </nav>
-  <h1 class="text-4xl">lipu tenpo</h1>
+  <h1 class="text-4xl">{{ header_text }}</h1>
 </header>
 <main class="p-4">{{ content | safe }}</main>
 <footer class="p-4">
