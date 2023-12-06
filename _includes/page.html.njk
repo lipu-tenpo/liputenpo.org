@@ -1,0 +1,98 @@
+---
+title: lipu tenpo
+description: lipu tenpo
+header_text: lipu tenpo
+---
+
+<!DOCTYPE html>
+<html lang="tok">
+  <head>
+    <title>{{ title }}</title>
+    <!-- browser metas -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="{{ description }}" />
+
+    <!-- embed metas - https://ogp.me/ -->
+    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site" content="lipu tenpo" />
+    <meta property="og:url" content="https://liputenpo.org{{ slug }}" />
+    <meta
+      property="og:image"
+      content="https://liputenpo.org{{ slug }}/og-image.png"
+    />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:locale" content="en_GB" />
+
+    <!-- styling -->
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <!-- stylesheets -->
+    <link rel="stylesheet" href="/stylesheet.css" />
+    <link rel="stylesheet" href="/tailwind.css" />
+  </head>
+
+  <body class="bg-gray-800 text-gray-100">
+    <header class="p-4">
+      <img
+        class="w-40"
+        src="/logo.png"
+        alt="lipu tenpo logo"
+        width="475px"
+        height="497px"
+      />
+      <nav class="">
+        <ul>
+          <li>
+            <a href="/">tomo</a>
+          </li>
+          <li>
+            <a href="/lipu-ante">lipu ante</a>
+          </li>
+          <li>
+            <a href="/category/lipu">lipu</a>
+          </li>
+          <li>
+            <a href="/category/toki">toki</a>
+          </li>
+          <li>
+            <a href="/sonapona">sona pona</a>
+          </li>
+          <li>
+            <a href="/about">jan pali</a>
+          </li>
+        </ul>
+        <!-- search bar -->
+        <form onsubmit="">
+          <input type="text" name="q" placeholder="search" />
+        </form>
+      </nav>
+      <h1 class="text-4xl">{{ header_text }}</h1>
+    </header>
+
+    <main class="p-4">{{ content | safe }}</main>
+
+    <footer class="p-4">
+      <hr class="my-4" />
+      <nav class="py-4">
+        <ul class="flex flex-col justify-center items-center gap-4">
+          <li>
+            <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
+          </li>
+          <li>
+            <a href="mailto:{{ linluwi.email }}">{{ linluwi.email }}</a>
+          </li>
+          <li>
+            <a href="{{ linluwi.article_submission_form }}" target="_blank">
+              o pana e pali sina
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>
