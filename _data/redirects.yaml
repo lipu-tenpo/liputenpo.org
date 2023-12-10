@@ -1,0 +1,20 @@
+- from: /wp-content/uploads/2023/11/0022sin.pdf
+  to: /pdfs/0022sin.pdf
+- from: /wp-content/uploads/2023/11/0022sin_pf.pdf
+  to: /pdfs/0022sin_pf.pdf
+- from: /wp-content/uploads/2023/11/0022sin_bw_pf.pdf
+  to: /pdfs/0022sin_bwpf.pdf
+
+- from: /wp-content/uploads/2023/08/0021ma.pdf
+  to: /pdfs/0021ma.pdf
+- from: /wp-content/uploads/2023/08/0021ma_pf.pdf
+  to: /pdfs/0021ma_pf.pdf
+- from: /wp-content/uploads/2023/08/0021ma_bw_pf.pdf
+  to: /pdfs/0021ma_bwpf.pdf
+
+- from: /wp-content/uploads/2023/07/0020nasin.pdf
+  to: /pdfs/0020nasin.pdf
+- from: /wp-content/uploads/2023/07/0020nasin_pf.pdf
+  to: /pdfs/0020nasin_pf.pdf
+- from: /wp-content/uploads/2023/07/0020nasin_bw_pf.pdf 
+  to: /pdfs/0020nasin_bwpf.pdf
