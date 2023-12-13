@@ -80,7 +80,7 @@ header nav a:hover {
 } */
 
 header {
-  padding: 1rem;
+  padding: 1rem 1rem 0;
   display: grid;
   grid-template-columns: fit-content(100%);
   justify-content: center;
@@ -127,8 +127,6 @@ header .title h1 {
 header nav {
   background-color: var(--background);
   padding: 0 1rem 1rem;
-  border-bottom-left-radius: 2rem;
-  border-bottom-right-radius: 2rem;
   position: relative;
 }
 header nav::before {
