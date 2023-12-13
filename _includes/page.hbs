@@ -2,11 +2,12 @@
 title: lipu tenpo
 description: lipu tenpo
 header_text: lipu tenpo
+css:
+  - stylesheet.css
 ---
 
 <!DOCTYPE html>
 <html lang="tok">
-
 <head>
   <title>{{ title }}</title>
   <!-- browser metas -->
@@ -30,7 +31,9 @@ header_text: lipu tenpo
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest" />
   <!-- stylesheets -->
-  <link rel="stylesheet" href="/stylesheet.css" />
+  {{#each css}}
+  <link rel="stylesheet" href="/{{ this }}" />
+  {{/each}}
 </head>
 
 <body>
