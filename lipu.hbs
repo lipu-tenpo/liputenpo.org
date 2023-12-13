@@ -1,0 +1,76 @@
+---
+pagination:
+  data: lipu_ale
+  size: 1
+  alias: lipu
+permalink: /lipu-tenpo-{{slugify lipu.title}}/
+layout: page
+eleventyComputed: 
+  title: "lipu tenpo - {{lipu.title}}" 
+  header_text: "lipu tenpo {{lipu.title}}"
+---
+
+<nav>
+  <h2>lipu</h2>
+  <ul>
+    <li>
+      <a href="/pdfs/{{lipu.pdf}}">lipu tenpo {{lipu.title}}</a>
+    </li>
+    <li>
+      <a href="/pdfs/{{lipu.pdf_pf}}">
+        lipu tenpo
+        {{lipu.title}}
+        (tawa ilo sitelen*)
+      </a>
+    </li>
+    <li>
+      <a href="/pdfs/{{lipu.pdf_bwpf}}">
+        lipu tenpo
+        {{lipu.title}}
+        (pimeja/walo tawa ilo sitelen*)
+      </a>
+    </li>
+  </ul>
+</nav>
+<section>
+  <embed
+    src="/pdfs/{{lipu.pdf}}"
+    width="500"
+    height="375"
+    type="application/pdf"
+  />
+</section>
+<section>
+  <h2>*ilo sitelen li ni</h2>
+  <p>
+    sina wile pali e lipu tenpo kepeken ilo sitelen la, sina pali e ni: o kama
+    jo e lipu tenpo tawa ilo sitelen. o ante e ijo ni: o pali e lipu lon sinpin
+    tu. sinpin wan la, lipu tu li lon.
+  </p>
+  <h2>toki Inli</h2>
+  <p>
+    When you want to print the lipu tenpo out, do this: Download the printer
+    version (“tawa ilo sitelen”) and change these things: Choose “print on both”
+    sides. Also, on one side there should be two pages (in total 4 pages with
+    the other side of the paper). When you do this, you can easily connect the
+    pages now with a stapler.
+  </p>
+</section>
+<nav>
+  <ul>
+    <li>
+      {{#if pagination.href.previous}}
+        <a href="{{pagination.href.previous}}">Previous</a>
+      {{else}}
+        <span>Previous</span>
+      {{/if}}
+    </li>
+    <li>
+      {{#if pagination.href.next}}
+        <a href="{{pagination.href.next}}">Next</a>
+      {{else}}
+        <span>Next</span>
+      {{/if}}
+    </li>
+  </ul>
+</nav>

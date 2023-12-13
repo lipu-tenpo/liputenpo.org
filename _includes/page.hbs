@@ -33,19 +33,17 @@ header_text: lipu tenpo
     <link rel="manifest" href="/site.webmanifest" />
     <!-- stylesheets -->
     <link rel="stylesheet" href="/stylesheet.css" />
-    <link rel="stylesheet" href="/tailwind.css" />
   </head>
 
-  <body class="bg-gray-800 text-gray-100">
-    <header class="p-4">
+  <body>
+    <header>
       <img
-        class="w-40"
         src="/logo.png"
         alt="lipu tenpo logo"
         width="475px"
         height="497px"
       />
-      <nav class="">
+      <nav>
         <ul>
           <li>
             <a href="/">tomo</a>
@@ -71,15 +69,15 @@ header_text: lipu tenpo
           <input type="text" name="q" placeholder="search" />
         </form>
       </nav>
-      <h1 class="text-4xl">{{ header_text }}</h1>
+      <h1>{{ header_text }}</h1>
     </header>
 
-    <main class="p-4">{{ content | safe }}</main>
+    <main class="p-4">{{{ content }}}</main>
 
-    <footer class="p-4">
-      <hr class="my-4" />
-      <nav class="py-4">
-        <ul class="flex flex-col justify-center items-center gap-4">
+    <footer >
+      <hr />
+      <nav >
+        <ul >
           <li>
             <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
           </li>

@@ -1,0 +1,29 @@
+---
+title: lipu tenpo - lipu ale
+layout: page
+---
+
+<p>o kama pona lon lipu pi lipu tenpo!</p>
+<p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
+<hr/>
+<section>
+  {{#each lipu_ale}}
+  <article>
+    <img
+      src="pdfs/{{ this.cover_image }}"
+      alt="{{ this.title }} cover image"
+      height="1536"
+      width="1083"
+    />
+    <div>
+      <h2>
+        <a href="lipu-tenpo-{{slugify this.title}}">
+          {{ this.title }}
+        </a>
+      </h2>
+      <p>{{ this.title }}</p>
+      <p>{{ this.date }}</p>
+    </div>
+  </article>
+  {{/each}}
+</section>

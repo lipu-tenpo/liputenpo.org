@@ -4,12 +4,8 @@
   "description": "Static site generator for lipu tenpo",
   "main": "index.js",
   "scripts": {
-    "develop": "npm-run-all -p dev:*",
-    "build": "run-s build:*",
-    "dev:11ty": "eleventy --serve",
-    "dev:css": "tailwindcss -i tailwind/tailwind.css -o tailwind/tailwind.out.css --watch --postcss",
-    "build:11ty": "eleventy",
-    "build:css": "tailwindcss -i tailwind/tailwind.css -o _site/tailwind.css --postcss",
+    "develop": "eleventy --serve",
+    "build": "eleventy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -18,13 +14,8 @@
   ],
   "author": "alifeee",
   "license": "ISC",
-  "dependencies": {
-    "@11ty/eleventy": "^2.0.1"
-  },
   "devDependencies": {
-    "autoprefixer": "^10.4.16",
-    "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.32",
-    "tailwindcss": "^3.3.6"
+    "@11ty/eleventy": "^2.0.1",
+    "npm-run-all": "^4.1.5"
   }
 }
