@@ -1,9 +1,116 @@
 * {
   box-sizing: border-box;
+
+  --logo-primary: #888bff;
+  --logo-primary-dark: #7e6dd7;
+  --logo-secondary: #fffd96;
+  --logo-secondary-dark: #e0c880;
+
+  --background: #1e2122;
+
+  --primary-100: #e3e3ff;
+  --primary-200: #aaacff;
+  --primary-300: #7175ff;
+  --primary-400: #393eff;
+  --primary-500: #0006ff;
+  --primary-600: #0005c6;
+  --primary-700: #00048e;
+  --primary-800: #000255;
+  --primary-900: #00011c;
 }
 
 html,
 body {
   margin: 0;
   padding: 0;
+  color: white;
+  font-family: "Arial", sans-serif;
+}
+
+header {
+  height: 20rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  position: relative;
+}
+header::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: url("/banner.png");
+  background-size: cover;
+  background-position: center;
+}
+
+header .title {
+  background-color: var(--background);
+  border-top-right-radius: 2rem;
+  height: 7rem;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  position: relative;
+}
+header .title::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-top-right-radius: 2rem;
+  box-shadow: 0px 0px 40px 40px black;
+}
+header .title img {
+  width: 5rem;
+  height: auto;
+}
+header .title h1 {
+  font-size: 2rem;
+  margin: 0;
+  margin-left: 1rem;
+}
+
+header nav {
+  background-color: var(--background);
+  border-top-left-radius: 2rem;
+  height: 7rem;
+  position: relative;
+}
+header nav::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-top-left-radius: 2rem;
+  box-shadow: 0px 0px 40px 40px black;
+}
+header nav ul {
+  list-style: none;
+  height: 100%;
+  margin: 0;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header nav a {
+  color: white;
+  font-size: 1.5rem;
+  text-decoration: none;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+header nav a:hover {
+  background-color: var(--primary-700);
+}
+
+main {
+  background-color: var(--background);
+  padding: 1rem;
+}
+
+footer {
+  background-color: var(--background);
+  padding: 1rem;
 }

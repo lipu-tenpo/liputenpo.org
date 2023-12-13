@@ -6,91 +6,81 @@ header_text: lipu tenpo
 
 <!DOCTYPE html>
 <html lang="tok">
-  <head>
-    <title>{{ title }}</title>
-    <!-- browser metas -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="{{ description }}" />
 
-    <!-- embed metas - https://ogp.me/ -->
-    <meta property="og:title" content="{{ title }}" />
-    <meta property="og:type" content="website" />
-    <meta property="og:site" content="lipu tenpo" />
-    <meta property="og:url" content="https://liputenpo.org{{ slug }}" />
-    <meta
-      property="og:image"
-      content="https://liputenpo.org{{ slug }}/og-image.png"
-    />
-    <meta property="og:description" content="{{ description }}" />
-    <meta property="og:locale" content="en_GB" />
+<head>
+  <title>{{ title }}</title>
+  <!-- browser metas -->
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="{{ description }}" />
 
-    <!-- styling -->
-    <!-- favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <link rel="manifest" href="/site.webmanifest" />
-    <!-- stylesheets -->
-    <link rel="stylesheet" href="/stylesheet.css" />
-  </head>
+  <!-- embed metas - https://ogp.me/ -->
+  <meta property="og:title" content="{{ title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:site" content="lipu tenpo" />
+  <meta property="og:url" content="https://liputenpo.org{{ slug }}" />
+  <meta property="og:image" content="https://liputenpo.org{{ slug }}/og-image.png" />
+  <meta property="og:description" content="{{ description }}" />
+  <meta property="og:locale" content="en_GB" />
 
-  <body>
-    <header>
-      <img
-        src="/logo.png"
-        alt="lipu tenpo logo"
-        width="475px"
-        height="497px"
-      />
-      <nav>
-        <ul>
-          <li>
-            <a href="/">tomo</a>
-          </li>
-          <li>
-            <a href="/lipu-ante">lipu ante</a>
-          </li>
-          <li>
-            <a href="/category/lipu">lipu</a>
-          </li>
-          <li>
-            <a href="/category/toki">toki</a>
-          </li>
-          <li>
-            <a href="/sonapona">sona pona</a>
-          </li>
-          <li>
-            <a href="/about">jan pali</a>
-          </li>
-        </ul>
-        <!-- search bar -->
-        <form onsubmit="">
-          <input type="text" name="q" placeholder="search" />
-        </form>
-      </nav>
-      <h1>{{ header_text }}</h1>
-    </header>
+  <!-- styling -->
+  <!-- favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  <!-- stylesheets -->
+  <link rel="stylesheet" href="/stylesheet.css" />
+</head>
 
-    <main class="p-4">{{{ content }}}</main>
+<body>
+  <header>
+    <div class="title">
+      <img src="/logo.png" alt="lipu tenpo logo" width="475px" height="497px" />
+      <h1>lipu tenpo</h1>
+    </div>
+    <nav>
+      <ul>
+        <li>
+          <a href="/">tomo</a>
+        <li>
+          <a href="/toki">toki</a>
+        </li>
+        <li>
+          <a href="/sona">sona</a>
+        </li>
+        </li>
+        <li>
+          <a href="/lipu-ante">lipu ante</a>
+        </li>
+      </ul>
+      <!-- search bar -->
+      <!-- <form onsubmit="">
+        <input type="text" name="q" placeholder="search" />
+      </form> -->
+    </nav>
+  </header>
 
-    <footer >
-      <hr />
-      <nav >
-        <ul >
-          <li>
-            <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
-          </li>
-          <li>
-            <a href="mailto:{{ linluwi.email }}">{{ linluwi.email }}</a>
-          </li>
-          <li>
-            <a href="{{ linluwi.article_submission_form }}" target="_blank">
-              o pana e pali sina
-            </a>
-          </li>
-        </ul>
-      </nav>
-    </footer>
-  </body>
+  <main>{{{ content }}}</main>
+
+  <footer>
+    <hr />
+    <nav>
+      <ul>
+        <li>
+          <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
+        </li>
+        <li>
+          <a href="mailto:{{ linluwi.email }}">{{ linluwi.email }}</a>
+        </li>
+        <li>
+          <a href="{{ linluwi.article_submission_form }}" target="_blank">
+            o pana e pali sina
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </footer>
+</body>
+
 </html>
