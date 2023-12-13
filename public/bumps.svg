@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="196.8284mm"
+   height="17.21431mm"
+   viewBox="0 0 196.8284 17.21431"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="bumps.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7033258"
+     inkscape:cx="369.57111"
+     inkscape:cy="41.096072"
+     inkscape:window-width="1854"
+     inkscape:window-height="1056"
+     inkscape:window-x="58"
+     inkscape:window-y="440"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-6.8099111,-19.960689)">
+    <path
+       style="fill:#888bff;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.8099111,37.175 c 12.5228589,0 32.4587269,-8.590771 52.9726769,-4.726559 29.134065,5.487982 40.583012,-1.374292 59.663752,-2.281208 7.74398,-0.368074 23.49812,2.804205 36.83701,1.19175 15.39906,-1.861496 32.47129,5.816017 47.35496,5.816017"
+       id="path857"
+       sodipodi:nodetypes="csssc" />
+  </g>
+</svg>

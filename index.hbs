@@ -5,18 +5,15 @@ css:
   - stylesheet-index.css
 ---
 
-<p>o kama pona lon lipu pi lipu tenpo!</p>
-<p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
-<hr/>
-<section>
+<section id="introduction">
+  <p>o kama pona lon lipu pi lipu tenpo!</p>
+  <p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
+</section>
+<h2>lipu</h2>
+<section id="lipu">
   {{#each lipu_ale}}
-  <article>
-    <img
-      src="pdfs/{{ this.cover_image }}"
-      alt="{{ this.title }} cover image"
-      height="1536"
-      width="1083"
-    />
+  <article class="lipuwan">
+    <img src="pdfs/{{ this.cover_image }}" alt="{{ this.title }} cover image" height="1536" width="1083" />
     <div>
       <h2>
         <a href="lipu/{{slugify this.title}}">
