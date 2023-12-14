@@ -48,6 +48,10 @@ header #banner {
   z-index: -5;
   background-color: var(--background);
 }
+header a.title {
+  text-decoration: none;
+  color: white;
+}
 header .title {
   background-color: var(--background);
   display: flex;
