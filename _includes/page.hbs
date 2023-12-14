@@ -68,18 +68,38 @@ css:
   <main>{{{ content }}}</main>
 
   <footer>
-    <hr />
     <nav>
-      <ul>
+      <ul class="links">
         <li>
-          <a href="{{ linluwi.discord }}" target="_blank">Discord</a>
+          <a href="{{ linluwi.discord }}" target="_blank">
+            <img class="icon" src="/icons_discord.svg" alt="discord icon" />
+            <span>
+              Discord
+            </span>
+          </a>
         </li>
         <li>
-          <a href="mailto:{{ linluwi.email }}">{{ linluwi.email }}</a>
+          <a href="{{ linluwi.linktree }}" target="_blank">
+            <img class="icon" src="/icons_linktree.svg" alt="linktree icon" />
+            <span>
+              Linktree
+            </span>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:{{ linluwi.email }}">
+            <img class="icon" src="/icons_email.svg" alt="email icon" />
+            <span>
+              {{ linluwi.email }}
+            </span>
+          </a>
         </li>
         <li>
           <a href="{{ linluwi.article_submission_form }}" target="_blank">
-            o pana e pali sina
+            <img class="icon" src="/icons_pen.svg" alt="pen icon" />
+            <span>
+              o pana e pali sina
+            </span>
           </a>
         </li>
       </ul>
