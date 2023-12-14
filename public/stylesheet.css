@@ -25,6 +25,9 @@ body {
   padding: 0;
   color: white;
   font-family: "Arial", sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 header {
@@ -112,11 +115,7 @@ main {
   background-color: var(--background);
   padding: 1rem 0;
   box-shadow: 0px 0px 10px black, 0px 0px 20px black, 0px 0px 30px black;
-}
-
-footer {
-  background-color: var(--background);
-  padding: 1rem 0;
+  flex-grow: 1;
 }
 
 @media (min-width: 15rem) {
@@ -157,4 +156,64 @@ footer {
   header nav::before {
     border-radius: 2rem 0 0;
   }
+}
+
+footer {
+  background-color: var(--logo-primary);
+  padding: 1rem 0;
+  margin-top: auto;
+  position: relative;
+}
+footer nav {
+  padding: 0.5rem;
+}
+footer::before {
+  content: "";
+  width: 100%;
+  height: 5rem;
+  background-image: url("/texture_bumps_homepage.svg");
+  background-size: auto;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  position: absolute;
+  top: calc(-5rem + 1px);
+  pointer-events: none;
+}
+footer .links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  /* display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+footer .links > * {
+  flex: 1 1 15rem;
+  max-width: 15rem;
+  text-align: center;
+}
+footer .links a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+footer .links img.icon {
+  height: 3rem;
+  width: auto;
+  filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(112deg)
+    brightness(106%) contrast(109%);
+}
+footer .links a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.2rem;
+  text-align: center;
+}
+footer .links a:hover {
+  text-decoration: underline;
 }
