@@ -25,7 +25,7 @@
 }
 
 #introduction {
-  margin: 5rem 0;
+  margin: 2rem 0;
   background-color: var(--logo-primary);
   position: relative;
   --padding: 2rem;
@@ -76,7 +76,7 @@ h2 {
 
 #lipu {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
   grid-gap: 2rem;
   margin: 3rem 2rem 2rem;
 }
