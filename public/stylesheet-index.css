@@ -5,7 +5,7 @@
     translate: 0;
   }
   50% {
-    translate: -50%;
+    translate: -40rem;
   }
   100% {
     translate: 0;
@@ -17,7 +17,7 @@
     translate: 0;
   }
   50% {
-    translate: +50%;
+    translate: +40rem;
   }
   100% {
     translate: 0;
