@@ -10,4 +10,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addDataExtension("yaml", (contents) =>
     yaml.safeLoad(contents)
   );
+
+  eleventyConfig.addHandlebarsHelper(
+    "asDate",
+    (date) => new Date(date).toISOString().split("T")[0]
+  );
 };

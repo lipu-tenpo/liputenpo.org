@@ -1,5 +1,23 @@
 /* stylesheet for /index page */
 
+@keyframes scrollleft {
+  0% {
+    translate: 0;
+  }
+  100% {
+    translate: -50%;
+  }
+}
+
+@keyframes scrollright {
+  0% {
+    translate: 0;
+  }
+  100% {
+    translate: +50%;
+  }
+}
+
 #introduction {
   margin: 5rem 0;
   background-color: var(--logo-primary);
@@ -9,31 +27,34 @@
 }
 #introduction::before {
   content: "";
-  width: 100%;
+  width: 200%;
   height: 5rem;
   background-image: url("/bumps.svg");
   background-size: auto;
   background-repeat: repeat-x;
   background-position: bottom;
   position: absolute;
-  top: -5rem;
+  top: calc(-5rem + 1px);
+  left: 0;
   pointer-events: none;
+  animation: scrollleft 60s linear infinite;
 }
 #introduction::after {
   content: "";
-  width: 100%;
+  width: 200%;
   height: 5rem;
   background-image: url("/bumps.svg");
   background-size: auto;
   background-repeat: repeat-x;
   background-position: bottom;
   position: absolute;
-  bottom: -5rem;
+  bottom: calc(-5rem + 1px);
+  right: 0;
   pointer-events: none;
   transform: rotate(180deg);
+  animation: scrollright 60s linear infinite;
 }
 #introduction p {
-  max-width: 50rem;
   margin: 2rem 2rem;
   font-size: 1.5rem;
   line-height: 2;
@@ -45,4 +66,42 @@ h2 {
   font-size: 2rem;
   margin: 2rem 0;
   text-align: center;
+}
+
+#lipu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  grid-gap: 2rem;
+  margin: 3rem 2rem 2rem;
+}
+
+.lipuwan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.lipuwan a {
+  height: 100%;
+  width: 100%;
+  color: var(--logo-primary);
+  text-decoration: none;
+  font-weight: bold;
+}
+.lipuwan img {
+  width: 100%;
+  height: auto;
+  border-radius: 1rem;
+}
+.lipuwan h3 {
+  margin: 0.5rem 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.lipuwan .date {
+  color: gray;
+}
+.lipuwan a:hover {
+  text-decoration: underline;
 }

@@ -13,16 +13,15 @@ css:
 <section id="lipu">
   {{#each lipu_ale}}
   <article class="lipuwan">
-    <img src="pdfs/{{ this.cover_image }}" alt="{{ this.title }} cover image" height="1536" width="1083" />
-    <div>
-      <h2>
-        <a href="lipu/{{slugify this.title}}">
-          {{ this.title }}
-        </a>
-      </h2>
-      <p>{{ this.title }}</p>
-      <p>{{ this.date }}</p>
-    </div>
+    <a href="lipu/{{slugify this.title}}">
+      <img src="pdfs/{{ this.cover_image }}" alt="{{ this.title }} cover image" height="1536" width="1083" />
+      <h3>
+        {{ this.title }}
+      </h3>
+      <span class="date">
+        <time datetime="{{ asDate this.date }}">{{ asDate this.date }}</time>
+      </span>
+    </a>
   </article>
   {{/each}}
 </section>
