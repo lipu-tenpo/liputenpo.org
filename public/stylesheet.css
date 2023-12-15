@@ -19,6 +19,11 @@
   --primary-900: #00011c;
 }
 
+@font-face {
+  font-family: "Bogface", sans-serif;
+  src: url("/Bogface.woff");
+}
+
 html,
 body {
   margin: 0;
@@ -31,6 +36,7 @@ body {
 }
 
 header {
+  font-family: "Bogface", sans-serif;
   padding: 1rem 1rem 0;
   display: grid;
   grid-template-columns: fit-content(100%);
@@ -164,6 +170,7 @@ main {
 }
 
 footer {
+  font-family: "Bogface", sans-serif;
   background-color: var(--logo-primary);
   padding: 1rem 0;
   margin-top: auto;
