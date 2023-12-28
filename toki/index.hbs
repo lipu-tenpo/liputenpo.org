@@ -1,0 +1,19 @@
+---
+layout: page
+title: "lipu tenpo - sona"
+eleventyExcludeFromCollections: true
+---
+<h2>toki</h2>
+{{#each collections}}
+{{#if this}}
+<h3>{{@key}}</h3>
+<ul>
+    {{#each this}}
+    <li>
+        <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+    </li>
+    {{/each}}
+</ul>
+{{/if}}
+{{/each}}
+{{@key}}

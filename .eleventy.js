@@ -5,6 +5,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ pdfs: "pdfs" });
   // static assets
   eleventyConfig.addPassthroughCopy({ public: "/" });
+  // toki images
+  eleventyConfig.addPassthroughCopy("toki/images");
 
   // add support for reading Yaml from `/_data`
   eleventyConfig.addDataExtension("yaml", (contents) =>
