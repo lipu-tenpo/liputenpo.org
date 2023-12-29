@@ -1,4 +1,6 @@
 {
-  "tags": ["toki"],
-  "layout": "page"
+  "layout": "toki",
+  "tags": [
+    "toki"
+  ]
 }
