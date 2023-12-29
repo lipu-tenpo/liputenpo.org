@@ -13,8 +13,12 @@ module.exports = function (eleventyConfig) {
     yaml.safeLoad(contents)
   );
 
+  // render date as YYYY-MM-DD
   eleventyConfig.addHandlebarsHelper(
     "asDate",
     (date) => new Date(date).toISOString().split("T")[0]
   );
+  // equality checking (mainly for collections)
+  eleventyConfig.addHandlebarsHelper("eq", (a, b) => a === b);
+  eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
 };

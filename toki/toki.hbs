@@ -2,10 +2,11 @@
 layout: page
 title: "lipu tenpo - sona"
 eleventyExcludeFromCollections: true
+permalink: /toki/
 ---
 <h2>toki</h2>
 {{#each collections}}
-{{#if this}}
+{{#if (neq @key "all")}}
 <h3>{{@key}}</h3>
 <ul>
     {{#each this}}
@@ -16,4 +17,3 @@ eleventyExcludeFromCollections: true
 </ul>
 {{/if}}
 {{/each}}
-{{@key}}
