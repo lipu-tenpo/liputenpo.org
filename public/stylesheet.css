@@ -129,6 +129,13 @@ main {
   flex-grow: 1;
 }
 
+main a {
+  color: var(--primary-300);
+}
+main a:hover {
+  color: var(--primary-200);
+}
+
 @media (min-width: 15rem) {
   header nav ul {
     grid-template-columns: 1fr 1fr;
