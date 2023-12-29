@@ -2,15 +2,22 @@
 layout: page
 title: "lipu tenpo - sona"
 ---
+<hr>
+<h2>nimi pi pu ala</h2>
+{{#each nimi-pi-pu-ala}}
+<h3 id="{{@key}}">{{@key}}</h3>
+<p>{{this}}</p>
+{{/each}}
+<hr>
 <h2>jan pali</h2>
 {{#each jan_pali}}
 <h3>{{@key}}</h3>
 <ul>
-{{#each this}}
+    {{#each this}}
     <li>
         {{this}}
     </li>
-{{/each}}
+    {{/each}}
 </ul>
 {{/each}}
 <p>mi mute li toki e ni tawa jan lukin: sina pona!</p>
