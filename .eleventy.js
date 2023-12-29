@@ -21,4 +21,13 @@ module.exports = function (eleventyConfig) {
   // equality checking (mainly for collections)
   eleventyConfig.addHandlebarsHelper("eq", (a, b) => a === b);
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
+  // link to nimi pi pu ala
+  eleventyConfig.addHandlebarsHelper(
+    "pu",
+    (nimi) => `<sup><a href="/sona#${nimi}">(pu)</a></sup>`
+  );
+
+  return {
+    markdownTemplateEngine: "hbs",
+  };
 };
