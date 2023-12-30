@@ -55,6 +55,20 @@ eleventyComputed:
     pages now with a stapler.
   </p>
 </section>
+{{#with (getkey collections lipu.title)}}
+{{#if this}}
+<section>
+  <h2>toki</h2>
+  <ul>
+  {{#each this}}
+    <li>
+      <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+    </li>
+  {{/each}}
+  </ul>
+</section>
+{{/if}}
+{{/with}}
 <nav>
   <ul>
     <li>

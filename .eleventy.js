@@ -26,6 +26,8 @@ module.exports = function (eleventyConfig) {
     "pu",
     (nimi) => `<sup><a href="/sona#${nimi}">(pu)</a></sup>`
   );
+  // get dictionary key
+  eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
 
   return {
     markdownTemplateEngine: "hbs",
