@@ -5,15 +5,50 @@ eleventyExcludeFromCollections: true
 permalink: /toki/
 ---
 <h2>toki</h2>
-{{#each collections}}
-{{#if (neq @key "all")}}
-<h3>{{@key}}</h3>
+
+<h3>toki ale</h3>
+
+<h4>musi</h4>
 <ul>
-    {{#each this}}
-    <li>
-        <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-    </li>
-    {{/each}}
-</ul>
-{{/if}}
+{{#each collections.musi}}
+<li>
+    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+</li>
 {{/each}}
+</ul>
+
+<h4>sona</h4>
+<ul>
+{{#each collections.sona}}
+<li>
+    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+</li>
+{{/each}}
+</ul>
+
+<h4>ma</h4>
+<ul>
+{{#each collections.ma}}
+<li>
+    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+</li>
+{{/each}}
+</ul>
+
+<h4>toki musi</h4>
+<ul>
+{{#each collections.[toki-musi]}}
+<li>
+    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+</li>
+{{/each}}
+</ul>
+
+<h4>toki toki</h4>
+<ul>
+{{#each collections.[toki-toki]}}
+<li>
+    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
+</li>
+{{/each}}
+</ul>
