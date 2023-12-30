@@ -4,7 +4,6 @@ jan-pali: jan Alipi
 date: 2023-11-03
 tags:
   - sona
-  - nanpa nasin
 ---
 tenpo ni la jan mute li wile tawa ma ale. jan ni mute li ni kepeken tenpo lili. ona li kepeken tomo tawa li kepeken tomo tawa sewi. ona li lape li suno seli e selo ona li moku. ni la ona li tawa tomo ona. mi toki e ni: sina o tawa ma ni ala. sina o tawa ma kepeken tenpo suli o tawa ma pona.
 

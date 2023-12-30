@@ -4,7 +4,6 @@ jan-pali: jan Kapesi Pake
 date: 2023-03-07
 tags:
   - musi
-  - nanpa tu
 ---
 tenpo pini lon leko¹ la
 

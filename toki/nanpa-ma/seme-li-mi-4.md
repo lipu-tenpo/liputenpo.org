@@ -4,7 +4,6 @@ jan-pali: jan Alonola
 date: 2023-11-03
 tags:
   - musi
-  - nanpa ma
 ---
 (toki Lasina li lon anpa)
 

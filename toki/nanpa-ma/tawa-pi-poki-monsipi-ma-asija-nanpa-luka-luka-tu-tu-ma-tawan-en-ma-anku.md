@@ -4,7 +4,6 @@ jan-pali: jan Polo
 date: 2023-11-03
 tags:
   - ma
-  - nanpa ma
 ---
 tenpo ni la mi toki ala lon ma wan taso. mi toki lon ma tu. ma tu ni li ma Tawan li ma Anku. ona li sama ala, taso mi pana e toki ona lon lipu sama tan ni: tenpo pini la mi awen lon ma tu ni lon tenpo lili taso. lon la mi awen lon tenpo suno tu tu taso lon ma Tawan lon ma Anku. tan ni la ijo pi ken toki li mute ala li wile ala e lipu tu tawa ona.
 
