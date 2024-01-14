@@ -15,10 +15,9 @@ module.exports = function (eleventyConfig) {
   );
 
   // helpers for use in templates
-  // asDate - render date as YYYY-MM-DD
-  eleventyConfig.addHandlebarsHelper(
-    "asDate",
-    (date) => new Date(date).toISOString().split("T")[0]
+  // asReadableDate - render date as YYYY-MM-DD
+  eleventyConfig.addHandlebarsHelper("asReadableDate", (date) =>
+    date ? new Date(date).toISOString().split("T")[0] : "unknown"
   );
   // equality checking (mainly for collections)
   eleventyConfig.addHandlebarsHelper("eq", (a, b) => a === b);
