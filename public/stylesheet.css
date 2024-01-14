@@ -21,6 +21,9 @@
 
 @font-face {
   font-family: "Bogface", sans-serif;
+  src: url("/fonts/Bogface.woff");
+}
+
 @font-face {
   font-family: "sitelen seli kiwen";
   src: url("/fonts/sitelenselikiwen/sitelenselikiwenasuki.eot");
