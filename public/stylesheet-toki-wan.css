@@ -1,0 +1,47 @@
+.toki {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.meta {
+  font-size: 1rem;
+  color: var(--text-subtle);
+  margin-top: 0.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.meta > * {
+  margin: 0 0.5rem;
+}
+.sitelen-pona {
+  font-family: "sitelen seli kiwen", sans-serif;
+}
+
+.nimi {
+  margin: 1rem;
+  max-width: 40rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+}
+
+.nimi img {
+  max-width: 100%;
+  max-height: 20rem;
+  margin: 0 auto;
+}
