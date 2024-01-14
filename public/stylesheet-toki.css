@@ -1,0 +1,84 @@
+h2 {
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#rss {
+  display: block;
+  height: 100%;
+  margin-left: 1rem;
+}
+#rss img {
+  height: 1.75rem;
+  width: auto;
+}
+
+.sitelen-pona {
+  font-family: "sitelen seli kiwen", sans-serif;
+}
+
+.categories {
+  position: relative;
+}
+
+.categories h3 {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0;
+  color: var(--logo-secondary);
+}
+
+.category-title.sitelen-pona {
+  font-size: 4rem;
+  text-align: center;
+  display: block;
+  color: var(--logo-secondary);
+}
+
+.articles {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5rem;
+}
+
+.article {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: var(--text-colour);
+}
+
+.article .nimi-suli {
+  font-size: 2rem;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.article .meta {
+  margin-top: 0.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.article .meta > * {
+  margin: 0 0.5rem;
+}
+
+.article .jan-pali,
+.article .tenpo,
+.article .lipu {
+  color: var(--text-subtle);
+}
