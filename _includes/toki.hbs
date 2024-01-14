@@ -1,11 +1,30 @@
 ---
 layout: page
 title: "lipu tenpo - sona"
+css:
+  - stylesheet-toki-wan.css
 ---
-<h1>
-    {{[nimi-suli]}}
-</h1>
-<h2>
-    {{[jan-pali]}} - {{asReadableDate date}}
-</h2>
-{{{content}}}
+<article class="toki">
+    <h1>
+        {{[nimi-suli]}}
+    </h1>
+    <div class="meta">
+        <span class="jan-pali">
+            <span class="sitelen-pona">jan</span>
+            {{[jan-pali]}}
+        </span>
+        <span class="tenpo">
+            <span class="sitelen-pona">tenpo</span>
+            {{asReadableDate date}}
+        </span>
+        <span class="lipu">
+            <span class="sitelen-pona">lipu</span>
+            <a href="/lipu/{{slugify (getIssueTag tags)}}">
+                {{getIssueTag tags}}
+            </a>
+        </span>
+    </div>
+    <section class="nimi">
+        {{{content}}}
+    </section>
+</article>
