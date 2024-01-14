@@ -1,0 +1,23 @@
+---
+permalink: /toki/feed.xml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>toki ale pi lipu tenpo</title>
+    <link href="{{sona.site}}/feed.xml" rel="self" />
+    <updated>{{getNowDate}}</updated>
+    <id>{{sona.site}}/</id>
+
+    {{#each collections.toki}}
+    <entry>
+        <title>{{data.[nimi-suli]}}</title>
+        <link href="{{../sona.site}}{{page.url}}" />
+        <id>{{../sona.site}}/{{page.fileSlug}}</id>
+        <updated>{{ isoDate data.page.date }}</updated>
+        <summary>"{{data.[nimi-suli]}}" tan {{data.[jan-pali]}}</summary>
+    </entry>
+    {{/each}}
+</feed>
