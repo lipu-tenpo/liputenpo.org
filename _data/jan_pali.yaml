@@ -1,106 +1,108 @@
 jan sitelen toki:
-  - jan Ala
-  - kulupu Alesanwa
-  - jan Ali
-  - jan Alonola
-  - jan Anan
-  - jan Anlu Isa
-  - jan Eli
-  - kije Enki
-  - jan Eweni Wako
-  - jan Ini
-  - lon Jawin
-  - jan Jonatan
-  - jan Kalin
-  - jan Kapan
-  - jan Kapesi Pake
-  - jan Kasimun
-  - jan Ke Tami
-  - jan Kuleku Nena
-  - jan Lentan
-  - kulupu Maken
-  - jan Masu
-  - kili Melon
-  - jan Na
-  - jan Nowa
-  - jan Olipija
-  - jan Owekano
-  - jan Pa Ipa
-  - jan Penanto
-  - jan Pije
-  - jan Piku
-  - jan Pite Janseke
-  - jan Polo
-  - jan San
-  - jan Sepa
-  - jan Simo
-  - jan Sinke
-  - jan Sonatan
-  - jan Sose L-S
-  - jan Tamalu
-  - jan Tanije
-  - jan Tekinowi
-  - jan Telakoman
-  - jan Tomisu
-  - jan Winko Palisona
+  - name: jan Ala
+  - name: kulupu Alesanwa
+  - name: jan Ali
+  - name: jan Alonola
+    active: true
+  - name: jan Anan
+  - name: jan Anlu Isa
+  - name: jan Eli
+  - name: kije Enki
+  - name: jan Eweni Wako
+  - name: jan Ini
+  - name: lon Jawin
+  - name: jan Jonatan
+  - name: jan Kalin
+  - name: jan Kapan
+  - name: jan Kapesi Pake
+  - name: jan Kasimun
+  - name: jan Ke Tami
+  - name: jan Kuleku Nena
+  - name: jan Lentan
+  - name: kulupu Maken
+  - name: jan Masu
+  - name: kili Melon
+  - name: jan Na
+  - name: jan Nowa
+  - name: jan Olipija
+  - name: jan Owekano
+  - name: jan Pa Ipa
+  - name: jan Penanto
+  - name: jan Pije
+  - name: jan Piku
+  - name: jan Pite Janseke
+  - name: jan Polo
+  - name: jan San
+  - name: jan Sepa
+  - name: jan Simo
+  - name: jan Sinke
+  - name: jan Sonatan
+    active: true
+  - name: jan Sose L-S
+  - name: jan Tamalu
+  - name: jan Tanije
+  - name: jan Tekinowi
+  - name: jan Telakoman
+  - name: jan Tomisu
+  - name: jan Winko Palisona
 jan pi pona pali:
-  - jan Alonola
-  - jan Eli
-  - jan Ini
-  - jan Itan
-  - lon Jawin
-  - ilo Kali
-  - jan Kapesi Pake
-  - jan Ke Tami
-  - jan Lentan
-  - jan Lipamanka
-  - kulupu Maken
-  - jan Ne
-  - jan Olipija
-  - jan Pije
-  - jan Sonatan
-  - jan Sonja
-  - jan Tamalu
-  - jan Telakoman
-  - jan Tepo
-  - jan Tomisu
+  - name: jan Alonola
+  - name: jan Eli
+  - name: jan Ini
+  - name: jan Itan
+  - name: lon Jawin
+  - name: ilo Kali
+  - name: jan Kapesi Pake
+  - name: jan Ke Tami
+  - name: jan Lentan
+  - name: jan Lipamanka
+  - name: kulupu Maken
+  - name: jan Ne
+  - name: jan Olipija
+  - name: jan Pije
+  - name: jan Sonatan
+  - name: jan Sonja
+  - name: jan Tamalu
+  - name: jan Telakoman
+  - name: jan Tepo
+  - name: jan Tomisu
 jan sitelen sitelen:
-  - jan Akesi Seli
-  - jan Aki
-  - jan Alonola
-  - jan Atan
-  - kije Enki
-  - jan Jane
-  - jan Kapesi Pake
-  - jan Kasimun
-  - jan Ke Tami
-  - jan Kuwimaku
-  - jan Na
-  - jan Opukju
-  - jan Piku
-  - jan Sali
-  - jan Simo
-  - jan Sose L-S
-  - jan Tekinowi
-  - jan Tenten
+  - name: jan Akesi Seli
+  - name: jan Aki
+  - name: jan Alonola
+  - name: jan Atan
+  - name: kije Enki
+  - name: jan Jane
+  - name: jan Kapesi Pake
+  - name: jan Kasimun
+  - name: jan Ke Tami
+  - name: jan Kuwimaku
+  - name: jan Na
+  - name: jan Opukju
+  - name: jan Piku
+  - name: jan Sali
+  - name: jan Simo
+  - name: jan Sose L-S
+  - name: jan Tekinowi
+  - name: jan Tenten
 jan pi selo lipu:
-  - jan Alonola
-  - jan Atan
-  - jan Eli
-  - jan Kapesi Pake
-  - jan Kini
-  - jan Sewa
-  - jan Simo
-  - jan Sonatan
+  - name: jan Alonola
+  - name: jan Atan
+  - name: jan Eli
+  - name: jan Kapesi Pake
+  - name: jan Kini
+  - name: jan Sewa
+  - name: jan Simo
+  - name: jan Sonatan
 jan lawa toki lon ma Siko:
-  - jan Alonola
-  - jan Kapesi Pake
-  - jan Nokuten
-  - jan Sose L-S
+  - name: jan Alonola
+  - name: jan Kapesi Pake
+  - name: jan Nokuten
+  - name: jan Sose L-S
 jan pi lipu ni:
-  - jan Alonola
-  - jan Peja
-  - jan Sonatan
+  - name: jan Alonola
+  - name: jan Peja
+  - name: jan Sonatan
 jan lawa lipu:
-  - jan Eli
-  - jan Sonatan
+  - name: jan Eli
+  - name: jan Sonatan
