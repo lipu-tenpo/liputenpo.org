@@ -7,7 +7,7 @@ tags:
 ---
 (toki Lasina li lon anpa)
 
-![seme li mi](/toki/images/seme-li-mi-4.png)
+{{{sitelen "seme-li-mi-4.png" "seme li mi"}}}
 
 lete li pona tawa mi
 taso mi lon ma kin ni:
