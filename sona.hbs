@@ -1,26 +1,52 @@
 ---
 layout: page
 title: "lipu tenpo - sona"
+css:
+  - stylesheet-sona.css
 ---
-<hr>
-<h2>nimi pi pu ala</h2>
-{{#each nimi-pi-pu-ala}}
-<h3 id="{{@key}}">{{@key}}</h3>
-<p>{{this}}</p>
-{{/each}}
-<hr>
-<h2>jan pali</h2>
-{{#each jan_pali}}
-<h3>{{@key}}</h3>
-<ul>
-    {{#each this}}
-    <li>
-        {{this}}
-    </li>
+
+<h2>sona</h2>
+
+
+<article class="nimi-pi-pu-ala">
+    <h3>nimi pi pu ala</h3>
+    {{#each nimi-pi-pu-ala}}
+    <h4 id="{{@key}}">{{@key}}</h4>
+    <p>{{this}}</p>
     {{/each}}
-</ul>
-{{/each}}
-<p>mi mute li toki e ni tawa jan lukin: sina pona!</p>
-<p>mi mute li pana e lipu tenpo lon ma Juke.</p>
-<p>Published in the UK by lipu tenpo</p>
-<p>lipu tenpo is the first published magazine in toki pona. Its ISSN is 2752-4639.</p>
+</article>
+
+<article class="jan-pali">
+    <h3>jan pali</h3>
+    {{#each jan_pali}}
+    <h4>{{@key}}</h4>
+    <ul>
+        {{#each this}}
+        <li>
+            <span class="{{#if active}}active{{/if}}">
+                {{name}}
+            </span>
+        </li>
+        {{/each}}
+    </ul>
+    {{/each}}
+    <p>
+        <span class="active">jan jelo li pali lon tenpo ni.</span> jan walo li pali lon tenpo pini.
+    </p>
+</article>
+
+<section class="sona">
+    <h3>sona</h3>
+    <p>
+        mi mute li toki e ni tawa jan lukin: sina pona!
+    </p>
+    <p>
+        mi mute li pana e lipu tenpo lon ma Juke.
+    </p>
+    <p>
+        Published in the UK by lipu tenpo
+    </p>
+    <p>
+        lipu tenpo is the first published magazine in toki pona. Its ISSN is 2752-4639.
+    </p>
+</section>
