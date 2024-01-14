@@ -17,6 +17,9 @@
   --primary-700: #00048e;
   --primary-800: #000255;
   --primary-900: #00011c;
+
+  --text: white;
+  --text-subtle: #ddd;
 }
 
 @font-face {
@@ -35,7 +38,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  color: white;
+  color: var(--text);
   font-family: "Arial", sans-serif;
   display: flex;
   flex-direction: column;
