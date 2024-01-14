@@ -1,8 +1,21 @@
 ---
 layout: page
-title: "lipu tenpo - sona"
+title: "lipu tenpo - toki"
 eleventyExcludeFromCollections: true
 permalink: /toki/
+css:
+  - stylesheet-toki.css
+categories:
+  - name: musi
+    collection: musi
+  - name: sona
+    collection: sona
+  - name: ma
+    collection: ma
+  - name: toki musi
+    collection: toki-musi
+  - name: toki toki
+    collection: toki-toki
 ---
 <h2>
     toki
@@ -11,49 +24,34 @@ permalink: /toki/
     </a>
 </h2>
 
-<h3>toki ale</h3>
+<hr>
 
-<h4>musi</h4>
-<ul>
-{{#each collections.musi}}
-<li>
-    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-</li>
-{{/each}}
-</ul>
-
-<h4>sona</h4>
-<ul>
-{{#each collections.sona}}
-<li>
-    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-</li>
-{{/each}}
-</ul>
-
-<h4>ma</h4>
-<ul>
-{{#each collections.ma}}
-<li>
-    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-</li>
-{{/each}}
-</ul>
-
-<h4>toki musi</h4>
-<ul>
-{{#each collections.[toki-musi]}}
-<li>
-    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-</li>
-{{/each}}
-</ul>
-
-<h4>toki toki</h4>
-<ul>
-{{#each collections.[toki-toki]}}
-<li>
-    <a href="{{page.url}}">{{data.[nimi-suli]}} ({{data.[jan-pali]}})</a>
-</li>
-{{/each}}
-</ul>
+<section class="categories">
+    {{#each categories}}
+        <h3 id="{{slugify name}}">
+            {{name}}
+        </h3>
+        <span class="category-title sitelen-pona">{{name}}</span>
+        <div class="articles">
+            {{#each (getkey ../collections collection)}}
+            <a class="article" href="{{page.url}}">
+                <span class="nimi-suli">{{data.[nimi-suli]}}</span>
+                <div class="meta">
+                    <span class="jan-pali">
+                        <span class="sitelen-pona">jan</span>
+                        {{data.[jan-pali]}}
+                    </span>
+                    <span class="tenpo">
+                        <span class="sitelen-pona">tenpo</span>
+                        {{asReadableDate data.date}}
+                    </span>
+                    <span class="lipu">
+                        <span class="sitelen-pona">lipu</span>
+                        {{getIssueTag data.tags}}
+                    </span>
+                </div>
+            </a>
+            {{/each}}
+        </div>
+    {{/each}}
+</section>
