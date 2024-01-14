@@ -1,17 +1,23 @@
 ---
 layout: page
 title: "lipu tenpo - lipu ante"
+css:
+  - stylesheet-lipu-ante.css
 ---
 <h2>lipu ante</h2>
-{{#each lipu_ante}}
-<h3>{{@key}}</h3>
-<ul>
-{{#each this}}
-    <li>
+<section>
+    {{#each lipu_ante}}
+    <h3>{{@key}}</h3>
+    <nav>
+        <ul>
         {{#each this}}
-        <a href="{{this}}">{{@key}}</a>
+            <li>
+                {{#each this}}
+                <a href="{{this}}">{{@key}}</a>
+                {{/each}}
+            </li>
         {{/each}}
-    </li>
-{{/each}}
-</ul>
-{{/each}}
+        </ul>
+        {{/each}}
+    </nav>
+</section>
