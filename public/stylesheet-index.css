@@ -71,7 +71,19 @@
 h2 {
   font-size: 2rem;
   margin: 2rem 0;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#rss {
+  display: block;
+  height: 100%;
+  margin-left: 0.5rem;
+}
+#rss img {
+  height: 1.25rem;
+  width: auto;
 }
 
 #lipu {
