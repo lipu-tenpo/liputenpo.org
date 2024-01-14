@@ -15,16 +15,26 @@ module.exports = function (eleventyConfig) {
   );
 
   // helpers for use in templates
-  // asDate - render date as YYYY-MM-DD
-  eleventyConfig.addHandlebarsHelper(
-    "asDate",
-    (date) => new Date(date).toISOString().split("T")[0]
+  // asReadableDate - render date as YYYY-MM-DD
+  eleventyConfig.addHandlebarsHelper("asReadableDate", (date) =>
+    date ? new Date(date).toISOString().split("T")[0] : "unknown"
   );
   // equality checking (mainly for collections)
   eleventyConfig.addHandlebarsHelper("eq", (a, b) => a === b);
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
   // get dictionary key
   eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
+  // add handler to convert date to ISO string
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    let date = new Date(dateObj);
+    return date.toISOString();
+  });
+  // add handler to return current day for rss feed
+  eleventyConfig.addFilter("getNowDate", () => {
+    let date = new Date();
+    date.setHours(0, 0, 0, 0);
+    return date.toISOString();
+  });
 
   // helpers for use in markdown (toki)
   // pu - link to nimi pi pu ala

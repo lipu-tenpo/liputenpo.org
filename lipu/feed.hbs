@@ -1,0 +1,23 @@
+---
+permalink: /lipu/feed.xml
+layout: null
+eleventyExcludeFromCollections: true
+---
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>lipu ale pi lipu tenpo</title>
+    <link href="{{sona.site}}/feed.xml" rel="self" />
+    <updated>{{getNowDate}}</updated>
+    <id>{{sona.site}}/</id>
+
+    {{#each lipu_ale}}
+    <entry>
+        <title>lipu tenpo {{title}}</title>
+        <link href="{{../sona.site}}/lipu/{{slugify title}}/" />
+        <id>{{../sona.site}}/lipu/{{slugify title}}/</id>
+        <updated>{{ isoDate date }}</updated>
+        <summary>{{title}}</summary>
+    </entry>
+    {{/each}}
+</feed>
