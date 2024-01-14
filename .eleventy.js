@@ -24,6 +24,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
   // get dictionary key
   eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
+
+  // helpers for RSS feed
   // add handler to convert date to ISO string
   eleventyConfig.addFilter("isoDate", (dateObj) => {
     let date = new Date(dateObj);
@@ -34,6 +36,15 @@ module.exports = function (eleventyConfig) {
     let date = new Date();
     date.setHours(0, 0, 0, 0);
     return date.toISOString();
+  });
+
+  // helpers for tag management
+  eleventyConfig.addFilter("getIssueTag", (tags) => {
+    const nanpa_tags = tags.filter((tag) => tag.startsWith("nanpa"));
+    if (nanpa_tags.length != 1) {
+      throw Error("oh no");
+    }
+    return nanpa_tags.at(0);
   });
 
   // helpers for use in markdown (toki)
