@@ -24,6 +24,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
   // get dictionary key
   eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
+  // add handler to convert date to ISO string
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    let date = new Date(dateObj);
+    return date.toISOString();
+  });
+  // add handler to return current day for rss feed
+  eleventyConfig.addFilter("getNowDate", () => {
+    let date = new Date();
+    date.setHours(0, 0, 0, 0);
+    return date.toISOString();
+  });
 
   // helpers for use in markdown (toki)
   // pu - link to nimi pi pu ala
