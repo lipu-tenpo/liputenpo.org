@@ -40,7 +40,19 @@ module.exports = function (eleventyConfig) {
 
   // helpers for tag management
   eleventyConfig.addFilter("getIssueTag", (tags) => {
+    // get "nanpa X" from tag list
     const nanpa_tags = tags.filter((tag) => tag.startsWith("nanpa"));
+    if (nanpa_tags.length != 1) {
+      throw Error("oh no");
+    }
+    return nanpa_tags.at(0);
+  });
+  eleventyConfig.addFilter("getTokiTypeTag", (tags) => {
+    // get the tag(s) that isn't "nanpa X" or "toki"
+    console.log(tags);
+    const nanpa_tags = tags.filter(
+      (tag) => !tag.startsWith("nanpa") && tag != "toki"
+    );
     if (nanpa_tags.length != 1) {
       throw Error("oh no");
     }
