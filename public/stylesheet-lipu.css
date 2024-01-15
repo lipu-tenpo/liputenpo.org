@@ -3,6 +3,14 @@ h2 {
   text-align: center;
   margin-left: 1rem;
   margin-right: 1rem;
+  margin-bottom: 0;
+}
+.date {
+  color: var(--text-subtle);
+  text-align: center;
+  margin: 0;
+  display: block;
+  margin: 1rem 0 2rem;
 }
 .main {
   display: flex;
