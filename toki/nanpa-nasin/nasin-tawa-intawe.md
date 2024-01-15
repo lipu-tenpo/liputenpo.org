@@ -1,7 +1,6 @@
 ---
 nimi-suli: nasin tawa Intawe
 jan-pali: jan Alipi
-date: 2023-11-03
 tags:
   - sona
 ---

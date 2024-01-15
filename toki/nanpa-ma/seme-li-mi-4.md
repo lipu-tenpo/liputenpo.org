@@ -1,7 +1,6 @@
 ---
 nimi-suli: seme li mi?
 jan-pali: jan Alonola
-date: 2023-11-03
 tags:
   - musi
 ---

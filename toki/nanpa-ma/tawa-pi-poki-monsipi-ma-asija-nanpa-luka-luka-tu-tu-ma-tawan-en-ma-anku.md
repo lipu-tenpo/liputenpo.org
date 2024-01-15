@@ -1,7 +1,6 @@
 ---
 nimi-suli: "tawa pi poki monsipi ma Asija nanpa luka luka tu tu: ma Tawan en ma Anku"
 jan-pali: jan Polo
-date: 2023-11-03
 tags:
   - ma
 ---

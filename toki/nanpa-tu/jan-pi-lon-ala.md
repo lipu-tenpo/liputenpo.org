@@ -1,7 +1,6 @@
 ---
 nimi-suli: jan pi lon ala
 jan-pali: jan Kapesi Pake
-date: 2023-03-07
 tags:
   - musi
 ---

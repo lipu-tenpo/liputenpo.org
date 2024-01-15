@@ -1,7 +1,6 @@
 ---
 nimi-suli: "alasa nimi: ma Asija"
 jan-pali: jan Sonatan
-date: 2023-11-03
 tags:
   - musi
 ---
