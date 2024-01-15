@@ -12,6 +12,9 @@ h2 {
   text-align: center;
 }
 
+.main h3 {
+  margin: 0;
+}
 .pdfs {
   margin-bottom: 2rem;
 }
