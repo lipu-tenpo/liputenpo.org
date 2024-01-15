@@ -39,10 +39,17 @@ body {
   margin: 0;
   padding: 0;
   color: var(--text);
-  font-family: "Arial", sans-serif;
+  font-family: "Andika", sans-serif;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Bricolage Grotesque", sans-serif;
 }
 
 header {
