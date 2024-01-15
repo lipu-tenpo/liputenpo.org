@@ -3,7 +3,7 @@ h2 {
   font-size: 3rem;
 }
 
-section {
+.lipu-ante {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -11,6 +11,6 @@ section {
   margin-bottom: 1rem;
 }
 
-li {
+.lipu-ante li {
   margin: 0.5rem;
 }
