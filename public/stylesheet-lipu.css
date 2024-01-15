@@ -45,6 +45,17 @@ h2 {
   height: 1.5rem;
   width: auto;
   margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+.pdfs .icon.colour {
+  /* filter: invert(97%) sepia(82%) saturate(721%) hue-rotate(328deg)
+    brightness(108%) contrast(101%); */
+  filter: invert(80%) sepia(18%) saturate(763%) hue-rotate(8deg) brightness(99%)
+    contrast(87%);
+}
+.pdfs .icon.bnw {
+  filter: invert(16%) sepia(0%) saturate(1649%) hue-rotate(146deg)
+    brightness(96%) contrast(87%);
 }
 
 .embed {
