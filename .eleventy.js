@@ -24,6 +24,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
   // get dictionary key
   eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
+  // sort collection by data.date
+  eleventyConfig.addHandlebarsHelper("reversed", (list) => {
+    if (typeof list == typeof []) {
+      return list.slice().reverse();
+    } else {
+      return list;
+    }
+  });
 
   // helpers for RSS feed
   // add handler to convert date to ISO string
@@ -49,7 +57,6 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addFilter("getTokiTypeTag", (tags) => {
     // get the tag(s) that isn't "nanpa X" or "toki"
-    console.log(tags);
     const nanpa_tags = tags.filter(
       (tag) => !tag.startsWith("nanpa") && tag != "toki"
     );

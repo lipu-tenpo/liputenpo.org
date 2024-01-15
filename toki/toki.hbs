@@ -31,7 +31,7 @@ categories:
         </h3>
         <span class="category-title sitelen-pona">{{name}}</span>
         <div class="articles">
-            {{#each (getkey ../collections collection)}}
+            {{#each (reversed (getkey ../collections collection))}}
             <a class="article" href="{{page.url}}">
                 <span class="nimi-suli">{{data.[nimi-suli]}}</span>
                 <div class="meta">
