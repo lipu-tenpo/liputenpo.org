@@ -32,6 +32,9 @@ module.exports = function (eleventyConfig) {
       return list;
     }
   });
+  eleventyConfig.addHandlebarsHelper("isObject", (obj) => {
+    return typeof obj == typeof {};
+  });
 
   // helpers for RSS feed
   // add handler to convert date to ISO string
