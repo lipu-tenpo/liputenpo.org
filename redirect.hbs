@@ -3,7 +3,7 @@ pagination:
     data: redirects
     size: 1
     alias: redirect
-permalink: /{{redirect.from}}/
+permalink: /{{#if (isObject redirect)}}{{#each redirect}}{{@key}}{{/each}}{{else}}{{redirect}}{{/if}}
 eleventyExcludeFromCollections: true
 ---
-<meta http-equiv="refresh" content="0; url={{redirect.to}}">
+<meta http-equiv="refresh" content="0; url={{#if (isObject redirect)}}{{#each redirect}}{{this}}{{/each}}{{else}}/ala/{{/if}}">
