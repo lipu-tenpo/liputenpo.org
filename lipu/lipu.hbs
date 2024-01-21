@@ -33,6 +33,7 @@ css:
         </a>
       </li>
       {{/if}}
+      {{#if lipu.pdf_pf}}
       <li>
         <a href="/pdfs/{{lipu.pdf_pf}}">
           <img class="icon colour" src="/icons/printer.svg" alt="printer icon" />
@@ -40,6 +41,8 @@ css:
           <img class="icon colour" src="/icons/printer.svg" alt="printer icon" />
         </a>
       </li>
+      {{/if}}
+      {{#if lipu.pdf_bwpf}}
       <li>
         <a href="/pdfs/{{lipu.pdf_bwpf}}">
           <img class="icon bnw" src="/icons/printer.svg" alt="printer icon" />
@@ -47,6 +50,7 @@ css:
           <img class="icon bnw" src="/icons/printer.svg" alt="printer icon" />
         </a>
       </li>
+      {{/if}}
     </ul>
   </nav>
   <section class="embed">
