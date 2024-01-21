@@ -24,6 +24,15 @@ css:
           <img class="icon colour" src="/icons/file.svg" alt="file icon" />
         </a>
       </li>
+      {{#if lipu.pdf_sitelen_pona}}
+      <li>
+        <a href="/pdfs/{{lipu.pdf_sitelen_pona}}">
+          <img class="icon colour" src="/icons/file.svg" alt="file icon" />
+          lipu tenpo {{lipu.title}} (sitelen pona&nbsp;<span class="sitelen-pona">sitelen pona</span>)
+          <img class="icon colour" src="/icons/file.svg" alt="file icon" />
+        </a>
+      </li>
+      {{/if}}
       <li>
         <a href="/pdfs/{{lipu.pdf_pf}}">
           <img class="icon colour" src="/icons/printer.svg" alt="printer icon" />
