@@ -1,4 +1,31 @@
 const yaml = require("js-yaml");
+const Image = require("@11ty/eleventy-img");
+
+function imageShortcode(src, cls, alt, ...allwidths) {
+  // remove last width element
+  let widths = allwidths.slice(0, -1);
+
+  let options = {
+    widths: widths,
+    formats: ["jpeg"],
+    urlPath: "/images/",
+    outputDir: "./_site/images/",
+  };
+
+  // generate images, while this is async we don’t wait
+  Image(src, options);
+  // get metadata even if the images are not fully generated yet
+  let metadata = Image.statsSync(src, options);
+
+  let imageAttributes = {
+    class: cls,
+    alt,
+    sizes: "", // I do not use sizes because I don't know what it is
+    loading: "lazy",
+    decoding: "async",
+  };
+  return Image.generateHTML(metadata, imageAttributes);
+}
 
 module.exports = function (eleventyConfig) {
   // copy files to site
@@ -34,6 +61,9 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addHandlebarsHelper("isObject", (obj) => {
     return typeof obj == typeof {};
+  });
+  eleventyConfig.addHandlebarsHelper("appendString", (str, append) => {
+    return str + append;
   });
 
   // helpers for RSS feed
@@ -80,6 +110,10 @@ module.exports = function (eleventyConfig) {
     "sitelen",
     (file, alt) => `<img src="/images/${file}" alt="${alt}">`
   );
+
+  // image shortcode - reduce filesize etc
+  //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}
+  eleventyConfig.addShortcode("eleventyImage", imageShortcode);
 
   return {
     markdownTemplateEngine: "hbs",

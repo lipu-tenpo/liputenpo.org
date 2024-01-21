@@ -20,7 +20,7 @@ css:
   {{#each lipu_ale}}
   <article class="lipuwan">
     <a href="lipu/{{slugify this.title}}">
-      <img src="pdfs/{{ this.cover_image }}" alt="{{ this.title }} cover image" height="1536" width="1083" />
+      {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
       <h3>
         {{ this.title }}
       </h3>
