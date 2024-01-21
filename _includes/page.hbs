@@ -3,6 +3,7 @@ title: lipu tenpo
 description: lipu tenpo
 css:
   - stylesheet.css
+og-image: null
 ---
 
 <!DOCTYPE html>
@@ -19,7 +20,7 @@ css:
   <meta property="og:type" content="website" />
   <meta property="og:site" content="lipu tenpo" />
   <meta property="og:url" content="https://liputenpo.org{{ page.url }}" />
-  <meta property="og:image" content="https://liputenpo.org/og-image.png" />
+  <meta property="og:image" content="https://liputenpo.org{{#if [og-image]}}{{[og-image]}}{{else}}/og-image.png{{/if}}" />
   <meta property="og:description" content="{{ description }}" />
   <meta property="og:locale" content="en_GB" />
 
