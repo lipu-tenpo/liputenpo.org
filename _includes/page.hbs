@@ -38,9 +38,23 @@ og-image: null
   {{#each css}}
   <link rel="stylesheet" href="/{{ this }}" />
   {{/each}}
+  <script>
+    setTimeout(() => {
+      document.getElementById('patreon-banner').classList.add('visible')
+    }, 1500)
+  </script>
 </head>
 
 <body>
+  <article id="patreon-banner" class="patreon-banner">
+    <div>
+      <p>
+        lipu tenpo li jo e lipu Patreon!
+        <a target="_blank" href="https://www.patreon.com/liputenpo">o kama sona e ni!</a>
+      </p>
+      <button class="close" onclick="document.getElementById('patreon-banner').classList.remove('visible')">&#10006;</button>
+    </div>
+  </article>
   <header>
     <div id="banner"></div>
     <a href="/" class="title">
