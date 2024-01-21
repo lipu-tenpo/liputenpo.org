@@ -26,3 +26,146 @@
   pdf_pf: 0020nasin_pf.pdf
   pdf_bwpf: 0020nasin_bwpf.pdf
   cover_image: 0020nasin_sinpin.png
+- id: 19
+  title: nanpa mama
+  date: 2023-05-12
+  pdf: 0019mama.pdf
+  pdf_pf: 0019mama_pf.pdf
+  pdf_bwpf: 0019mama_bwpf.pdf
+  cover_image: 0019mama_sinpin.png
+- id: 18
+  title: nanpa tu
+  date: 2023-02-06
+  pdf: 0018tu.pdf
+  pdf_pf: 0018tu_pf.pdf
+  pdf_bwpf: 0018tu_bwpf.pdf
+  cover_image: 0018tu_sinpin.png
+- id: 17
+  title: nanpa musi
+  date: 2022-12-09
+  pdf: 0017musi.pdf
+  pdf_pf: 0017musi_pf.pdf
+  pdf_bwpf: 0017musi_bwpf.pdf
+  cover_image: 0017musi_sinpin.png
+- id: 16
+  title: nanpa kulupu
+  date: 2022-10-17
+  pdf: 0016kulupu.pdf
+  pdf_pf: 0016kulupu_pf.pdf
+  pdf_bwpf: 0016kulupu_bwpf.pdf
+  cover_image: 0016kulupu_sinpin.png
+- id: 15
+  title: nanpa moku
+  date: 2022-09-01
+  pdf: 0015moku.pdf
+  pdf_pf: 0015moku_pf.pdf
+  pdf_bwpf: 0015moku_bwpf.pdf
+  cover_image: 0015moku_sinpin.png
+- id: 14
+  title: nanpa seli
+  date: 2022-07-04
+  pdf: 0014seli.pdf
+  pdf_pf: 0014seli_pf.pdf
+  pdf_bwpf: 0014seli_bwpf.pdf
+  cover_image: 0014seli_sinpin.png
+  pdf_sitelen_pona: 0014seli_sp.pdf
+- id: 13
+  title: nanpa pipi
+  date: 2022-05-05
+  pdf: 0013pipi.pdf
+  pdf_pf: 0013pipi_pf.pdf
+  pdf_bwpf: 0013pipi_bwpf.pdf
+  cover_image: 0013pipi_sinpin.png
+- id: 12.5
+  title: nanpa kijetesantakalu
+  date: 2022-04-01
+  pdf: 0012.5kijetesantakalu.pdf
+  cover_image: 0012.5kijetesantakalu_sinpin.png
+- id: 12
+  title: nanpa nimi
+  date: 2022-03-10
+  pdf: 0012nimi.pdf
+  pdf_pf: 0012nimi_pf.pdf
+  pdf_bwpf: 0012nimi_bwpf.pdf
+  cover_image: 0012nimi_sinpin.png
+- id: 11
+  title: nanpa walo
+  date: 2022-02-01
+  pdf: 0011walo.pdf
+  pdf_pf: 0011walo_pf.pdf
+  pdf_bwpf: 0011walo_bwpf.pdf
+  cover_image: 0011walo_sinpin.png
+- id: 10
+  title: nanpa lete
+  date: 2021-12-08
+  pdf: 0010lete.pdf
+  pdf_pf: 0010lete_pf.pdf
+  pdf_bwpf: 0010lete_bwpf.pdf
+  cover_image: 0010lete_sinpin.png
+  pdf_sitelen_pona: 0010lete_sp.pdf
+- id: 9
+  title: nanpa moli
+  date: 2021-10-31
+  pdf: 0009moli.pdf
+  pdf_pf: 0009moli_pf.pdf
+  pdf_bwpf: 0009moli_bwpf.pdf
+  cover_image: 0009moli_sinpin.png
+- id: 8
+  title: nanpa toki
+  date: 2021-10-06
+  pdf: 0008toki.pdf
+  pdf_pf: 0008toki_pf.pdf
+  pdf_bwpf: 0008toki_bwpf.pdf
+  cover_image: 0008toki_sinpin.png
+- id: 7
+  title: nanpa kule
+  date: 2021-09-02
+  pdf: 0007kule.pdf
+  pdf_pf: 0007kule_pf.pdf
+  pdf_bwpf: 0007kule_bwpf.pdf
+  cover_image: 0007kule_sinpin.png
+- id: 6
+  title: nanpa suno
+  date: 2021-08-02
+  pdf: 0006suno.pdf
+  pdf_pf: 0006suno_pf.pdf
+  pdf_bwpf: 0006suno_bwpf.pdf
+  cover_image: 0006suno_sinpin.png
+- id: 5
+  title: nanpa pan
+  date: 2021-06-02
+  pdf: 0005pan.pdf
+  pdf_pf: 0005pan_pf.pdf
+  pdf_bwpf: 0005pan_bwpf.pdf
+  cover_image: 0005pan_sinpin.png
+  pdf_sitelen_pona: 0005pan_sp.pdf
+- id: 4
+  title: nanpa kasi
+  date: 2021-05-07
+  pdf: 0004kasi.pdf
+  pdf_pf: 0004kasi_pf.pdf
+  pdf_bwpf: 0004kasi_bwpf.pdf
+  cover_image: 0004kasi_sinpin.png
+  pdf_sitelen_pona: 0004kasi_sp.pdf
+- id: 3
+  title: nanpa soweli
+  date: 2021-04-05
+  pdf: 0003soweli.pdf
+  pdf_pf: 0003soweli_pf.pdf
+  pdf_bwpf: 0003soweli_bwpf.pdf
+  cover_image: 0003soweli_sinpin.png
+  pdf_sitelen_pona: 0003soweli_sp.pdf
+- id: 2
+  title: nanpa mun
+  date: 2021-03-01
+  pdf: 0002mun.pdf
+  pdf_pf: 0002mun_pf.pdf
+  pdf_bwpf: 0002mun_bwpf.pdf
+  cover_image: 0002mun_sinpin.png
+- id: 1
+  title: nanpa akesi
+  date: 2021-02-01
+  pdf: 0001akesi.pdf
+  pdf_pf: 0001akesi_pf.pdf
+  pdf_bwpf: 0001akesi_bwpf.pdf
+  cover_image: 0001akesi_sinpin.png
