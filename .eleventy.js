@@ -30,11 +30,22 @@ function imageShortcode(src, cls, alt, ...allwidths) {
 module.exports = function (eleventyConfig) {
   // copy files to site
   // pdfs, i.e., the main content
-  eleventyConfig.addPassthroughCopy({ pdfs: "/pdfs" });
+  //  do not copy these on --serve as they are large so site refresh is slow
+  console.log(process.env.ELEVENTY_RUN_MODE);
+  if (process.env.ELEVENTY_RUN_MODE != "serve") {
+    eleventyConfig.addPassthroughCopy({ pdfs: "/pdfs" });
+  }
   // static assets
   eleventyConfig.addPassthroughCopy({ public: "/" });
   // toki images
   eleventyConfig.addPassthroughCopy({ "toki/images": "/images" });
+  // do not copy on --serve
+  //  this doesn't seem to have an effect for me
+  eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+
+  // do not watch files in /pdfs or /toki/images
+  eleventyConfig.watchIgnores.add("pdfs");
+  eleventyConfig.watchIgnores.add("toki/images");
 
   // add support for reading Yaml from `/_data`
   eleventyConfig.addDataExtension("yaml", (contents) =>
