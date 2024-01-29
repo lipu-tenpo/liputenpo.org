@@ -38,8 +38,9 @@ og-image: null
   {{#each css}}
   <link rel="stylesheet" href="/{{ this }}" />
   {{/each}}
+
+  <!-- patreon banner -->
   <script>
-    // patreon banner
     // check if cookie exists
     if (document.cookie.indexOf('patreon-banner-closed=1') == -1) {
       // cookie doesn't exist, show banner
@@ -53,6 +54,10 @@ og-image: null
       document.getElementById('patreon-banner').classList.remove('visible')
     }
   </script>
+
+  <!-- analytics -->
+  <script data-goatcounter="https://liputenpo.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </head>
 
 <body>
