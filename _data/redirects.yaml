@@ -1,24 +1,24 @@
 - /lipu/: /
-- /lipu-tenpo-nanpa-mun/
-- /lipu-tenpo-nanpa-ala/
-- /lipu-tenpo-nanpa-kasi/
+- /lipu-tenpo-nanpa-mun/: /lipu/nanpa-mun/
+- /lipu-tenpo-nanpa-ala/: /lipu/nanpa-ala/
+- /lipu-tenpo-nanpa-kasi/: /lipu/nanpa-kasi/
 - /poll/
-- /lipu-tenpo-nanpa-suno/
-- /lipu-tenpo-nanpa-akesi/
+- /lipu-tenpo-nanpa-suno/: /lipu/nanpa-suno/
+- /lipu-tenpo-nanpa-akesi/: /lipu/nanpa-akesi/
 - /j0001/
-- /lipu-tenpo-nanpa-kule/
+- /lipu-tenpo-nanpa-kule/: /lipu/nanpa-kule/
 - /o-kama-sona-e-toki-pona/
-- /lipu-tenpo-nanpa-toki/
-- /lipu-tenpo-nanpa-moli/
-- /lipu-tenpo-nanpa-walo/
-- /lipu-tenpo-nanpa-lete/
-- /lipu-tenpo-nanpa-nimi/
-- /nanpa-kijetesantakalu/
-- /lipu-tenpo-nanpa-pipi/
-- /lipu-tenpo-nanpa-seli/
-- /lipu-tenpo-nanpa-pan/
-- /lipu-tenpo-nanpa-moku/
-- /lipu-tenpo-nanpa-tu/
+- /lipu-tenpo-nanpa-toki/: /lipu/nanpa-toki/
+- /lipu-tenpo-nanpa-moli/: /lipu/nanpa-moli/
+- /lipu-tenpo-nanpa-walo/: /lipu/nanpa-walo/
+- /lipu-tenpo-nanpa-lete/: /lipu/nanpa-lete/
+- /lipu-tenpo-nanpa-nimi/: /lipu/nanpa-nimi/
+- /nanpa-kijetesantakalu/: /lipu/nanpa-kijetesantakalu/
+- /lipu-tenpo-nanpa-pipi/: /lipu/nanpa-pipi/
+- /lipu-tenpo-nanpa-seli/: /lipu/nanpa-seli/
+- /lipu-tenpo-nanpa-pan/: /lipu/nanpa-pan/
+- /lipu-tenpo-nanpa-moku/: /lipu/nanpa-moku/
+- /lipu-tenpo-nanpa-tu/: /lipu/nanpa-tu/
 - /nimi-open-pi-toki-pona/
 - /ma-ilo-wijasa/
 - /tenpo-sike-tu/
@@ -48,11 +48,11 @@
 - /alasa-nimi-ma-elopa-nanpa-wan/
 - /toki-tu/
 - /kama/
-- /lipu-tenpo-nanpa-mama/
-- /lipu-tenpo-nanpa-kulupu/
-- /lipu-tenpo-nanpa-musi/
-- /lipu-tenpo-nanpa-nasin/
-- /lipu-tenpo-nanpa-ma/
+- /lipu-tenpo-nanpa-mama/: /lipu/nanpa-mama/
+- /lipu-tenpo-nanpa-kulupu/: /lipu/nanpa-kulupu/
+- /lipu-tenpo-nanpa-musi/: /lipu/nanpa-musi/
+- /lipu-tenpo-nanpa-nasin/: /lipu/nanpa-nasin/
+- /lipu-tenpo-nanpa-ma/: /lipu/nanpa-ma/
 - /jan-eli-li-tawa/
 - /utala-musi-pi-sitelen-toki/
 - /sitelen-pi-lipu-tenpo-lon-nasin-juniko/
@@ -85,8 +85,8 @@
 - /musi-linja/
 - /seme-li-mi-4/
 - /alasa-nimi-ma-asija/
-- /lipu-tenpo-nanpa-sewi/
-- /lipu-tenpo-nanpa-sin/
+- /lipu-tenpo-nanpa-sewi/: /lipu/nanpa-sewi/
+- /lipu-tenpo-nanpa-sin/: /lipu/nanpa-sin/
 - /lipu-tenpo-li-lon-selo-sin/
 - /ijo-sin-pi-lipu-wikipesija/
 - /tomo-pi-kiwen-suli/
@@ -135,37 +135,37 @@
 - /category/toki/
 - /category/toki/toki-musi/
 - /category/toki/toki-pona/
-- /tag/akesi/
-- /tag/ala/
+- /tag/akesi/: /lipu/nanpa-akesi/
+- /tag/ala/: /lipu/nanpa-ala/
 - /tag/anniversary/
 - /tag/april-fools/
-- /tag/lipu/
-- /tag/lipu-tenpo/
-- /tag/lipu-tenpo-nanpa-sewi/
-- /tag/lipu-tenpo-nanpa-sin/
-- /tag/lipu-tenpo-nanpa-tu/
-- /tag/mama/
-- /tag/mun/
-- /tag/musi/
+- /tag/lipu/: /lipu/
+- /tag/lipu-tenpo/: /lipu/
+- /tag/lipu-tenpo-nanpa-sewi/: /lipu/nanpa-sewi/
+- /tag/lipu-tenpo-nanpa-sin/: /lipu/nanpa-sin/
+- /tag/lipu-tenpo-nanpa-tu/: /lipu/nanpa-tu/
+- /tag/mama/: /lipu/nanpa-mama/
+- /tag/mun/: /lipu/nanpa-mun/
+- /tag/musi/: /lipu/nanpa-musi/
 - /tag/nanpa/
-- /tag/nanpa-akesi/
-- /tag/nanpa-ala/
-- /tag/nanpa-kulupu/
+- /tag/nanpa-akesi/: /lipu/nanpa-akesi/
+- /tag/nanpa-ala/: /lipu/nanpa-ala/
+- /tag/nanpa-kulupu/: /lipu/nanpa-kulupu/
 - /tag/nanpa-ma/: /lipu/nanpa-ma/
-- /tag/nanpa-mama/
-- /tag/nanpa-moku/
-- /tag/nanpa-mun/
-- /tag/nanpa-musi/
-- /tag/nanpa-nasin/
-- /tag/nanpa-seli/
-- /tag/nanpa-sewi/
-- /tag/nanpa-sin/
-- /tag/nanpa-tu/
-- /tag/nasin/
-- /tag/seli/
-- /tag/sewi/
+- /tag/nanpa-mama/: /lipu/nanpa-mama/
+- /tag/nanpa-moku/: /lipu/nanpa-moku/
+- /tag/nanpa-mun/: /lipu/nanpa-mun/
+- /tag/nanpa-musi/: /lipu/nanpa-musi/
+- /tag/nanpa-nasin/: /lipu/nanpa-nasin/
+- /tag/nanpa-seli/: /lipu/nanpa-seli/
+- /tag/nanpa-sewi/: /lipu/nanpa-sewi/
+- /tag/nanpa-sin/: /lipu/nanpa-sin/
+- /tag/nanpa-tu/: /lipu/nanpa-tu/
+- /tag/nasin/: /lipu/nanpa-nasin/
+- /tag/seli/: /lipu/nanpa-seli/
+- /tag/sewi/: /lipu/nanpa-sewi/
 - /tag/sike-tu/
-- /tag/sin/
+- /tag/sin/: /lipu/nanpa-sin/
 - /tag/tenpo/
 - /tag/tenpo-sike-tu/
 - /tag/tuki-tiki/
@@ -175,7 +175,7 @@
 - /author/jan-sonatan/: /sona/
 - /author/kulupu-pi-lipu-tenpo/: /sona/
 - /author/jan-alonola/: /sona/
-- /wp-content/uploads/2021/01/liputenpo_logo.png
+- /wp-content/uploads/2021/01/liputenpo_logo.png-
 - /wp-content/uploads/2021/01/cropped-liputenpo_logo.png
 - /wp-content/uploads/2021/01/lipu-tenpo.png
 - /wp-content/uploads/2021/01/cropped-lipu-tenpo.png
