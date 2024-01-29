@@ -10,6 +10,7 @@ description: "o kama pona lon lipu pi lipu tenpo!"
   <p>o kama pona lon lipu pi lipu tenpo!</p>
   <p>mi mute li pali e lipu tenpo nanpa wan pi toki pona.</p>
 </section>
+
 <h2>
   lipu
   <a id="rss" href="/lipu/feed.xml">
@@ -17,18 +18,40 @@ description: "o kama pona lon lipu pi lipu tenpo!"
   </a>
 </h2>
 
-<section id="lipu">
-  {{#each lipu_ale}}
+{{!-- first lipu_ale --}}
+<section id="lipu-nanpa-lon">
   <article class="lipuwan">
-    <a href="lipu/{{slugify this.title}}">
-      {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+    <a href="lipu/{{slugify lipu_ale.[0].title}}">
+      {{{eleventyImage (appendString "pdfs/" lipu_ale.[0].cover_image) "" lipu_ale.[0].title 400}}}
       <h3>
-        {{ this.title }}
+        {{ lipu_ale.[0].title }}
       </h3>
       <span class="date">
-        <time datetime="{{ asReadableDate this.date }}">{{ asReadableDate this.date }}</time>
+        <time datetime="{{ asReadableDate lipu_ale.[0].date }}">{{ asReadableDate lipu_ale.[0].date }}</time>
       </span>
     </a>
   </article>
-  {{/each}}
 </section>
+
+<div class="lipu-flex">
+  <section id="lipu">
+    {{#each lipu_ale}}
+    {{#if @first}}
+    {{else}}
+    <div>
+      <article class="lipuwan">
+        <a href="lipu/{{slugify this.title}}">
+          {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+          <h3>
+            {{ this.title }}
+          </h3>
+          <span class="date">
+            <time datetime="{{ asReadableDate this.date }}">{{ asReadableDate this.date }}</time>
+          </span>
+        </a>
+      </article>
+    </div>
+    {{/if}}
+    {{/each}}
+  </section>
+</div>
