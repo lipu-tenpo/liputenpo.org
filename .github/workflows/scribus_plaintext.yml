@@ -8,12 +8,14 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  export-plaintext:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Convert to plaintext
-        run: ./scripts/scribus_export_ALL.sh
+        run: |
+          chmod +x ./scripts/scribus_export_ALL.sh
+          ./scripts/scribus_export_ALL.sh
       - name: Upload plaintext
         uses: actions/upload-artifact@v2
         with:
