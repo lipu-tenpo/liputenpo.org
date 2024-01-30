@@ -16,7 +16,7 @@ o awen sona e ni: sina kepeken nimi “nalanja” la, sina ken kepeken sitelen p
 
 ona li ni:
 
-
+{{{sitelen "0023sewi_sitelen_pona_pi_nimi_nalanja.svg" "0023sewi_sitelen_pona_pi_nimi_nalanja.svg"}}}
 
 sitelen pona ni li kepeken sitelen tan nimi “kule”, tan ni nimi “kili” kin. ni li kon pi nimi “nalanja” tan wan pi kule loje, pi kule jelo. mi wile ala e wan sitelen pi sitelen “loje”, pi sitelen “jelo”. mi la, sitelen pona o pana e kon pi nimi wan taso.
 
