@@ -1,5 +1,6 @@
 const yaml = require("js-yaml");
 const Image = require("@11ty/eleventy-img");
+const fs = require("fs");
 
 function imageShortcode(src, cls, alt, ...allwidths) {
   // remove last width element
