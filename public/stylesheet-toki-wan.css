@@ -45,8 +45,3 @@ h1 {
   max-height: 20rem;
   margin: 0 auto;
 }
-
-/* line breaks */
-.nimi br {
-  margin: 1rem;
-}
