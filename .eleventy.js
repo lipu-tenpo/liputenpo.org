@@ -126,7 +126,8 @@ module.exports = function (eleventyConfig) {
   // sitelen - use an image with filename
   eleventyConfig.addHandlebarsHelper(
     "sitelen",
-    (file, alt) => `<img src="/images/${file}" alt="${alt}">`
+    (file, alt) =>
+      `<a href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>`
   );
 
   // image shortcode - reduce filesize etc
