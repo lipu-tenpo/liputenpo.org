@@ -15,9 +15,10 @@ jobs:
       - name: Convert to plaintext
         run: |
           chmod +x ./scripts/scribus_export_ALL.sh
+          chmod +x ./scripts/scribus_export.sh
           ./scripts/scribus_export_ALL.sh
       - name: Upload plaintext
         uses: actions/upload-artifact@v2
         with:
           name: plaintext
-          path: ./toki/plaintext
+          path: ./scribus/
