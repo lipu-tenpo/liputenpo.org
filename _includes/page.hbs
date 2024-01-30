@@ -4,6 +4,7 @@ description: lipu tenpo
 css:
   - stylesheet.css
 og-image: null
+scripts: []
 ---
 
 <!DOCTYPE html>
@@ -58,6 +59,11 @@ og-image: null
   <!-- analytics -->
   <script data-goatcounter="https://liputenpo.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
+
+  <!-- scripts -->
+  {{#each scripts}}
+    {{{ this }}}
+  {{/each}}
 </head>
 
 <body>
