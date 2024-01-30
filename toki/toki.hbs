@@ -5,6 +5,8 @@ eleventyExcludeFromCollections: true
 permalink: /toki/
 css:
   - stylesheet-toki.css
+scripts:
+  - '<script defer src="/alpine.min.js"></script>'
 categories:
   - name: musi
     collection: musi
@@ -28,7 +30,12 @@ categories:
     </a>
 </h2>
 
-<section class="categories">
+<section class="categories" x-data="{search: ''}">
+  <search>
+    <label for="search">alasa</label>
+    <label for="search" class="sitelen-pona">alasa</label>
+    <input type="search" id="search" x-model="search" />
+  </search>
     {{#each categories}}
         <h3 id="{{slugify name}}">
             {{name}}
@@ -36,7 +43,7 @@ categories:
         <span class="category-title sitelen-pona">{{name}}</span>
         <div class="articles">
             {{#each (reversed (getkey ../collections collection))}}
-            <a class="article" href="{{page.url}}">
+            <a class="article" href="{{page.url}}" :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">
                 <span class="nimi-suli">{{data.[nimi-suli]}}</span>
                 <div class="meta">
                     <span class="jan-pali">
