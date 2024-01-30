@@ -1,0 +1,21 @@
+# workflow to convert `./toki/` articles to plaintext for easier Scribus import
+name: toki-plaintext
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Convert to plaintext
+        run: ./scripts/scribus_convert_ALL.sh
+      - name: Upload plaintext
+        uses: actions/upload-artifact@v2
+        with:
+          name: plaintext
+          path: ./toki/plaintext
