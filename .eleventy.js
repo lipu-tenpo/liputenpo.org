@@ -95,7 +95,7 @@ module.exports = function (eleventyConfig) {
     // get "nanpa X" from tag list
     const nanpa_tags = tags.filter((tag) => tag.startsWith("nanpa"));
     if (nanpa_tags.length != 1) {
-      throw Error("oh no");
+      throw Error("could not find nanpa tag, found tags: " + tags);
     }
     return nanpa_tags.at(0);
   });
@@ -105,7 +105,7 @@ module.exports = function (eleventyConfig) {
       (tag) => !tag.startsWith("nanpa") && tag != "toki"
     );
     if (nanpa_tags.length != 1) {
-      throw Error("oh no");
+      throw Error("could not find toki type tag, found tags: " + tags);
     }
     return nanpa_tags.at(0);
   });
