@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Convert to plaintext
-        run: ./scripts/scribus_convert_ALL.sh
+        run: ./scripts/scribus_export_ALL.sh
       - name: Upload plaintext
         uses: actions/upload-artifact@v2
         with:
