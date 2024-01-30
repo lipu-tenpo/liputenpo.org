@@ -40,8 +40,10 @@ h1 {
   text-align: justify;
 }
 
-.nimi img {
+p:has(.image) {
+  align-self: center;
+}
+.nimi .image img {
   max-width: 100%;
   max-height: 20rem;
-  margin: 0 auto;
 }

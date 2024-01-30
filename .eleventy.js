@@ -128,7 +128,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper(
     "sitelen",
     (file, alt) =>
-      `<a href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>`
+      `<a class="image" href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>`
   );
 
   // image shortcode - reduce filesize etc
