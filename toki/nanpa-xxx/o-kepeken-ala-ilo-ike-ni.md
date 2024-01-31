@@ -16,5 +16,5 @@ ilo ni li pali e seme · ona li ken pali e pali sama kulupu · ni la kulupu olin
 
 kulupu mama¹ li pali e ilo² pi ike suli · a jan mute li pali mute · taso ike li tawa ona · tan ni la o kepeken ala ilo ni o weka lon mama ona ·
 
-¹ GitHub
+¹ GitHub  
 ² GitHub Copilot  
