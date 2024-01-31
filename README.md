@@ -67,6 +67,20 @@ Edit [`./_data/jan_pali.yaml`](./_data/jan_pali.yaml)
 
 It's probably in a file in [`./_data`](./_data/).
 
+## Export articles as plaintext
+
+You can either check out the repository and run the [export scripts](./scripts/) yourself, or:
+
+- Go to the [Actions tab > `toki plaintext`](https://github.com/lipu-tenpo/liputenpo.org/actions/workflows/scribus_plaintext.yml)
+- Click `Run workflow` and target the branch you want to target
+
+    ![Run workflow button](images/run%20workflow.png)
+- Wait, and refresh the page. Click the new in-progress workflow
+- When workflow completes, a `.zip` containing all the plaintext should be in the summary section
+
+    ![screenshot of workflow artifact](images/artifacts.png)
+- Download this, and unzip it. These are the plaintext of the files in [`./toki/`](./toki/)
+
 ## Development Commands
 
 ### Install
