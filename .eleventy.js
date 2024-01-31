@@ -42,7 +42,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "toki/images": "/images" });
   // do not copy on --serve
   //  this doesn't seem to have an effect for me
-  eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+  // eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
   // do not watch files in /pdfs or /toki/images
   eleventyConfig.watchIgnores.add("pdfs");
