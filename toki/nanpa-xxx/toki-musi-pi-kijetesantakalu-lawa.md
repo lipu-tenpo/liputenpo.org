@@ -1,6 +1,6 @@
 ---
 nimi-suli: toki musi pi kijetesantakalu lawa
-jan-pali: "???"
+jan-pali: jan pi nimi ala
 tags:
   - toki-toki
 ---
