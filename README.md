@@ -49,11 +49,11 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
 
 1. Upload any images to [`./toki/images/`](./toki/images/) prepended by the issue number and name
 1. Paste the content into the article
-    - For poetry, lines must end with double-space `"  "`. Otherwise, there should be a two-linebreak gap between paragraphs (as standard in markdown)
+    - Lines must end with double-space `"  "`or there should be a two-linebreak gap between paragraphs (as standard in markdown)
     - Use the image shortcode for images, e.g., `{{{sitelen "0023sewi_nasin-tawa-intawe.png" "nasin tawa Intawe"}}}`
     - Use the non-pu shortcode for non-pu words, e.g., `{{{pu "kipisi"}}}`
-    - Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js)
-    - 
+
+      (Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js))
 2. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
 3. Merge into main branch of staging site
 4. Check links and images
