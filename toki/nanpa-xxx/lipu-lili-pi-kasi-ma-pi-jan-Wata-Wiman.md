@@ -6,6 +6,8 @@ tags:
 ---
 jan Wata Wiman (Walt Whitman, 1819–1892) li pali e toki musi li suli lon ni. ma Elena li jo e jan Omelo (*Homêros*). ma Loma li jo e jan Wekilijo (*Vergilius*). ma Italija li jo e jan Tante. sama la, ma Mewika li jo e jan Wiman. sama toki musi suli pi jan pali ni ante la, toki musi suli pi jan Wata Wiman li kama kon pi ma ona.
 
+{{{sitelen "0024_wata_wiman.png" "drawing of Walt Whitman"}}}
+
 ona li sitelen e lipu wan taso. nimi lipu li *lipu lili pi kasi ma* (“Leaves of Grass”). open la, lipu li lili. taso tawa tenpo la, lipu li kama suli. jan Wiman li sitelen e toki sin la, ona li pana e ona tawa *lipu lili pi kasi ma*.
 
 kipisi¹ wan pi lipu ona li suli mute. nimi ona li “toki musi pi mi sama.” ona li pona lukin, li pona kute tawa jan mute, tawa mi. mi toki ante e kipisi nanpa luka wan pi toki musi ni. o lukin.
