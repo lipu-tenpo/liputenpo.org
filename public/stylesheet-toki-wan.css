@@ -43,9 +43,13 @@ h1 {
 p:has(.image) {
   align-self: center;
 }
+.nimi a.image {
+  text-decoration: none;
+}
 .nimi .image img {
   max-width: 100%;
   max-height: 20rem;
+  color: red;
 }
 
 .nimi blockquote {
