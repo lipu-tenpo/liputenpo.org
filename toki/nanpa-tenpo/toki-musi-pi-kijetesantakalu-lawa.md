@@ -6,6 +6,8 @@ tags:
 ---
 kijetesantakalu Winsen li lawa e soweli ale. soweli ale li olin e ona tan ni: ona li lawa pona. ma soweli li ma kasi suli lon poka pi ma tomo. jan mute li lon ma ni. tenpo ala la jan en soweli li utala. taso tenpo lete li kama. jan li wile jo e moku tawa tenpo lete. tan ni la, jan li open alasa. kijetesantakalu lili li lukin e jan kama. ona li toki e ni kepeken kalama mute: “soweli ale o! jan mute li kama! ona li wile moli e mi mute!”. soweli Winsen li kute e kijetesantakalu lili, li pilin ike mute tan ni: moli soweli li ike tawa ona. taso ona li ken ala pali tan ni: ilo utala pi jan mute li wawa.
 
+{{{sitelen "0024_kijetesantakalu-lawa-kule.png" "old-looking raccoon, dressed regally"}}}
+
 jan li weka tawa soweli. taso ona li ken pana e moli tawa soweli kepeken ilo utala. soweli lili mute li jo ala e mama; soweli suli mute li jo ala e soweli lili. jan li pilin pona mute tan ni: insa pi sijelo soweli li moku pona tawa ona. soweli Winsen li pilin pakala mute. ona li wile pana e pilin pakala tawa jan ike. soweli mute kin li wile ni.
 
 tenpo suno kama la, soweli mute li open sona e nasin tan ni: ona li wile pana e pilin pakala tawa jan. kijetesantakalu Winsen li lukin e kon sewi. waso mute li lon ona. soweli Winsen li toki e ni: “waso mute o! o pana e ko jaki sina tawa jan!”. waso li pali e ni: ona li tawa ma tomo, li pana e ko jaki mute. tan ni la, jan li toki e pakala kepeken kalama mute. ni li pona tawa soweli, taso jan mute li pilin ike. tenpo ni la, ma tomo li nasa li pakala li jaki mute.

@@ -4,6 +4,8 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
+{{{sitelen "0024_seme-li-mi-kule.png" "this seme li mi, written with sitelen pona"}}}
+
 mi jo e luka tu anu luka tu wan  
 jan li lukin e mi, mi pona tawa jan  
 mi jo e uta ala, taso ken la mi mu  

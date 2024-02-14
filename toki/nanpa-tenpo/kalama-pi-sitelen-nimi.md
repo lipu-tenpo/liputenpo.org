@@ -12,7 +12,7 @@ taso nasin ante kin li awen ken. kalama poka wan li pona e sona kute la kalama p
 
 taso nasin ante kin kin li awen ken. nasin sitelen la, mi ken pana e kalama wan kepeken nimi wan lon insa pi selo poki.
 
-{{{sitelen "0024_kalama.png" "sitelen pona for 'jan LOSU'"}}}
+{{{sitelen "0024_jan-Losu.png" "sitelen pona for 'jan LOSU'"}}}
 
 ni li ken lon nasin uta kin. kalama pi nimi Losu li open sama nimi ni ale: lon, ona, supa, uta.
 

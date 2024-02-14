@@ -6,6 +6,8 @@ tags:
 ---
 nasin sitelen mute li ken e toki pi lipu ni. taso lon la, jan mute li kepeken nasin pi mute ala. ona li wile pana e toki ni tawa lipu la, ona pana e sitelen kepeken nasin Lasina anu nasin pali sin pi jan Sonja. nasin ni nanpa wan la, kalama wan li kama sitelen wan. nasin ni nanpa tu la, nimi wan li kama sitelen wan. nasin ni li pona mute tawa mi. taso ona li sin a. sin ona la, mi wile pana e sitelen kepeken ona tawa ilo sina la, mi kama ala kama ken? ike la, mi ken ala pana e ijo pi wile mi tawa ilo ale. taso ni li ken awen ala. ni li ken ante. nasin li ken e ante.
 
+{{{sitelen "0024_juniko-kule.png" "drawing of jan Tokipo using computer with characters flying from screen"}}}
+
 jan li pana e sitelen tan ilo ona tawa ilo ante la, ilo nanpa wan en ilo nanpa tu o sona sama e sitelen. sona li ken tan nasin Juniko. nasin Juniko li pana e sona sitelen sama tawa ilo ante. ilo li awen sin e sona pi nasin ni la, ilo li ken sona e sitelen ale pi nasin ni. ni li pona sona ilo! 
 sitelen sin li lon nasin ni la, mi ken pana e sitelen tawa ilo ante a. mi wile!
 
