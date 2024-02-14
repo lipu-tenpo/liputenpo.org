@@ -2,5 +2,6 @@
     "tags": [
         "nanpa xxx"
     ],
-    "date": "2015-02-06"
+    "date": "2015-02-06",
+    "eleventyExcludeFromCollections": true
 }
