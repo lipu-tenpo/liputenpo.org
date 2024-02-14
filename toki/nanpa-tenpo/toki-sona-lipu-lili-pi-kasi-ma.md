@@ -1,5 +1,5 @@
 ---
-nimi-suli: lipu lili pi kasi ma pi jan Wata Wiman
+nimi-suli: "toki sona: lipu lili pi kasi ma"
 jan-pali: jan Lapate
 tags:
   - musi

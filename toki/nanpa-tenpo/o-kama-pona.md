@@ -4,7 +4,6 @@ jan-pali: jan Sonatan
 tags:
 	- kama
 ---
-
 o kama pona  
 lon lipu tenpo!  
 tenpo … li kama  

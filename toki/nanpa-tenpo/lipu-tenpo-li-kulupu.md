@@ -4,7 +4,6 @@ jan-pali: jan Alonola en jan Sonatan
 tags:
 	- kulupu
 ---
-
 o sona! lipu tenpo li kama kulupu lawa. tenpo sike tu wan pini la, mi open e lipu tenpo. mi pana e lipu tenpo nanpa wan. tenpo li kama la mi kama kulupu pona li pana e lipu tenpo mute.
 
 tenpo pini lili la, kulupu pi lipu tenpo li kama kulupu lawa lon ma Tosi. toki Tosi la nimi ona li *lipu tenpo e.V.* *(eingetragener Verein)*. ni li pona mute tawa mi, li pona mute tawa jan pali pi lipu tenpo. ni la, kulupu pi lipu tenpo li ken pali e ijo mute. mi wile toki e ijo ni.
