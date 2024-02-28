@@ -15,9 +15,12 @@ eleventyExcludeFromCollections: true
     <entry>
         <title>{{data.[nimi-suli]}}</title>
         <link href="{{../sona.site}}{{page.url}}" />
-        <id>{{../sona.site}}/{{page.fileSlug}}</id>
+        <id>{{../sona.site}}/{{page.url}}</id>
         <updated>{{ isoDate data.page.date }}</updated>
         <summary>"{{data.[nimi-suli]}}" tan {{data.[jan-pali]}}</summary>
+        <author>
+            <name>{{data.[jan-pali]}}</name>
+        </author>
     </entry>
     {{/each}}
 </feed>
