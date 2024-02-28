@@ -31,9 +31,11 @@ def barchart(total, progress, colour_until=None, chars=40):
         colour_until = progress
     s = "["
     for i in range(chars):
-        if colour_until / total * chars > i:
+        before_progress = progress / total * chars > i
+        before_colour_until = colour_until / total * chars > i
+        if before_progress and before_colour_until:
             s += "="
-        elif progress / total * chars > i:
+        elif before_progress:
             s += "-"
         else:
             s += " "
