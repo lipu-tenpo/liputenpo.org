@@ -17,6 +17,10 @@ h2 {
 .nimi-pi-pu-ala h3 {
   font-size: 2rem;
   margin: 0.5rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: 70% 30% 59% 41% / 64% 46% 54% 36%;
 }
 .nimi-pi-pu-ala h4 {
   margin: 0.5rem 0 0;
@@ -31,10 +35,19 @@ h2 {
   justify-content: center;
   align-items: center;
 }
-
 .jan-pali h3 {
   margin: 4rem 0 1rem;
   font-size: 2rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-unu);
+  color: var(--colour-unu-pimeja);
+  border-radius: 25% 75% 50% 50% / 66% 55% 45% 34%;
+}
+.jan-pali .lists {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1rem;
 }
 .jan-pali h4 {
   margin: 0;
@@ -46,7 +59,15 @@ h2 {
 .sona {
   text-align: center;
   margin-bottom: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .sona h3 {
   font-size: 2rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-loje);
+  color: var(--colour-loje-pimeja);
+  border-radius: 49% 51% 68% 32% / 59% 45% 55% 41%;
 }
