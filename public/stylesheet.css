@@ -20,6 +20,27 @@
 
   --text: white;
   --text-subtle: #ddd;
+
+  /* generated with ../scripts/gpl-to-css.sh */
+  /* with  */
+  --colour-walo-taso: #ffffff;
+  --colour-kiwen-walo: #dddddd;
+  --colour-kiwen: #888888;
+  --colour-pimeja-lili: #5a5a5a;
+  --colour-kiwen-pimeja: #333333;
+  --colour-pimeja-taso: #000000;
+  --colour-unu-walo: #ccccff;
+  --colour-unu: #8888ff;
+  --colour-unu-pimeja: #3333cc;
+  --colour-jelo-walo: #ffffcc;
+  --colour-jelo: #ffff88;
+  --colour-jelo-pimeja: #aa8822;
+  --colour-loje-walo: #ffcccc;
+  --colour-loje: #ff8888;
+  --colour-loje-pimeja: #aa1111;
+  --colour-laso-walo: #aaeedd;
+  --colour-laso: #44bbaa;
+  --colour-laso-pimeja: #114444;
 }
 
 @font-face {
