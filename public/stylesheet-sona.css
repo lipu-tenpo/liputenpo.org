@@ -42,7 +42,7 @@ h2 {
 .jan-pali .jan {
   color: var(--colour-pimeja-lili);
 }
-.jan-pali .jan.active {
+.jan-pali .active {
   color: var(--logo-secondary);
 }
 .jan-pali .lists {
