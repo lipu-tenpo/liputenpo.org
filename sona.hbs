@@ -20,12 +20,12 @@ css:
     <h3>jan pali</h3>
     <div class="lists">
         {{#each jan_pali}}
-        <div>
+        <div class="jan-mute">
             <h4>{{@key}}</h4>
             <ul>
                 {{#each this}}
-                <li>
-                    <span class="{{#if active}}active{{/if}}">
+                <li class="jan {{#if active}}active{{/if}}">
+                    <span>
                         {{name}}
                     </span>
                 </li>

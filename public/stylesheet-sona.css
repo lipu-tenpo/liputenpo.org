@@ -3,10 +3,6 @@ h2 {
   text-align: center;
 }
 
-.active {
-  color: var(--logo-secondary);
-}
-
 .nimi-pi-pu-ala {
   display: flex;
   flex-direction: column;
@@ -43,17 +39,28 @@ h2 {
   color: var(--colour-unu-pimeja);
   border-radius: 25% 75% 50% 50% / 66% 55% 45% 34%;
 }
+.jan-pali .jan {
+  color: var(--colour-pimeja-lili);
+}
+.jan-pali .jan.active {
+  color: var(--logo-secondary);
+}
 .jan-pali .lists {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin-top: 1rem;
 }
+.jan-pali .jan-mute {
+  margin: 0.5rem;
+}
 .jan-pali h4 {
   margin: 0;
 }
 .jan-pali ul {
   min-width: 10rem;
+  max-height: 40rem;
+  overflow-y: auto;
 }
 
 .sona {
