@@ -5,11 +5,11 @@ css:
   - stylesheet-lipu-ante.css
 ---
 <div class="h2">
-  <h2>lipu ante</h2>
+  <h2 id="lipu-ante">lipu ante</h2>
 </div>
 <section class="lipu-ante">
   {{#each lipu_ante}}
-  <h3>{{@key}}</h3>
+  <h3 id="{{@key}}">{{@key}}</h3>
   <nav>
     <ul>
     {{#each this}}

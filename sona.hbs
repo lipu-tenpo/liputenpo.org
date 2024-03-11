@@ -6,11 +6,11 @@ css:
 ---
 
 <div class="h2">
-  <h2>sona</h2>
+  <h2 id="sona">sona</h2>
 </div>
 
 <article class="nimi-pi-pu-ala">
-    <h3>nimi pi pu ala</h3>
+    <h3 id="nimi-pi-pu-ala">nimi pi pu ala</h3>
     {{#each nimi-pi-pu-ala}}
     <h4 id="{{@key}}">{{@key}}</h4>
     <p>{{this}}</p>
@@ -18,11 +18,11 @@ css:
 </article>
 
 <article class="jan-pali">
-    <h3>jan pali</h3>
+    <h3 id="jan-pali">jan pali</h3>
     <div class="lists">
         {{#each jan_pali}}
         <div class="jan-mute">
-            <h4>{{@key}}</h4>
+            <h4 id="{{@key}}">{{@key}}</h4>
             <ul>
                 {{#each this}}
                 <li class="jan {{#if active}}active{{/if}}">
@@ -41,7 +41,7 @@ css:
 </article>
 
 <section class="sona">
-    <h3>sona</h3>
+    <h3 id="sona-footer">sona</h3>
     <p>
         mi mute li toki e ni tawa jan lukin: sina pona!
     </p>
