@@ -40,7 +40,12 @@ categories:
   <search>
     <label for="search">alasa</label>
     <label for="search" class="sitelen-pona">alasa</label>
-    <input type="search" id="search" x-model="search" />
+    <!-- Alpine:
+      - x-model input to a `search` string
+      - x-on:input to update URL with search param when changed
+      - x-init to load a maybe-existing search param from the URL
+    -->
+    <input type="search" id="search" x-model="search" x-on:input = "window.history.replaceState(search, '', '/toki/' + (search ? '?alasa=' + search : ''))" x-init="let params = new URLSearchParams(window.location.search); search = params.get('alasa') || ''">
   </search>
   {{#each categories}}
   <h3 id="{{slugify name}}" class="blobby-{{modulo 4 @index}}">
@@ -49,6 +54,9 @@ categories:
   </h3>
   <div class="articles">
       {{#each (reversed (getkey ../collections collection))}}
+      <!-- Alpine:
+        - x-bind:class to hide the article if it doesn't match the search
+      -->
       <a class="article" href="{{page.url}}" :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">
           <span class="nimi-suli">{{data.[nimi-suli]}}</span>
           <div class="meta">
