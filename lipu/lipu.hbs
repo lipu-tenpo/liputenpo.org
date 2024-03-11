@@ -91,7 +91,7 @@ css:
           <a class="article" href="{{page.url}}">
             <span class="nimi-suli">{{data.[nimi-suli]}}</span>
             <div class="meta">
-                <span class="jan-pali">
+                <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
                     <span class="sitelen-pona">jan</span>
                     {{data.[jan-pali]}}
                 </span>
@@ -99,7 +99,7 @@ css:
                     <span class="sitelen-pona">tenpo</span>
                     {{asReadableDate data.date}}
                 </span>
-                <span class="category">
+                <span class="category" style="color: {{colourhash (getTokiTypeTag data.tags)}}">
                     <span class="sitelen-pona">{{getTokiTypeTag data.tags}}</span>
                     {{getTokiTypeTag data.tags}}
                 </span>
