@@ -8,7 +8,7 @@ ken la, sina jo ala e ma kasi sina. taso sina jo e supa pi poka lupa! sina wile 
 
 sina ken mama e kasi mute lon tomo sina. mi toki e sona pi kasi luka lon anpa.
 
-{{{sitelen "0024_ma-kasi-kule.png" "drawing of many plants on a windowsill"}}}
+{{{sitelen "0024_ma-kasi-kule.png" "drawing of many plants on a windowsill" "jan Alonola"}}}
 
 ## kasi namako
 

@@ -124,12 +124,17 @@ module.exports = function (eleventyConfig) {
     }
     return `<sup><a href="/sona#${nimi}">(pu)</a></sup>`;
   });
-  // sitelen - use an image with filename
-  eleventyConfig.addHandlebarsHelper(
-    "sitelen",
-    (file, alt) =>
-      `<a class="image" href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>`
-  );
+  // sitelen - use an image with filename, alt text, and author
+  eleventyConfig.addHandlebarsHelper("sitelen", (file, alt, author) => {
+    // if author is not string, or is empty
+    if (typeof author != "string") {
+      author = "";
+    }
+    return (
+      `<a class="image" href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>` +
+      (author ? `<figcaption>tan ${author}</figcaption>` : "")
+    );
+  });
   // for alternate styles over an #each
   eleventyConfig.addHandlebarsHelper("modulo", (by, nummber) => nummber % by);
   // for random, but consistent, colours

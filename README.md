@@ -50,7 +50,7 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
 1. Upload any images to [`./toki/images/`](./toki/images/) prepended by the issue number and name
 1. Paste the content into the article
     - Lines must end with double-space `"  "`or there should be a two-linebreak gap between paragraphs (as standard in markdown)
-    - Use the image shortcode for images, e.g., `{{{sitelen "0023sewi_nasin-tawa-intawe.png" "nasin tawa Intawe"}}}`
+    - Use the image shortcode for images, e.g., `{{{sitelen "0023sewi_nasin-tawa-intawe.png" "nasin tawa Intawe" "jan Alonola"}}}`
     - Use the non-pu shortcode for non-pu words, e.g., `{{{pu "kipisi"}}}`
 
       (Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js))

@@ -51,6 +51,13 @@ p:has(.image) {
   max-height: 20rem;
   color: red;
 }
+.nimi figcaption {
+  width: 100%;
+  font-size: 0.75rem;
+  color: var(--text-subtle);
+  text-align: center;
+  margin-top: 0.25rem;
+}
 
 .nimi blockquote {
   margin: 1rem 0;
