@@ -1,6 +1,17 @@
-h2 {
+.h2 {
   text-align: center;
   font-size: 3rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h2 h2 {
+  padding: 0.5rem 2rem;
+
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-04);
 }
 
 .lipu-ante {

@@ -68,17 +68,29 @@
   font-weight: bold;
 }
 
-h2 {
+.h2 {
   font-size: 2rem;
   margin: 4rem 0 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+.h2 h2 {
+  padding: 0.5rem 2rem;
+  margin: 0;
 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-03);
+}
 #rss {
-  display: block;
-  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-left: 0.5rem;
 }
 #rss img {

@@ -1,13 +1,27 @@
-h2 {
+.h2 {
   font-size: 3em;
+  margin: 1rem 0 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+.h2 h2 {
+  margin: 0;
+  padding: 0.5rem 2rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-03);
+}
 
 #rss {
-  display: block;
-  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   margin-left: 1rem;
 }
 #rss img {
@@ -46,6 +60,10 @@ search > input {
 
 .categories {
   position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .categories h3 {
@@ -54,15 +72,34 @@ search > input {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 0;
-  color: var(--logo-secondary);
+  padding: 1.25rem 2.5rem 0;
+}
+
+.blobby-0 {
+  background-color: var(--colour-unu);
+  color: var(--colour-unu-pimeja);
+  border-radius: var(--blob-border-radius-02);
+}
+.blobby-1 {
+  background-color: var(--colour-jelo);
+  color: var(--colour-jelo-pimeja);
+  border-radius: var(--blob-border-radius-04);
+}
+.blobby-2 {
+  background-color: var(--colour-loje);
+  color: var(--colour-loje-pimeja);
+  border-radius: var(--blob-border-radius-02);
+}
+.blobby-3 {
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-04);
 }
 
 .category-title.sitelen-pona {
   font-size: 4rem;
   text-align: center;
   display: block;
-  color: var(--logo-secondary);
 }
 
 .articles {

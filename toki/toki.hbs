@@ -27,12 +27,14 @@ categories:
   - name: toki ante
     collection: toki-ante
 ---
+<div class="h2">
 <h2>
     toki
     <a id="rss" href="./feed.xml">
         <img alt="_RSS_" src="/rss.svg" />
     </a>
 </h2>
+</div>
 
 <section class="categories" x-data="{search: ''}">
   <search>
@@ -41,10 +43,10 @@ categories:
     <input type="search" id="search" x-model="search" />
   </search>
     {{#each categories}}
-        <h3 id="{{slugify name}}">
+  <h3 id="{{slugify name}}" class="blobby-{{modulo 4 @index}}">
             {{name}}
+    <span class="category-title sitelen-pona">{{name}}</span>
         </h3>
-        <span class="category-title sitelen-pona">{{name}}</span>
         <div class="articles">
             {{#each (reversed (getkey ../collections collection))}}
             <a class="article" href="{{page.url}}" :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">

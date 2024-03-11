@@ -1,6 +1,18 @@
-h2 {
+.h2 {
   font-size: 3rem;
   text-align: center;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h2 h2 {
+  margin: 0;
+  padding: 0.5rem 2rem;
+
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-03);
 }
 
 .nimi-pi-pu-ala {
@@ -13,10 +25,10 @@ h2 {
 .nimi-pi-pu-ala h3 {
   font-size: 2rem;
   margin: 0.5rem;
-  padding: 0.5rem 2rem;
-  background-color: var(--colour-laso);
-  color: var(--colour-laso-pimeja);
-  border-radius: 70% 30% 59% 41% / 64% 46% 54% 36%;
+  padding: 0.75rem 2rem;
+  background-color: var(--colour-jelo);
+  color: var(--colour-jelo-pimeja);
+  border-radius: var(--blob-border-radius-04);
 }
 .nimi-pi-pu-ala h4 {
   margin: 0.5rem 0 0;
@@ -37,7 +49,7 @@ h2 {
   padding: 0.5rem 2rem;
   background-color: var(--colour-unu);
   color: var(--colour-unu-pimeja);
-  border-radius: 25% 75% 50% 50% / 66% 55% 45% 34%;
+  border-radius: var(--blob-border-radius-01);
 }
 .jan-pali .jan {
   color: var(--colour-pimeja-lili);
@@ -76,5 +88,5 @@ h2 {
   padding: 0.5rem 2rem;
   background-color: var(--colour-loje);
   color: var(--colour-loje-pimeja);
-  border-radius: 49% 51% 68% 32% / 59% 45% 55% 41%;
+  border-radius: var(--blob-border-radius-03);
 }
