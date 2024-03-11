@@ -94,8 +94,20 @@ h2 {
   font-size: 2rem;
 }
 
+.toki {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
 .toki h3 {
   font-size: 2rem;
+  padding: 1rem 1rem;
+
+  background-color: var(--colour-laso);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-04);
 }
 .sitelen-pona {
   font-family: "sitelen seli kiwen", sans-serif;

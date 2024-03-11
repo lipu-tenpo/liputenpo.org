@@ -11,11 +11,11 @@ eleventyComputed:
         {{[nimi-suli]}}
     </h1>
     <div class="meta">
-        <span class="jan-pali">
+        <span class="jan-pali" style="color: {{colourhash [jan-pali]}}">
             <span class="sitelen-pona">jan</span>
             {{[jan-pali]}}
         </span>
-        <span class="tenpo">
+        <span class="tenpo" style="color: {{colourhash date}}">
             <span class="sitelen-pona">tenpo</span>
             {{asReadableDate date}}
         </span>
@@ -25,7 +25,7 @@ eleventyComputed:
                 {{getIssueTag tags}}
             </a>
         </span>
-        <span class="category">
+        <span class="category" style="color: {{colourhash (getTokiTypeTag tags)}}">
             <span class="sitelen-pona">{{getTokiTypeTag tags}}</span>
             {{getTokiTypeTag tags}}
         </span>

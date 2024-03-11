@@ -4,20 +4,22 @@ title: "lipu tenpo - lipu ante"
 css:
   - stylesheet-lipu-ante.css
 ---
-<h2>lipu ante</h2>
+<div class="h2">
+  <h2>lipu ante</h2>
+</div>
 <section class="lipu-ante">
-    {{#each lipu_ante}}
-    <h3>{{@key}}</h3>
-    <nav>
-        <ul>
+  {{#each lipu_ante}}
+  <h3>{{@key}}</h3>
+  <nav>
+    <ul>
+    {{#each this}}
+      <li>
         {{#each this}}
-            <li>
-                {{#each this}}
-                <a href="{{this}}">{{@key}}</a>
-                {{/each}}
-            </li>
+        <a href="{{this}}">{{@key}}</a>
         {{/each}}
-        </ul>
-        {{/each}}
-    </nav>
+      </li>
+    {{/each}}
+    </ul>
+  </nav>
+  {{/each}}
 </section>

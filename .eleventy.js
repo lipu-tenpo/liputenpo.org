@@ -130,6 +130,25 @@ module.exports = function (eleventyConfig) {
     (file, alt) =>
       `<a class="image" href="/images/${file}"><img src="/images/${file}" alt="${alt}"></a>`
   );
+  // for alternate styles over an #each
+  eleventyConfig.addHandlebarsHelper("modulo", (by, nummber) => nummber % by);
+  // for random, but consistent, colours
+  eleventyConfig.addHandlebarsHelper("colourhash", (str) => {
+    let r = 0,
+      g = 0,
+      b = 0;
+    // remove "jan" or "nanpa" from beginning of string
+    str = str.replace(/^(jan|nanpa) /, "");
+    for (let i = 0; i < str.length; i++) {
+      r += str.charCodeAt(i);
+      g += str.charCodeAt(i) * i;
+      b += str.charCodeAt(i) * (i + 1);
+    }
+    function cap(x) {
+      return 100 + (x % 156);
+    }
+    return `rgb(${cap(r)}, ${cap(g)}, ${cap(b)})`;
+  });
 
   // image shortcode - reduce filesize etc
   //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}

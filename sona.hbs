@@ -5,8 +5,9 @@ css:
   - stylesheet-sona.css
 ---
 
-<h2>sona</h2>
-
+<div class="h2">
+  <h2>sona</h2>
+</div>
 
 <article class="nimi-pi-pu-ala">
     <h3>nimi pi pu ala</h3>
@@ -18,18 +19,22 @@ css:
 
 <article class="jan-pali">
     <h3>jan pali</h3>
-    {{#each jan_pali}}
-    <h4>{{@key}}</h4>
-    <ul>
-        {{#each this}}
-        <li>
-            <span class="{{#if active}}active{{/if}}">
-                {{name}}
-            </span>
-        </li>
+    <div class="lists">
+        {{#each jan_pali}}
+        <div class="jan-mute">
+            <h4>{{@key}}</h4>
+            <ul>
+                {{#each this}}
+                <li class="jan {{#if active}}active{{/if}}">
+                    <span>
+                        {{name}}
+                    </span>
+                </li>
+                {{/each}}
+            </ul>
+        </div>
         {{/each}}
-    </ul>
-    {{/each}}
+    </div>
     <p>
         <span class="active">jan jelo li pali lon tenpo ni.</span> jan walo li pali lon tenpo pini.
     </p>

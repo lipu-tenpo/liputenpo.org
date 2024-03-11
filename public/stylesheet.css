@@ -1,6 +1,8 @@
 * {
   box-sizing: border-box;
+}
 
+:root {
   --logo-primary: #888bff;
   --logo-primary-dark: #7e6dd7;
   --logo-secondary: #fffd96;
@@ -22,25 +24,35 @@
   --text-subtle: #ddd;
 
   /* generated with ../scripts/gpl-to-css.sh */
-  /* with  */
   --colour-walo-taso: #ffffff;
   --colour-kiwen-walo: #dddddd;
   --colour-kiwen: #888888;
   --colour-pimeja-lili: #5a5a5a;
   --colour-kiwen-pimeja: #333333;
   --colour-pimeja-taso: #000000;
+
   --colour-unu-walo: #ccccff;
   --colour-unu: #8888ff;
   --colour-unu-pimeja: #3333cc;
+
   --colour-jelo-walo: #ffffcc;
   --colour-jelo: #ffff88;
   --colour-jelo-pimeja: #aa8822;
+
   --colour-loje-walo: #ffcccc;
   --colour-loje: #ff8888;
   --colour-loje-pimeja: #aa1111;
+
   --colour-laso-walo: #aaeedd;
   --colour-laso: #44bbaa;
   --colour-laso-pimeja: #114444;
+
+  /* blobby heading titles */
+  /* using https://codepen.io/ShadowShahriar/pen/BaKdyMJ */
+  --blob-border-radius-01: 25% 75% 50% 50% / 66% 55% 45% 34%;
+  --blob-border-radius-02: 70% 30% 59% 41% / 64% 46% 54% 36%;
+  --blob-border-radius-03: 49% 51% 68% 32% / 59% 45% 55% 41%;
+  --blob-border-radius-04: 40% 60% 68% 32% / 72% 50% 50% 28%;
 }
 
 @font-face {
