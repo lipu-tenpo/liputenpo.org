@@ -4,8 +4,6 @@ Rewrite of <https://liputenpo.org> using <https://www.11ty.dev/>
 
 See live on <https://liputenpo.alifeee.co.uk/>
 
-Under construction
-
 ## How-to
 
 The following should be done on a **branch** of the [main repository](https://github.com/lipu-tenpo/liputenpo.org). When ready, it can be merged into the [staging repository](https://github.com/lipu-tenpo/liputenpo.org.test), to see what it looks like online, and test links and images.
