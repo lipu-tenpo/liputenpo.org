@@ -2,7 +2,7 @@
 nimi-suli: pilin mi pi nasin nanpa pona
 jan-pali: jan Momo
 tags:
-	- toki
+	- toki-toki
 ---
 mi jan Momo · toki a ·
 
