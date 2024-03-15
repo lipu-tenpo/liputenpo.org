@@ -8,11 +8,11 @@ musi toki li suli mute tawa mi. tenpo ali la, mi wile pali e ona. ni la, mi alas
 
 lipu li luka. lon ona ali la, o alasa e linja nimi wan. sina ni la, o kulupu e linja nimi ali sina. o pana e ona ali tawa toki pi nasin Limili. sama ni la, ni li toki ken pi nasin Limili: 
 
-(1)  monsuta li pilin apeja
-(35) taso, kule li wile luka
-(72) ona tu o poki
-(96) o lawa e pali
-(14) la, kala ma li kama ala.
+(1)  monsuta li pilin apeja  
+(35) taso, kule li wile luka  
+(72) ona tu o poki  
+(96) o lawa e pali  
+(14) la, kala ma li kama ala.  
 
 kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon lipu ni! o pali pona e ona a!
 
