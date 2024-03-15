@@ -1,0 +1,22 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <?xml-stylesheet type="text/xsl" href="{{sona.site}}/sitemap.xsl"?> -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {{!-- lipu are not in the collections --}}
+    {{#each lipu_ale}}
+        <url>
+            <loc>{{../sona.site}}/lipu/{{slugify title}}/</loc>
+            <lastmod>{{isoDate date}}</lastmod>
+        </url>
+    {{/each}}
+    {{!-- all other pages --}}
+    {{#each collections.all}}
+        <url>
+            <loc>{{../sona.site}}{{page.url}}</loc>
+            <lastmod>{{isoDate page.date}}</lastmod>
+        </url>
+    {{/each}}
+</urlset>
