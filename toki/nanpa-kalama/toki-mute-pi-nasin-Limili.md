@@ -106,8 +106,10 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 86.	sina moli anu seme a?  
 87.	ona o ona e ona la,  
 88.	mi kama. mi lukin. mi anpa  
+{{{sitelen "0025_caesar.png" "drawing of Caesar" "jan Alonola"}}}
 89.	ona o anpa ala anpa?  
 90.	ma Montana li jo e pona  
+{{{sitelen "0025_us_state.png" "drawing of Montana" "jan Alonola"}}}
 91.	ni li pana e lipu weka  
 92.	tan seme la, o kama sona  
 93.	pipi walo monsi kute la,  
@@ -243,6 +245,7 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 17.	la, ona li tan ni  
 18.	mi moku e kili  
 19.	jan Lan li jan lili  
+{{{sitelen "0025_veg_climber.png" "drawing of someone climbing a vegetable" "jan Alonola"}}}
 20.	o kili e kasi  
 21.	jan sewi o moli  
 22.	ma sewi li musi  
@@ -408,6 +411,7 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 79.	sina ken kipisi  
 80.	ona li kapesi  
 81.	seme li soweli  
+{{{sitelen "0025_silhouette.png" "drawing of a Capybara silhouette with 'seme li soweli' text" "jan Alonola"}}}
 82.	sina o akesi  
 83.	o sitelen nasin  
 84.	o majuna lukin  
@@ -498,6 +502,7 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 66.	a! kulupu oko o nanpa.  
 67.	sijelo telo ni li tawa.  
 68.	nimi Epiku o moli a!  
+{{{sitelen "0025_grave.png" "drawing of a grave, with epitaph of 'nimi Epiku'" "jan Alonola"}}}
 69.	o jaki insa e palisa.  
 70.	telo sijelo o lon insa.  
 71.	ni li jan Lulu. mi jan Lola.  

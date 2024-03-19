@@ -4,6 +4,8 @@ jan-pali: jan Momo
 tags:
 	- toki-toki
 ---
+{{{sitelen "0025_pilin_mi_pi_nasin_nanpa_pona.png" "sitelen pona of the below text" "jan Momo"}}}
+
 mi jan Momo · toki a ·
 
 suno mute en mun mute li tawa sewi pi lawa mi,  

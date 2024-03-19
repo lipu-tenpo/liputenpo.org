@@ -6,6 +6,8 @@ tags:
 ---
 ni li toki tu. taso nimi ale pi ona tu li sama.
 
+{{{sitelen "0025_alarm_clock.png" "drawing of alarm clock" "jan Alonola"}}}
+
 ilo li pana e kalama wawa.  
 ilo li suli.  
 ike ona li lili taso.  
