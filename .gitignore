@@ -5,3 +5,6 @@
 /_site
 /tailwind/tailwind.out.css
 /scribus
+
+# python
+/env/
