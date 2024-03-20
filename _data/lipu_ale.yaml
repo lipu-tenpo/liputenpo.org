@@ -1,10 +1,10 @@
 - id: 25
   title: nanpa kalama
   date: 2024-03-20
-  pdf: ""
+  pdf: "0025kalama.pdf"
   pdf_pf: ""
-  pdf_bwpf: ""
-  cover_image: "0000xxxx_sinpin.png"
+  pdf_bwpf: "0025kalama_bwpf.pdf"
+  cover_image: "0025kalama_sinpin.png"
 - id: 24
   title: nanpa tenpo
   date: 2024-02-07
