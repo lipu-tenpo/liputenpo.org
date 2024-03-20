@@ -105,7 +105,7 @@ h2 {
   font-size: 2rem;
   padding: 1rem 1rem;
 
-  background-color: var(--colour-laso);
+  background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
   border-radius: var(--blob-border-radius-04);
 }
