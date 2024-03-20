@@ -13,7 +13,7 @@
   justify-content: center;
   align-items: center;
 
-  background-color: var(--colour-laso);
+  background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
   border-radius: var(--blob-border-radius-03);
 }
@@ -76,22 +76,22 @@ search > input {
 }
 
 .blobby-0 {
-  background-color: var(--colour-unu);
+  background-color: var(--colour-unu-walo);
   color: var(--colour-unu-pimeja);
   border-radius: var(--blob-border-radius-02);
 }
 .blobby-1 {
-  background-color: var(--colour-jelo);
+  background-color: var(--colour-jelo-walo);
   color: var(--colour-jelo-pimeja);
   border-radius: var(--blob-border-radius-04);
 }
 .blobby-2 {
-  background-color: var(--colour-loje);
+  background-color: var(--colour-loje-walo);
   color: var(--colour-loje-pimeja);
   border-radius: var(--blob-border-radius-02);
 }
 .blobby-3 {
-  background-color: var(--colour-laso);
+  background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
   border-radius: var(--blob-border-radius-04);
 }

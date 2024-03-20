@@ -83,7 +83,7 @@
   justify-content: center;
   align-items: center;
 
-  background-color: var(--colour-laso);
+  background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
   border-radius: var(--blob-border-radius-03);
 }

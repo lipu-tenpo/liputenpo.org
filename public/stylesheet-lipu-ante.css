@@ -9,7 +9,7 @@
 .h2 h2 {
   padding: 0.5rem 2rem;
 
-  background-color: var(--colour-laso);
+  background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
   border-radius: var(--blob-border-radius-04);
 }
