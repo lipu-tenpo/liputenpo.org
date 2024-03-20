@@ -36,6 +36,10 @@ module.exports = function (eleventyConfig) {
   if (process.env.ELEVENTY_RUN_MODE != "serve") {
     eleventyConfig.addPassthroughCopy({ pdfs: "/pdfs" });
   }
+  if (process.env.ELEVENTY_RUN_MODE == "serve") {
+    // do not process redirect.hbs
+    eleventyConfig.ignores.add("redirect.hbs");
+  }
   // static assets
   eleventyConfig.addPassthroughCopy({ public: "/" });
   // toki images
