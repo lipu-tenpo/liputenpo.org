@@ -108,8 +108,7 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 88.	mi kama. mi lukin. mi anpa  
 {{{sitelen "0025_caesar.png" "drawing of Caesar" "jan Alonola"}}}
 89.	ona o anpa ala anpa?  
-90.	ma Montana li jo e pona  
-{{{sitelen "0025_us_state.png" "drawing of Montana" "jan Alonola"}}}
+90.	selo awen li namako a  
 91.	ni li pana e lipu weka  
 92.	tan seme la, o kama sona  
 93.	pipi walo monsi kute la,  
@@ -212,7 +211,8 @@ kulupu nimi 100 li lon linja ali la, toki 10,000,000,000 pi nasin Limili li lon 
 87.	ona li awen lukin ona  
 88.	suno sina li mun kalama  
 89.	kepeken seme la, mi wawa  
-90.	selo awen li namako a  
+90.	ma Montana li jo e pona  
+{{{sitelen "0025_us_state.png" "drawing of Montana" "jan Alonola"}}}
 91.	oko lete li ante lupa  
 92.	lawa sina o awen ala  
 93.	kasi mani li oko uta  
