@@ -29,10 +29,10 @@ function imageShortcode(src, cls, alt, ...allwidths) {
 }
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.ignores.add("README.md");
   // copy files to site
   // pdfs, i.e., the main content
   //  do not copy these on --serve as they are large so site refresh is slow
-  console.log(process.env.ELEVENTY_RUN_MODE);
   if (process.env.ELEVENTY_RUN_MODE != "serve") {
     eleventyConfig.addPassthroughCopy({ pdfs: "/pdfs" });
   }
