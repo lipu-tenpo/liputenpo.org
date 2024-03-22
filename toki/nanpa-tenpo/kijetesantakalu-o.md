@@ -4,4 +4,4 @@ jan-pali: jan Ke Tami
 tags:
   - musi
 ---
-{{{sitelen "0024_kijetesantakalu.png" "kijetesantakalu o comic"}}}
+{{{sitelen "0024_kijetesantakalu.png" "kijetesantakalu o comic" "jan Ke Tami"}}}

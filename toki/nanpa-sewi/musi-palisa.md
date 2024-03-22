@@ -18,24 +18,24 @@ pali nanpa tu wan: o jo e linja suli. o linja e palisa tu wan.
 
 pali nanpa tu tu: o wan e palisa nanpa wan e palisa nanpa tu wan. ni la sijelo pi sinpin tu wan li lon. ona li ni lukin:
 
-{{{sitelen "0023sewi_musi_palisa-2.jpg" "0023sewi_musi_palisa-2.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-2.jpg" "0023sewi_musi_palisa-2.jpg" "jan Masine"}}}
 
 pali nanpa luka: o linja e palisa tu o pali e sijelo sin pi sinpin tu wan lon linja palisa. ona li ni lukin:
 
-{{{sitelen "0023sewi_musi_palisa-3.jpg" "0023sewi_musi_palisa-3.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-3.jpg" "0023sewi_musi_palisa-3.jpg" "jan Masine"}}}
 
 pali nanpa luka wan: o awen pali e pali nanpa luka tawa tenpo ni: sina jo e sijelo luka pi sinpin tu wan en sina jo e palisa wan taso lon linja ala. pona la linja sina li jo e lukin ni:
 
-{{{sitelen "0023sewi_musi_palisa-4.jpg" "0023sewi_musi_palisa-4.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-4.jpg" "0023sewi_musi_palisa-4.jpg" "jan Masine"}}}
 
 pali nanpa luka tu: o linja e palisa sin o wan e ona tawa open linja.
 
-{{{sitelen "0023sewi_musi_palisa-6.jpg" "0023sewi_musi_palisa-6.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-6.jpg" "0023sewi_musi_palisa-6.jpg" "jan Masine"}}}
 
 pali nanpa luka tu wan: ma tu la palisa tu taso li linja. o linja sin e pini sijelo ona. sina kama jo e musi palisa lili!
 
-{{{sitelen "0023sewi_musi_palisa-1.jpg" "0023sewi_musi_palisa-1.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-1.jpg" "0023sewi_musi_palisa-1.jpg" "jan Masine"}}}
 
 wile sina la o ken pali e sijelo ni mute pi suli ante mute o wan e ona. musi pona!
 
-{{{sitelen "0023sewi_musi_palisa-5.jpg" "0023sewi_musi_palisa-5.jpg"}}}
+{{{sitelen "0023sewi_musi_palisa-5.jpg" "0023sewi_musi_palisa-5.jpg" "jan Masine"}}}

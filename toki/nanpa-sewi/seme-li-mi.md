@@ -19,4 +19,4 @@ kute mi li sama lipu suli
 soweli lili li ike tawa mi  
 mi jo e nena linja wawa suli  
 
-{{{sitelen "0023sewi_seme_li_mi_nanpa_sewi-768x1255.png" "0023sewi_seme_li_mi_nanpa_sewi-768x1255.png"}}}
+{{{sitelen "0023sewi_seme_li_mi_nanpa_sewi-768x1255.png" "0023sewi_seme_li_mi_nanpa_sewi-768x1255.png" "jan Alonola"}}}
