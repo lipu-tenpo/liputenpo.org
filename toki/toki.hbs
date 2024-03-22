@@ -37,6 +37,11 @@ categories:
 </div>
 
 <section class="categories" x-data="{search: ''}">
+  <nav>
+    {{#each categories}}
+    <a href="#{{slugify name}}">{{name}}</a> {{#unless @last}}•{{/unless}}
+    {{/each}}
+  </nav>
   <search>
     <label for="search">alasa</label>
     <label for="search" class="sitelen-pona">alasa</label>
