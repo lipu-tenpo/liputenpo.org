@@ -59,6 +59,7 @@ search > input {
 }
 
 .categories {
+  margin-bottom: 5rem;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -73,6 +74,9 @@ search > input {
   justify-content: center;
   align-items: center;
   padding: 1.25rem 2.5rem 0;
+}
+.categories h3.hidden {
+  display: none;
 }
 
 .blobby-0 {
@@ -103,12 +107,11 @@ search > input {
 }
 
 .articles {
-  margin: 1rem;
+  margin: 0 1rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-bottom: 5rem;
 }
 
 .article {

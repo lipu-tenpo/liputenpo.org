@@ -48,7 +48,7 @@ categories:
     <input type="search" id="search" x-model="search" x-on:input = "window.history.replaceState(search, '', '/toki/' + (search ? '?alasa=' + search : ''))" x-init="let params = new URLSearchParams(window.location.search); search = params.get('alasa') || ''">
   </search>
   {{#each categories}}
-  <h3 id="{{slugify name}}" class="blobby-{{modulo 4 @index}}">
+  <h3 id="{{slugify name}}" class="blobby-{{modulo 4 @index}}" :class="{'hidden': !('{{#each (reversed (getkey ../collections collection))}}{{data.[nimi-suli]}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) || '{{#each (reversed (getkey ../collections collection))}}{{data.[jan-pali]}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) || '{{#each (reversed (getkey ../collections collection))}}{{getIssueTag data.tags}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) )}">
     {{name}}
     <span class="category-title sitelen-pona">{{name}}</span>
   </h3>
