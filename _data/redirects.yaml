@@ -87,6 +87,7 @@
 - /alasa-nimi-ma-asija/
 - /lipu-tenpo-nanpa-sewi/: /lipu/nanpa-sewi/
 - /lipu-tenpo-nanpa-tenpo/: /lipu/nanpa-tenpo/
+- /lipu-tenpo-nanpa-kalama/: /lipu/nanpa-kalama/
 - /lipu-tenpo-nanpa-sin/: /lipu/nanpa-sin/
 - /lipu-tenpo-li-lon-selo-sin/
 - /ijo-sin-pi-lipu-wikipesija/
@@ -124,18 +125,18 @@
 - /toki-olapi-li-seme/
 - /category/ante/
 - /category/ijo-pona/
-- /category/jan/
-- /category/toki/kulupu/
+- /category/jan/: /sona/
+- /category/toki/kulupu/: /toki/#kulupu
 - /category/lipu/: /
-- /category/toki/ma/
-- /category/toki/moku-toki/
-- /category/toki/musi/
-- /category/toki/pilin/
-- /category/toki/sona/
-- /category/toki/toki-toki/
-- /category/toki/
-- /category/toki/toki-musi/
-- /category/toki/toki-pona/
+- /category/toki/ma/: /toki/#ma
+- /category/toki/moku-toki/: /toki/
+- /category/toki/musi/: /toki/#musi
+- /category/toki/pilin/: /toki/
+- /category/toki/sona/: /toki/#sona
+- /category/toki/toki-toki/: /toki/#toki=toki
+- /category/toki/: /toki/
+- /category/toki/toki-musi/: /toki/#toki-musi
+- /category/toki/toki-pona/: /toki/#toki-pona
 - /tag/akesi/: /lipu/nanpa-akesi/
 - /tag/ala/: /lipu/nanpa-ala/
 - /tag/anniversary/
