@@ -6,6 +6,8 @@ example:
 """
 
 import sys
+
+# pip install pyyaml
 import yaml
 
 LIPU_ALE = "_data/lipu_ale.yaml"
