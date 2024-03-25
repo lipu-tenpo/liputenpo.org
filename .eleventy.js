@@ -115,6 +115,28 @@ module.exports = function (eleventyConfig) {
     return nanpa_tags.at(0);
   });
 
+  // helper for sorting jan pali
+  eleventyConfig.addHandlebarsHelper("sortJanPali", (janpali) => {
+    // jan pali are obj with "name" and optional "active"
+    // sort first by "active" then by "name"
+    console.log(janpali);
+    return janpali.sort((a, b) => {
+      if (a.active && !b.active) {
+        return -1;
+      } else if (!a.active && b.active) {
+        return 1;
+      } else {
+        // sort by 2nd word if possible
+        let a_name = a.name.split(" ");
+        let b_name = b.name.split(" ");
+        if (a_name.length > 1 && b_name.length > 1) {
+          return a_name[1].localeCompare(b_name[1]);
+        }
+        return a.name.localeCompare(b.name);
+      }
+    });
+  });
+
   // helpers for use in markdown (toki)
   // pu - link to nimi pi pu ala
   eleventyConfig.addHandlebarsHelper("pu", (nimi) => {

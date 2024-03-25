@@ -24,7 +24,7 @@ css:
         <div class="jan-mute">
             <h4 id="{{@key}}">{{@key}}</h4>
             <ul>
-                {{#each this}}
+                {{#each (sortJanPali this)}}
                 <li class="jan {{#if active}}active{{/if}}">
                     <span>
                         {{name}}
