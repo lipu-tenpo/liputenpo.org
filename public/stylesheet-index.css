@@ -25,11 +25,13 @@
 }
 
 #introduction {
-  margin: 2rem 0;
-  background-color: var(--logo-primary);
+  margin: 0;
   position: relative;
-  --padding: 2rem;
-  padding: var(--padding) 0;
+  padding: 0;
+}
+/* purple wibbly lines */
+/* #introduction {
+  background-color: var(--logo-primary);
 }
 #introduction::before {
   content: "";
@@ -43,7 +45,6 @@
   top: calc(-5rem + 1px);
   left: 0;
   pointer-events: none;
-  /* animation: scrollleft 60s linear infinite; */
 }
 #introduction::after {
   content: "";
@@ -58,10 +59,9 @@
   right: 0;
   pointer-events: none;
   transform: rotate(180deg);
-  /* animation: scrollright 60s linear infinite; */
-}
+} */
 #introduction p {
-  margin: 2rem 2rem;
+  margin: 1rem;
   font-size: 1.5rem;
   line-height: 2;
   text-align: center;
