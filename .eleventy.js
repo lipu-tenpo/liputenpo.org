@@ -124,7 +124,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("sortJanPali", (janpali) => {
     // jan pali are obj with "name" and optional "active"
     // sort first by "active" then by "name"
-    console.log(janpali);
     return janpali.sort((a, b) => {
       if (a.active && !b.active) {
         return -1;
