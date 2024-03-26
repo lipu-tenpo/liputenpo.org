@@ -8,6 +8,7 @@
 }
 .h2 h2 {
   padding: 0.5rem 2rem;
+  margin: 0;
 
   background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);

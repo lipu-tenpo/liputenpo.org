@@ -70,7 +70,7 @@
 
 .h2 {
   font-size: 3em;
-  margin: 4rem 0 2rem;
+  margin: 0;
   display: flex;
   justify-content: center;
   align-items: center;
