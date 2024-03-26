@@ -116,7 +116,8 @@ module.exports = function (eleventyConfig) {
     if (nanpa_tags.length != 1) {
       throw Error("could not find toki type tag, found tags: " + tags);
     }
-    return nanpa_tags.at(0);
+    let tag = nanpa_tags.at(0);
+    return tag == "toki-toki" ? "toki" : tag;
   });
 
   // helper for sorting jan pali
