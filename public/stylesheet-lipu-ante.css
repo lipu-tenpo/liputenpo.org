@@ -16,12 +16,16 @@
 
 .lipu-ante {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  margin-bottom: 1rem;
+  align-items: start;
+  margin: 0 1rem 1rem;
 }
-
+.lipu-ante .list {
+  max-width: 15rem;
+  margin: 1rem;
+}
 .lipu-ante li {
   margin: 0.5rem;
 }
