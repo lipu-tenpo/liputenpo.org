@@ -209,7 +209,7 @@ header nav a {
   border-radius: 0.5rem;
 }
 header nav a:hover {
-  background-color: var(--primary-700);
+  background-color: var(--primary-300);
 }
 
 main {
