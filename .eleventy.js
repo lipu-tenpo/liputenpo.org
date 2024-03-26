@@ -1,6 +1,7 @@
 const yaml = require("js-yaml");
 const Image = require("@11ty/eleventy-img");
 const fs = require("fs");
+const markdownIt = require("markdown-it");
 
 function imageShortcode(src, cls, alt, ...allwidths) {
   // remove last width element
@@ -80,6 +81,9 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addHandlebarsHelper("appendString", (str, append) => {
     return str + append;
+  });
+  eleventyConfig.addHandlebarsHelper("markdown", (str) => {
+    return markdownIt().render(str);
   });
 
   // helpers for RSS feed

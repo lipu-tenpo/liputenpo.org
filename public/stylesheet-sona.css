@@ -15,6 +15,48 @@
   border-radius: var(--blob-border-radius-03);
 }
 
+.ni-li-seme {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+.ni-li-seme > * {
+  max-width: 40rem;
+}
+.ni-li-seme h3 {
+  font-size: 2rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-loje-walo);
+  color: var(--colour-loje-pimeja);
+  border-radius: var(--blob-border-radius-04);
+}
+.ni-li-seme h4 {
+  margin: 1rem 0 0;
+}
+
+.faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+.faq > * {
+  max-width: 40rem;
+}
+.faq h3 {
+  font-size: 2rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-laso-walo);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-01);
+}
+.faq h4 {
+  margin: 1rem 0 0;
+}
+
 .nimi-pi-pu-ala {
   display: flex;
   flex-direction: column;
@@ -26,8 +68,8 @@
   font-size: 2rem;
   margin: 0.5rem;
   padding: 0.75rem 2rem;
-  background-color: var(--colour-jelo-walo);
-  color: var(--colour-jelo-pimeja);
+  background-color: var(--colour-loje-walo);
+  color: var(--colour-loje-pimeja);
   border-radius: var(--blob-border-radius-04);
 }
 .nimi-pi-pu-ala h4 {
@@ -86,7 +128,7 @@
 .sona h3 {
   font-size: 2rem;
   padding: 0.5rem 2rem;
-  background-color: var(--colour-loje-walo);
-  color: var(--colour-loje-pimeja);
+  background-color: var(--colour-jelo-walo);
+  color: var(--colour-jelo-pimeja);
   border-radius: var(--blob-border-radius-03);
 }
