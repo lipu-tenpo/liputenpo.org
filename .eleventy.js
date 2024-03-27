@@ -1,6 +1,7 @@
 const yaml = require("js-yaml");
 const Image = require("@11ty/eleventy-img");
 const fs = require("fs");
+const markdownIt = require("markdown-it");
 
 function imageShortcode(src, cls, alt, ...allwidths) {
   // remove last width element
@@ -81,6 +82,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("appendString", (str, append) => {
     return str + append;
   });
+  eleventyConfig.addHandlebarsHelper("markdown", (str) => {
+    return markdownIt().render(str);
+  });
 
   // helpers for RSS feed
   // add handler to convert date to ISO string
@@ -112,7 +116,29 @@ module.exports = function (eleventyConfig) {
     if (nanpa_tags.length != 1) {
       throw Error("could not find toki type tag, found tags: " + tags);
     }
-    return nanpa_tags.at(0);
+    let tag = nanpa_tags.at(0);
+    return tag == "toki-toki" ? "toki" : tag;
+  });
+
+  // helper for sorting jan pali
+  eleventyConfig.addHandlebarsHelper("sortJanPali", (janpali) => {
+    // jan pali are obj with "name" and optional "active"
+    // sort first by "active" then by "name"
+    return janpali.sort((a, b) => {
+      if (a.active && !b.active) {
+        return -1;
+      } else if (!a.active && b.active) {
+        return 1;
+      } else {
+        // sort by 2nd word if possible
+        let a_name = a.name.split(" ");
+        let b_name = b.name.split(" ");
+        if (a_name.length > 1 && b_name.length > 1) {
+          return a_name[1].localeCompare(b_name[1]);
+        }
+        return a.name.localeCompare(b.name);
+      }
+    });
   });
 
   // helpers for use in markdown (toki)

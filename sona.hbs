@@ -9,12 +9,35 @@ css:
   <h2 id="sona">sona</h2>
 </div>
 
+<article class="ni-li-seme">
+    <h3 id="ni-li-seme">ni li seme?</h3>
+    {{#each sona.[ni-li-seme]}}
+    <h4>{{question}}</h4>
+    {{{markdown answer}}}
+    {{/each}}
+</article>
+
+<article class="faq">
+    <h3 id="faq">FAQ</h3>
+    {{#each sona.faq}}
+    <h4>{{question}}</h4>
+    {{{markdown answer}}}
+    {{/each}}
+</article>
+
 <article class="nimi-pi-pu-ala">
     <h3 id="nimi-pi-pu-ala">nimi pi pu ala</h3>
-    {{#each nimi-pi-pu-ala}}
-    <h4 id="{{@key}}">{{@key}}</h4>
-    <p>{{this}}</p>
-    {{/each}}
+    <p>o lukin e linluwi...</p>
+    <nav>
+        <ul>
+            <li>
+                <a href="https://linku.la/">linku.la</a>
+            </li>
+            <li>
+                <a href="https://nimi.li/">nimi.li</a>
+            </li>
+        </ul>
+    </nav>
 </article>
 
 <article class="jan-pali">
@@ -24,7 +47,7 @@ css:
         <div class="jan-mute">
             <h4 id="{{@key}}">{{@key}}</h4>
             <ul>
-                {{#each this}}
+                {{#each (sortJanPali this)}}
                 <li class="jan {{#if active}}active{{/if}}">
                     <span>
                         {{name}}
@@ -42,16 +65,9 @@ css:
 
 <section class="sona">
     <h3 id="sona-footer">sona</h3>
+    {{#each sona.footer}}
     <p>
-        mi mute li toki e ni tawa jan lukin: sina pona!
+        {{this}}
     </p>
-    <p>
-        mi mute li pana e lipu tenpo lon ma Tosi.
-    </p>
-    <p>
-        Published in Germany by lipu tenpo e.V.
-    </p>
-    <p>
-        lipu tenpo is the first published magazine in toki pona. Its ISSN is 2752-4639.
-    </p>
+    {{/each}}
 </section>

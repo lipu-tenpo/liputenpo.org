@@ -1,1 +1,29 @@
 site: https://liputenpo.org
+ni-li-seme:
+  - question: "What is this?"
+    answer: "Hello! You’re looking at the website for lipu tenpo, a magazine written in Toki Pona. Maybe you’re new and want to know more about this language. Great! This page hopes to answer some of your questions."
+  - question: "What is Toki Pona?"
+    answer: "Toki Pona is an elegant minimal language. It was created by the Canadian linguist Sonja Lang in 2001. It has only got 14 letters and about 130 words."
+  - question: "Why would I learn Toki Pona?"
+    answer: "Despite how tiny the language is, it is still possible to describe any concept with it. This might fascinate you. Maybe you just want to take a break from the complex world we live in. Or perhaps you just want to talk to your friends without others knowing what you’re saying."
+  - question: "How can I learn Toki Pona, and where can I use it?"
+    answer: "There is the official book: Toki Pona: The Language of Good by Sonja Lang. It teaches how to use Toki Pona. Sonja made a Toki Pona Dictionary too. There are also several free online courses. You can find Toki Pona groups and learning resources on [tokipona.org](https://tokipona.org/), the official website, as well as on our own website: [liputenpo.org](https://liputenpo.org)."
+faq:
+  - question: "Can I write an article?"
+    answer: "Yep! Read the long description in the [article submission form](https://docs.google.com/forms/d/e/1FAIpQLSfzw5uXqcdP-mh42WVbWXpmQrXJi15lYG8HrIvIJBf7cTofkA/viewform), and put your article in it. If you want to regularly contribute articles, join [the Discord](https://linktr.ee/liputenpo) and ask about it."
+  - question: "Do I have to pay?"
+    answer: "lipu tenpo is a non-profit magazine run entirely on volunteers. We do have [a Patreon](https://www.patreon.com/liputenpo/) where you can support us and even order physical copies!"
+  - question: "Can I join the team?"
+    answer: "If you are fluent in toki pona and can (and want to) regularly write articles, proofread others' articles or help with the layout or social media you are very welcome! The same goes for helping with our illustration, for which you don't have to be fluent :)"
+  - question: "What's your copyright policy like? Can I use one of the articles/images for myself?"
+    answer: "Every article, image, etc given to lipu tenpo is published individually under CC-BY-SA 4.0. CC-BY-SA 4.0 means that you are allowed to do commercial things with it, have to give appropriate credit to the creator, and if you build-upon the work, the mentioned work has to be published under the same license. For more info: <https://creativecommons.org/licenses/by-sa/4.0/>"
+  - question: "This one issue doesn't have a sitelen pona version, why not?"
+    answer: "Converting an issue to sitelen pona takes a significant amount of time; we simply cannot do it every issue. We've taken a few initiatives to fix this, mostly by asking a few other people to take on the role, but haven't had a successful attempt of that quite yet. If you're willing to put in a few hours for every release, are willing to do this for every release, come and join our team :)"
+  - question: "Can I put up an ad of some sort?"
+    answer: "Absolutely! Write a discord DM or mail to the editors. These are free of charge, but it is up to us whether an ad would fit into a lipu tenpo!"
+footer:
+  - "mi mute li toki e ni tawa jan lukin: sina pona!"
+  - "mi mute li pana e lipu tenpo lon ma tomo Aken lon ma Tosi."
+  - "Published in Aachen, Germany by lipu tenpo e.V."
+  - "lipu tenpo is the first published magazine in toki pona. Its ISSN is 2752-4639."
+  

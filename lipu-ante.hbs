@@ -9,17 +9,19 @@ css:
 </div>
 <section class="lipu-ante">
   {{#each lipu_ante}}
-  <h3 id="{{@key}}">{{@key}}</h3>
-  <nav>
-    <ul>
-    {{#each this}}
-      <li>
-        {{#each this}}
-        <a href="{{this}}">{{@key}}</a>
-        {{/each}}
-      </li>
-    {{/each}}
-    </ul>
-  </nav>
+  <div class="list">
+    <h3 id="{{@key}}">{{@key}}</h3>
+    <nav>
+      <ul>
+      {{#each this}}
+        <li>
+          {{#each this}}
+          <a href="{{this}}">{{@key}}</a>
+          {{/each}}
+        </li>
+      {{/each}}
+      </ul>
+    </nav>
+  </div>
   {{/each}}
 </section>

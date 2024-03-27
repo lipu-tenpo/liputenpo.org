@@ -8,6 +8,7 @@
 }
 .h2 h2 {
   padding: 0.5rem 2rem;
+  margin: 1rem 0 0;
 
   background-color: var(--colour-laso-walo);
   color: var(--colour-laso-pimeja);
@@ -16,12 +17,16 @@
 
 .lipu-ante {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
   justify-content: center;
-  align-items: center;
-  margin-bottom: 1rem;
+  align-items: start;
+  margin: 0 1rem 1rem;
 }
-
+.lipu-ante .list {
+  max-width: 15rem;
+  margin: 1rem;
+}
 .lipu-ante li {
   margin: 0.5rem;
 }

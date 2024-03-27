@@ -8,27 +8,25 @@ css:
 scripts:
   - '<script defer src="/alpine.min.js"></script>'
 categories:
-  - name: sona
-    collection: sona
-  - name: ma
-    collection: ma
-  - name: musi
-    collection: musi
   - name: kama
     collection: kama
   - name: kulupu
     collection: kulupu
-  - name: toki musi
-    collection: toki-musi
-  - name: toki toki
-    collection: toki-toki
   - name: toki pona
     collection: toki-pona
+  - name: sona
+    collection: sona
+  - name: ma
+    collection: ma
+  - name: toki
+    collection: toki-toki
   - name: toki ante
     collection: toki-ante
+  - name: musi
+    collection: musi
 ---
 <div class="h2">
-  <h2 id="toki">
+  <h2>
       toki
       <a id="rss" href="./feed.xml">
           <img alt="_RSS_" src="/rss.svg" />
@@ -77,10 +75,10 @@ categories:
                   <span class="sitelen-pona">lipu</span>
                   {{getIssueTag data.tags}}
               </span>
-              <span class="category">
+              {{!-- <span class="category">
                 <span class="sitelen-pona">{{getTokiTypeTag data.tags}}</span>
                 {{getTokiTypeTag data.tags}}
-              </span>
+              </span> --}}
           </div>
       </a>
       {{/each}}
