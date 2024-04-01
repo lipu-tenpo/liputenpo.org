@@ -47,6 +47,11 @@
   pdf_pf: 0019mama_pf.pdf
   pdf_bwpf: 0019mama_bwpf.pdf
   cover_image: 0019mama_sinpin.png
+- id: 18.5
+  title: kati tiki tu lili
+  date: 2023-04-01
+  pdf: 0018.5kati-tiki-tu-lili.pdf
+  cover_image: 0018.5kati-tiki-tu-lili_sinpin.png
 - id: 18
   title: nanpa tu
   date: 2023-02-06
