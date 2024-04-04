@@ -23,9 +23,6 @@ h2 {
 .main h3 {
   margin: 0;
 }
-.pdfs {
-  margin-bottom: 2rem;
-}
 .pdfs ul {
   margin: 0;
   padding: 0;
@@ -71,6 +68,10 @@ h2 {
 .pdfs .sitelen-pona {
   font-size: 1.5em;
   font-family: "sitelen seli kiwen", sans-serif;
+}
+
+.how-to-print {
+  margin: 0 0 2rem;
 }
 
 .embed {
