@@ -95,6 +95,11 @@ h2 {
   font-size: 2rem;
 }
 
+.nasin-pali .yt-embed {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 .toki {
   display: flex;
   flex-direction: column;
