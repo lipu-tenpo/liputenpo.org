@@ -267,13 +267,15 @@ main a:hover {
 }
 
 footer {
-  font-family: "Bogface", sans-serif;
+  font-family: "Andika", sans-serif;
   background-color: var(--logo-primary);
-  padding: 1rem 0;
+  padding: 1rem;
   margin-top: auto;
   position: relative;
+  display: flex;
+  justify-content: center;
 }
-footer nav {
+footer section {
   padding: 0.5rem;
 }
 footer::before {
@@ -288,41 +290,70 @@ footer::before {
   top: calc(-5rem + 1px);
   pointer-events: none;
 }
-footer .links {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  /* display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); */
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-}
-footer .links > * {
-  flex: 1 1 15rem;
-  max-width: 15rem;
-  text-align: center;
-}
-footer .links a {
+footer a {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  margin: 0.5rem;
 }
-footer .links img.icon {
+footer a img.icon {
   height: 2rem;
   width: auto;
   filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(112deg)
     brightness(106%) contrast(109%);
 }
-footer .links a {
+footer a {
+  font-family: "BogFace", sans-serif;
   color: white;
   text-decoration: none;
   font-size: 1.2rem;
   text-align: center;
 }
-footer .links a:hover {
+footer a:hover {
   text-decoration: underline;
+}
+
+footer > section {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "linktree licence"
+    "discord licence"
+    "github email"
+    "patreon form";
+  align-items: center;
+  justify-content: center;
+  max-width: 30rem;
+}
+footer .discord {
+  grid-area: discord;
+}
+footer .linktree {
+  grid-area: linktree;
+}
+footer .github {
+  grid-area: github;
+}
+footer .patreon {
+  grid-area: patreon;
+}
+footer .email {
+  grid-area: email;
+}
+footer .form {
+  grid-area: form;
+}
+footer .licence {
+  max-width: 15rem;
+  margin: auto;
+  text-align: justify;
+  grid-area: licence;
+}
+
+@media screen and (max-width: 500px) {
+  footer > section {
+    grid-template-columns: 1fr;
+    grid-template-areas: "linktree" "discord" "github" "patreon" "licence" "email" "form";
+  }
 }
