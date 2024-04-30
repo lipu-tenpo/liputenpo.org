@@ -67,6 +67,15 @@ search > input {
   align-items: center;
 }
 
+.categories .quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.categories .quicklinks span {
+  margin: 0 0.25rem;
+}
+
 .categories h3 {
   font-size: 2rem;
   display: flex;
