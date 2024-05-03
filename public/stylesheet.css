@@ -316,15 +316,12 @@ footer a:hover {
 
 footer > section {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-areas:
-    "linktree licence"
-    "discord licence"
-    "github email"
-    "patreon form";
+    "linktree github licence email"
+    "discord patreon licence form";
   align-items: center;
   justify-content: center;
-  max-width: 30rem;
 }
 footer .discord {
   grid-area: discord;
@@ -346,14 +343,24 @@ footer .form {
 }
 footer .licence {
   max-width: 15rem;
-  margin: auto;
+  margin: auto 0.5rem;
   text-align: justify;
   grid-area: licence;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 900px) {
   footer > section {
-    grid-template-columns: 1fr;
-    grid-template-areas: "linktree" "discord" "github" "patreon" "licence" "email" "form";
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "linktree licence"
+      "discord licence"
+      "github email"
+      "patreon form";
+  }
+  @media screen and (max-width: 500px) {
+    footer > section {
+      grid-template-columns: 1fr;
+      grid-template-areas: "linktree" "discord" "github" "patreon" "licence" "email" "form";
+    }
   }
 }
