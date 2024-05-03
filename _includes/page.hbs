@@ -106,58 +106,47 @@ scripts: []
   <main>{{{ content }}}</main>
 
   <footer>
-    <nav>
-      <ul class="links">
-        <li>
-          <a href="{{ linluwi.discord }}">
-            <img class="icon" src="/icons/discord.svg" alt="discord icon" />
-            <span>
-              Discord
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="{{ linluwi.linktree }}">
-            <img class="icon" src="/icons/linktree.svg" alt="linktree icon" />
-            <span>
-              Linktree
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="{{ linluwi.patreon }}">
-            <img class="icon" src="/icons/patreon.svg" alt="patreon icon" />
-            <span>
-              Patreon
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="mailto:{{ linluwi.email }}">
-            <img class="icon" src="/icons/email.svg" alt="email icon" />
-            <span>
-              {{ linluwi.email }}
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="{{ linluwi.article_submission_form }}">
-            <img class="icon" src="/icons/pen.svg" alt="pen icon" />
-            <span>
-              o pana e pali sina
-            </span>
-          </a>
-        </li>
-        <li>
-          <a href="{{ linluwi.[github-issue] }}">
-            <img class="icon" src="/icons/github.svg" alt="github icon" />
-            <span>
-              linluwi li pakala
-            </span>
-          </a>
-        </li>
-      </ul>
-    </nav>
+    <section>
+      <a href="{{ linluwi.discord }}" class="discord">
+        <img class="icon" src="/icons/discord.svg" alt="discord icon" />
+        <span>
+          Discord
+        </span>
+      </a>
+      <a href="{{ linluwi.linktree }}" class="linktree">
+        <img class="icon" src="/icons/linktree.svg" alt="linktree icon" />
+        <span>
+          Linktree
+        </span>
+      </a>
+      <a href="{{ linluwi.patreon }}" class="patreon">
+        <img class="icon" src="/icons/patreon.svg" alt="patreon icon" />
+        <span>
+          Patreon
+        </span>
+      </a>
+      <a href="mailto:{{ linluwi.email }}" class="email">
+        <img class="icon" src="/icons/email.svg" alt="email icon" />
+        <span>
+          {{ linluwi.email }}
+        </span>
+      </a>
+      <a href="{{ linluwi.article_submission_form }}" class="form">
+        <img class="icon" src="/icons/pen.svg" alt="pen icon" />
+        <span>
+          o pana e pali sina
+        </span>
+      </a>
+      <a href="{{ linluwi.[github-issue] }}" class="github">
+        <img class="icon" src="/icons/github.svg" alt="github icon" />
+        <span>
+          linluwi li pakala
+        </span>
+      </a>
+      <p class="licence">
+        <em>lipu tenpo</em> is a registered association in Germany. All issues, images, and entries are licenced under the CC BY-SA 4.0 licence.
+      </p>
+    </section>
   </footer>
 </body>
 
