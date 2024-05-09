@@ -57,4 +57,4 @@ sina ken lukin e sona e toki pi musi Og lon lipu ni (kepeken toki Inli):
 ¹ijo “kana” li lon ma ala; ona li lon toki taso anu lipu taso anu sitelen taso anu lawa taso anu musi taso.  
 ²akesi monsuta li waso akesi ma pi tenpo pini pi weka mute suli; lon la ona li lon ala poka pi jan pi tenpo pini. jan ni kin la, ona li lon tenpo pini pi weka mute a.  
 ³lupa lon insa poka pi nena suli; toki ante la, ni li ken nimi wan. sina wile musi kepeken toki pona la sina ken kepeken nimi “lupa” anu nimi “tomo”.  
-⁴lupa lon insa poka pi nena suli; toki ante la, ni li ken nimi wan. sina wile musi kepeken toki pona la sina ken kepeken nimi “lupa” anu nimi “tomo”.  
+⁴toki ante la, ni li ken nimi wan. sina wile musi kepeken toki pona la, ken la sina ken kepeken nimi “ko” anu nimi “linja”.  
