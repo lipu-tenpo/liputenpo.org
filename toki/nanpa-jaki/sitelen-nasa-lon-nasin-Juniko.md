@@ -13,6 +13,8 @@ tomo sewi pi nasin Jesu la, ma li lon kulupu toki Lojanki li kepeken e toki Loja
 
 sitelen O oko ante li lon kin, taso ona li musi ala. ona li jo e oko wan taso anu oko tu taso.
 
+{{{sitelen "0024_juniko-kule.png" "drawing of person typing on computer" "jan Alonola"}}}
+
 ## moku linja Pijanpijanmijen
 
 toki Sonko la moku linja ni (𰻝𰻝面, _biángbiángmiàn_) li jo e sitelen Kansi pi linja mute. sitelen ni li ken jo e nasin sitelen ante, taso ona ale li pimeja a. sina ken lukin e sitelen pi moku ni lon ni a! sitelen ni li jo e linja 58 (MMLLLTW; lon toki Sonko pi linja mute) anu linja 42 (MMT; lon toki Sonko pi linja lili).
