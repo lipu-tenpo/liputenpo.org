@@ -16,6 +16,8 @@ lon musi ni la, sina pali sama jan pi tenpo pini pi weka mute (*ona li jan lon a
 
 jan pi musi Og li sona ala e ijo suli mute pi tenpo mi li sona e ijo lili pi tenpo pini taso. suli la, ona li ken ala toki suli li sona ala e nimi mute. **ona la toki pona li toki suli a!**
 
+{{{sitelen "0026_kijetesantakalu-lipu-musi.png" "two animals playing cards" "jan Ke Tami"}}}
+
 musi Og la, jan li ken toki kepeken nimi pi mute lili a – ona li sona e nimi ni taso:
 
 **mi ‒ sina ‒ seli ‒ lape ‒ lupa-kiwen³ ‒ tawa ‒ kiwen – kasi – jo-e-linja-selo⁴ ‒ jaki ‒ lili ‒ moku ‒ ijo ‒ telo ‒ pakala ‒ suli ‒ suno**
@@ -25,6 +27,8 @@ sina wile toki tawa jan ante la sina o kepeken nimi ni taso! sina ken ala pana e
 ken la, sina wile moku la, sina wile e ni: sina en jan pona sina li alasa e soweli. ni la, sina wile toki e ni tawa jan pona sina:
 
 > «mi tu o tawa ma pi kasi suli o alasa e soweli pi palisa lawa o moku e ona. mi tu o utala e ona kepeken palisa kiwen: ona li moli la, mi tu o ken tawa e ona tawa tomo kiwen mi, li ken seli e ona li ken moku e ona!»
+
+{{{sitelen "0026_kijetesantakalu-musi-lipu.png" "two animals playing cards" "jan Ke Tami"}}}
 
 taso, sina ken ala toki sama ni, tan ni: sina sona ala e nimi! ni la, sina o alasa toki kepeken nimi pi mute lili taso, kepeken luka sina kin.
 

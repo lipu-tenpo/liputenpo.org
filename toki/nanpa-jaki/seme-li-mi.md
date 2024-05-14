@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0026_seme-li-mi-kule.png" "seme li mi in sitelen sitelen" "jan Alonola"}}}
+
 jan ale li lon insa mi  
 lon tenpo kama anu pini  
 mi jo e sinpin e lupa  

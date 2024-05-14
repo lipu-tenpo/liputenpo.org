@@ -14,7 +14,6 @@ ijo pi jaki ike ni li lon sijelo la ona li wile kama mute. ijo li mute lon sijel
 
 jaki ni li ken nasa tenpo. ijo ike li kama lon sijelo la ijo li ken jaki e sijelo lon tenpo poka, li ken jaki lon tenpo sike kama mute. ijo ike li jo e selo pi ko awen la sijelo li ken ala utala pona e ona. tan ni la, sijelo li pana e lipu walo tawa ijo ike. lipu walo li mute la lipu li ken kama poki kiwen tawa ijo ike li awen e ijo lon insa. poki ni li kiwen pi nimi Tupeku la nimi pi ijo ike en nimi jaki li Tupekulosi. ijo ike ale li awen lon poki la sijelo li kama ala jaki. 
 
-
 nasa tenpo ante la, selo ko pi ijo ike li wile e tenpo. ijo jaki ni pi selo ko li wile kama mute la ona li sama ala ijo jaki ante. jaki ante la jan poka li kama jaki lon tenpo poka la jan alasa li ken sona pona e nasin pi tawa jaki. taso jaki ni pi nasa tenpo la jan alasa en jan poka li ken ala sona pona sama.
 
 a, ni ale li ike. jan mute li moli tan ona. kulupu li ken ala utala e jaki la jaki li mama pi ike suli. a. taso kulupu li ken a utala. jan sona li sona pali e moku nasa pi weka jaki. jan alasa li sona oko e sijelo jaki kepeken ilo oko. jan pi sijelo jaki li wile weka e jaki tan sijelo. taso ilo oko pona en moku nasa pona li lon ala ma pi sijelo jaki. sijelo jaki li lon ala ma pi ilo pona li lon ala ma pi moku nasa. kulupu li ken utala e jaki lon ma ale, li utala ala e jaki lon ma ale. utala ala ni la, ike suli li tan ala jaki, li tan kulupu, li tan mi ale a. mi ken weka e jaki ni pi moli nanpa wan a. taso ni li ken pali suli la mi ni ala. mi o ni.
@@ -22,6 +21,8 @@ a, ni ale li ike. jan mute li moli tan ona. kulupu li ken ala utala e jaki la ja
 seme li ken? moku pi lili ike en jaki ante en ilo oko ala en moku nasa ala li suli wawa a e ken moli. jaki moli li suli lon ma pi moku lili, lon ma pi jaki ante, lon ma pi ilo oko ala, lon ma pi moku nasa ala. mi wile ante e ona ale a. taso mute moku en weka pi jaki ante li wile e tenpo e ijo mute. ilo en moku nasa li wile e ijo wan taso – mani. jaki moli li lon ma pi mani lili. mani la, ijo tu li suli. nanpa wan la, mani o tawa ma pi jaki ike. kin la, mi wile e ijo pi wawa sin la mani o tawa sona ilo. jaki li lon ala ma mani la ma mani li pali ala e ilo sin. nanpa tu la mani ilo en mani pi moku nasa o kama lili. a, mani li ken a kama lili. o sona – - 
 
 kulupu esun Tanake (Danaher) li lawa e ilo oko sin li wile e mani lon ona. ilo oko pi tenpo ante li ken ala sona e lon jaki lon tenpo ale. taso ilo sin li wawa li ken sona pona li ken sona e ni kin: moku seme pi weka jaki li ken pona wawa lon jaki pi nasin ni. kulupu esun li ken wile e mani lili. taso ona li wile e mani pi mute ike. jan mute a li sona ala e lon jaki e nasin pona li kama moli li moku e moku nasa kin pi wile ala.
+
+{{{sitelen "0026_mani-o-lili-kule.webp" "drawing of sand timer with red sand, and bacteria" "jan Ke Tami"}}}
 
 open la kulupu wile li toki tawa ona. ona li toki ike tawa kulupu wile. kulupu li toki wawa tawa ona li toki e ike ona. kulupu esun li kama ante lili e nasin mani lon ilo ona. taso ante lili o ante suli. mi en jan ante mute li awen toki wawa li ken toki utala lon ike ona li ken toki suwi lon ante ona.
 
