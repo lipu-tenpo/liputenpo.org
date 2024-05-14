@@ -18,6 +18,8 @@ categories:
     collection: sona
   - name: ma
     collection: ma
+  - name: pilin
+    collection: pilin
   - name: toki
     collection: toki-toki
   - name: toki ante
@@ -35,9 +37,9 @@ categories:
 </div>
 
 <section class="categories" x-data="{search: ''}">
-  <nav>
+  <nav class="quicklinks">
     {{#each categories}}
-    <a href="#{{slugify name}}">{{name}}</a> {{#unless @last}}•{{/unless}}
+    <a href="#{{slugify name}}">{{name}}</a> {{#unless @last}}<span>•</span>{{/unless}}
     {{/each}}
   </nav>
   <search>
