@@ -89,7 +89,7 @@ npm install
 ### Develop
 
 ```bash
-npm run develop
+npm run dev
 ```
 
 ### Build
