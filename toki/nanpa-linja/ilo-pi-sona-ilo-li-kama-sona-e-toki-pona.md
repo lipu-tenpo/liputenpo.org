@@ -6,6 +6,8 @@ tags:
 ---
 sike suno tu pini la, esun OpenAI li pana e ilo TokiKipisi (ChatGPT)  tawa ale. lili la, jan sona li pali e ilo TokiKipisi sama insa pi lawa jan. ijo mute lili a li lon insa pi lawa jan. sama len la, linja mute a li wan e ijo lili lawa. nasin sama la, ilo TokiKipisi li jo e poki lili mute a e linja mute pi poki ni. jan sona li pali e ilo la, ona li pana e toki mute a tawa ona. ilo li pali kepeken toki ni sama ni: nimi wan li ken lon poka pi nimi ante lon tenpo mute la, ilo li kama sona e kulupu lili ni. ale ni la, pali ona li sama lili tawa ni: ona li wan e poki lili tu kepeken linja. (lon la, pali ilo li wile e toki mute!) ona li kama sona e kulupu nimi mute a. ni la, ona li ken pali e toki sin kepeken sona pi kulupu ni. ona li pana e nimi wan la, ona li alasa e nimi ante kepeken sona ona pi kulupu nimi, li pana e ona lon poka pi nimi nanpa wan. ilo ni li ilo pi sona ilo.
 
+{{{sitelen "0027_toki-kipisi.png" "drawing of a phone displaying toki Kipisi" "jan Alonola"}}}
+
 taso jan li pana e sona tawa ilo la, ona li pana e toki pona lili a tawa ilo. ni la, ilo TokiKipisi li toki pona kepeken nasin nasa anu nasin ike. mi toki e ni tawa Kipisi-4: “sina la, toki pona li pona tan seme?” ona li ken sona e toki mi; taso ona li toki tawa mi kepeken toki Inli! mi toki sin tawa ilo TokiKipisi “o toki e ni kepeken toki pona taso!” ona li toki sin tawa mi, kepeken toki pona. taso nimi lawa pi linja ale li awen kepeken toki Inli:
 
 Simplicity: Toki Pona li jo e nimi lili, wan taso tawa nimi mute pi toki ante. Ni li pona tawa kama sona e toki.  
