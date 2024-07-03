@@ -100,9 +100,10 @@
 
 #lipu-nanpa-lon {
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
-  align-items: center;
-  margin: 2rem 0;
+  align-items: flex-end;
+  margin: 2rem;
 }
 
 .lipu-flex {
@@ -162,4 +163,32 @@
 }
 .lipuwan a:hover {
   text-decoration: underline;
+}
+
+#lipu-nanpa-lon .lipuwan {
+  margin-right: 2rem;
+  max-width: none;
+  display: block;
+  text-align: left;
+}
+#lipu-nanpa-lon .lipu-sin {
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1;
+  text-transform: uppercase;
+}
+#lipu-nanpa-lon .lipuwan h3 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1;
+  text-transform: uppercase;
+}
+#lipu-nanpa-lon .lipuwan .date {
+  font-size: 2rem;
+  line-height: 1;
+}
+#lipu-nanpa-lon .lipuwan img {
+  margin-top: .7rem;
+  max-width: 15rem;
 }
