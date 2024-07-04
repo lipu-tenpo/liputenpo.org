@@ -175,18 +175,15 @@
   font-size: 2rem;
   font-weight: bold;
   line-height: 1;
-  text-transform: uppercase;
 }
 #lipu-nanpa-lon .lipuwan h3 {
   margin: 0;
   font-size: 3rem;
   font-weight: bold;
   line-height: 1;
-  text-transform: uppercase;
 }
 #lipu-nanpa-lon .lipuwan .date {
-  font-size: 2rem;
-  line-height: 1;
+  font-size: 1.7rem;
 }
 #lipu-nanpa-lon .lipuwan img {
   margin-top: .7rem;
