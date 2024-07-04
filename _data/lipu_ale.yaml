@@ -1,10 +1,10 @@
 - id: 27
   title: nanpa linja
-  date: 1900-01-01
-  pdf: ""
-  pdf_pf: ""
-  pdf_bwpf: ""
-  cover_image: "0000xxxx_sinpin.png"
+  date: 2024-07-05
+  pdf: "0027linja.pdf"
+  pdf_pf: "0027linja_pf.pdf"
+  pdf_bwpf: "0027linja_bwpf.pdf"
+  cover_image: "0027linja_sinpin.png"
 - id: 26
   title: nanpa jaki
   date: 2024-05-14
