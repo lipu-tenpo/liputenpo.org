@@ -12,7 +12,7 @@ css:
 <article class="ni-li-seme">
     <h3 id="ni-li-seme">ni li seme?</h3>
     {{#each sona.[ni-li-seme]}}
-    <h4>{{question}}</h4>
+    <h4 id="{{slugify question}}">{{question}}</h4>
     {{{markdown answer}}}
     {{/each}}
 </article>
@@ -20,7 +20,7 @@ css:
 <article class="faq">
     <h3 id="faq">FAQ</h3>
     {{#each sona.faq}}
-    <h4>{{question}}</h4>
+    <h4 id="{{slugify question}}">{{question}}</h4>
     {{{markdown answer}}}
     {{/each}}
 </article>
