@@ -37,29 +37,27 @@ description: "o kama pona lon lipu pi lipu tenpo!"
     </a>
   </article>
 
-  <div class="lukin-insa">
-    {{#with (getkey collections lipu_ale.[0].title)}}
-    {{#if this}}
-    <ul>
-      {{#each this}}
-      <li>
-        <a class="article" href="{{page.url}}">
-          <span class="nimi-suli">{{data.[nimi-suli]}}</span>
-        </a>
-        <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
-          <span class="sitelen-pona">jan</span>
-          {{data.[jan-pali]}}
-        </span>
-        <span class="category" style="color: {{colourhash (getTokiTypeTag data.tags)}}">
-          <span class="sitelen-pona">{{getTokiTypeTag data.tags}}</span>
-          {{getTokiTypeTag data.tags}}
-        </span>
-      </li>
-      {{/each}}
-    </ul>
-    {{/if}}
-    {{/with}}
-  </div>
+  {{#with (getkey collections lipu_ale.[0].title)}}
+  {{#if this}}
+  <ul>
+    {{#each this}}
+    <li>
+      <a class="article" href="{{page.url}}">
+        <span class="nimi-suli">{{data.[nimi-suli]}}</span>
+      </a>
+      <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
+        <span class="sitelen-pona">jan</span>
+        {{data.[jan-pali]}}
+      </span>
+      <span class="category" style="color: {{colourhash (getTokiTypeTag data.tags)}}">
+        <span class="sitelen-pona">{{getTokiTypeTag data.tags}}</span>
+        {{getTokiTypeTag data.tags}}
+      </span>
+    </li>
+    {{/each}}
+  </ul>
+  {{/if}}
+  {{/with}}
 </section>
 
 
