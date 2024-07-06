@@ -23,16 +23,41 @@ description: "o kama pona lon lipu pi lipu tenpo!"
 {{!-- first lipu_ale --}}
 <section id="lipu-nanpa-lon">
   <article class="lipuwan">
+    <div class="lipu-sin">lipu sin</div>
+    <h3 id="{{ lipu_ale.[0].title }}">
+      <a href="lipu/{{slugify lipu_ale.[0].title}}">
+        {{ lipu_ale.[0].title }}
+      </a>
+    </h3>
+    <div class="date">
+      <time datetime="{{ asReadableDate lipu_ale.[0].date }}">{{ asReadableDate lipu_ale.[0].date }}</time>
+    </div>
     <a href="lipu/{{slugify lipu_ale.[0].title}}">
       {{{eleventyImage (appendString "pdfs/" lipu_ale.[0].cover_image) "" lipu_ale.[0].title 400}}}
-      <h3 id="{{ lipu_ale.[0].title }}">
-        {{ lipu_ale.[0].title }}
-      </h3>
-      <span class="date">
-        <time datetime="{{ asReadableDate lipu_ale.[0].date }}">{{ asReadableDate lipu_ale.[0].date }}</time>
-      </span>
     </a>
   </article>
+
+  {{#with (getkey collections lipu_ale.[0].title)}}
+  {{#if this}}
+  <ul>
+    {{#each this}}
+    <li>
+      <a class="article" href="{{page.url}}">
+        <span class="nimi-suli">{{data.[nimi-suli]}}</span>
+      </a>
+      <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
+        <span class="sitelen-pona">jan</span>
+        {{data.[jan-pali]}}
+      </span>
+      <span class="category" style="color: {{colourhash (getTokiTypeTag data.tags)}}">
+        <span class="sitelen-pona">{{getTokiTypeTag data.tags}}</span>
+        {{getTokiTypeTag data.tags}}
+      </span>
+    </li>
+    {{/each}}
+  </ul>
+  {{/if}}
+  {{/with}}
 </section>
 
 
