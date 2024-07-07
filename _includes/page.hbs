@@ -40,22 +40,6 @@ scripts: []
   <link rel="stylesheet" href="/{{ this }}" />
   {{/each}}
 
-  <!-- patreon banner -->
-  <script>
-    // check if cookie exists
-    if (document.cookie.indexOf('patreon-banner-closed=1') == -1) {
-      // cookie doesn't exist, show banner
-      setTimeout(() => {
-        document.getElementById('patreon-banner').classList.add('visible')
-      }, 1500)      
-    }
-    closeBanner = () => {
-      // set cookie
-      document.cookie = 'patreon-banner-closed=1; path=/; max-age=2628000'
-      document.getElementById('patreon-banner').classList.remove('visible')
-    }
-  </script>
-
   <!-- analytics -->
   <script data-goatcounter="https://liputenpo.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
@@ -67,33 +51,31 @@ scripts: []
 </head>
 
 <body>
-  <article id="patreon-banner" class="patreon-banner">
-    <div>
-      <p>
-        lipu tenpo li lon ma Patreon!
-        <a href="https://www.patreon.com/liputenpo">o lukin!</a>
-      </p>
-      <button class="close" onclick="closeBanner()">&#10006;</button>
-    </div>
-  </article>
   <header>
-    <div id="banner"></div>
-    <a href="/" class="title">
-      <img src="/logo.png" alt="lipu tenpo logo" width="475" height="497" />
-      <h1>lipu tenpo</h1>
-    </a>
+    <div class="sewi-lipu">
+      <a href="/">
+        <img src="/logo.png" alt="lipu tenpo logo" class="logo" />
+      </a>
+      <div>
+        <h1><a href="/">lipu tenpo</a></h1>
+        <div class="subtitle"><a href="/">kulupu pi toki pona</a></div>
+      </div>
+    </div>
     <nav>
       <ul>
         <li>
-          <a href="/">open</a>
+          <a href="/"><span class="sitelen-pona">lipu</span> lipu</a>
         <li>
-          <a href="/toki">toki</a>
+          <a href="/toki"><span class="sitelen-pona">toki</span> toki</a>
         </li>
         <li>
-          <a href="/sona">sona</a>
+          <a href="/sona"><span class="sitelen-pona">sona</span> sona</a>
         </li>
         <li>
-          <a href="/lipu-ante">lipu ante</a>
+          <a href="https://www.patreon.com/liputenpo"><span class="sitelen-pona">esun</span> Patreon</a>
+        </li>
+        <li>
+          <a href="/lipu-ante"><span class="sitelen-pona">lipu</span><span class="sitelen-pona">ante</span> lipu ante</a>
         </li>
       </ul>
       <!-- search bar -->
