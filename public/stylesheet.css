@@ -88,12 +88,12 @@ h6 {
 }
 
 header {
-  align-items: center;
+  align-items: flex-start;
   border-bottom: 2px solid var(--colour-pimeja-lili);
   display: flex;
-  flex-direction: column;
+  flex-flow: row wrap;
   font-family: "Bricolage Grotesque", sans-serif;
-  margin: 2rem;
+  margin: 3rem 2rem 1rem;
 }
 header #banner {
   position: absolute;
@@ -109,7 +109,7 @@ header #banner {
 header .sewi-lipu {
   align-items: center;
   display: flex;
-  margin: 1rem 0;
+  margin: 0 4rem 1.5rem 1.5rem;
 }
 header .logo {
   width: 5rem;
@@ -133,10 +133,8 @@ header .subtitle a {
   color: var(--colour-kiwen);
   text-decoration: none;
 }
-header nav {
-  padding: 1.5rem 5rem;
-}
 header nav ul {
+  align-items: flex-start;
   display: flex;
   flex-wrap: wrap;
   list-style: none;
@@ -144,20 +142,42 @@ header nav ul {
   padding: 0;
 }
 header nav li {
-  padding: .5rem 1.5rem;
+  line-height: 1;
+  margin-top: 1rem;
+  padding: 1.5rem;
+  position: relative;
+  top: -1.5rem;
+}
+header nav li.active {
+  background-color: var(--colour-unu-walo);
+  border-radius: var(--blob-border-radius-02);
+}
+header nav li.active a {
+  color: var(--primary-700);
+}
+header nav li.active .sitelen-tu::before {
+  color: var(--primary-700);
 }
 header nav a {
   color: white;
-  font-size: 1.7rem;
-  padding-bottom: .2rem;
-  text-align: center;
+  font-size: 1.4rem;
+  text-align: left;
   text-decoration: none;
 }
-header nav a .sitelen-pona {
+.sitelen-tu::before {
   color: var(--primary-200);
+  content: attr(data-text);
+  display: inline-block;
+  font-family: "sitelen seli kiwen", sans-serif;
+  margin-right: .5rem;
+  text-align: center;
+  width: 1.5rem;
 }
-header nav a:hover {
-  border-bottom: 3px solid var(--primary-200);
+.sitelen-tu {
+  display: block;
+}
+header nav a:hover .sitelen-tu {
+  text-decoration: underline;
 }
 
 main {
