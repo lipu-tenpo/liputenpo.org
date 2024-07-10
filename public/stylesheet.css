@@ -141,9 +141,11 @@ header nav ul {
   margin: 0;
   padding: 0;
 }
+header nav {
+  margin-top: 1rem;
+}
 header nav li {
   line-height: 1;
-  margin-top: 1rem;
   padding: 1.5rem;
   position: relative;
   top: -1.5rem;
