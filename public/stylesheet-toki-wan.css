@@ -66,3 +66,7 @@ p:has(.image) {
   background-color: var(--bg-subtle);
   font-style: italic;
 }
+
+.nimi hr {
+  width: 100%;
+}
