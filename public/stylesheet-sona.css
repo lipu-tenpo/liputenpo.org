@@ -117,6 +117,36 @@
   overflow-y: auto;
 }
 
+.lipu-ante {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.lipu-ante h3 {
+  margin: 4rem 0 1rem;
+  font-size: 2rem;
+  padding: 0.5rem 2rem;
+  background-color: var(--colour-unu-walo);
+  color: var(--colour-unu-pimeja);
+  border-radius: var(--blob-border-radius-01);
+}
+.lipu-ante h4 {
+  text-align: center;
+}
+.lipu-ante .lists {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.lipu-ante .lipu-ante-wan {
+  margin: 0.5rem;
+}
+.lipu-ante li {
+  margin: 0.5rem;
+}
+
 .sona {
   text-align: center;
   margin-bottom: 2rem;
