@@ -177,6 +177,15 @@ module.exports = function (eleventyConfig) {
     return `rgb(${cap(r)}, ${cap(g)}, ${cap(b)})`;
   });
 
+  // get nanpa-xxx tokis from folder
+  eleventyConfig.addHandlebarsHelper("xxxfiles", () => {
+    let all_files = fs
+      .readdirSync("./toki/nanpa-xxx/")
+      .filter((file) => file.split(".").at(1) != "json")
+      .map((file) => file.split(".").at(0));
+    return all_files;
+  });
+
   // image shortcode - reduce filesize etc
   //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}
   eleventyConfig.addShortcode("eleventyImage", imageShortcode);
