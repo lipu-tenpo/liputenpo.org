@@ -144,15 +144,7 @@ module.exports = function (eleventyConfig) {
   // helpers for use in markdown (toki)
   // pu - link to nimi pi pu ala
   eleventyConfig.addHandlebarsHelper("pu", (nimi) => {
-    // open `nimi-pi-pu-ala.yaml`
-    let pu = yaml.safeLoad(
-      fs.readFileSync(`./_data/nimi-pi-pu-ala.yaml`, "utf8")
-    );
-    // check if nimi is in pu
-    if (!pu[nimi]) {
-      throw Error(`could not find ${nimi} in "./_data/nimi-pi-pu-ala.yaml"`);
-    }
-    return `<sup><a href="/sona#${nimi}">(pu)</a></sup>`;
+    return `<sup><a href="/sona#nimi-pi-pu-ala">(pu)</a></sup>`;
   });
   // sitelen - use an image with filename, alt text, and author
   eleventyConfig.addHandlebarsHelper("sitelen", (file, alt, author) => {
