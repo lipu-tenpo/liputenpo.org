@@ -15,6 +15,17 @@
   border-radius: var(--blob-border-radius-03);
 }
 
+.esun-tawa-ni {
+  text-align: center;
+  font-size: 2rem;
+}
+.esun-tawa-ni img.icon {
+  height: 2rem;
+  width: auto;
+  filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(112deg)
+    brightness(106%) contrast(109%);
+}
+
 .ni-li-seme {
   display: flex;
   flex-direction: column;
