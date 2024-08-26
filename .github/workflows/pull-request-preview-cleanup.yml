@@ -51,18 +51,13 @@ jobs:
       #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
       # cleanup goes here
-      - name: Checkout
-        uses: actions/checkout@v4
       - uses: actions/setup-node@v3
         with:
           node-version: 20
       - name: Install dependencies
-        run: npm ci
+        run: npm install -g surge
       - name: teardown from surge
-        run: npm run surge-teardown -- liputenpotest-${{ github.event.number }}.surge.sh
-        env:
-          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} # get with `surge token`
-          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }} # email used
+        run: surge teardown --token "${{ secrets.SURGE_TOKEN }}" --domain "liputenpotest-${{ github.event.number }}.surge.sh"
 
       # we cannot delete the deployment as one must exist in the dev environment
       #  we could change its status but I will just leave it for now

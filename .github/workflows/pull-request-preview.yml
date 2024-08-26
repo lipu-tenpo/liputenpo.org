@@ -13,7 +13,7 @@
 #   $ surge teardown <example28928.surge.sh>
 # to list active sites, run
 #   $ surge list
-# this workflow requires two secrets: SURGE_LOGIN (the email you use above) and SURGE_TOKEN, generated with
+# this workflow requires one secret: SURGE_TOKEN, generated with
 #   $ surge token
 # note: the PDFs are not deployed, as they turn a ~60mb site into a ~600mb site.
 # workflow modified from https://sanderknape.com/2020/05/deploy-pull-requests-github-actions-deployments/
@@ -87,10 +87,7 @@ jobs:
       - name: Remove pdfs (filesize restraints)
         run: rm _site/pdfs/*.pdf
       - name: deploy to surge
-        run: npm run surge -- liputenpotest-${{ github.event.number }}.surge.sh
-        env:
-          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} # get with `surge token`
-          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }} # email used
+        run: npm run surge -- --token "${{ secrets.SURGE_TOKEN }}" --domain liputenpotest-${{ github.event.number }}.surge.sh 
 
       # - name: set deployment status to success
       #   id: successful_deployment
