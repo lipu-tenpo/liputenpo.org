@@ -21,7 +21,7 @@
 name: Deploy pull request preview to surge
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, reopened, synchronize]
 
 permissions:

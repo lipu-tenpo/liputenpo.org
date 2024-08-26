@@ -3,7 +3,7 @@
 name: Clean up pull request surge preview
 
 on:
-  pull_request:
+  pull_request_target:
     types: [closed]
 
 permissions:
