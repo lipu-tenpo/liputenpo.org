@@ -159,6 +159,9 @@ header .subtitle a {
   color: var(--colour-kiwen);
   text-decoration: none;
 }
+header .subtitle a:hover {
+  text-decoration: underline;
+}
 header nav ul {
   align-items: flex-start;
   display: flex;
