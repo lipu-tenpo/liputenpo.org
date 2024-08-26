@@ -51,7 +51,7 @@ jobs:
         with:
           route: POST /repos/:repository/deployments
           repository: ${{ github.repository }}
-          ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+          ref: "${{ github.event.pull_request.merge_commit_sha }}"
           environment: dev
           auto_merge: false
           required_contexts: "[]"
