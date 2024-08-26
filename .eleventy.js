@@ -180,7 +180,8 @@ module.exports = function (eleventyConfig) {
       b += str.charCodeAt(i) * (i + 1);
     }
     function cap(x) {
-      return 100 + (x % 156);
+      // make sure all RGB values are below 156 to keep colours dark
+      return x % 156;
     }
     return `rgb(${cap(r)}, ${cap(g)}, ${cap(b)})`;
   });

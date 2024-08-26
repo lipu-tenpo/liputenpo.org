@@ -22,8 +22,6 @@
 .esun-tawa-ni img.icon {
   height: 2rem;
   width: auto;
-  filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(112deg)
-    brightness(106%) contrast(109%);
 }
 
 .ni-li-seme {
@@ -105,10 +103,10 @@
   border-radius: var(--blob-border-radius-01);
 }
 .jan-pali .jan {
-  color: var(--colour-pimeja-lili);
+  color: var(--text-subtle);
 }
 .jan-pali .active {
-  color: var(--logo-secondary);
+  color: var(--colour-loje-pimeja);
 }
 .jan-pali .lists {
   display: flex;
