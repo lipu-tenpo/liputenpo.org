@@ -1,3 +1,5 @@
+# Remove preview from surge
+# see `pull-request-preview.yml` for more context
 name: Clean up pull request surge preview
 
 on:
