@@ -6,12 +6,12 @@ on:
   pull_request_target:
     types: [closed]
 
-permissions:
-  contents: read
-  # deployments: write
-  pull-requests: write
-  statuses: write
-  issues: write
+# permissions:
+#   contents: read
+#   deployments: write
+#   pull-requests: write
+#   statuses: write
+#   issues: write
 
 jobs:
   cleanup:
@@ -71,13 +71,13 @@ jobs:
       #   env:
       #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Send confirmation
-        id: send_confirmation
-        uses: octokit/request-action@v2.x
-        with:
-          route: POST /repos/:repository/issues/:issue_id/comments
-          repository: ${{ github.repository }}
-          issue_id: ${{ github.event.number }}
-          body: "removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      # - name: Send confirmation
+      #   id: send_confirmation
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: POST /repos/:repository/issues/:issue_id/comments
+      #     repository: ${{ github.repository }}
+      #     issue_id: ${{ github.event.number }}
+      #     body: "removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>"
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
