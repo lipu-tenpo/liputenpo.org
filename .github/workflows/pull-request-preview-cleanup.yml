@@ -32,7 +32,7 @@ jobs:
       #   uses: octokit/request-action@v2.x
       #   with:
       #     route: GET /repos/:repository/deployments
-      #     repository: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.repo.full_name }}
+      #     repository: ${{ github.repository }}
       #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
       #     environment: dev
       #   env:
@@ -43,7 +43,7 @@ jobs:
       #   uses: octokit/request-action@v2.x
       #   with:
       #     route: GET /repos/:repository/deployments/:deployment
-      #     repository: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.repo.full_name }}
+      #     repository: ${{ github.repository }}
       #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
       #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
       #     environment: dev
