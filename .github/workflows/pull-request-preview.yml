@@ -27,6 +27,7 @@ jobs:
           ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
           environment: dev
           auto_merge: false
+          required_contexts: ""
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
