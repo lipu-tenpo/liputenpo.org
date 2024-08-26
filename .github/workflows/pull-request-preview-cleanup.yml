@@ -55,7 +55,6 @@ jobs:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} # get with `surge token`
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }} # email used
 
-
       # we cannot delete the deployment as one must exist in the dev environment
       #  we could change its status but I will just leave it for now
       # - name: delete deployment
@@ -67,3 +66,14 @@ jobs:
       #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
       #   env:
       #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Send confirmation
+        id: send_confirmation
+        uses: octokit/request-action@v2.x
+        with:
+          route: POST /repos/:repository/issues/:issue_id/comments
+          repository: ${{ github.repository }}
+          issue_id: ${{ github.event.number }}
+          body: "removed the deployment on liputenpotest-${{ github.event.number }}.surge.sh"
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
