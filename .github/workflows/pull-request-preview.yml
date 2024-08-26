@@ -61,13 +61,23 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: deploy the pull request
-        run: |
-          # deployment logic goes here
-          sleep 10
-
-          # instead we randomly succeed or fail the deployment
-          exit $(( $RANDOM % 10 >= 5 ))
+      # deployment goes here
+      - name: Checkout
+        uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: npm ci
+      - name: Build with Eleventy
+        run: npm run build
+      - name: Remove pdfs (filesize restraints)
+        run: rm _site/pdfs/*.pdf
+      - name: deploy to surge
+        run: npm run surge -- liputenpotest-${{ github.event.issue.number }}.surge.sh
+        env:
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} # get with `surge token`
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }} # email used
 
       - name: set deployment status to success
         id: successful_deployment
@@ -77,7 +87,7 @@ jobs:
           repository: ${{ github.repository }}
           deployment: ${{ fromJson(steps.create_deployment.outputs.data).id }}
           environment: dev
-          environment_url: https://example.com
+          environment_url: liputenpotest-${{ github.event.issue.number }}.surge.sh
           log_url: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           mediaType: '{"previews": ["ant-man"]}'
           state: success
@@ -93,7 +103,7 @@ jobs:
           repository: ${{ github.repository }}
           deployment: ${{ fromJson(steps.create_deployment.outputs.data).id }}
           environment: dev
-          environment_url: https://example.com
+          # environment_url: https://example.com
           log_url: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
           mediaType: '{"previews": ["ant-man"]}'
           state: failure
