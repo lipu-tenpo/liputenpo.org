@@ -86,8 +86,10 @@ jobs:
         run: npm run build
       - name: Remove pdfs (filesize restraints)
         run: rm _site/pdfs/*.pdf
+      - name: Install surge
+        run: npm install -g surge
       - name: deploy to surge
-        run: npm run surge -- --token "${{ secrets.SURGE_TOKEN }}" --domain liputenpotest-${{ github.event.number }}.surge.sh
+        run: surge --token "${{ secrets.SURGE_TOKEN }}" --project _site --domain liputenpotest-${{ github.event.number }}.surge.sh
 
       # - name: set deployment status to success
       #   id: successful_deployment
