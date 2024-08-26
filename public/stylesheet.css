@@ -146,13 +146,16 @@ header nav {
 }
 header nav li {
   line-height: 1;
-  padding: 1.5rem;
   position: relative;
   top: -1.5rem;
 }
-header nav li.active {
-  background-color: var(--colour-unu-walo);
+header nav li a {
+  padding: 1.5rem;
+  display: block;
   border-radius: var(--blob-border-radius-02);
+}
+header nav li.active a {
+  background-color: var(--colour-unu-walo);
 }
 header nav li.active a {
   color: var(--primary-700);
@@ -171,7 +174,7 @@ header nav a {
   content: attr(data-text);
   display: inline-block;
   font-family: "sitelen seli kiwen", sans-serif;
-  margin-right: .5rem;
+  margin-right: 0.5rem;
   text-align: center;
   width: 1.5rem;
 }
