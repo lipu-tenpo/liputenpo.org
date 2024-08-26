@@ -6,12 +6,12 @@ on:
   pull_request_target:
     types: [closed]
 
-# permissions:
-#   contents: read
-#   deployments: write
-#   pull-requests: write
-#   statuses: write
-#   issues: write
+permissions:
+  contents: read
+  # deployments: write
+  pull-requests: write
+  statuses: write
+  issues: write
 
 jobs:
   cleanup:
