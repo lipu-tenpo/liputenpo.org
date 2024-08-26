@@ -83,6 +83,6 @@ jobs:
           route: POST /repos/:repository/issues/:issue_id/comments
           repository: ${{ github.repository }}
           issue_id: ${{ github.event.number }}
-          body: "removed the deployment on <liputenpotest-${{ github.event.number }}.surge.sh>"
+          body: "removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
