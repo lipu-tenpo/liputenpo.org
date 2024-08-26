@@ -51,10 +51,9 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
     - Use the non-pu shortcode for non-pu words, e.g., `{{{pu "kipisi"}}}`
 
       (Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js))
-2. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
-3. Merge into main branch of staging site
-4. Check links and images
-5. Merge into main branch of main site
+1. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
+1. Check links and images
+1. Merge into main branch of main site
 
 ## Edit jan pali
 
