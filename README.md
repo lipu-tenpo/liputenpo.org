@@ -24,7 +24,6 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
      ```
 
 1. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
-1. Merge into main branch of staging site
 1. Check links and images
 1. Merge into main branch of main site
 1. create an empty nanpa-\<nimi\> directory with an 11tydata file inside `./toki/` (copy from an existing folder and change as necessary)
