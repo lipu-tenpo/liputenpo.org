@@ -74,6 +74,8 @@ jobs:
       # deployment goes here
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: "${{ github.event.pull_request.merge_commit_sha }}"
       - uses: actions/setup-node@v3
         with:
           node-version: 20
