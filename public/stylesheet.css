@@ -117,7 +117,7 @@ header .logo {
 }
 header h1 {
   font-size: 2rem;
-  margin: 0 0 .2rem 1rem;
+  margin: 0 0 0.2rem 1rem;
   text-align: left;
 }
 header h1 a {
@@ -127,7 +127,7 @@ header h1 a {
 header .subtitle {
   font-size: 1.4rem;
   font-weight: bold;
-  margin: 0 0 .5rem 1rem;
+  margin: 0 0 0.5rem 1rem;
 }
 header .subtitle a {
   color: var(--colour-kiwen);
