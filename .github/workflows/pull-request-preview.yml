@@ -1,0 +1,15 @@
+name: Deploy or update pull request preview
+
+on:
+  pull_request:
+    types:
+      - opened
+      - reopened
+      - synchronize
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: env
+        run: env
