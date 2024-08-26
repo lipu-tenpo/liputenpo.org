@@ -1,0 +1,57 @@
+name: Clean up pull request surge preview
+
+on:
+  pull_request:
+    types: [closed]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: get pull request ref
+        id: get_pull_request_ref
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/:repository/pulls/:issue_id
+          repository: ${{ github.repository }}
+          issue_id: ${{ github.event.issue.number }}
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: list deployments
+        id: list_deployments
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/:repository/deployments
+          repository: ${{ github.repository }}
+          ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+          environment: dev
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: get deployment
+        id: get_deployment
+        uses: octokit/request-action@v2.x
+        with:
+          route: GET /repos/:repository/deployments/:deployment
+          repository: ${{ github.repository }}
+          deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+          ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+          environment: dev
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Cleanup deployment
+        run: |
+          echo "cleaning..."
+
+      - name: delete deployment
+        id: delete_deployment
+        uses: octokit/request-action@v2.x
+        with:
+          route: DELETE /repos/:repository/deployments/:deployment
+          repository: ${{ github.repository }}
+          deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+          environment: dev
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
