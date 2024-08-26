@@ -7,6 +7,7 @@
     "dev": "eleventy --serve",
     "build": "eleventy",
     "surge": "surge --project _site --domain",
+    "surge-teardown": "surge teardown --domain",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

@@ -41,16 +41,27 @@ jobs:
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: Cleanup deployment
-        run: |
-          echo "cleaning..."
-
-      - name: delete deployment
-        id: delete_deployment
-        uses: octokit/request-action@v2.x
+        # cleanup goes here
+      - uses: actions/setup-node@v3
         with:
-          route: DELETE /repos/:repository/deployments/:deployment
-          repository: ${{ github.repository }}
-          deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+          node-version: 20
+      - name: Install dependencies
+        run: npm ci
+      - name: teardown from surge
+        run: npm run surge-teardown -- liputenpotest-${{ github.event.issue.number }}.surge.sh
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }} # get with `surge token`
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }} # email used
+
+
+      # we cannot delete the deployment as one must exist in the dev environment
+      #  we could change its status but I will just leave it for now
+      # - name: delete deployment
+      #   id: delete_deployment
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: DELETE /repos/:repository/deployments/:deployment
+      #     repository: ${{ github.repository }}
+      #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
