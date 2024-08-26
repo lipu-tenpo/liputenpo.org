@@ -5,7 +5,7 @@ on:
     types: [closed]
 
 jobs:
-  deploy:
+  cleanup:
     runs-on: ubuntu-latest
     steps:
       - name: get pull request ref
@@ -52,6 +52,5 @@ jobs:
           route: DELETE /repos/:repository/deployments/:deployment
           repository: ${{ github.repository }}
           deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
-          environment: dev
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
