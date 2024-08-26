@@ -15,40 +15,40 @@ jobs:
   cleanup:
     runs-on: ubuntu-latest
     steps:
-      - name: get pull request ref
-        id: get_pull_request_ref
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/:repository/pulls/:issue_id
-          repository: ${{ github.repository }}
-          issue_id: ${{ github.event.number }}
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      # - name: get pull request ref
+      #   id: get_pull_request_ref
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/pulls/:issue_id
+      #     repository: ${{ github.repository }}
+      #     issue_id: ${{ github.event.number }}
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: list deployments
-        id: list_deployments
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/:repository/deployments
-          repository: ${{ github.repository }}
-          ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
-          environment: dev
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      # - name: list deployments
+      #   id: list_deployments
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/deployments
+      #     repository: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.repo.full_name }}
+      #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+      #     environment: dev
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-      - name: get deployment
-        id: get_deployment
-        uses: octokit/request-action@v2.x
-        with:
-          route: GET /repos/:repository/deployments/:deployment
-          repository: ${{ github.repository }}
-          deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
-          ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
-          environment: dev
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+      # - name: get deployment
+      #   id: get_deployment
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/deployments/:deployment
+      #     repository: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.repo.full_name }}
+      #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+      #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+      #     environment: dev
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
-        # cleanup goes here
+      # cleanup goes here
       - name: Checkout
         uses: actions/checkout@v4
       - uses: actions/setup-node@v3
