@@ -87,13 +87,23 @@ h6 {
   font-family: "Bricolage Grotesque", sans-serif;
 }
 
+.poki-insa {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 60rem;
+  padding: 0 2rem;
+  width: 100%;
+}
+
 header {
   align-items: flex-start;
-  border-bottom: 2px solid var(--colour-pimeja-lili);
   display: flex;
   flex-flow: row wrap;
   font-family: "Bricolage Grotesque", sans-serif;
-  margin: 3rem 2rem 1rem;
+  justify-content: space-evenly;
+  margin-top: 3rem;
 }
 header #banner {
   position: absolute;
@@ -145,7 +155,7 @@ header nav ul {
   padding: 0;
 }
 header nav {
-  margin-top: 1rem;
+  margin: 1rem 0.5rem 0 0;
 }
 header nav li {
   line-height: 1;
@@ -186,6 +196,14 @@ header nav a {
 }
 header nav a:hover .sitelen-tu {
   text-decoration: underline;
+}
+
+hr.anpa-sewi {
+  background-color: var(--colour-pimeja-lili);
+  height: 4px;
+  border-width: 0;
+  border-bottom: 2px solid black;
+  margin: 0 0 1rem;
 }
 
 main {
