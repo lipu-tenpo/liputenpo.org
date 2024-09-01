@@ -1,0 +1,113 @@
+# Remove preview from surge
+# see `pull-request-preview.yml` for more context
+name: Clean up pull request surge preview
+
+on:
+  pull_request_target:
+    types: [closed]
+
+permissions:
+  contents: read
+  # deployments: write
+  pull-requests: write
+  statuses: write
+  issues: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      # - name: get pull request ref
+      #   id: get_pull_request_ref
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/pulls/:issue_id
+      #     repository: ${{ github.repository }}
+      #     issue_id: ${{ github.event.number }}
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      # - name: list deployments
+      #   id: list_deployments
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/deployments
+      #     repository: ${{ github.repository }}
+      #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+      #     environment: dev
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      # - name: get deployment
+      #   id: get_deployment
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: GET /repos/:repository/deployments/:deployment
+      #     repository: ${{ github.repository }}
+      #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+      #     ref: ${{ fromJson(steps.get_pull_request_ref.outputs.data).head.ref }}
+      #     environment: dev
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      # cleanup goes here
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: npm install -g surge
+      - name: teardown from surge
+        run: surge teardown --token "${{ secrets.SURGE_TOKEN }}" --domain "liputenpotest-${{ github.event.number }}.surge.sh"
+
+      # we cannot delete the deployment as one must exist in the dev environment
+      #  we could change its status but I will just leave it for now
+      # - name: delete deployment
+      #   id: delete_deployment
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: DELETE /repos/:repository/deployments/:deployment
+      #     repository: ${{ github.repository }}
+      #     deployment: ${{ fromJson(steps.list_deployments.outputs.data)[0].id }}
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      # - name: Send confirmation
+      #   id: send_confirmation
+      #   uses: octokit/request-action@v2.x
+      #   with:
+      #     route: POST /repos/:repository/issues/:issue_id/comments
+      #     repository: ${{ github.repository }}
+      #     issue_id: ${{ github.event.number }}
+      #     body: "removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>"
+      #   env:
+      #     GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Find Comment
+        uses: peter-evans/find-comment@v1
+        id: fc
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          comment-author: "github-actions[bot]"
+          body-includes: "surge: "
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Create comment
+        if: steps.fc.outputs.comment-id == ''
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            surge: removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Update comment
+        if: steps.fc.outputs.comment-id != ''
+        uses: peter-evans/create-or-update-comment@v1
+        with:
+          comment-id: ${{ steps.fc.outputs.comment-id }}
+          body: |
+            surge: removed the deployment on <https://liputenpotest-${{ github.event.number }}.surge.sh>
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
