@@ -16,6 +16,8 @@ o kepeken nimi kipisi. nimi kipisi li seme? ona li pana e sijelo tawa toki sina.
 
 o toki ala e pilin sina taso. ante la o toki e tan pi pilin sina. seme li pana e pilin tawa sina? ni la jan ante kin li kama pilin.
 
+{{{sitelen "0028_akesi-en-telo-kule.png" "drawing of a pond" "jan Alonola"}}}
+
 sina ken pali e toki aku kepeken tenpo lili anu tenpo suli. tan lili ona la ona li ken awen lon lawa sina. tenpo pini la jan mute li pali e toki aku pona a. sina lukin e ona la sina ken sona e nasin pona pi toki aku.
 
 ma Nipon li mama e toki musi ni. taso jan ali li ken sona e ona e pilin suwi tan nasin ona. o tawa ma suwi pi toki aku! 

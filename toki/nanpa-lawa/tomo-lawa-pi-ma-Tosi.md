@@ -13,6 +13,8 @@ jan mute li wile pali e sitelen tomo. jan pali li kepeken e sitelen ni tawa pali
 
 ni la jan Wilen li supa e kiwen nanpa wan lon tenpo sike nanpa luka luka luka tu wan ale mute mute mute mute tu tu (1884). taso ona li pali ala e tomo ni. jan mute li pali e ona. taso jan li pali e tomo ni tan seme? ma Tosi li kama ma wan la kulupu lawa li kama suli a. ona ale li lawa lon tomo ni.
 
+{{{sitelen "0028_tomo-tosi-kule.png" "drawing of the bundestag in Germany" "jan Alonola"}}}
+
 ## tenpo pini
 
 utala suli nanpa wan li pini la ma Tosi li kama ante. jan li ken toki e wile ona. ike la kulupu Nasi (Nationalsozialisten) li kama lawa. tenpo ni la seli suli li lon tomo lawa pi ma Tosi. mi ken ala toki e ni: jan seme li seli e tomo lawa. taso kulupu Nasi li toki e ni: jan pi kulupu ante li seli e tomo. kulupu Nasi li wile anpa e kulupu ante li wile weka e ona. ni la ona li poki e jan tan kulupu ante li ante e lawa. kulupu Nasi taso li kama lawa.
