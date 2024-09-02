@@ -6,9 +6,7 @@ tags:
 ---
 sina mute la seli li lon ma sina. seli la telo lete li pona mute tawa mi a! ken la ona li pona tawa sina kin. ni la mi pana e sona ni: nasin pali pi telo kili jelo. ale la mi kepeken nasin ni. tenpo pini la mi pali e telo kili jelo la suwi li awen ko lon telo. suwi en telo li kama ala wan. taso nasin ni la suwi en telo li wan.
 
-{{{sitelen "0028_telo-jelo-kule.png" "drawing of lemonade" "jan Alonola"}}}
-
-mi jan lili la mi esun e telo kili lon ma tomo mi. mi en mama mi en mama majuna mi li pali e ona kepeken nasin ni. mi tawa e poki pi telo jelo tawa sinpin pi tomo mi li sitelen e ni lon supa: "o esun e telo kili mi!" mi awen tawa kama jan. taso la mi kama jo e mani pi lili taso. ni li tan ni: mi moku e telo kili mi li esun e lili ona. ona li pona suli la mi wile moku e ona li wile ala pana e ona tawa jan ante!
+mi jan lili la mi esun e telo kili lon ma tomo mi. mi en mama mi en mama majuna mi li pali e ona kepeken nasin ni. mi tawa e poki pi telo jelo tawa sinpin pi tomo mi li sitelen e ni lon supa: "o esun e telo kili mi!" mi awen tawa kama jan. taso la mi kama jo e mani pi lili taso. ni li tan ni: mi moku e telo kili mi li esun lili e ona. ona li pona suli la mi wile moku e ona li wile ala pana e ona tawa jan ante!
 
 sina mama tawa jan lili (anu sina jan lili!) la ken la sina wile esun e telo kili jelo. ante la sina wile moku taso. ni ale la toki sona ni li pona tawa sina. o awen lukin!
 
