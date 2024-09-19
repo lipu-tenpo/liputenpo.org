@@ -3,12 +3,13 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin: 1rem 1rem 3rem;
+  margin: 0 1rem 3rem;
 }
 
 h1 {
   font-size: 3rem;
   margin-bottom: 0;
+  margin-top: 0;
   text-align: center;
 }
 

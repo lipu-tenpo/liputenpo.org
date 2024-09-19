@@ -172,7 +172,8 @@ module.exports = function (eleventyConfig) {
       b += str.charCodeAt(i) * (i + 1);
     }
     function cap(x) {
-      return 100 + (x % 156);
+      // make sure all RGB values are below 156 to keep colours dark
+      return x % 156;
     }
     return `rgb(${cap(r)}, ${cap(g)}, ${cap(b)})`;
   });
@@ -189,6 +190,24 @@ module.exports = function (eleventyConfig) {
   // image shortcode - reduce filesize etc
   //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}
   eleventyConfig.addShortcode("eleventyImage", imageShortcode);
+
+  eleventyConfig.addShortcode("nav", function (url, label) {
+    let isActive = false;
+    if (url == "/") {
+      isActive = this.page.url == "/" || this.page.url.startsWith("/lipu/");
+    } else {
+      isActive = this.page.url.startsWith(url);
+    }
+    const content = label
+      .split(" ")
+      .map((word) => {
+        return `<span class="sitelen-tu" data-text="${word}">${word}</span>`;
+      })
+      .join(" ");
+    return `<li class="${
+      isActive ? "active" : ""
+    }"><a href="${url}">${content}</a></li>`;
+  });
 
   return {
     markdownTemplateEngine: "hbs",
