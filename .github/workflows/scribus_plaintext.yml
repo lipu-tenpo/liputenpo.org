@@ -18,7 +18,7 @@ jobs:
           chmod +x ./scripts/scribus_export.sh
           ./scripts/scribus_export_ALL.sh
       - name: Upload plaintext
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: plaintext
           path: ./scribus/
