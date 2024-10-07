@@ -1,6 +1,6 @@
 ---
-nimi-suli: kalama ala
-jan-pali: soweli Eli
+nimi-suli: tenpo jan tu tu
+jan-pali: jan Kapesi Pake
 tags:
   - musi
 ---
