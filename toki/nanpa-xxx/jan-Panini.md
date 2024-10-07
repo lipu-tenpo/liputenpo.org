@@ -4,10 +4,10 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
-sona toki la jan suli mute li lon: 
-jan Pesinan Sosu (Ferdinand de Saussure) li toki e sona ni: ijo wan li jo e nimi wan. nimi ni li jo ala e tan.
-jan Nowen Tonki (Noam Chomsky) li toki e sona mute. sona wan li ni: ken la toki ale li jo e nasin toki wan. ona ale li sama. 
-jan Loman Jakoson (Roman Jakobson) li toki e sona ni: jan li ken kulupu e kalama ale. kalama li ijo wan anu ijo tu. o lukin: kalama n en kalama m li kalama nena. kalama l en kalama p li kalama nena ala.
+sona toki la jan suli mute li lon:  
+jan Pesinan Sosu (Ferdinand de Saussure) li toki e sona ni: ijo wan li jo e nimi wan. nimi ni li jo ala e tan.  
+jan Nowen Tonki (Noam Chomsky) li toki e sona mute. sona wan li ni: ken la toki ale li jo e nasin toki wan. ona ale li sama.   
+jan Loman Jakoson (Roman Jakobson) li toki e sona ni: jan li ken kulupu e kalama ale. kalama li ijo wan anu ijo tu. o lukin: kalama n en kalama m li kalama nena. kalama l en kalama p li kalama nena ala.  
 jan ale ni li lon tenpo pini lili. jan Nowen Sonki li lon tenpo ni a! tenpo pini mute la jan pi mute lili li wile kama sona e ijo sin pi sona toki. 
 
 taso jan Panini (toki Sansita: पाणिनि) li lon. ona li tan ma tomo Tasasila (तक्षशिला). tenpo ni la ma tomo Tasasila li lon ma Pakisan. taso tenpo pi jan Panini la ma Pakisan li lon ala. taso ma suli Loma li lon a! mi wile toki e sona pi jan Panini tan ni: ken la ona li jan nanpa wan pi sona toki!
@@ -21,12 +21,12 @@ lawa 3959 (mute luka luka luka tu tu ale mute mute luka luka luka tu tu – anu 
 
 lawa nanpa wan en lawa nanpa tu li lili mute a. o lukin:
 
-nanpa wan:  वृद्धिरादैच्	  vṛddhir ādai**C**
-nanpa tu:	  अदेङ्गुणः	  ade**Ṅ** guṇaḥ
+nanpa wan:  वृद्धिरादैच्	  vṛddhir ādai**C**  
+nanpa tu:	  अदेङ्गुणः	  ade**Ṅ** guṇaḥ  
 
 sina wile ante toki e lawa ni la sina o sona e ni: jan Panini li kepeken e nimi lili mute pi sona toki. mi suli e nimi lili ni **sama ni**. toki pona la lawa ni li pona kin:
 
-nanpa wan:  kalama Wili (वृद्धि vṛddhi) li kalama ni: ā, ai, au
+nanpa wan:  kalama Wili (वृद्धि vṛddhi) li kalama ni: ā, ai, au  
 nanpa tu:  	kalama Kuna (गुण guṇa) li kalama ni: a, e, o
 
 ¹ *nasin nanpa pona la ni li nanpa ni: mute luka tu ale*  
