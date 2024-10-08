@@ -18,7 +18,7 @@ faq:
   - question: "What's your copyright policy like? Can I use one of the articles/images for myself?"
     answer: "Every article, image, etc given to lipu tenpo is published individually under CC-BY-SA 4.0. CC-BY-SA 4.0 means that you are allowed to do commercial things with it, have to give appropriate credit to the creator, and if you build-upon the work, the mentioned work has to be published under the same license. For more info: <https://creativecommons.org/licenses/by-sa/4.0/>"
   - question: "This one issue doesn't have a sitelen pona version, why not?"
-    answer: "Converting an issue to sitelen pona takes a significant amount of time; we simply cannot do it every issue. We've taken a few initiatives to fix this, mostly by asking a few other people to take on the role, but haven't had a successful attempt of that quite yet. If you're willing to put in a few hours for every release, are willing to do this for every release, come and join our team :)"
+    answer: "Converting an issue to sitelen pona takes a significant amount of time; we simply cannot do it every issue. We've taken a few initiatives to fix this, mostly by asking a few other people to take on the role, but haven't had a successful attempt of that quite yet. If you're willing to put in a few hours for every release, are willing to do this for every release, come and join our team :). Please read more [here](https://github.com/lipu-tenpo/selo/issues/2)"
   - question: "Can I put up an ad of some sort?"
     answer: "Absolutely! Write a discord DM or mail to the editors. These are free of charge, but it is up to us whether an ad would fit into a lipu tenpo!"
 footer:
