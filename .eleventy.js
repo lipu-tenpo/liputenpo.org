@@ -190,6 +190,24 @@ module.exports = function (eleventyConfig) {
   //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}
   eleventyConfig.addShortcode("eleventyImage", imageShortcode);
 
+  eleventyConfig.addShortcode("nav", function (url, label) {
+    let isActive = false;
+    if (url == "/") {
+      isActive = this.page.url == "/" || this.page.url.startsWith("/lipu/");
+    } else {
+      isActive = this.page.url.startsWith(url);
+    }
+    const content = label
+      .split(" ")
+      .map((word) => {
+        return `<span class="sitelen-tu" data-text="${word}">${word}</span>`;
+      })
+      .join(" ");
+    return `<li class="${
+      isActive ? "active" : ""
+    }"><a href="${url}">${content}</a></li>`;
+  });
+
   return {
     markdownTemplateEngine: "hbs",
   };
