@@ -8,7 +8,7 @@
   --logo-secondary: #fffd96;
   --logo-secondary-dark: #e0c880;
 
-  --background: #1e2122;
+  --background: #eeeef6;
 
   --primary-100: #e3e3ff;
   --primary-200: #aaacff;
@@ -20,8 +20,10 @@
   --primary-800: #000255;
   --primary-900: #00011c;
 
-  --text: white;
-  --text-subtle: #ddd;
+  --text: #000;
+  --text-subtle: #666;
+  --text-contrast: #fff;
+  --text-contrast-subtle: #ddd;
 
   /* generated with ../scripts/gpl-to-css.sh */
   --colour-walo-taso: #ffffff;
@@ -79,6 +81,30 @@ body {
   background-color: var(--background);
 }
 
+/* "paper" look */
+body {
+  --col: rgba(0, 0, 0, 0.01);
+  /* thickness of thin and thick lines */
+  --small-thickness: 1px;
+  --big-thickness: 2px;
+  /* gap between thin and thick lines */
+  --small-gap: 10px;
+  --big-gap: 50px;
+
+  --st: var(--small-thickness);
+  --bt: var(--big-thickness);
+  --nst: calc(-1 * var(--st));
+  --nbt: calc(-1 * var(--bt));
+  background-image: linear-gradient(var(--col) var(--bt), transparent var(--bt)),
+    linear-gradient(90deg, var(--col) var(--bt), transparent var(--bt)),
+    linear-gradient(var(--col) var(--st), transparent var(--st)),
+    linear-gradient(90deg, var(--col) var(--st), var(--background) var(--st));
+  background-size: var(--big-gap) var(--big-gap), var(--big-gap) var(--big-gap),
+    var(--small-gap) var(--small-gap), var(--small-gap) var(--small-gap);
+  background-position: var(--nbt) var(--nbt), var(--nbt) var(--nbt),
+    var(--nst) var(--nst), var(--nst) var(--nst);
+}
+
 h2,
 h3,
 h4,
@@ -131,7 +157,7 @@ header h1 {
   text-align: left;
 }
 header h1 a {
-  color: white;
+  color: var(--text);
   text-decoration: none;
 }
 header .subtitle {
@@ -170,20 +196,14 @@ header nav li a {
 header nav li.active a {
   background-color: var(--colour-unu-walo);
 }
-header nav li.active a {
-  color: var(--primary-700);
-}
-header nav li.active .sitelen-tu::before {
-  color: var(--primary-700);
-}
 header nav a {
-  color: white;
+  color: var(--text);
   font-size: 1.4rem;
   text-align: left;
   text-decoration: none;
 }
 .sitelen-tu::before {
-  color: var(--primary-200);
+  color: var(--text);
   content: attr(data-text);
   display: inline-block;
   font-family: "sitelen seli kiwen", sans-serif;
@@ -215,12 +235,13 @@ main a {
   color: var(--primary-300);
 }
 main a:hover {
-  color: var(--primary-200);
+  color: var(--primary-400);
 }
 
 footer {
   font-family: "Andika", sans-serif;
   background-color: var(--logo-primary);
+  color: var(--text-contrast);
   padding: 1rem;
   margin-top: auto;
   position: relative;
@@ -257,7 +278,7 @@ footer a img.icon {
 }
 footer a {
   font-family: "BogFace", sans-serif;
-  color: white;
+  color: var(--text-contrast);
   text-decoration: none;
   font-size: 1.2rem;
   text-align: center;
