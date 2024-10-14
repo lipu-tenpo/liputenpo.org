@@ -1,0 +1,49 @@
+---
+layout: page
+title: "lipu tenpo - pdfs"
+css:
+  - stylesheet-index.css
+---
+
+<div class="h2">
+  <h2 id="pdf">
+    lipu pdf
+  </h2>
+</div>
+
+
+<section id="introduction">
+  <p>o kama pona!</p>
+  <p>o lukin e lipu pdf ale lon ni.</p>
+</section>
+
+<div class="lipu-flex">
+  <section id="lipu_ale">
+    {{#each lipu_ale}}
+    <div>
+      <article class="lipuwan">
+          {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+          <h3 id="{{ this.title }}">
+            {{ this.title }}
+          </h3>
+          <span class="date">
+            <time datetime="{{ asReadableDate this.date }}">{{ asReadableDate this.date }}</time>
+          </span>
+          <div class="pdf-links">
+            <a href="{{this.pdf}}">
+              <span>Color A5 PDF</span>
+            </a>
+            <br>
+            <a href="{{this.pdf_pf}}">
+              <span>Color A4 PDF</span>
+            </a>
+            <br>
+            <a href="{{this.pdf_bwpf}}">
+              <span>B&W A4 PDF</span>
+            </a>
+          </div>
+      </article>
+    </div>
+    {{/each}}
+  </section>
+</div>
