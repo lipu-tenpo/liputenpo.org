@@ -24,7 +24,7 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
      ```
 
 1. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
-1. Merge into main branch of staging site
+1. create pull request - wait for staging site to be made
 1. Check links and images
 1. Merge into main branch of main site
 1. create an empty nanpa-\<nimi\> directory with an 11tydata file inside `./toki/` (copy from an existing folder and change as necessary)
@@ -52,7 +52,7 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
 
       (Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js))
 2. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
-3. Merge into main branch of staging site
+3. create a pull request to see a preview site
 4. Check links and images
 5. Merge into main branch of main site
 
