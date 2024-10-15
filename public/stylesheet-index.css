@@ -192,3 +192,23 @@
 #lipu-nanpa-lon .jan-pali {
   padding: 0 .5rem;
 }
+
+#lipu_ale_pdf {
+  padding: 3rem 2rem 2rem;
+  width: 100%;
+  max-width: 60rem;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  grid-gap: 4rem;
+}
+
+.lipuwan_pdf {
+  max-width: 13em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+}
