@@ -1,7 +1,7 @@
 ---
-- nimi-suli: "toki pona o lon ala nasin Juniko"
-- jan-pali: jan Kasape
-- tags:
+nimi-suli: "toki pona o lon ala nasin Juniko"
+jan-pali: jan Kasape
+tags:
   - pilin
 ---
 {{{sitelen "0024_juniko-kule.png" "toki pona person writing on laptop" "jan Alonola"}}}
