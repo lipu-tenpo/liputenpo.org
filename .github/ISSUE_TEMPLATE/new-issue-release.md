@@ -19,7 +19,7 @@ assignees: ''
     - [ ] kkkkkkkkkkkk - jan Kasape - 0 images
     - [ ] ppppppppppp - jan Alonola - 1 image
 - [ ] social media
-  - [ ] [post](https://alifeee.notion.site/nanpa-kalama-release-91bdce4545cc46ec9a6efdcb52749a03?pvs=4)
+  - [ ] [post](https://github.com/lipu-tenpo/social-media) - [template](https://github.com/lipu-tenpo/social-media/wiki#new-issue-release)
 - [ ] print+post
   - [ ] Post [Print+Post](https://alifeee.notion.site/Zine-Printing-e90b5ea07a0d446da381245b7e1550f7?pvs=4) updates etc
 - [ ] confirmation
