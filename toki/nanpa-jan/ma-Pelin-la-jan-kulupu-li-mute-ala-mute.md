@@ -5,6 +5,8 @@ tags:
   - kulupu
 ---
 
+{{{sitelen "0029_kulupuPelin-kule.png" "group picture" "jan Ke Tami"}}}
+
 ala. ona li mute mute tu anu sama! 
 lon. ma li sike sin e suno la mi wile kama sin e kulupu lon ma Elopa. tenpo poka li tenpo nanpa tu wan la kulupu li suli sin li musi a lon insa lawa Pelin pi ma Tosi. 
 ## open tenpo

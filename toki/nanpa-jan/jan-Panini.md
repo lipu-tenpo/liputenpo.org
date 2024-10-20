@@ -4,6 +4,8 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
+{{{sitelen "0029_jan-Panini-kule.png" "drawing of linguist Panini" "jan Alonola"}}}
+
 sona toki la jan suli mute li lon:  
 jan Pesinan Sosu (Ferdinand de Saussure) li toki e sona ni: ijo wan li jo e nimi wan. nimi ni li jo ala e tan.  
 jan Nowen Tonki (Noam Chomsky) li toki e sona mute. sona wan li ni: ken la toki ale li jo e nasin toki wan. ona ale li sama.   
