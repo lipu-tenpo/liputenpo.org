@@ -2,7 +2,7 @@
 nimi-suli: toki insa olin
 jan-pali: sama Natanale
 tags:
-  - sona
+  - musi
 ---
 **o pana pona tawa mi**  
 o pana pona tawa sina  
