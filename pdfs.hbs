@@ -1,0 +1,61 @@
+---
+layout: page
+title: "lipu tenpo - pdfs"
+css:
+  - stylesheet-index.css
+---
+
+<div class="h2">
+  <h2 id="pdf">
+    lipu
+  </h2>
+</div>
+
+<section id="introduction">
+  <p>o kama pona!</p>
+  <p>o lukin e lipu ale lon ni.</p>
+  <p>o kama jo e lipu ale <a href="{{sona.linluwi-pi-pdf-ale}}">lon ni</a>.</p>
+</section>
+
+<div class="lipu-flex">
+  <section id="lipu_ale_pdf">
+    {{#each lipu_ale}}
+    <div>
+      <article class="lipuwan lipuwan_pdf">
+          {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+          <h3 id="{{ this.title }}">
+            {{ this.title }}
+          </h3>
+          <span class="date">
+            <time datetime="{{ asReadableDate this.date }}">{{ asReadableDate this.date }}</time>
+          </span>
+          <div class="pdf-links">
+            {{#if this.pdf}}
+            <a href="{{this.pdf}}">
+              <span>lipu kule</span>
+            </a>
+            <br>
+            {{/if}}
+            {{#if this.pdf_pf}}
+            <a href="{{this.pdf_pf}}">
+              <span>lipu tawa ilo sitelen</span>
+            </a>
+            <br>
+            {{/if}}
+            {{#if this.pdf_bwpf}}
+            <a href="{{this.pdf_bwpf}}">
+              <span>lipu walo tawa ilo sitelen</span>
+            </a>
+            <br>
+            {{/if}}
+            {{#if this.pdf_sitelen_pona}}
+            <a href="{{this.pdf_sitelen_pona}}">
+              <span>lipu pi sitelen pona</span>
+            </a>
+            {{/if}}
+          </div>
+      </article>
+    </div>
+    {{/each}}
+  </section>
+</div>

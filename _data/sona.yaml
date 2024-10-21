@@ -1,4 +1,5 @@
 site: https://liputenpo.org
+linluwi-pi-pdf-ale: https://github.com/lipu-tenpo/liputenpo.org/tree/main/pdfs
 ni-li-seme:
   - question: "What is this?"
     answer: "Hello! You’re looking at the website for lipu tenpo, a magazine written in Toki Pona. Maybe you’re new and want to know more about this language. Great! This page hopes to answer some of your questions."
