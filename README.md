@@ -44,17 +44,16 @@ Only **THEN** should it be pushed to `main` of the [main repository](https://git
       ```
 
 1. Upload any images to [`./toki/images/`](./toki/images/) prepended by the issue number and name
-1. Paste the content into the article
+1. Paste the content into the article, formatted as markdown (see [markdown guide](https://www.markdownguide.org/))
     - Lines must end with double-space `"  "`or there should be a two-linebreak gap between paragraphs (as standard in markdown)
     - Use the image shortcode for images, e.g., `{{{sitelen "0023sewi_nasin-tawa-intawe.png" "nasin tawa Intawe" "jan Alonola"}}}`
         {{{"sitelen" - filename - alt text - author}}}
     - Use the non-pu shortcode for non-pu words, e.g., `{{{pu "kipisi"}}}`
 
       (Shortcodes are defined in [`./.eleventy.js`](./.eleventy.js))
-2. Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
-3. create a pull request to see a preview site
-4. Check links and images
-5. Merge into main branch of main site
+1. create a pull request to see a preview site -> Wait for site to build - see status on the [actions tab](https://github.com/lipu-tenpo/liputenpo.org/actions)
+1. Check links and images
+1. Merge into main branch of main site
 
 ## Edit jan pali
 
