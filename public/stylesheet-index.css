@@ -159,7 +159,7 @@
   font-weight: bold;
 }
 .lipuwan .date {
-  color: gray;
+  color: var(--text-subtle);
 }
 .lipuwan a:hover {
   text-decoration: underline;
@@ -186,11 +186,11 @@
   font-size: 1.7rem;
 }
 #lipu-nanpa-lon .lipuwan img {
-  margin-top: .7rem;
+  margin-top: 0.7rem;
   max-width: 12rem;
 }
 #lipu-nanpa-lon .jan-pali {
-  padding: 0 .5rem;
+  padding: 0 0.5rem;
 }
 
 #lipu_ale_pdf {
