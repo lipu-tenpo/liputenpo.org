@@ -1,5 +1,5 @@
 ---
-nimi-suli: kijetesantakalu loje li kijetesantakalu ala kijetesantakalu?
+nimi-suli: loje en laso li ken sama tawa mi
 jan-pali: jan Alonola
 tags:
   - toki pona

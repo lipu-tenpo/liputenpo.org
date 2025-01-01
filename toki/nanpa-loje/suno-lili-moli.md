@@ -1,5 +1,5 @@
 ---
-nimi-suli: suno lili moli?
+nimi-suli: suno lili moli
 jan-pali: jan Tumu
 tags:
   - musi
