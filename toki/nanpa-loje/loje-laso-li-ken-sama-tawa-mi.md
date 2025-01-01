@@ -27,5 +27,3 @@ tenpo pini weka la, mi en jan olin li tawa ma Papuwa Nukini. ma ni la, kasi mun 
 mi jo e ilo toki lili. ona li pali mute la, wawa ona li weka. ni la, ona li wile moku e wawa sin kepeken linja wawa. mi pana e linja wawa tawa ilo la, ilo li pana e suno lili. mi weka e linja wawa la, suno li weka kin.
 
 tenpo wan la, jan olin mi li toki e ni: o pana e linja wawa tawa ilo mi. ilo sina li pini moku e wawa. mi toki e ni: sina sona e ni tan seme? ona li toki: suno ilo li laso. tenpo ni la, mi kama sona e ni: ilo li awen moku e wawa la, ona li pana e suno loje. ilo li pini moku la, suno li kama laso. ona li jo e kule tu a!
-
-¹⭐ lipu pi kasi mun li sama ni

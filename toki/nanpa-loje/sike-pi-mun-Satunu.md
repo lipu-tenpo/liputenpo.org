@@ -9,7 +9,7 @@ sina sona e mun Satunu la, sina sona e ni: mun Satunu li jo e sike suli. taso si
 
 {{{sitelen "0030_mun-Satun.png" "mun Satunu" "jan Ke Tami"}}}
 
-taso nanpa wan la, mi toki e mun Satunu. mun pi tawa sike suno la, mun Satunu li suli nanpa tu. suli nanpa wan li mun Jupite. ona tu li kiwen ma ala li mun pi kon mama telo (H2). ona tu li suli sama ni: sina ken lukin e ona kepeken lukin taso. kin la, ona tu li jo e mun lili mute. taso ona tu li ante suli tan ni: lukin la, mun Satunu li jo e sike.
+taso nanpa wan la, mi toki e mun Satunu. mun pi tawa sike suno la, mun Satunu li suli nanpa tu. suli nanpa wan li mun Jupite. ona tu li kiwen ma ala li mun pi kon mama telo (H₂). ona tu li suli sama ni: sina ken lukin e ona kepeken lukin taso. kin la, ona tu li jo e mun lili mute. taso ona tu li ante suli tan ni: lukin la, mun Satunu li jo e sike.
 
 sike ni li seme? ona li mun lili mute a\! taso mun lili ni li kiwen ma ala. ona li telo kiwen lete. ona mute li lili sama moku suwi. ken la, sina ken moku e ona\!
 
