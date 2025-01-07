@@ -1,6 +1,6 @@
 ---
 nimi-suli: loje en laso li ken sama tawa mi
-jan-pali: jan Alonola
+jan-pali: jan Siwa
 tags:
   - toki pona
 ---
