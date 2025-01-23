@@ -43,6 +43,7 @@ module.exports = function (eleventyConfig) {
   }
   // static assets
   eleventyConfig.addPassthroughCopy({ public: "/" });
+  eleventyConfig.addPassthroughCopy({ files: "files" });
   // toki images
   eleventyConfig.addPassthroughCopy({ "toki/images": "/images" });
   // do not copy on --serve
