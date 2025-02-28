@@ -24,13 +24,13 @@ nimi “kierteishäntäkarhu” li nimi tu wan: “kierteinen” (palisa sike) e
 
 kulupu Pokonite (Procyonidae) li suli a. kijetesantakalu mute li lon ona li kulupu luka. kijetesantakalu ale li kama tan ma Amelika. mute la seli li pona tawa ona. taso kijetesantakalu wan li tawa ma Elopa li tawa ma Nijon li pilin pona lon ma ni. sitelen pi sitelen pona li lukin sama kijetesantakalu ni. 
 
-{{{sitelen "Kijetesantakalu_-_linja_pona.svg.png" "sitelen pona: kijetesantakalu" "linja pona"}}}
+{{{sitelen "0030_kijetesantakalu_linja_pona.png" "sitelen pona: kijetesantakalu" "linja pona"}}}
 
 tenpo open pi nimi “kijetesantakalu” li weka mute. kon pi nimi “kijetesantakalu” li kama suli. tenpo pini la jan Sonja li toki lili e kijetesantakalu loje. ona li pona mute tawa jan pi toki pona. jan pi toki pona li wile e ni: ona li kijetesantakalu kin. ona li kijetesantakalu. taso kulupu soweli seme li kijetesantakalu lon tenpo ni? kulupu Mutelote (Musteloidea) a! kulupu ni la kijetesantakalu loje en kijetesantakalu jaki en kijetesantakalu linja li lon. kijetesantakalu jaki li pimeja li walo. soweli ike li lon la ona li pana e telo jaki. telo jaki ni li ike mute tawa pilin nena. mute la sijelo pi kijetesantakalu linja li linja li sike ala. ona li kulupu suli kin.
 
-{{{sitelen "0030_kijtesantakaluloje.png" "kijetesantakalu loje" "jan Ke Tami"}}}
+{{{sitelen "0030_kijetesantakalu_loje.png" "kijetesantakalu loje" "jan Ke Tami"}}}
 
-kijetesantakalu loje tu li lon. taso ona li sama mute. ni la mi toki e sona pi ona tu. ona li lon ma Sonko li lon ma Nepali li lon ma poka kin. ma ni la ona li lon ma kasi pi kulupu nena Imalaja. linja one li loje li suli. taso sijelo ona li lili. sinpin ona li walo lili. noka ona li pimeja. ale la ona li suwi lukin!
+kijetesantakalu loje tu li lon. taso ona li sama mute. ni la mi toki e sona pi ona tu. ona li lon ma Sonko li lon ma Nepali li lon ma poka kin. ma ni la ona li lon ma kasi pi kulupu nena Imalaja. linja ona li loje li suli. taso sijelo ona li lili. sinpin ona li walo lili. noka ona li pimeja. ale la ona li suwi lukin!
 
 ona li awen lon kasi kiwen palisa li moku e ona. lili la ona li moku kin e kili e soweli lili. ona li ken insa lili e kiwen luka la ona li ken tawa sewi kepeken ona. kijetesantakalu loje li lape lon tenpo suno. ona li lape lon kasi palisa kin. ni la soweli ante li ken ala alasa e ona. ona li kulupu ala. ona li wile unpa la ona tu li kulupu li unpa li weka. kijetesantakalu lili li awen lon poka pi mama meli ona lon tenpo suli.
 
