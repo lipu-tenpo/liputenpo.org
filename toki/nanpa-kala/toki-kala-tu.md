@@ -36,6 +36,7 @@ soweli li pana e pona tawa kala.
 poka kala ale la suno lili li lon.
 pimeja li pini lon tenpo poka la
 kala li moku e ona.
+
 ---
 
 telo li laso. 
