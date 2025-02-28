@@ -21,6 +21,6 @@ assignees: ''
 - [ ] social media
   - [ ] [post](https://github.com/lipu-tenpo/social-media) - [template](https://github.com/lipu-tenpo/social-media/wiki#new-issue-release)
 - [ ] print+post
-  - [ ] Post [Print+Post](https://alifeee.notion.site/Zine-Printing-e90b5ea07a0d446da381245b7e1550f7?pvs=4) updates etc
+  - [ ] Post Print+Post updates etc (todo list in @alifeee's private notes)
 - [ ] confirmation
-  - [ ] [message](https://www.notion.so/alifeee/lipu-tenpo-33ef2d62d9414a77bbcb7bdf31876c2d?pvs=4#6e6e7273ebee483f8c46537c7d8f0250) all authors who were published in this issue
+  - [ ] [message](https://github.com/lipu-tenpo/social-media/wiki/Direct-Messages) all authors who were published in this issue
