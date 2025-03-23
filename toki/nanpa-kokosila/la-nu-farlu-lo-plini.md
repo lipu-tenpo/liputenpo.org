@@ -1,7 +1,7 @@
 ---
 nimi-suli: la nu farlu lo plini
 jan-pali: jan Sawasu
-toki: lojban
+toki: Lojban
 tags:
   - musi
 ---

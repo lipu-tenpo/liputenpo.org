@@ -1,7 +1,7 @@
 ---
 nimi-suli: vav(p)shal(t)bop(t)rub(t)kow(p)bel(p)san(t)ap(t)vlir(t)sang(b)es(p)u(t)yak(b)ngag(t)vlim(p)kay(f)sna(f)dan(f)vlim(p)ga(f)vlim(p)ga(f)vlim(p)ga(f)point(f)vlim(p)ga(f)vlim(p)ga(f) bom(p)sun(b)fis(f)suf(p)buf(b)lep(p)vlim(p)ga(f)vlim(p)ga(f)
 jan-pali: kay(f)​Ni(p)​we(p)​san(t)​ap(t)​vlir(t)​sang(b)​es(p)​u(t)​vom(b)​ngo(p)​ngag(t)​vlim(p)​kay(f)​sna(f)​va(f)​ga(f)
-toki: 
+toki: kay(f)bop(t)
 tags:
   - musi
 ---
