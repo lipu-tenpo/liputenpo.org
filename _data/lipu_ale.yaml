@@ -3,8 +3,8 @@
   date: 2025-04-01
   pdf: "0031.5kokosila.pdf"
   pdf_bleed: "0031.5kokosila_bleed.pdf"
-  pdf_pf: "0031.5kokosila_pf.pdf"
-  pdf_bwpf: "0031.5kokosila_bwpf.pdf"
+  # pdf_pf: "0031.5kokosila_pf.pdf"
+  # pdf_bwpf: "0031.5kokosila_bwpf.pdf"
   # cover_image: "0031.5kokosila_sinpin.png"
   cover_image: "0000xxxx_sinpin.png"
 - id: 31
