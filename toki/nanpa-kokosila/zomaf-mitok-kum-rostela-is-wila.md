@@ -34,7 +34,7 @@ tags:
 -- Va nyorkue koe krubeda tumoavayal aze va kumlane lueze artion loplekul. Radimi kastara, va bat aotceks gu zoma loplekul.
 -- Koe fovung va gemapon gabeyena atela loplekul. Aze kurnal. Atela zo gomoavayar voxe biwe zo goburmer.
 -- Va xote ton drizam gabel, voxis va kuntimeki. Aze va sine is sini gu vayna is zoma loplekul.
--- Va eem ko mitokaf azekol deraykal. Gu parmigiano bluda goavel.
+-- Va eem ko mitokaf azekol deraykal. Gu *parmigiano* bluda goavel.
 -- Va in kocadel vieli moak al zo tumoavayackayar.
 
 --- 
