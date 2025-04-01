@@ -6,7 +6,7 @@
   # pdf_pf: "0031.5kokosila_pf.pdf"
   # pdf_bwpf: "0031.5kokosila_bwpf.pdf"
   # cover_image: "0031.5kokosila_sinpin.png"
-  cover_image: "0000xxxx_sinpin.png"
+  cover_image: "0031.5kokosila_sinpin.png"
 - id: 31
   title: nanpa kala
   date: 2025-02-28
