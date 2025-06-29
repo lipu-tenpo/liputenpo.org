@@ -25,11 +25,8 @@ sina wile ala wile sona e kon sina? o kama sona e kon luka tu tu. poka la, o pil
 | jan pi wile wawa     | “jan li lawa li pakala e mi”             | “mi awen e mi”                |
 | jan pi utala ala     | “jan li weka tawa mi”                    | “utala ala li lon”            |
 
-sina wile sona e ijo Enejakama la,
-o tawa https://www.enneagraminstitute.com
-o tawa https://docs.google.com/document/d/1QSh8H4i5BPZTQO_HeAOvazW4yG25y18tkzOpNEhM7Q0/edit?tab=t.0
+sina wile sona e ijo Enejakama la, o tawa <https://www.enneagraminstitute.com>, o tawa <https://docs.google.com/document/d/1QSh8H4i5BPZTQO_HeAOvazW4yG25y18tkzOpNEhM7Q0/edit?tab=t.0>
 
-
-¹Pythagoras
-²Oscar Ichazo
-³Seven Deadly Sins
+¹Pythagoras  
+²Oscar Ichazo  
+³Seven Deadly Sins  

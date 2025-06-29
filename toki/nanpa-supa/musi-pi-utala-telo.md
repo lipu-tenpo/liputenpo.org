@@ -12,7 +12,7 @@ tags:
 jan \#1 li jo e lipu ona. jan \#2 li jo e lipu ona. jan li ken ala lukin e lipu pi jan ante.  
 lipu ni la, jan li jo e leko suli tu. leko suli li jo e leko lili wan ale.  
 
-{{{sitelen "0030_musi_pi_utala_telo_1,png" "sitelen pi musi ni" "kije Enki"}}}
+{{{sitelen "0030_musi_pi_utala_telo_1.png" "sitelen pi musi ni" "kije Enki"}}}
 
 leko suli nanpa wan li leko suli sina. leko suli ni la sina sitelen e tomo tawa telo sina. leko suli nanpa tu la sina wile alasa e tomo telo tawa pi jan ante.  
 jan li ken pana e tomo tawa telo ni:
