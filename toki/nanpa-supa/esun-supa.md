@@ -23,6 +23,6 @@ sina tawa anpa la esun suli li lon. len en poki en kasi en ijo lili li lon ona. 
 
 ale la ike li lon. sina esun e ijo sin la kulupu esun li pali e ona kepeken kasi sin. esun Ikeja li weka e kasi mute. ike a! mute la esun Ikeja li kama jo e kasi kepeken nasin lawa pona. taso lili la esun Ikeja li kama jo e kasi kepeken nasin lawa ike. taso esun Ikeja li toki e ni: ona li wile ala e kasi ike ni. 
 
-supa pi esun Ikeja li pona. taso ona li awen ala lon tenpo suli. ni li tan seme? mi la kiwen kasi ko li ike. ona li mani lili, taso ona li wawa ala. jan en ijo li ken pakala e ona kepeken wawa lili. ona li pakala la sina ken ike pona e supa.
+supa pi esun Ikeja li pona. taso ona li awen ala lon tenpo suli. ni li tan seme? mi la kiwen kasi ko li ike. ona li mani lili, taso ona li wawa ala. jan en ijo li ken pakala e ona kepeken wawa lili. ona li pakala la sina ken ike pona e supa. *ike a!*
 
 sina ken esun e supa pi sin alala o esun e ona. esun pi supa sin ala li kama suli. ma Mewika la ona li suli kepeken 7.7% lon tenpo sike wan. esun pi supa sin li kama suli. taso ona li suli kepeken 3.2% taso. mute la jan li esun e supa pi sin ala pi kasi ala tan ni: kasi li kama ike lon tenpo suli. taso kiwen li awen pona. taso sina ken ala esun e supa taso pi sin ala la sina ken esun e supa sin. sina esun e ona la o lukin e ni: supa li kama tan ma seme li tan kiwen seme li kama lon kepeken nasin seme? ale la o awen pona e supa sina. ni la supa sin li awen pona lon tenpo suli.

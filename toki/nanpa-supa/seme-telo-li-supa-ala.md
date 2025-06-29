@@ -2,7 +2,7 @@
 nimi-suli: seme! telo li supa ala
 jan-pali: jan Ke Tami
 tags:
-  - toki pona
+  - musi
 ---
 mi lon ma lape. kasi li laso. suno li suwi e pimeja lon anpa kasi. kon li tawa pi namako taso. mi len e oko. mi pilin e ale poka. mi pilin e ko kepeken noka e telo kepeken kute e loje kasi kepeken nena e awen kepeken selo. mi pilin eeee… kama jan kin. a.
 

@@ -19,7 +19,7 @@ sina wile ala wile sona e kon sina? o kama sona e kon luka tu tu. poka la, o pil
 | jan pi pana pona     | “jan ala li olin e mi”                   | “jan li wile e mi”            |
 | jan pi pali suli     | “pali mi li ike”                         | “mi pali pona mute”           |
 | jan pi pilin mute    | “mi jan suli ala”                        | “mi sama mi”                  |
-| jan pi wile sona     | “mi ilo ala tawa jan”                    | “mi sona. mi ken.”            |
+| jan pi wile sona     | “mi ilo ala tawa jan”                    | “mi sona. mi ken”             |
 | jan pi wile kulupu   | “mi lon kulupu ala”                      | “ale mi li awen”              |
 | jan pi pilin pona    | “mi ken ala weka e pilin ike”            | “mi pilin pona”               |
 | jan pi wile wawa     | “jan li lawa li pakala e mi”             | “mi awen e mi”                |

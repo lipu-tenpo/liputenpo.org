@@ -1,8 +1,8 @@
 ---
-nimi-suli: supa pi toki ante
+nimi-suli: jan Kasi en nasin kasi
 jan-pali: jan Alonola
 tags:
-  - musi
+  - sona
 ---
 {{{sitelen "0032_nasin_kasi_lon_telo.png" "nasin kasi lon sewi telo" "jan Alonola"}}}
 

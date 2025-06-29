@@ -10,7 +10,7 @@ kipisi wan li pilin ike la,
 kipisi ante li pilin pona ala.  
 sina pilin ike ala  
 tan ike pilin pi jan ante la,  
-sina li ken ala jan.  
+sina li ken ala jan?  
 
 ---
 

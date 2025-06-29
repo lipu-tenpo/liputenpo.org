@@ -35,7 +35,7 @@ jan tu li sitelen e tomo telo ona lon lipu ona la, musi li open.
 
 jan \#1 li pilin e ni: jan \#2 la tomo telo li lon leko lili seme? jan li pini pilin la ona li toki e nanpa pi leko lili.
 
-jan \#1 li toki pona la, ona li sitelen e ✗ lon leko lili ni lon leko suli teje ona li toki sin. ni la jan \#2 li sitelen e ni lon leko lili ona kin. kin la, jan \#2 li toki sama ni: “pakala” (jan li pakala e leko lili ale pi tomo tawa telo wan la jan li toki e “moli”).
+jan \#1 li toki pona la, ona li sitelen e × lon leko lili ni lon leko suli teje ona li toki sin. ni la jan \#2 li sitelen e ni lon leko lili ona kin. kin la, jan \#2 li toki sama ni: “pakala” (jan li pakala e leko lili ale pi tomo tawa telo wan la jan li toki e “moli”).
 
 jan \#1 li toki ike la, ona li sitelen e •. ni la jan \#2 li sitelen e ni lon leko lili ona kin. kin la jan \#2 li toki e “pakala ala” anu “telo”.
 

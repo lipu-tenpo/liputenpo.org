@@ -32,3 +32,5 @@ seli ni li ike ala
 tawa waso lili mute.  
 waso li musi e kala,  
 ona li toki, li kute
+
+lon telo pi waso mute.  

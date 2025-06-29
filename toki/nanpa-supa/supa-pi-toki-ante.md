@@ -11,7 +11,7 @@ tags:
 toki kama la ***nimi ni*** li jo e kon pi nimi “supa” lon toki ante
 
 toki Ajenu la nimi  
-<span class="tab">supa li ***seli e telo***   
+<span class="tab">supa li ***seli e telo*** (スパ)   
 toki Intonesija la  
 <span class="tab">sina ken pana e ***soko***   
 toki Sesoto la  
