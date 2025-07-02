@@ -19,8 +19,8 @@ seme la, seli en lete li wan li pona lon ijo wan?
 len mi li len lete, tan ni: mi kepeken ona lon tenpo lete.  
 len mi li len seli, tan ni: ona li seli e mi.
 
-ni li pali sona lon ma. o jo e pali ante lon ijo ante.  
-sina jo e ni la, sina kin li pona lon ma pi ijo mute, li sama len mi.
+ni li ken wawa e sona sina. o sama len mi.  
+o pali e ijo ante mute lon ijo wan sama.
 
 mi jo e len jelo suli lete seli.  
 len mi li pona mute.
