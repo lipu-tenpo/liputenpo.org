@@ -29,6 +29,8 @@ jo e kasi jelo, e pan walo sama ko,
 linja laso li kipisi e ma ale a.  
 kasi kili pi mute lili li lon ona.
 
+---
+
 ¹ **Lietuva**.  
 ² Częstochowa, ona li ma jan lon ma Posuka.  
 ³ Aušros [vartai], ona li lupa open pi ma jan Vilnius.  

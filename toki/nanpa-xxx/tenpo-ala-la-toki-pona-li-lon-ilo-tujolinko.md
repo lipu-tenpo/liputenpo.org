@@ -23,6 +23,8 @@ taso, tenpo ni la, jan lawa pi ilo Tujolinko li pake³ e pana sona pi toki pali 
 
 ike ken ni li lili e pona pi ilo Tujolinko tawa toki pona. toki pona li weka tan ilo Tujolinko. ken la, weka ni li weka pona. ijo wan pini li lon li ni: jan li ante e toki musi pi ilo Tujolinko kepeken toki pona. ante toki ni li lon lipu Tujosoli.⁷ lipu ni li pana e nimi pi toki pona kepeken sitelen Lasina, kepeken sitelen pona kin.⁸ ni kin li pona. ilo mute pi pana sona li lon. ilo Tujolinko li ilo pi wan taso. pona li ni: kulupu pi toki pona o kepeken ilo ante tawa kama sona pi toki pona. 
 
+---
+
 ¹ toki open la, nimi ona li “Duolingo”  
 ² lipu open li kepeken toki Inli li kepeken toki Epelanto. ona li lon lipu ni: https://blog.duolingo.com/why-learn-a-made-up-language/  
 ³ jan li “pake” e ijo la, ijo ni li pini anu ken ala tawa.  

@@ -22,5 +22,7 @@ taso, mi sona e ni: sina wile pali e musi la, sina wile e musi sin. tan ni la, o
 
 tenpo kama la, sina jo e musi pi sitelen tawa! tenpo ni li pona mute mute tawa mi. mi olin musi e musi. sina pali e musi la, sina ken musi e musi! kin la sina awen pali e musi la sina o awen musi e ona. ni la sina kama sona e wawa ona e pakala ona. taso, sina pini la sina ken pana e musi tawa jan pona ale. sina mute li ken musi mute! tawa pali musi la, mi olin e ni.
 
+---
+
 ¹ sina ken toki e nimi Piko-8 sama ni: Piko luka tu wan.  
 ² linluwi li kulupu suli pi ilo nanpa. linluwi li wan e jan pi ma ale.
