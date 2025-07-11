@@ -5,9 +5,15 @@ tags:
   - musi
 ---
 <style>
-blockquote {
+.nimi blockquote {
+  width: 100%;
   text-align: right;
   border-inline-start: 0;
+  margin: 0;
+}
+
+.nimi blockquote p {
+  margin: 0;
 }
 </style>
 
