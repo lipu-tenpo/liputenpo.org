@@ -64,7 +64,7 @@ a, sina pona! mi pali e sitelen li pana e ona tawa sina.
 > taso…
 
 taso seme?
-> taso ni li tomo mi.
+> taso __ni__ li tomo mi.
 
 **kalama pi ilo sitelen**  
 *sitelen li tawa*  
