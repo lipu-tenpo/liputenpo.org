@@ -4,7 +4,7 @@ jan-pali: jan Satase
 tags:
   - sona
 ---
-**tomo la, sina jo e ijo mute ala mute?** sina wile ala wile lili e ona? ijo jo sina li mute ala la, sina lili e ona kepeken nasin seme? tomo mute la, ijo jo li kama mute lon tenpo suli. ni la, jan li wile weka e ona. taso, jan li weka e ona kepeken nasin seme? seme li wile awen? seme li wile weka? nasin mute la, mi wile toki e nasin wan ni: nasin pi pilin ijo jo.
+**tomo la, sina jo e ijo mute ala mute?** sina wile ala wile lili e ona? ijo jo sina li mute ala la, sina lili e ona kepeken nasin seme? tomo mute la, ijo jo li kama mute lon tenpo suli. ni la, jan li wile weka e ona. taso, jan li weka e ona kepeken nasin seme? seme li wile awen? seme li wile weka? nasin mute la, mi wile toki e nasin wan ni: nasin pilin pi ijo jo.
 
 jan li wile lili e ijo tomo la, ona li wile taso e ijo tawa kulupu weka. mute la, jan li lukin e ijo wan, li toki insa e ni: “ona li ken ala ken kepeken? ona li mani mute anu mani lili? pona ala pona lukin? majuna anu sin? jaki ala jaki?” toki lili la, jan li toki insa e ken pi tenpo kama. jan mute li weka e ijo jo kepeken nasin ni.
 
