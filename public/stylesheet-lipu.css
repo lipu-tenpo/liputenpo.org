@@ -39,7 +39,7 @@ h2 {
 }
 .pdfs li a {
   flex: 1 0;
-  border: 3px solid var(--logo-secondary-dark);
+  border: 3px solid var(--colour-kiwen-pimeja);
   background-color: var(--logo-primary-dark);
   padding: 1rem;
   border-radius: 1.5rem;
@@ -127,7 +127,6 @@ h2 {
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  color: var(--text-colour);
 }
 .article .nimi-suli {
   font-size: 1rem;
@@ -167,7 +166,10 @@ h2 {
   background-color: var(--logo-primary-dark);
   border-radius: 1rem;
   text-decoration: none;
-  color: var(--logo-secondary);
+  color: var(--text-contrast);
+}
+.prevnext a:hover {
+  color: var(--text-contrast-subtle);
 }
 .prevnext .disabled {
   color: var(--text-subtle);

@@ -130,7 +130,6 @@ search > input {
   justify-content: center;
   align-items: center;
   text-decoration: none;
-  color: var(--text-colour);
 }
 
 .article.hidden {
