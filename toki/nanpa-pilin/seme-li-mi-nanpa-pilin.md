@@ -4,6 +4,8 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
+{{{sitelen "0033_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+
 mi wile lon taso mi ken ala  
 mi ken tawa musi lon linja  
 mi ken lukin e pimeja e walo  

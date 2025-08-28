@@ -6,6 +6,8 @@ tags:
 ---
 **sina wile pali mute la**, sina ken pali e musi pi sitelen tawa. pali musi li musi mute! taso pali musi li pali mute.
 
+{{{sitelen "0033_ilo_musi.png" "ilo musi pi tenpo pini" "jan Alonola"}}}
+
 tawa open la, o alasa e ilo musi. sina jo e ilo nanpa supa la, sina ken jo e ilo musi mute. ni mute li mani ala li pona e musi. o kepeken e ni. sina pali e ilo musi la, lawa pakala mute li kama!
 
 ilo musi li wawa mute. sina ken wan e toki ilo e sitelen e sitelen sijelo tawa ilo wan. ilo musi mute li pona. mi olin e ilo Koto (*Godot*) e ilo Piko-8¹ (*Pico-8*). ilo Koto li wawa li mani ala. ilo Piko-8 li lili li mani ala tawa kama sona taso (*Pico-8 Education Edition*). ilo musi ante li lon, taso ona tu li pona tawa mi.

@@ -4,6 +4,9 @@ jan-pali: akesi Tala
 tags:
   - musi
 ---
+
+{{{sitelen "0033_kasi_en_soweli.png" "soweli li lon poka kasi" "kije Weku"}}}
+
 🌱 kasi li kama lon  
 ona li lon ma laso  
 taso kasi ante li lon ala li lon ma ante  

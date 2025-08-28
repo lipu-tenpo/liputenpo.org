@@ -8,6 +8,8 @@ tags:
 
 **open la jan li lon ma Apika taso**. tenpo lon la ona li lon ma ale. ni li kama lon nasin seme? tenpo sike pini TAAA en tenpo poka la, kulupu li weka tan ma Apika li kama lon ma Asija pi pini suno. tenpo suli li weka la, kulupu li kama lon ma Elopa, lon ma Asija pi kama suno kin. ma jan li kama suli. kulupu jan li wan ala, li kulupu mute lili taso.
 
+{{{sitelen "0033_sitelen_ma.png" "sitelen ma pi tawa jan" "jan Alonola"}}}
+
 **jan ni pi tenpo pini li sama ala sama jan pi tenpo lon**? sama ala. jan sona li lukin e sijelo moli ona la, ona li ken sona e ni: jan ni li tan tenpo pini, li sama ala mi, li sama ala sina. kulupu pi tenpo pini la jan sona li pana e nimi ni: ona li kulupu *Homo erectus*. nimi ni la, ona li sama jan, li tawa kepeken noka ona taso.
 
 **ma li kama suli la jan li kama ante**. kulupu *Homo erectus* li kama kulupu tu. ma Elopa la kulupu *Homo neanderthalensis* li kama lon. jan sona li kama lukin e sijelo ona lon ma Nejanta lon ma Tosi li pana e nimi ma tawa ona. ma Apika la kulupu *Homo sapiens* li kama lon. kulupu ni li kulupu mi. nimi ona li toki e sona wawa ona.

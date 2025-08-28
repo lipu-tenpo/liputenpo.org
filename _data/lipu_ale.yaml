@@ -1,3 +1,11 @@
+- id: 33
+  title: nanpa pilin
+  date: 2025-08-28
+  pdf: "0033pilin.pdf"
+  pdf_bleed: "0033pilin_bleed.pdf"
+  pdf_pf: "0033pilin_pf.pdf"
+  pdf_bwpf: "0033pilin_bwpf.pdf"
+  cover_image: "0033pilin_sinpin.png"
 - id: 32
   title: nanpa supa
   date: 2025-06-29
