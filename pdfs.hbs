@@ -31,31 +31,31 @@ css:
           </span>
           <div class="pdf-links">
             {{#if this.pdf}}
-            <a href="{{this.pdf}}">
+            <a href="{{checkpdf this.pdf}}">
               <span>lipu kule</span>
             </a>
             <br>
             {{/if}}
             {{#if this.pdf_bleed}}
-            <a href="{{this.pdf_bleed}}">
+            <a href="{{checkpdf this.pdf_bleed}}">
               <span>lipu kule (tawa ilo)</span>
             </a>
             <br>
             {{/if}}
             {{#if this.pdf_pf}}
-            <a href="{{this.pdf_pf}}">
+            <a href="{{checkpdf this.pdf_pf}}">
               <span>lipu tawa ilo sitelen</span>
             </a>
             <br>
             {{/if}}
             {{#if this.pdf_bwpf}}
-            <a href="{{this.pdf_bwpf}}">
+            <a href="{{checkpdf this.pdf_bwpf}}">
               <span>lipu walo tawa ilo sitelen</span>
             </a>
             <br>
             {{/if}}
             {{#if this.pdf_sitelen_pona}}
-            <a href="{{this.pdf_sitelen_pona}}">
+            <a href="{{checkpdf this.pdf_sitelen_pona}}">
               <span>lipu pi sitelen pona</span>
             </a>
             {{/if}}

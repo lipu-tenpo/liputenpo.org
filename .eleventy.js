@@ -187,6 +187,17 @@ module.exports = function (eleventyConfig) {
     return all_files;
   });
 
+  // check pdfs exist when they are used
+  eleventyConfig.addHandlebarsHelper("checkpdf", (filename) => {
+    if (!fs.existsSync("pdfs/" + filename)) {
+      throw new Error(
+        filename +
+          ' does not exist in PDFs folder (check spelling in "_data/lipu_ale.yaml"?'
+      );
+    }
+    return filename;
+  });
+
   // image shortcode - reduce filesize etc
   //  use like {{ eleventyImage "images/blah.jpg" "classes" "alt" 300 }}
   eleventyConfig.addShortcode("eleventyImage", imageShortcode);
