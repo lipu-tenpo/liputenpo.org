@@ -11,7 +11,7 @@ toki ni li musi. taso toki pi jan wan taso li musi lili. toki kulupu li musi sul
 kulupu lawa pi ma Elopa li toki e ijo lawa lon ma tu wan. ma wan li ma Lusenpu lon ma suli Lusenpu. ma ante li ma Puse lon ma suli Pesike. suli la, ma lawa li ma Sapu lon ma suli Panse. telo suli li tawa lon ona la, poka ante pi telo ni li ma Ke³ lon ma suli Tosilan⁴. 
 tomo lawa pi ma Elopa li lon ma Sapu la, mi kulupu li wile lon ona. kulupu li suli la, ni li wile e wawa. taso wawa li lon!
 
-ijo tenpo
+**ijo tenpo**
 
 tenpo li seli la, ma kasi li pona. taso ike la, tenpo open la, sewi li utala e kulupu kepeken telo. ni la, mi tawa insa tomo. jan mute li pana e sitelen nimi ale tawa lipu ona wan. taso kin la, kulupu li pana e sitelen nimi ale tawa lipu kulupu wan. ni la, ale li ken kepeken ona lon ilo. o alasa e nimi ni: “sitelen pona Elopa pi ma Sapu”. mi mute mute tu li pana e sitelen tawa lipu kulupu.
 
