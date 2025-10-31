@@ -2,7 +2,7 @@
 nimi-suli: mi lon
 jan-pali: jan Alonola
 tags:
-  - musi
+  - toki
 ---
 <style>
 .nimi blockquote {

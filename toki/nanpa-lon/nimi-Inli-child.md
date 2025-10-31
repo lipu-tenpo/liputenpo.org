@@ -3,7 +3,7 @@
 nimi-suli: jan sin li kama tan mama la mama o kepeken nimi seme pi toki-pona tawa ona
 jan-pali: jan Nikola
 tags:
-  - sona
+  - pilin
 ---
 *sitelen pona li lon [lipu ni](https://jan-nikola.gitlab.io/jan-lili-anu-seme)*
 

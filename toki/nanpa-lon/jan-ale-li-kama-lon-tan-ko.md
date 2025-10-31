@@ -1,6 +1,6 @@
 ---
 nimi-suli: jan ale li kama lon tan ko
-jan-pali: ijo sikipele
+jan-pali: ijo Sikipele
 tags:
   - musi
 ---

@@ -2,7 +2,7 @@
 nimi-suli: kulupu li jo e wawa
 jan-pali: jan Ke Tami
 tags:
-  - pilin
+  - kulupu
 ---
 toki ni li musi. taso toki pi jan wan taso li musi lili. toki kulupu li musi suli. ni la, mi kepeken toki ni lon poka pi jan ante la, musi li suli pona. mi ken lon kulupu kepeken ilo toki. toki kulupu li ken lon ona. taso mi en jan ante li lon ma sama la, toki kulupu li wawa a! tan ni la, mi wile kama e kulupu lon ma wan. 
 

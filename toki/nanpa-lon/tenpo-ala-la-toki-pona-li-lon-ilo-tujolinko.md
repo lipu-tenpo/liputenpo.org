@@ -2,7 +2,7 @@
 nimi-suli: tenpo ala la, toki pona li lon ilo Tujolinko
 jan-pali: jan Kapesi Pake
 tags:
-  - pilin
+  - toki pona
 ---
 **→ ilo Tujolinko**¹ li ilo pi kama sona toki. jan li kepeken ilo Tujolinko tawa open pi kama sona toki. nasin ona pi pana sona li ni: jan o ante toki e nimi pi toki ante. tawa ni la, jan kepeken o pana e nimi wile lon linja nimi pi ilo Tujolinko. toki mute li lon ijo Tujolinko. toki pali kin li lon ijo Tujolinko. toki pali ni li toki Epelanto li toki Walelijan sewi li toki Sinan. toki pali ni li lon ilo Tujolinko la, toki pona o lon ala lon ilo Tujolinko?
 
