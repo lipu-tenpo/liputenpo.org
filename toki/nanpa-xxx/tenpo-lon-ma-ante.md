@@ -22,7 +22,8 @@ pilin la, tenpo li linja ala. ken la, tenpo li tawa lili anu tawa suli. jan sona
 
 **tenpo lon pali**
 
-jan sona Ole (Edward T. Hall) li toki e ni: nasin tu pi tenpo pali li lon. nasin nanpa wan la, sina ken pali e ijo, li pini e ijo, li pali e ijo sin. ni li nasin pali pi ijo wan. nasin nanpa tu la, sina ken pali e ijo mute lon tenpo sama. ni li nasin pali pi ijo mute. 
+jan sona Ole (Edward T. Hall) li toki e ni: nasin tu pi tenpo pali li lon. nasin nanpa wan la, sina ken pali e ijo, li pini e ijo, li pali e ijo sin. ni li nasin pali pi ijo wan. nasin nanpa tu la, sina ken pali e ijo mute lon tenpo sama. ni li nasin pali pi ijo mute.
+
 nasin pali pi ijo wan la, tenpo pona en tenpo ike li suli tawa jan. ni la, sina o kama lon tenpo, o pali lon tenpo wan. sina o kama ala lon tenpo ante.  nasin pali pi ijo mute la, tenpo li sama ko. ni la, sina ken pali lon tenpo ni anu tenpo kama. ni li suli lon ma Amelika seli, lon ma seli ante. nasin pali pi ijo wan li suli lon ma Mewika, lon ma Elopa lete, lon ma Nijon.
 
 **tenpo pini en tenpo ni en tenpo kama**
