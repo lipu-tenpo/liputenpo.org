@@ -4,17 +4,17 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
-mi kama tan ma Apika
-soweli li moku e mi a
-jan awen ona li seli e mi
-kama la mi tawa ma Alapi
+mi wile lon taso mi ken ala
+mi ken tawa musi lon linja
+mi ken lukin e pimeja e walo
+taso mi jo ala e oko
 
-ma ale la jan li moku e mi
-ken la mi lete anu seli
-jan lili li moku ala e mi
-mi la uta ona li pilin jaki
+mi tawa ma mute li utala
+mi musi mi pilin mi kalama
+sina sona e ijo ale mi
+mi sona ala e nimi si’
 
-mi pana e wawa tawa pali pona
-mi weka e pilin lape tan lawa
-mi walo anu jelo anu pimeja
-kule la mi jo e nimi sin pona
+wawa mi li pilin lon lawa sina
+noka mi li palisa luka sina
+nimi mi li tan ilo sitelen
+sina lukin e lipu la mi awen
