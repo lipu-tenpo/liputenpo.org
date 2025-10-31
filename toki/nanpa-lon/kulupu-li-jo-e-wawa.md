@@ -1,6 +1,6 @@
 ---
 nimi-suli: kulupu li jo e wawa
-jan-pali: jan Ke tami
+jan-pali: jan Ke Tami
 tags:
   - pilin
 ---
