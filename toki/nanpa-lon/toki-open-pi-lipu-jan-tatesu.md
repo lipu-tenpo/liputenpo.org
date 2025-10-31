@@ -22,7 +22,7 @@ nasa la sina tawa mama e mi ale!
 tenpo ni la, o tawa e kon wile mi  
 [15] tawa nena lon ma kasi, tawa ma suli  
 laso lon poka pi linja telo Nemen⁶ a,  
-tawa ma sitelen kepeken pan mute a.  
+tawa ma pan. pan mute li sitelen e ma.  
 ma li jelo li walo tan pan. ona kin li  
 jo e kasi jelo, e pan walo sama ko,  
 [20] e kasi suno pi loje walo. kin la,  
