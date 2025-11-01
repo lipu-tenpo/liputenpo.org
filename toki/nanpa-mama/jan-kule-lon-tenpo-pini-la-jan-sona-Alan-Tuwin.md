@@ -2,13 +2,13 @@
 nimi-suli: jan kule lon tenpo pini la jan sona Alan Tuwin
 jan-pali: jan Olipija
 tags:
-	- sona
+  - sona
 ---
 tenpo pini la, ma Juke li utala e ma Tosi la, jan sona Alan Tuwin li lon ma Juke.
 
 ona li sona a e nasin nanpa e nasin ilo la, ona li pali tan lawa pi ma Juke e ilo sona wawa Ponpe . ma Elopa la, lawa pi ma Tosi li toki tawa kulupu utala pi ma Tosi kepeken toki pake. toki pake ni li wawa a la, kulupu utala pi ma Juke pi ma ante li sona ala e kon pi toki pake. ilo sona wawa Ponpe li weka e pake ni. en ma Juke en kulupu ma ona li sona e toki lawa pi ma Tosi kepeken ilo li pakala e kulupu utala ona la, en ma Tosi en kulupu ma ona li ike lon utala li pakala.
 
-{{{sitelen "0019_alan_turing.png" "portrait drawing of Alan Turing" "jan Alonola"}}}
+{{{sitelen "0019-nanpa-mama/alan_turing.png" "portrait drawing of Alan Turing" "jan Alonola"}}}
 
 ni la, jan sona Alan Tuwin li pona a tawa ma Juke. tenpo mute la, jan li toki pona e ona li pilin pona wawa tawa ona. kin la, ona li pali e nasin nanpa namako e nasin sona namako la, ma ale la, jan mute li sona e nimi ona. nasin sona namako wan ona li alasa sona Tuwin (Turing Test) anu musi jasima(pu) (Imitation Game) li ni: “tenpo mute la, jan li alasa e ni: ‘ilo li ken ala ken pilin?’. mi alasa ante. mi alasa taso e ni: ilo li ken ala ken toki sama jan kepeken nasin ona. ni la, nasin ilo li mama e ijo sama pilin jan la, ante li seme?”
 
