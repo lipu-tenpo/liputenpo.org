@@ -2,11 +2,12 @@
 nimi-suli: nasin tawa Intawe
 jan-pali: jan Alipi
 tags:
-  - sona
+  - ma
 ---
+
 tenpo ni la jan mute li wile tawa ma ale. jan ni mute li ni kepeken tenpo lili. ona li kepeken tomo tawa li kepeken tomo tawa sewi. ona li lape li suno seli e selo ona li moku. ni la ona li tawa tomo ona. mi toki e ni: sina o tawa ma ni ala. sina o tawa ma kepeken tenpo suli o tawa ma pona.
 
-{{{sitelen "nasin-tawa-intawe.png" "nasin tawa Intawe"}}}
+{{{sitelen "0020-nanpa-nasin/tomo_tawa_linja.svg" ""}}}
 
 lon ma Elopa la, ma kulupu li pali e lipu tawa Intawe. sina kama jo e lipu ni kepeken mani la sina ken kepeken tomo tawa linja ale pi ma Elopa. sina ken ni kepeken tenpo pi wile sina. tenpo suno mute anu tenpo mun mute. sina tawa kepeken lipu ni la sina o tawa kepeken tenpo mute. mi la ni li pona mute. tan seme?
 
