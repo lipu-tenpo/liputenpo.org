@@ -11,4 +11,4 @@ taso kulupu Kanse li sin e wile ona · jan li wile moli e jo ona la kulupu li ke
 
 kulupu lili Kanse la jan pi wawa ali li toki e ni : lon kulupu suli kin la jan jo o ken pali e pali sama lon ali ·
 
-{{{sitelen "0026_jan-lili-kule.png" "drawing of a lifecycle of a baby growing from a cell to a foetus" "jan Alonola"}}}
+{{{sitelen "0026-nanpa-jaki/jan-lili-kule.png" "drawing of a lifecycle of a baby growing from a cell to a foetus" "jan Alonola"}}}

@@ -9,7 +9,7 @@ tags:
 
 ken suli la, sina sona e ni: jan li toki e toki Lasina lon tenpo pini suli. taso ken la, sina sona ala e ni: jan li pini ala kepeken toki Lasina. jan li sitelen kepeken ona lon tenpo pi suli mute! ni la, sina kama sona e toki Lasina la, sina ken lukin e lipu pi tenpo ante mute. ken suli la, sina kama sona e toki Lasina la, sina kama pilin e ni: sina jan pi tenpo pini! ni li lon kin: sina sitelen kepeken toki Lasina lon tenpo ni la, jan pi tenpo kama suli li ken lukin e ona tan ni: toki Lasina li ante ala! (taso la, nimi sin li lon toki Lasina. sina ken toki e ijo sin kepeken toki Lasina. kin la, jan tonsi li ken toki e tonsi ona kepeken toki Lasina!)
 
-{{{sitelen "0026_kijetesantakalu-Lasina-kule.png" "drawing of kijetesantakalu dressed up roman style" "jan Ke Tami"}}}
+{{{sitelen "0026-nanpa-jaki/kijetesantakalu-Lasina-kule.png" "drawing of kijetesantakalu dressed up roman style" "jan Ke Tami"}}}
 
 ijo pona li ni: sina kama sona e toki Lasina la, ona li wawa e sona sina. ni li tan ni: toki Lasina li suli mute li wile e lawa wawa. ni la sina kama sona e ona la, ona li wawa e lawa sina e sona sina! kin la, nimi mute pi toki mute li kama tan toki Lasina. ni la, sina sona e toki Lasina la, sina ken sona pona e toki ante. ken la, sina sona e ni: nimi “pona” li kama tan nimi pi toki Lasina (bona). nimi “tomo” la, ni li lon kin (domus)!
 

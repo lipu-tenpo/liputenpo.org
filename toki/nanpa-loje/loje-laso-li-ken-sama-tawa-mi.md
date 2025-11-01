@@ -17,11 +17,11 @@ mi jo e jan lili pi tenpo sike tu wan. open pi tenpo lape la, ona li wile moku e
 ### kasi mun
 sina sona ala sona e kasi ni: kasi li jo e lipu laso e lipu pi loje wawa kin. kasi ni li pona lukin. ma Elopa la, jan li esun e ona lon tenpo lete. ni li kasi mun, tan ni: lukin la, lipu ona li sama sitelen mun¹.
 
-{{{sitelen "0030_cuetlaxochitl.png" "kasi mun li loje li laso" "jan Ke Tami"}}}
+{{{sitelen "0030-nanpa-loje/cuetlaxochitl.png" "kasi mun li loje li laso" "jan Ke Tami"}}}
 
 tenpo pini weka la, mi en jan olin li tawa ma Papuwa Nukini. ma ni la, kasi mun suli li lon. tenpo wan la, mi lon tomo tawa lon tenpo pi kama pimeja. jan olin li toki e ni: o lukin e kasi mun! pona lukin a! mi lukin. mi awen lukin. mi alasa lukin e lipu loje, taso mi ken ala. pimeja li kama la, lipu laso en lipu loje li kama sama tawa mi.
 
-{{{sitelen "0030_cuetlaxochitl-loje.png" "kasi mun li kule wan" "jan Ke Tami"}}}
+{{{sitelen "0030-nanpa-loje/cuetlaxochitl-loje.png" "kasi mun li kule wan" "jan Ke Tami"}}}
 
 ### suno pi ilo lili
 mi jo e ilo toki lili. ona li pali mute la, wawa ona li weka. ni la, ona li wile moku e wawa sin kepeken linja wawa. mi pana e linja wawa tawa ilo la, ilo li pana e suno lili. mi weka e linja wawa la, suno li weka kin.

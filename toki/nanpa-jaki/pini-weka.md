@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0026_jan-mun-kule.png" "drawing of person in suit sitting on a big letter G in the sky" "jan Loli en jan Alonola"}}}
+{{{sitelen "0026-nanpa-jaki/jan-mun-kule.png" "drawing of person in suit sitting on a big letter G in the sky" "jan Loli en jan Alonola"}}}
 
 **jan Jakomo Lopate¹ li jan pi toki musi** li jan pi nasin lawa kin tan ma Italija. pali ona la, sona pi jan ali la, toki musi ni li suli.
 

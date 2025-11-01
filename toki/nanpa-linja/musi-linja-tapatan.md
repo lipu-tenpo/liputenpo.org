@@ -17,7 +17,7 @@ o sitelen e sike luka tu tu. o sitelen kin
 e linja. pini la o kama jo e mani sike luka tu
 anu sike ante. sike ni o jo e kule tu.
 
-{{{sitelen "0027_musi-Tapatan.png" "diagram of lots of circles with connecting lines" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/musi-Tapatan.png" "diagram of lots of circles with connecting lines" "jan Alonola"}}}
 
 ## nasin musi
 
@@ -57,7 +57,7 @@ wan taso la sike li ken tawa ma ale pi sike
 ala. jan wan li jo e sike tu taso anu li ken ala
 tawa kepeken sike la musi li pini.
 
-{{{sitelen "0027_musi-Melelu.png" "diagram of lots of circles with connecting lines" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/musi-Melelu.png" "diagram of lots of circles with connecting lines" "jan Alonola"}}}
 
 musi ni li pona tawa sina la o musi lon poka
 pi jan pona.

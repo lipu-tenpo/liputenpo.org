@@ -46,7 +46,7 @@ taso mun Weta li mun lili nanpa tu tu. jan
 Asin (Harding) li alasa e mun nanpa tu wan.
 ona li mun Juno.
 
-{{{sitelen "0027_lukin-mun-kule.png" "drawing of a mouse looking at a pair of comets through a telescope by a window" "jan Ke Tami"}}}
+{{{sitelen "0027-nanpa-linja/lukin-mun-kule.png" "drawing of a mouse looking at a pair of comets through a telescope by a window" "jan Ke Tami"}}}
 
 tenpo kama a la jan li alasa e mun lili nanpa
 luka. kama la jan li alasa e mun Netun

@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
-{{{sitelen "0027_seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
 
 ma kasi en telo en ma ko la  
 mi tawa kepeken noka ala  

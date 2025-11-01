@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0026_len-pi-toki-pona-kule.png" "drawing of pair of trousers" "jan Alonola"}}}
+{{{sitelen "0026-nanpa-jaki/len-pi-toki-pona-kule.png" "drawing of pair of trousers" "jan Alonola"}}}
 
 mi wile esun e len noka  
 taso mi jo ala e mani a  

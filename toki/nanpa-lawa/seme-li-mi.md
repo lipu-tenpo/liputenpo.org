@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
-{{{sitelen "0028_seme-li-mi-kule.png" "drawing of the below riddle" "jan Alonola"}}}
+{{{sitelen "0028-nanpa-lawa/seme-li-mi-kule.png" "drawing of the below riddle" "jan Alonola"}}}
 
 sina oko e sijelo mi  
 loje walo li lon selo ni  

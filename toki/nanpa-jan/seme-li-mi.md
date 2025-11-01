@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
-{{{sitelen "0029_seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
+{{{sitelen "0029-nanpa-jan/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
 
 jan li alasa e mi  
 taso mi ala soweli  

@@ -4,7 +4,7 @@ jan-pali: jan Lim
 tags:
   - sona
 ---
-{{{sitelen "0031_moli-kala.svg" "moli kala" "jan Lim"}}}
+{{{sitelen "0031-nanpa-kala/moli-kala.svg" "moli kala" "jan Lim"}}}
 
 tenpo wan la
     mi noka lon nasin wan

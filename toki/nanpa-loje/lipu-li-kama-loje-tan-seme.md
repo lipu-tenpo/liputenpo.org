@@ -6,7 +6,7 @@ tags:
 ---
 tenpo seli la lipu kasi li laso li pona. taso tenpo lete li open la lipu li kama loje anu jelo li weka tan kasi. ni li lon tan seme?
 
-{{{sitelen "0030_lipu_loje.png" "lipu loje" "jan Alonola"}}}
+{{{sitelen "0030-nanpa-loje/lipu_loje.png" "lipu loje" "jan Alonola"}}}
 
 open la lipu li laso tan seme? sona ni li pona. ni li lon tan ijo lili Kolopilon (χλωρός chlōrós laso en φύλλον phýllon lipu). nimi ni li tan toki Elena. kasi li kama jo e wawa tan suno la ona li kepeken e ijo Kolopilon. kule ante li lon lipu. taso kule pi ijo Kolopilon li wawa a. ona li lon la ale li laso.
 

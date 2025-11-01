@@ -22,7 +22,7 @@ seme li ken? moku pi lili ike en jaki ante en ilo oko ala en moku nasa ala li su
 
 kulupu esun Tanake (Danaher) li lawa e ilo oko sin li wile e mani lon ona. ilo oko pi tenpo ante li ken ala sona e lon jaki lon tenpo ale. taso ilo sin li wawa li ken sona pona li ken sona e ni kin: moku seme pi weka jaki li ken pona wawa lon jaki pi nasin ni. kulupu esun li ken wile e mani lili. taso ona li wile e mani pi mute ike. jan mute a li sona ala e lon jaki e nasin pona li kama moli li moku e moku nasa kin pi wile ala.
 
-{{{sitelen "0026_mani-o-lili-kule.webp" "drawing of sand timer with red sand, and bacteria" "jan Ke Tami"}}}
+{{{sitelen "0026-nanpa-jaki/mani-o-lili-kule.webp" "drawing of sand timer with red sand, and bacteria" "jan Ke Tami"}}}
 
 open la kulupu wile li toki tawa ona. ona li toki ike tawa kulupu wile. kulupu li toki wawa tawa ona li toki e ike ona. kulupu esun li kama ante lili e nasin mani lon ilo ona. taso ante lili o ante suli. mi en jan ante mute li awen toki wawa li ken toki utala lon ike ona li ken toki suwi lon ante ona.
 
