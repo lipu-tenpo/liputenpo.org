@@ -2,7 +2,7 @@
 nimi-suli: toki ma la, seme li lon?
 jan-pali: jan Alonola
 tags:
-  - toki-ante
+  - toki ante
 ---
 ken la, sina sona e toki “toki ma”. toki ma li toki lili pi toki pona. ante la, toki pona li mama pi toki ma. toki Inli en toki Epelanto la, jan li pana e nimi ni tawa toki lili pi toki pona: nimi “tokiponido”.
 
