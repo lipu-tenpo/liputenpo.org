@@ -6,7 +6,7 @@ tags:
 ---
 (toki Lasina li lon anpa)
 
-{{{sitelen "seme-li-mi-4.png" "seme li mi" "jan Alonola"}}}
+{{{sitelen "0021-nanpa-ma/seme-li-mi-4.png" "seme li mi" "jan Alonola"}}}
 
 lete li pona tawa mi  
 taso mi lon ma kin ni:  
