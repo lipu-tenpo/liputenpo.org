@@ -1,9 +1,10 @@
 ---
-nimi-suli: toki musi tan jan Sapo¹, tan jan Katulo² musi
+nimi-suli: toki musi tan jan Sapo[^1], tan jan Katulo[^2]
 jan-pali: jan Lapate
 tags:
   - musi
 ---
+
 mi sona ala e ona, taso ona li awen  
 lon poka sina, li kute e toki suwi sina,  
 e mu musi sina la—lukin mi la, ona li  
@@ -24,5 +25,5 @@ e sina, li pona ike a tawa sina—
 pali ala li anpa e jan lawa, li pakala e  
 ma tomo suli.  
 
-¹ Σαπφώ, c. 600 BCE. tan toki ona nanpa 31.  
-² C. Valerius Catullus, c. 60 BCE. ona li pali sin e toki nanpa 31 pi jan Sapo, lon toki Carmen 51  
+[^1]: Σαπφώ, c. 600 BCE. tan toki ona nanpa 31.
+[^2]: C. Valerius Catullus, c. 60 BCE. ona li pali sin e toki nanpa 31 pi jan Sapo, lon toki Carmen 51.

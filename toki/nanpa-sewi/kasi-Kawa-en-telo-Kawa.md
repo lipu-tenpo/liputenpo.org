@@ -4,13 +4,14 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
+
 ma mute la, telo Kawa li suli mute tawa jan. taso jan mute ala li sona e tenpo pini, e ma open pi kasi Kawa. mi o pana e sona ni.
 
 ## tenpo pini
 
 kasi Kawa li tan ma Kapa (Kaffa). ma Kapa li ma lili lon ma Isijopija (Ethiopia, ኢትዮጵያ Ityop̣p̣əya). ona li lon ma Apika. tenpo pini mute (~900 AD) la, jan li kama sona e kasi Kawa. ken la, nimi pi kasi Kawa li tan ma Kapa. toki sewi la, soweli len li moku e kasi Kawa la, jan mama ona wan (jan Kali “Kaldi”) kin li moku e kasi Kawa. ni la, ona li wile lape ala, li pilin wawa! kama la, ona li pali e telo tan kasi Kawa: telo Kawa.
 
-{{{sitelen "0023sewi_latte_macchiato.png" "latte macchiato"}}}
+{{{sitelen "0023-nanpa-sewi/latte_macchiato.png" "latte macchiato"}}}
 
 tenpo kama la, jan Alapi li kama jo e kasi Kawa, li moku e ona. ona li esun mute e kasi Kawa tawa ma ante. ma tomo pi esun mute li ma tomo Moka (المخا, Mocha) lon ma Jamanija. nimi pi telo Moka li tan ma ni.
 
@@ -26,7 +27,7 @@ tenpo ni la, kasi Kawa mute ala li kama tan ma Isijopija anu ma Alapi. jan li su
 
 ma ale la, ma ni li moku mute e telo Kawa: ma Sumi, ma Nosiki, ma Isilan, ma Tansi, ma Netelan. tenpo suno ale la, lon ma Sumi la, jan li moku e poki tu wan anu tu pi telo Kawa.
 
-{{{sitelen "0023sewi_coffee_plant-1200x834.png" "coffee plant"}}}
+{{{sitelen "0023-nanpa-sewi/coffee_plant-1200x834.png" "coffee plant"}}}
 
 ## kasi
 

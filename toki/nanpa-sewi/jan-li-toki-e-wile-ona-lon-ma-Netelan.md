@@ -4,6 +4,9 @@ jan-pali: jan Kasape, jan Simiman
 tags:
   - sona
 ---
+
+{{{sitelen "0023-nanpa-sewi/wile_pi_ma_Netelan.svg" ""}}}
+
 lawa pi ma mi li wile kama sin · tan ni la jan mute li kama toki e wile ona tawa ma · ike mute li lon ma · ma o pali e seme tawa ona · jan li toki e wile ni ona · kulupu mute li wile e nasin ante · mi toki e ike mute ma e wile pi kulupu mute lon lipu ni · taso mi toki ala e ike ali e kulupu ali · ijo li lon lipu ni la ona li suli lon tenpo utala · kulupu mute li utala tawa ni: jan ma li wile e ona ·
 
 o sona e ni : lipu ni la mi toki e nasin pi kulupu mute · mi toki e ona tan ala ni : ona li nasin mi · mi toki e ona tawa ni taso : sina ken sona e ma mi ·
