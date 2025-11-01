@@ -30,6 +30,10 @@ function imageShortcode(src, cls, alt, ...allwidths) {
 }
 
 module.exports = function (eleventyConfig) {
+
+  // Add footnote support.
+  eleventyConfig.amendLibrary("md", md => md.use(require("markdown-it-footnote")));
+
   eleventyConfig.ignores.add("README.md");
   // copy files to site
   // pdfs, i.e., the main content
