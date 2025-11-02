@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - toki-toki
 ---
-{{{sitelen "0029_soweli_en_poki_1_kule.png" "mouse next to box" "jan Alonola"}}}
+{{{sitelen "0029-nanpa-jan/soweli_en_poki_1_kule.png" "mouse next to box" "jan Alonola"}}}
 
 tenpo pini mute la mi kama tawa tomo ni. mi awen lon ona. open la mi taso li lon tomo ni. taso jan sin li kama. mi sona ala e nimi pi jan ni. taso mi pana e nimi Jali tawa ona. tenpo suli la ona li awen lon tomo ni lon poka mi. 
 
@@ -18,7 +18,7 @@ ni ale la ken la sina pilin e ni: tan seme la sina awen lon poka pi jan Jali. op
 
 tenpo poka la mi pilin e ni: jan Jali li wile weka tan tomo ni. ona li pana e lipu ale ona lon poki suli li weka e supa mute. tan seme la jan Jali li jo e supa lape? mi sona ala. mi jo ala e supa lape. mi ken lape lon ma ale! ken la ona li jo e supa lape tan ni: ona li suli. taso supa lape li weka lon tenpo ni. mi wile ala e ni: ona li weka tan tomo mi. 
 
-{{{sitelen "0029_soweli_en_poki_2_kule.png" "mouse looking into box" "jan Alonola"}}}
+{{{sitelen "0029-nanpa-jan/soweli_en_poki_2_kule.png" "mouse looking into box" "jan Alonola"}}}
 
 ona li pana e moku tawa mi.
 kin la ona li seli e tomo ni. 
@@ -41,4 +41,4 @@ mi sona e ni: mi wan ala.
 jan Jali o esun ala
 e soweli alasa.
 
-{{{sitelen "0029_soweli_en_poki_3_kule.png" "mouse inside box" "jan Alonola"}}}
+{{{sitelen "0029-nanpa-jan/soweli_en_poki_3_kule.png" "mouse inside box" "jan Alonola"}}}

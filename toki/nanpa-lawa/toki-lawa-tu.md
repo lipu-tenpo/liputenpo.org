@@ -6,7 +6,7 @@ tags:
 ---
 ni li toki tu. taso nimi ale pi ona tu li sama.  
 
-{{{sitelen "0028_kijetesantakalu-pi-pona-insa.png" "drawing of kijetesantakalu" "jan Ke Tami"}}}
+{{{sitelen "0028-nanpa-lawa/kijetesantakalu-pi-pona-insa.png" "drawing of kijetesantakalu" "jan Ke Tami"}}}
 
 ---
 

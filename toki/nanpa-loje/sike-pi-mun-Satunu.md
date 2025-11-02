@@ -7,7 +7,7 @@ tags:
 
 sina sona e mun Satunu la, sina sona e ni: mun Satunu li jo e sike suli. taso sike ni li seme? sike ni li kama tan seme? sona ni li wawa li musi mute. ni la, mi wile toki e sike pi mun Satunu.
 
-{{{sitelen "0030_mun-Satun.png" "mun Satunu" "jan Ke Tami"}}}
+{{{sitelen "0030-nanpa-loje/mun-Satun.png" "mun Satunu" "jan Ke Tami"}}}
 
 taso nanpa wan la, mi toki e mun Satunu. mun pi tawa sike suno la, mun Satunu li suli nanpa tu. suli nanpa wan li mun Jupite. ona tu li kiwen ma ala li mun pi kon mama telo (H₂). ona tu li suli sama ni: sina ken lukin e ona kepeken lukin taso. kin la, ona tu li jo e mun lili mute. taso ona tu li ante suli tan ni: lukin la, mun Satunu li jo e sike.
 

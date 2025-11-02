@@ -52,7 +52,7 @@ li tawa la tomo li tawa. linja ale li kama wan
 lon tomo wan. tomo ni la ilo suli li lon. ona
 li tawa sike e linja ale.
 
-{{{sitelen "0027_tomo-tawa-kon-kule.png" "drawing of a train" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/tomo-tawa-kon-kule.png" "drawing of a train" "jan Alonola"}}}
 
 
 ma pi nena mute la tomo tawa linja li ken
@@ -62,7 +62,7 @@ li pali e sike kiwen pi nena mute. tomo tawa
 li ken tawa sewi kepeken ona, ni li lon
 kulupu nena Alepen.
 
-{{{sitelen "0027_sike-palisa-kule.png" "drawing of a rack and pinion gearing system" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/sike-palisa-kule.png" "drawing of a rack and pinion gearing system" "jan Alonola"}}}
 
 ken lili la tomo tawa linja li jo ala e sike
 tawa. ona li tawa kepeken nasin tu ni.
@@ -91,7 +91,7 @@ mani la ona li ike. taso ona li tawa suli
 (>180 km/h) la mani la ona li pona. taso
 tawa lili la ona li ike.
 
-{{{sitelen "0027_tomo-tawa-taki-kule.png" "drawing of a train" "jan Alonola"}}}
+{{{sitelen "0027-nanpa-linja/tomo-tawa-taki-kule.png" "drawing of a train" "jan Alonola"}}}
 
 pini la tomo tawa linja li pona mute tawa
 jan. tomo tawa ale la ona li pakala lili

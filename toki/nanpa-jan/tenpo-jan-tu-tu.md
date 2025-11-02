@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0029_poki-tenpo-kule.png" "drawing of an hour glass" "jan Ke Tami"}}}
+{{{sitelen "0029-nanpa-jan/poki-tenpo-kule.png" "drawing of an hour glass" "jan Ke Tami"}}}
 
 *(toki open li tan jan Wilijan Pula Je; ante toki li tan jan Kapesi Pake)*
 

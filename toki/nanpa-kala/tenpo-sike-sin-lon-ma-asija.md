@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
-{{{sitelen "0031_tenpo_sike_sin_sonko.png" "moku pi tenpo sike sin" "jan Meki"}}}
+{{{sitelen "0031-nanpa-kala/tenpo_sike_sin_sonko.png" "moku pi tenpo sike sin" "jan Meki"}}}
 
 ma mute lon ma Asija (ma Sonko, ma Wije, ma Anku, ma Nijon) la tenpo sike sin li lon suno nanpa mute luka tu tu (29) pi tenpo sike (2025) ni. ma Sonko en ma poka la jan li nanpa ala e tenpo sike li pana e nimi tawa ona – sama lipu tenpo a. nimi tu li lon li nimi soweli li nimi ijo. soweli luka tu tu en ijo luka li lon. soweli li ni: soweli lili, soweli mani, soweli loje pimeja, soweli lili pi kute suli, akesi seli, akesi linja, soweli pi tawa monsi, soweli len, soweli jan, waso, soweli tomo alasa, soweli loje walo. ijo luka li ni: kasi, seli, ma, kiwen, telo. tenpo sike ni li sike pi akesi linja kasi. 
 

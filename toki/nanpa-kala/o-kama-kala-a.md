@@ -4,7 +4,7 @@ jan-pali: waso
 tags:
   - sona
 ---
-{{{sitelen "0031_jan_li_kala.png" "jan li tawa sama kala" "jan Alonola"}}}
+{{{sitelen "0031-nanpa-kala/jan_li_kala.png" "jan li tawa sama kala" "jan Alonola"}}}
 
 tenpo esun ale la mi en jan mute a li tawa lon telo suli lete sama kala. ni li musi a tawa mi li pona e sijelo mi. mi wile e ni: jan mute sin li ken musi ni. taso, mi ni tan seme?
 

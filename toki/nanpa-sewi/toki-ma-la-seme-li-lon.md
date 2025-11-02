@@ -2,11 +2,12 @@
 nimi-suli: toki ma la, seme li lon?
 jan-pali: jan Alonola
 tags:
-  - toki-ante
+  - toki ante
 ---
+
 ken la, sina sona e toki “toki ma”. toki ma li toki lili pi toki pona. ante la, toki pona li mama pi toki ma. toki Inli en toki Epelanto la, jan li pana e nimi ni tawa toki lili pi toki pona: nimi “tokiponido”.
 
-{{{sitelen "0023sewi_toki_ma_flag.jpg" "toki ma flag"}}}
+{{{sitelen "0023-nanpa-sewi/toki_ma_flag.jpg" "toki ma flag"}}}
 
 lipu tenpo nanpa toki la, mi toki e sona pi toki ma. taso ijo mute li ante lon tenpo suli ni! tenpo pini la, toki Tokiponito la, toki ma li suli. taso tenpo ni la, toki ma li lon ala. toki ma li kama toki Kokanu.
 
@@ -14,7 +15,7 @@ tenpo sike tu wan pini la, jan Sepeku li open e toki ma. ona li pali e lipu pi t
 
 toki Kokanu la, jan mute li toki lon lipu Siko. jan mute (~350) li lon kulupu Siko pi toki Kokanu! kin la, lipu Wesi sin li lon, taso ona li lili. sina wile la, o toki lon kulupu tu ni!
 
-{{{sitelen "0023sewi_toki_ma_person.png" "toki ma person"}}}
+{{{sitelen "0023-nanpa-sewi/toki_ma_person.png" "toki ma person"}}}
 
 ## seme li ante?
 

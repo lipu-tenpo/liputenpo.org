@@ -1,0 +1,22 @@
+---
+nimi-suli: kijetesantakalu mute
+jan-pali: kijetesantakalu pona
+tags:
+  - kijetesantakalu
+---
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu.
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu!
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu! kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu.
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu.
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu!
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu! kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu. kijetesantakalu kijetesantakalu kijetesantakalu.
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu!
+
+kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu kijetesantakalu.

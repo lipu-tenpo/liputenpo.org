@@ -2,11 +2,11 @@
 nimi-suli: nimi open pi toki pona
 jan-pali: jan Kapesi Pake
 tags:
-  - toki-pona
+  - toki pona
 ---
 nimi pi toki pona li suli mute. nimi li kon pi toki ali a. toki pona la, ni li awen sama. ku la, nimi 137 li lon. pu la, nimi 120 li lon.¹ taso, nimi ale luka luka luka tu wan (118) pi toki pona li lon tenpo open pi toki pona.² nimi mute li awen lon tenpo ni. taso, nimi sin mute li kama. nimi majuna mute li weka. kin la, nimi open en nimi pi pu ala li sama ala. nimi pi pu ala pi nanpa mute li sin. nimi majuna{{{pu "majuna"}}} en nimi open li sama ala kin. tenpo open la, jan Sonja li pana ala e nimi majuna ali tawa lipu ona pi toki pona. nimi “majuna” en nimi “powe{{{pu "powe"}}}” en nimi “pasila” li majuna mute. taso, ona ali li nimi open ala. 
 
-{{{sitelen "0018_tenpokamapitokipona.png" "drawing of clock showing 6:05, with toki pona symbol behind it" "jan Alonola"}}}
+{{{sitelen "0018-nanpa-tu/tenpo_kama_pi_toki_pona.png" "drawing of clock showing 6:05, with toki pona symbol behind it" "jan Alonola"}}}
 
 sina o kama sona e nimi open pi toki pona tan seme? o kama sona tan ni: sina ken sona e ante kon pi nimi mute e nasin pini pi toki pona e pilin pini pi toki pona. ni li pona tawa sona, tawa musi, tawa lawa, tawa nasin. ni la, mi open.
 

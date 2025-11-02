@@ -4,9 +4,10 @@ jan-pali: jan Ke Tami
 tags:
   - sona
 ---
+
 mi kama lon tenpo lete. ma sina li weka a tan ma mi la, seli li ken lon ma sina. taso sina lon ma mi, anu ma poka, anu ma pi kon sama la, tenpo lete li kama open.
 
-{{{sitelen "0023sewi_l2_lete-1200x1200.png" "snowflake"}}}
+{{{sitelen "0011-nanpa-walo/ko_lete_walo.png" "snowflake"}}}
 
 telo li ken tan sewi lon tenpo seli, li ken tan sewi lon tenpo lete. taso lete la, telo li ken kama kepeken nasin ante a. telo li kama tan sewi lon tenpo seli la, ona li telo lon open, li telo lon pini. taso lete la, telo li ken kama kiwen. ona li kiwen lon open la, ona li ken kama telo lon pini, li ken awen kiwen. kiwen la, ona li ken tawa anpa kepeken wawa, li ken pana e pilin ike lon selo mi.
 

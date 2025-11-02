@@ -6,7 +6,7 @@ tags:
 ---
 ni li toki tu. taso nimi ale pi ona tu li sama.
 
-{{{sitelen "0027_toki-linja-tu-kule.png" "drawing of a two heads, one bald, one with hair" "jan Ke Tami"}}}
+{{{sitelen "0027-nanpa-linja/toki-linja-tu-kule.png" "drawing of a two heads, one bald, one with hair" "jan Ke Tami"}}}
 
 ## toki wan
 

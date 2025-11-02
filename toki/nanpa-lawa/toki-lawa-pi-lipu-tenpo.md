@@ -6,7 +6,7 @@ tags:
 ---
 kulupu pi lipu tenpo li kama lon ma Tosi · ni li wawa e ona · taso ona o pali e wile pi kulupu Tosi · mi toki pona e wile ni mute ·
 
-{{{sitelen "0028_toki-lawa-kule.png" "drawing of a scroll with rules on it" "jan Alonola"}}}
+{{{sitelen "0028-nanpa-lawa/toki-lawa-kule.png" "drawing of a scroll with rules on it" "jan Alonola"}}}
 
 ## 1 kulupu li seme
 

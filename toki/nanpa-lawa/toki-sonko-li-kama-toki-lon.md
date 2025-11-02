@@ -8,7 +8,7 @@ mi kepeken e nimi “toki lon”. mi toki e ona la, mi wile toki e ni: kulupu la
 
 ma Posuka la, toki mute ala li lon. mute la, jan li toki taso e toki Posuka. taso toki lili ante li lon: toki Sonko (Ślōnskŏ gŏdka) en toki Kasepi (kaszëbsczi jãzëk) li lon. taso kulupu lawa pini li wile ala e ni: toki Sonko li toki lon.
 
-{{{sitelen "0028_toki-sonko-kule.png" "drawing of a bird" "jan Alonola"}}}
+{{{sitelen "0028-nanpa-lawa/toki-sonko-kule.png" "drawing of a bird" "jan Alonola"}}}
 
 tenpo pini mute la, toki Kasepi li kama toki lon. kulupu Elopa pi toki lili li lawa e nimi toki lon ma Elopa. ona li toki e ni: toki Kasepi li toki. toki Sonko li toki ala. mi la, ni li ike mute tan ni: mi toki kepeken toki Sonko, taso mi lon ala ma Sonko. ni la, mi ken toki lili kepeken toki Sonko. ni la, mi wile kama sona e ona kepeken lipu sona. taso lipu sona li lon ala tan ni: jan li kama sona ala e toki Sonko lon tomo sona. ni la, toki Sonko li toki lawa ala. 
 

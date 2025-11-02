@@ -6,7 +6,7 @@ tags:
 ---
 **sina wile pali mute la**, sina ken pali e musi pi sitelen tawa. pali musi li musi mute! taso pali musi li pali mute.
 
-{{{sitelen "0033_ilo_musi.png" "ilo musi pi tenpo pini" "jan Alonola"}}}
+{{{sitelen "0033-nanpa-pilin/ilo_musi.png" "ilo musi pi tenpo pini" "jan Alonola"}}}
 
 tawa open la, o alasa e ilo musi. sina jo e ilo nanpa supa la, sina ken jo e ilo musi mute. ni mute li mani ala li pona e musi. o kepeken e ni. sina pali e ilo musi la, lawa pakala mute li kama!
 

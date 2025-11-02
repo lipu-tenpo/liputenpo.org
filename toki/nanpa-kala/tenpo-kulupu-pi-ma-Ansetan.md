@@ -5,7 +5,7 @@ tags:
   - kulupu
 ---
 
-{{{sitelen "0031_amsterdam.png" "jan pi toki pona lon ma Ansetan" "jan Ke Tami"}}}
+{{{sitelen "0031-nanpa-kala/amsterdam.png" "jan pi toki pona lon ma Ansetan" "jan Ke Tami"}}}
 
 o oko e kon · ken la sina oko e waso anu pipi · o oko e ma · ken la sina oko e soweli anu akesi · o oko e telo · ken la sina oko e kala anu kasi ·
 
