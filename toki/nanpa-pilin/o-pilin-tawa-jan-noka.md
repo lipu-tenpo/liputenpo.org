@@ -1,6 +1,7 @@
 ---
 nimi-suli: o pilin tawa jan noka!
 jan-pali: kije Weku
+nanpa: 3
 tags:
   - pilin
 ---

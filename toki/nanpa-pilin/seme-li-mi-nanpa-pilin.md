@@ -1,6 +1,7 @@
 ---
 nimi-suli: seme li mi? nanpa lon
 jan-pali: jan Alonola
+nanpa: 13
 tags:
   - musi
 ---

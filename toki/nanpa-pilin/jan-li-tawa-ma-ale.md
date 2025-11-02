@@ -1,6 +1,7 @@
 ---
 nimi-suli: jan li tawa ma ale
 jan-pali: kala Asi
+nanpa: 4
 tags:
   - sona
 ---

@@ -1,6 +1,7 @@
 ---
 nimi-suli: nasin pi jan Lasu
 jan-pali: jan Ono
+nanpa: 7
 tags:
   - sona
 ---

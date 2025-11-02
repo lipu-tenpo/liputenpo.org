@@ -1,6 +1,7 @@
 ---
 nimi-suli: pilin wawa waso
 jan-pali: jan Tumu
+nanpa: 11
 tags:
   - musi
 ---

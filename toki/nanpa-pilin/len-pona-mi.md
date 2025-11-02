@@ -1,6 +1,7 @@
 ---
 nimi-suli: len pona mi
 jan-pali: jan Siniseli
+nanpa: 8
 tags:
   - musi
 ---

@@ -37,7 +37,7 @@ description: "o kama pona lon lipu pi lipu tenpo!"
     </a>
   </article>
 
-  {{#with (getkey collections lipu_ale.[0].title)}}
+  {{#with (sortpagesby (getkey collections lipu_ale.[0].title) "nanpa")}}
   {{#if this}}
   <ul>
     {{#each this}}

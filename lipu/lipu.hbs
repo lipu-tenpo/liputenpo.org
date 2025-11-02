@@ -96,7 +96,7 @@ css:
       
 
   </section>
-  {{#with (getkey collections lipu.title)}}
+  {{#with (sortpagesby (getkey collections lipu.title) "nanpa")}}
   {{#if this}}
   <section class="toki">
     <h3 id="toki">toki lon lipu ni</h3>

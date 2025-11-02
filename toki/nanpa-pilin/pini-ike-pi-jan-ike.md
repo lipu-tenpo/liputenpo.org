@@ -1,6 +1,7 @@
 ---
 nimi-suli: pini ike pi jan ike
 jan-pali: jan Asilu
+nanpa: 9
 tags:
   - musi
 ---

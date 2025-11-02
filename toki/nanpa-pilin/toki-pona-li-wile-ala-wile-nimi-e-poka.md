@@ -1,6 +1,7 @@
 ---
 nimi-suli: toki pona li wile ala wile nimi e poka?
 jan-pali: jan Pasijan
+nanpa: 2
 tags:
   - pilin
 ---

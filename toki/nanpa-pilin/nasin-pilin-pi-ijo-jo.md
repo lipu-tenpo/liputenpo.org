@@ -1,6 +1,7 @@
 ---
 nimi-suli: nasin pilin pi ijo jo
 jan-pali: jan Satase
+nanpa: 6
 tags:
   - sona
 ---

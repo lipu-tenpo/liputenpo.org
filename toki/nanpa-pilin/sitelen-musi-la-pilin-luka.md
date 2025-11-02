@@ -1,6 +1,7 @@
 ---
 nimi-suli: sitelen musi la pilin luka
 jan-pali: kala Asi
+nanpa: 1
 tags:
   - pilin
 ---

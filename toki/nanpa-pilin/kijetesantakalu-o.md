@@ -1,6 +1,7 @@
 ---
 nimi-suli: kijetesantakalu o!
 jan-pali: jan Ke Tami
+nanpa: 14
 tags:
   - musi
 ---

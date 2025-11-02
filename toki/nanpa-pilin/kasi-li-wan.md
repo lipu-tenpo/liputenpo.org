@@ -1,6 +1,7 @@
 ---
 nimi-suli: kasi li wan
 jan-pali: akesi Tala
+nanpa: 12
 tags:
   - musi
 ---

@@ -1,6 +1,7 @@
 ---
 nimi-suli: seme! pilin li lon ala insa
 jan-pali: jan Ke Tami
+nanpa: 10
 tags:
   - musi
 ---

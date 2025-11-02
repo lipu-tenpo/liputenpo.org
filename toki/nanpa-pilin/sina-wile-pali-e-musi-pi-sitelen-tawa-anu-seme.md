@@ -1,6 +1,7 @@
 ---
 nimi-suli: sina wile pali e musi pi sitelen tawa anu seme?
 jan-pali: kije Weku
+nanpa: 5
 tags:
   - sona
 ---

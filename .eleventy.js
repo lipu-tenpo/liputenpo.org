@@ -69,6 +69,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addHandlebarsHelper("neq", (a, b) => a != b);
   // get dictionary key
   eleventyConfig.addHandlebarsHelper("getkey", (dict, key) => dict[key]);
+  // sort a list of pages by comparing a piece of frontmatter data for each page
+  //   (for sorting toki in an issue)
+  eleventyConfig.addHandlebarsHelper("sortpagesby", (list, key) => {
+    return list?.toSorted((a, b) => a["data"][key] - b["data"][key]);
+  });
   // sort collection by data.date
   eleventyConfig.addHandlebarsHelper("reversed", (list) => {
     if (typeof list == typeof []) {
