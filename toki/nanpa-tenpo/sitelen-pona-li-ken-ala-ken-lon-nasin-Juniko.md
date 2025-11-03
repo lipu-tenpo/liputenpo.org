@@ -2,7 +2,7 @@
 nimi-suli: sitelen pona li ken ala ken lon nasin Juniko
 jan-pali: jan Ke Tami
 tags:
-  - toki-pona
+  - toki pona
 ---
 nasin sitelen mute li ken e toki pi lipu ni. taso lon la, jan mute li kepeken nasin pi mute ala. ona li wile pana e toki ni tawa lipu la, ona pana e sitelen kepeken nasin Lasina anu nasin pali sin pi jan Sonja. nasin ni nanpa wan la, kalama wan li kama sitelen wan. nasin ni nanpa tu la, nimi wan li kama sitelen wan. nasin ni li pona mute tawa mi. taso ona li sin a. sin ona la, mi wile pana e sitelen kepeken ona tawa ilo sina la, mi kama ala kama ken? ike la, mi ken ala pana e ijo pi wile mi tawa ilo ale. taso ni li ken awen ala. ni li ken ante. nasin li ken e ante.
 

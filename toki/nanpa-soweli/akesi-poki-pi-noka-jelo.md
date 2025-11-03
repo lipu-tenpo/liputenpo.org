@@ -2,7 +2,7 @@
 nimi-suli: akesi poki pi noka jelo
 jan-pali: jan Alonola
 tags:
-  - sona # soweli
+  - soweli
 ---
 
 akesi poki Kelonowisi Tensikulatu (Chelonoidis denticulatus) li akesi poki pi noka jelo. akesi ni li jo e suli sama jan lili. selo poki li pimeja jelo anu pimeja loje. taso akesi ni li jo ala e selo poki pimeja. akesi poki pi noka jelo li jo e noka jelo e lawa jelo.

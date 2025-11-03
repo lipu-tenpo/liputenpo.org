@@ -2,7 +2,7 @@
 nimi-suli: o pali e moku telo pan (Brotzupa, Wodzionka)
 jan-pali: jan Alonola
 tags:
-  - sona # moku
+  - moku
 ---
 
 o pali e moku telo pan (Brotzupa, Wodzionka)!
