@@ -1,6 +1,5 @@
- jan Nikola
 ---
-nimi-suli: jan sin li kama tan mama la mama o kepeken nimi seme pi toki-pona tawa ona
+nimi-suli: mama o nimi seme pi toki pona e jan sin?
 jan-pali: jan Nikola
 tags:
   - pilin
