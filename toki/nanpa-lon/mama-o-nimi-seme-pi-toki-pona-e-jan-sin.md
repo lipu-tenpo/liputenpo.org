@@ -4,6 +4,7 @@ jan-pali: jan Nikola
 tags:
   - pilin
 ---
+
 *sitelen pona li lon [lipu ni](https://jan-nikola.gitlab.io/jan-lili-anu-seme)*
 
  sijelo ona li lili mute la

@@ -4,6 +4,7 @@ jan-pali: jan Esuwa
 tags:
   - musi
 ---
+
 ma Lijatuwa¹ o, ma mama mi o! sina  
 sama pona a. jan li weka e sina li  
 lukin pona e sina. mi wile e sina  

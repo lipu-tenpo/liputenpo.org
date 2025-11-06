@@ -4,6 +4,7 @@ jan-pali: ijo Sikipele
 tags:
   - musi
 ---
+
 jan ale li kama lon tan ko  
 tenpo kama la jan ale li kama ko
 

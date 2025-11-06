@@ -4,6 +4,7 @@ jan-pali: jan Ali
 tags:
   - musi
 ---
+
 *tenpo pini la mi lukin e sitelen tawa lon suno wawa.*  
 *mi kute e jan sona Misijo Kaku. ona li toki e ni: jan pi toki musi li toki ala lon mama nanpa wan pi mi mute tan seme?*  
 *tenpo ni la mi wile toki, mi toki musi ni:*

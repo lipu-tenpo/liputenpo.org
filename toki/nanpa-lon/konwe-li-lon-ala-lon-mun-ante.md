@@ -4,6 +4,7 @@ jan-pali: jan Ke Kame
 tags:
   - sona
 ---
+
 tenpo sike 1548 la, lon ma tomo Napoli la, jan Jotano Puno (Giordano Bruno) li kama lon. jan Jotano Puno li kama suli la, ona li kama sona e nasin sewi, e nasin isipin². ona li tawa mute lon ma Elopa.
 
 tenpo pimeja la, lukin sewi la, jan Jotano Puno li kama jo e sona ni: nanpa wan la, ma sewi li jo ala e pini. nanpa tu la, sike suno mute pi ma sewi li lili ala, li suli sama sike suno Sola, taso ona li lon weka mute. ken la, sike suno mute li jo e mun. ken la, konwe¹ li ken lon selo mun. jan Jotano Puno li toki insa e ni: ma ante mute li lon ma sewi.
