@@ -28,3 +28,5 @@ ijo ni li *pakala* e pali ona
 ijo ni li ken pali e jan sin kepeken pakala pi pali ona
 
 tenpo ale la ni li lon
+
+{{{sitelen "0034-nanpa-lon/tenpo-kule.png" "ma li pakala" "kije Weku"}}}

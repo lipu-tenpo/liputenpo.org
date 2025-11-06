@@ -4,6 +4,7 @@ jan-pali: kala Asi
 tags:
   - sona
 ---
+
 **jan pi tenpo pini li kama jo e moku kepeken seme?** open la nasin wan taso li lon. jan o alasa. tenpo mute la jan mije li alasa e soweli e kala e waso. jan meli li alasa e kili, li pali e ilo, li awen e kulupu. alasa la jan li ken moku e soweli e kili lon ma poka taso. moku poka li mute ala la, kulupu jan o kulupu lili. lili la jan ale kulupu li sona pona e jan ale kulupu. kulupu la ona li jan sama. jan lawa li lon ala.
 
 **jan pi nasin alasa li seme lon tenpo pi alasa ala?** ona li pali e ilo alasa tan kiwen ma, tan kiwen sijelo, tan kiwen kasi. ona li len e ona kepeken selo soweli. ona li sitelen e soweli. ona li selo e ko kepeken luka la, ko li kama sama selo pi jan meli tawa lukin. ona li kama sona seli e kasi. seli suli la, kulupu li ken weka e soweli monsuta. jan li seli e sijelo soweli la sijelo li awen pona lon tenpo suli.

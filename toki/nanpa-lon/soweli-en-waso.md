@@ -4,6 +4,7 @@ jan-pali: jan Tumu
 tags:
   - musi
 ---
+
 soweli en waso li lon utala  
 uta waso li lon len pi kute wan  
 len li kama pakala tan uta la  

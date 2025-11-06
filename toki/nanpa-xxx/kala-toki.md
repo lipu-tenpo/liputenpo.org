@@ -2,7 +2,7 @@
 nimi-suli: kala toki
 jan-pali: kala Asi
 tags:
-  - toki-toki
+  - musi
 ---
 
 *toki musi ni li tan toki Aja. jan Owane Tumunjan li pali e ona lon tenpo sike nanpa LLLTTALTW. jan mute li sona e toki ni tan sitelen musi. kulupu pali Amenpin li sitelen e toki ni  kepeken toki Lusi lon tenpo sike LLLTTAMMMMTW. sitelen ona li pona nasa tawa jan mute. sina ken alasa e sitelen lon lipu Jutu. taso mi wile toki pona e toki pi jan Tumunjan. kin la mi ante lili e toki. toki pona la musi ni li pona.*
@@ -37,27 +37,27 @@ jan majuna li kute e ni: “mi jan ala. mi monsuta! mi kama. o kute e wile sona 
 
 jan majuna li pilin monsuta li ken ala toki. pakala! mije li toki: “o pilin monsuta ala. mi o toki tawa ona.”
 
-monsuta la: “mi lon a!”  
+monsuta la: *“mi lon a!”*  
 mije la: “mi kin li lon.”  
-monsuta la: “a? sina kama tan seme?”  
-mije la: “mi kama tan weka telo.”  
-monsuta la: “sina kama lon poka telo kepeken seme?”  
-mije la: “kepeken pipi lili.”  
-monsuta la: “pipi li lili la ma telo kin li lili anu seme?”  
-mije la: “lili ala. waso wawa li alasa tawa lon sewi telo la ona li ken ala.”  
-monsuta la: “a, waso li lon sike mama taso anu seme?”  
-mije la: “lon sike ala. luka pi waso ni li suli, li ken len pimeja e ma tomo.”  
-monsuta la: “ma la tomo pi mute ala li lon anu seme?”  
-mije la: “mute a. soweli wawa li alasa tawa tomo ale la ona li ken ala.”  
-monsuta la: “soweli li lili ike anu seme?”  
-mije la: “ike ala. selo soweli li ken len pona luka.”  
-monsuta la: “len li pona tawa seme?”  
-mije la: “soweli li tawa mute li wile lape la len li pona.”  
-monsuta la: “seme li pana e len tawa soweli?”  
-mije la: “waso li tawa lon sewi tomo la luka ona li pana e len pimeja tawa soweli.”  
-monsuta la: “a, waso li tawa lon sike anu seme?”  
-mije la: “waso li kama tan sike li tawa lon sike li ken awen lon sike luka.”  
-monsuta la: “aaa! sina toki e len seme, e sike seme, e luka seme! mi ken ala sona!”
+*“a? sina kama tan seme?”*  
+“mi kama tan weka telo.”  
+*“sina kama lon poka telo kepeken seme?”*  
+“kepeken pipi lili.”  
+*“pipi li lili la ma telo kin li lili anu seme?”*  
+“lili ala. waso wawa li alasa tawa lon sewi telo la ona li ken ala.”  
+*“a, waso li lon sike mama taso anu seme?”*  
+“lon sike ala. luka pi waso ni li suli, li ken len pimeja e ma tomo.”  
+*“ma la tomo pi mute ala li lon anu seme?”*  
+“mute a. soweli wawa li alasa tawa tomo ale la ona li ken ala.”  
+*“soweli li lili ike anu seme?”*  
+“ike ala. selo soweli li ken len pona luka.”  
+*“len li pona tawa seme?”*  
+“soweli li tawa mute li wile lape la len li pona.”  
+*“seme li pana e len tawa soweli?”*  
+“waso li tawa lon sewi tomo la luka ona li pana e len pimeja tawa soweli.”  
+*“a, waso li tawa lon sike anu seme?”*  
+“waso li kama tan sike li tawa lon sike li ken awen lon sike luka.”  
+*“aaa! sina toki e len seme, e sike seme, e luka seme! mi ken ala sona!”*
 
 monsuta li pilin e sona wawa mije. monsuta li anpa li tawa weka.
 

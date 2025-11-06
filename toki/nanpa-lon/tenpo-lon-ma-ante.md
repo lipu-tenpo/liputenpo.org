@@ -4,6 +4,7 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
+
 kulupu mute li lon ma ni. kulupu ante li pilin e tenpo kepeken nasin ante. 
 
 **tenpo li sama sike**
@@ -31,4 +32,3 @@ nasin pali pi ijo wan la, tenpo pona en tenpo ike li suli tawa jan. ni la, sina 
 tenpo pini en tenpo ni en tenpo kama li ken suli, li ken lili tawa jan. ma Nijon en ma Sonko en ma Juke en ma mute ante la, tenpo pini li suli mute tawa jan. jan li awen kepeken e nasin pi tenpo pini. tenpo ni li suli la, jan li lon tenpo ni, li musi, li pana e mani lon tenpo ni tan ni: ken la, mani en musi en tenpo pona li weka lon tenpo kama. tenpo kama li suli la, jan li ken awen a, li wile awen a. ona li pilin mute e tenpo kama. 
 
 toki ni la, mi toki e ni: ma wan li jo e nasin ni. taso nasin mute li lon ma wan. ken la, sina jo e nasin tenpo ante …
-

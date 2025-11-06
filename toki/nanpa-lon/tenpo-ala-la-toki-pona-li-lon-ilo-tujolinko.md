@@ -5,6 +5,8 @@ tags:
   - pilin
 ---
 
+{{{sitelen "0034-nanpa-lon/duo-kule.png" "waso Tujolinko" "jan Alonola"}}}
+
 **→ ilo Tujolinko**¹ li ilo pi kama sona toki. jan li kepeken ilo Tujolinko tawa open pi kama sona toki. nasin ona pi pana sona li ni: jan o ante toki e nimi pi toki ante. tawa ni la, jan kepeken o pana e nimi wile lon linja nimi pi ilo Tujolinko. toki mute li lon ijo Tujolinko. toki pali kin li lon ijo Tujolinko. toki pali ni li toki Epelanto li toki Walelijan sewi li toki Sinan. toki pali ni li lon ilo Tujolinko la, toki pona o lon ala lon ilo Tujolinko?
 
 jan mute pi kulupu pi toki pona li toki e ilo Tujolinko. tenpo sike luka tu tu la, jan mute pi toki pona li toki e ni tawa jan pi ilo Tujolinko: “o jo e toki pona lon ilo sina!” a, tenpo la, mi pilin sama. jan mute pi toki pona li pilin sama. taso, jan mute pi toki pona li pilin ante. tenpo ali la, ilo Tujolinko li pali ala e kama sona sin pi toki pona. ken la, ni li ken ala ken ante kepeken nanpa ISO pi toki pona? mi la, ni o ken ala. tenpo ala la, toki pona li lon ilo Tujolinko. 

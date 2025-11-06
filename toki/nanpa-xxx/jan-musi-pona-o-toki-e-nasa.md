@@ -4,6 +4,7 @@ jan-pali: jan Samele
 tags:
   - musi
 ---
+
 seme li sitelen lon sinpin telo?  
 seme li kule musi e oko jan?  
 seme li pana e seli lukin wan?  
