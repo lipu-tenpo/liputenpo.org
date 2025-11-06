@@ -2,7 +2,7 @@
 nimi-suli: mi pakala e ilo mi li pona e ona
 jan-pali: kala Asi
 tags:
-  - toki
+  - toki-toki
 ---
 **tenpo ale la ilo li lon poka mi.** wile ale mi la ona li ken pana e pona. wile la mi toki tawa jan. wile la mi lukin e sitelen. wile la mi kute e kalama. wile la mi pona e sona mi. ona li ken ale e mi.
 
