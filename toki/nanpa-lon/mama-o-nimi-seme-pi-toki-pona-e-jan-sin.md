@@ -5,6 +5,8 @@ tags:
   - pilin
 ---
 
+{{{sitelen "0034-nanpa-lon/jan-supa-kule.png" "jan lili li lon supa li tawa e luka ona" "jan Alonola"}}}
+
 *sitelen pona li lon [lipu ni](https://jan-nikola.gitlab.io/jan-lili-anu-seme)*
 
  sijelo ona li lili mute la
