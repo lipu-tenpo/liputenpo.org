@@ -2,7 +2,7 @@
 nimi-suli: kalama pi sitelen nimi
 jan-pali: jan Ke Tami
 tags:
-  - toki-pona
+  - toki pona
 ---
 nimi li jo e kalama. taso mi wile pana e kalama nimi ale tawa sina la sina ken sona kepeken nasin seme? mi o kalama seme e kalama lili ni? a, nasin mute li ken. mi ken pana e kalama taso: jan ni li jan Losu - kalama pi nimi ona li ni - L, O, S, U. taso ni li ken ike tawa sona kute. ni la mi o seme. lon la mi ken wawa e kalama. taso nasin ante li lon.
 

@@ -2,7 +2,7 @@
 nimi-suli: moku suwi Pa tan ma Petame
 jan-pali: jan Ke Tami
 tags:
-  - sona # moku
+  - moku
 ---
 
 suwi Pa li moku suwi tan ma Petane (Bretagne) lon ma Kanse. mama mi li pali e ni tawa mi. mama ona li pali e ni tawa ona. suwi ni li pona mute tawa mi. ona li pini la, ona li sama pan suwi, li sama ko, li jo e kili lon insa.

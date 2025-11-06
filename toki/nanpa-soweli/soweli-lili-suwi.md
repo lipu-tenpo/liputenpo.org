@@ -2,7 +2,7 @@
 nimi-suli: soweli lili suwi
 jan-pali: jan Ke Tami
 tags:
-  - sona # soweli
+  - soweli
 ---
 
 mi pilin e ni: soweli li lili la, ona li suwi.
