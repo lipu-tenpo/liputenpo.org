@@ -16,7 +16,7 @@ tomo lawa pi ma Elopa li lon ma Sapu la, mi kulupu li wile lon ona. kulupu li su
 
 tenpo li seli la, ma kasi li pona. taso ike la, tenpo open la, sewi li utala e kulupu kepeken telo. ni la, mi tawa insa tomo. jan mute li pana e sitelen nimi ale tawa lipu ona wan. taso kin la, kulupu li pana e sitelen nimi ale tawa lipu kulupu wan. ni la, ale li ken kepeken ona lon ilo. o alasa e nimi ni: “sitelen pona Elopa pi ma Sapu”. mi mute mute tu li pana e sitelen tawa lipu kulupu.
 
-[o weka e toki o pana e sitelen]
+{{{sitelen "0034-nanpa-lon/kulupu-sapu-toki-pimeja.png" "kulupu li pana e sitelen mute la sina ken kepeken sitelen ona" "jan Ke Tami"}}}
 
 mi pini e pali sitelen la, kulupu li kama sona, li kama tu. kulupu wan la, jan pona sona Olipija li pana e ijo pi luka pona tawa sona kulupu. ni la kulupu li ken toki kepeken kalama uta ala, kepeken sijelo, kepeken tawa, li ken sona e nasin pi toki ante, e nasin pi kulupu ante. kulupu ante li alasa e nasin pi sitelen suwi, li kama sitelen kule e lipu kepeken ona.
 
@@ -31,6 +31,8 @@ sina kin li wile lon kulupu la, o kama a! mi pi ma Elopa li tawa ma Epanja lon t
 ale pi tenpo kulupu la, mi kama lukin e ijo namako lon kulupu. open la, jan wan li kama e musi lipu pi nimi ni: musi Wan. taso tenpo kulupu li kama pini la, kulupu li kama pali e musi pi nimi ni: musi Tu. sona musi taso ala li lon kulupu: mi kute e kalama lon tenpo mute. ilo kalama tu tu anu sama li lon la uta en ilo li kalama suwi a. jan ante li toki e pali ilo ona tawa kulupu. jan mute li kama pali e sitelen. pona wawa a!
 
 mi lukin e wawa ante kin: mi lukin e olin. olin pi lon kulupu li lon, olin tonsi kin en olin kin pi pali poka li lon. jan li pu olin e nimi ona: nimi mute li kama lon lipu pu. jan li kulupu e sijelo lon poka. olin li wile wawa e pilin pona lon. taso olin li wile suwi e pilin ike kin. mi weka, taso olin sina li awen, kulupu o!
+
+{{{sitelen "0034-nanpa-lon/kulupu-Sapu-kule.png" "kulupu Sapu" "jan Ke Tami"}}}
 
 ---
 

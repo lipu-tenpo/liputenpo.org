@@ -38,3 +38,5 @@ tenpo poka la, ilo pana en ilo pi sona suwi li ken ala toki. ni la, jan o pali m
 ijo ale ni li pona, taso, ijo ike li awen lon tenpo poka. esun pi sona sijelo li pana e ijo ni e ilo ni la, ma Mewika la, tenpo suli la, ona li wile e mani pi mute wawa. tenpo la, jan li moli tan ni: ona li ken ala esun e ijo ni. ni li ken sama tenpo pini weka, lon tenpo pi ijo ni ala. tenpo la, ona li kepeken ijo pi pona lili, ni li lili ike e suwi ona. ante la, ona li kepeken ala ijo ni la, suwi ona li awen mute ike la, sijelo ona li kama pakala. ma mute la, lipu lawa li toki e ni: ijo ni o wile ala e mani mute. ijo ni li suli tawa sijelo. tenpo poka la, lawa pi ma Mewika li toki e ni kin. ni li pona mute a! taso, ijo mute li awen wile e mani mute lon kule nanpa wan.
 
 mi toki e ijo mute, taso ijo mute ante li lon. mi wile e ni: ale pi kule ale li pilin pona li wile ala e mani mute tawa moli ala.
+
+{{{sitelen "0010-nanpa-lete/ilo_telo.png" "ilo" "jan Alonola"}}}

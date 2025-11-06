@@ -5,4 +5,4 @@ tags:
   - musi
 ---
 
-{{{sitelen "0034_kijetesantakalu-o.png" "kijetesantakalu o comic" "jan Ke Tami"}}}
+{{{sitelen "0034-nanpa-lon/kijetesantakalu-o.png" "kijetesantakalu o comic" "jan Ke Tami"}}}

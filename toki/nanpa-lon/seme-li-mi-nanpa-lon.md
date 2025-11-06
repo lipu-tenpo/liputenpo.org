@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0034-nanpa-lon/seme-li-mi-kule.png" "" "jan Alonola"}}}
+
 mi wile lon taso mi ken ala
 mi ken tawa musi lon linja
 mi ken lukin e pimeja e walo

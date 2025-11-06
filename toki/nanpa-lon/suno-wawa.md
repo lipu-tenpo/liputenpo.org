@@ -33,3 +33,5 @@ li mama pi sijelo mi.
 suno wawa o,  
 sina moli lon tenpo pini.  
 sina pana e ijo ale tawa mi.
+
+{{{sitelen "0034-nanpa-lon/suno-wawa-kule.png" "suno li pakala wawa" "jan Ke Tami"}}}

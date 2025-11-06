@@ -21,6 +21,7 @@ tenpo sike 2025 la, jan li sona e mun ante mute : nanpa pi mun ni li sama 5600. 
 
 mi wile sona e ni: jan li alasa e konwe sin la, mi moli ala moli? mi wile e ni: mi moli ala, mi ken sona e konwe sin!
 
+{{{sitelen "0020-nanpa-nasin/mun.png" "mun" "jan Alonola"}}}
 
 ---
 

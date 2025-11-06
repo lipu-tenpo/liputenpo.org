@@ -155,6 +155,8 @@ nasa.
 
 **k-k-k-kipisi**
 
+{{{sitelen "0034-nanpa-lon/mi-lon-kule.png" "nimi li lon kasi" "jan Alonola"}}}
+
 mi pini.
 > mi sona.
 
