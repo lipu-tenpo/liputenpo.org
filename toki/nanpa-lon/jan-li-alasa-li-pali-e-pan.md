@@ -22,3 +22,5 @@ tags:
 **nasin pan li ike e sijelo.** jan li moku e pan taso li moku ala e kili e soweli la, sijelo ona li kama wawa ala. sijelo li wile e ko mute ante e ko wan taso ala. kin la jan mute li lon kulupu wan la, jaki sijelo li ken pakala wawa e ona ale. ni la jan pi nasin pan li wawa ala sijelo. jan pi nasin alasa li wawa pona sijelo.
 
 **kulupu ale li pali e pan sama anu seme?** sama ala. ma Apika la, pan wan li lon. ma Asija la, pan ante. ma Amelika la, pan ante kin. ma Papuwa la, jan li pali e kili pan. ma Oseja la, jan li kama wile ala pali e pan. nasin alasa li awen pona tawa ona. tenpo lon la jan li ken esun e pan ale lon ma ale. ona ale li pona tawa uta.
+
+{{{sitelen "0034-nanpa-lon/pan-kule.png" "pan mute" "jan Meki"}}}
