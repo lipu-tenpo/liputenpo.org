@@ -17,7 +17,7 @@ ken suli la sina sona pona e ale ni. taso **pakala seme li kama lon ilo mi a?** 
 
 tenpo wan la mi toki tawa ilo mi. ona li toki tawa kulupu ilo pi ma ale, li sin e ilo ale mi. ilo sin o lon poki. taso poki li ken ala awen e ijo sin. mi weka e ilo pi sin ala, li awen ala e ilo sin. ilo li pini li pali ala. pakala. mi o seme?
 
-mi kama jo e kiwen lili. kiwen ni li ken jo e sona. mi pana e ilo lawa sin tawa insa kiwen. mi pana e kiwen tawa ilo mi. ilo pilin en ilo luka en ilo sitelen en ilo poki li kute e ilo lawa lon kiwen lili.
+mi kama jo e kiwen lili. kiwen ni li ken jo e sona. mi pana e ilo lawa sin tawa insa kiwen. mi pana e kiwen tawa ilo mi. ilo pilin en ilo luka en ilo sitelen en ilo poki li kute e ilo lawa pi kiwen lili.
 
 pali li pini anu seme? pini ala. ilo lawa o lon poki suli pi ilo mi, o lon ala kiwen lili taso. mi o tawa e ona.
 
@@ -25,4 +25,4 @@ mi lukin e sona ale lon poki ilo. nanpa wan la mi weka e sona mute pi wile mi al
 
 mi toki e ni ale tan seme? nanpa wan la mi la pali mi li musi. tenpo lon la poki mi li jo e ilo lawa sin, e ilo lawa pi sin ala. nasa musi anu seme? mi weka ale ala e ilo pi sin ala. mi o ni lon tenpo kama.
 
-nanpa tu la o sona pona e ilo sina. sina sona mute e ona la sina pakala la sina ken pona e ona kepeken pali lili taso.
+nanpa tu la o sona pona e ilo sina. sina sona mute e ona la ilo li pakala la sina ken pona e ona kepeken pali lili taso.
