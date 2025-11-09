@@ -5,7 +5,7 @@ example:
   sudo apt install poppler-utils
   python3 -m venv envv
   pip install pdf2image
-  python3 scripts/extract_images_from_pdf.py pdfs/0025kalama.pdf pdfs/0025kalama_sinpin.png
+  python3 scripts/pdf_extract_cover.py pdfs/0025kalama.pdf pdfs/0025kalama_sinpin.png
 """
 
 import sys
