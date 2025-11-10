@@ -1,8 +1,9 @@
 ---
 layout: page
+permalink: pdfs.html
 title: "lipu tenpo - pdfs"
 css:
-  - stylesheet-index.css
+  - index.css
 ---
 
 <div class="h2">
@@ -22,7 +23,7 @@ css:
     {{#each lipu_ale}}
     <div>
       <article class="lipuwan lipuwan_pdf">
-          {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+          {{{eleventyImage (appendString "content/pdf/" cover_image) "" title 400}}}
           <h3 id="{{ this.title }}">
             {{ this.title }}
           </h3>
