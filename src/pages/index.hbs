@@ -1,8 +1,9 @@
 ---
 title: lipu tenpo - lipu ale
+permalink: index.html
 layout: page
 css:
-  - stylesheet-index.css
+  - index.css
 description: "o kama pona lon lipu pi lipu tenpo!"
 ---
 
@@ -33,7 +34,7 @@ description: "o kama pona lon lipu pi lipu tenpo!"
       <time datetime="{{ asReadableDate lipu_ale.[0].date }}">{{ asReadableDate lipu_ale.[0].date }}</time>
     </div>
     <a href="lipu/{{slugify lipu_ale.[0].title}}">
-      {{{eleventyImage (appendString "pdfs/" lipu_ale.[0].cover_image) "" lipu_ale.[0].title 400}}}
+      {{{eleventyImage (appendString "content/pdf/" lipu_ale.[0].cover_image) "" lipu_ale.[0].title 400}}}
     </a>
   </article>
 
@@ -69,7 +70,7 @@ description: "o kama pona lon lipu pi lipu tenpo!"
     <div>
       <article class="lipuwan">
         <a href="lipu/{{slugify this.title}}">
-          {{{eleventyImage (appendString "pdfs/" cover_image) "" title 400}}}
+          {{{eleventyImage (appendString "content/pdf/" cover_image) "" title 400}}}
           <h3 id="{{ this.title }}">
             {{ this.title }}
           </h3>

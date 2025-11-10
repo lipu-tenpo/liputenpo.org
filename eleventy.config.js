@@ -30,33 +30,34 @@ function imageShortcode(src, cls, alt, ...allwidths) {
 }
 
 module.exports = function (eleventyConfig) {
-
   // Add footnote support.
-  eleventyConfig.amendLibrary("md", md => md.use(require("markdown-it-footnote")));
+  eleventyConfig.amendLibrary("md", (md) =>
+    md.use(require("markdown-it-footnote")),
+  );
 
   eleventyConfig.ignores.add("README.md");
   // copy files to site
   // pdfs, i.e., the main content
   //  do not copy these on --serve as they are large so site refresh is slow
-  if (process.env.ELEVENTY_RUN_MODE != "serve") {
-    eleventyConfig.addPassthroughCopy({ pdfs: "/pdfs" });
-  }
+  // if (process.env.ELEVENTY_RUN_MODE != "serve") {
+  eleventyConfig.addPassthroughCopy({ "content/pdf": "/pdfs" });
+  // }
   if (process.env.ELEVENTY_RUN_MODE == "serve") {
     // do not process redirect.hbs
-    eleventyConfig.ignores.add("redirect.hbs");
+    eleventyConfig.ignores.add("src/pages/[redirect].hbs");
   }
   // static assets
-  eleventyConfig.addPassthroughCopy({ public: "/" });
-  eleventyConfig.addPassthroughCopy({ files: "files" });
+  eleventyConfig.addPassthroughCopy({ "src/public": "/" });
+  // eleventyConfig.addPassthroughCopy({ "src/files": "files" });
   // toki images
-  eleventyConfig.addPassthroughCopy({ "toki/images": "/images" });
+  eleventyConfig.addPassthroughCopy({ "content/img": "/images" });
   // do not copy on --serve
   //  this doesn't seem to have an effect for me
   // eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
 
   // do not watch files in /pdfs or /toki/images
-  eleventyConfig.watchIgnores.add("pdfs");
-  eleventyConfig.watchIgnores.add("toki/images");
+  eleventyConfig.watchIgnores.add("content/pdf");
+  eleventyConfig.watchIgnores.add("content/img");
 
   // add support for reading Yaml from `/_data`
   eleventyConfig.addDataExtension("yaml", (contents) =>
@@ -185,7 +186,7 @@ module.exports = function (eleventyConfig) {
   // get nanpa-xxx tokis from folder
   eleventyConfig.addHandlebarsHelper("xxxfiles", () => {
     let all_files = fs
-      .readdirSync("./toki/nanpa-xxx/")
+      .readdirSync("content/md/9999-xxx/")
       .filter((file) => file.split(".").at(1) != "json")
       .map((file) => file.split(".").at(0));
     return all_files;
@@ -193,7 +194,7 @@ module.exports = function (eleventyConfig) {
 
   // check pdfs exist when they are used
   eleventyConfig.addHandlebarsHelper("checkpdf", (filename) => {
-    if (!fs.existsSync("pdfs/" + filename)) {
+    if (!fs.existsSync("content/pdf/" + filename)) {
       throw new Error(
         filename +
           ' does not exist in PDFs folder (check spelling in "_data/lipu_ale.yaml"?'
@@ -225,6 +226,10 @@ module.exports = function (eleventyConfig) {
   });
 
   return {
+    dir: {
+      input: "src",
+      output: "_site",
+    },
     markdownTemplateEngine: "hbs",
   };
 };
