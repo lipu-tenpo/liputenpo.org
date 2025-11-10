@@ -88,6 +88,7 @@ npm install
 ### Develop
 
 ```bash
+npm run build # run once, to move PDFs/etc
 npm run dev
 ```
 
