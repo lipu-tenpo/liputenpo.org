@@ -2,7 +2,7 @@
 nimi-suli: ma nasa - tenpo open
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 ## tenpo telo
 

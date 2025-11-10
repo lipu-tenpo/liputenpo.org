@@ -2,7 +2,7 @@
 nimi-suli: soweli lili en waso suli
 jan-pali: jan Anan
 tags:
-  - toki-toki
+  - toki
 ---
 
 tenpo pini wan la kasi palisa suli li lon ma kasi.

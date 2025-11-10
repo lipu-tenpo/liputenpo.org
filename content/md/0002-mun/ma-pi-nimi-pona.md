@@ -2,7 +2,7 @@
 nimi-suli: ma pi nimi pona
 jan-pali: jan Telakoman
 tags:
-  - toki-toki
+  - toki
 ---
 
 jan lukin o, kama pona lon ma sin. ni li ma pi nimi pona. mi tawa, mi alasa e nimi. o kama lon poka mi, sina ken lukin e nimi pona sama mi!

@@ -2,7 +2,7 @@
 nimi-suli: jan lawa pi tomo tawa linja
 jan-pali: jan Telakoman
 tags:
-  - toki-toki
+  - toki
 ---
 
 ma tomo lili pi ma weka la nasin kiwen pi tomo tawa linja li lon. nasin kiwen la linja kiwen tu li lon. lawa pi nasin kiwen la tomo tawa linja li tawa.

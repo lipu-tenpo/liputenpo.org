@@ -2,7 +2,7 @@
 nimi-suli: toki musi pi kulupu Lanu
 jan-pali: jan Kuku
 tags:
-  - toki-toki
+  - toki
 ---
 tenpo pini weka la, jan ale pi kulupu Lanu li lon ma kasi li lon ma tomo mute. taso kulupu Lanu li pona ala tawa kulupu Waka. ni la, kulupu Waka li alasa weka e kulupu Lanu tan ma kasi. ni la, kulupu tu li open utala. taso, utala la, kulupu Waka li nanpa wan. ni la, kulupu Lanu li weka tan ma kasi li open lon ma tomo taso. ona li lon ala ma kasi la, ona li pilin ike li toki e ni tawa kon sewi ona: “kon sewi o! o pana e ma tawa mi mute, o weka e jan ike tan kulupu Waka”. tenpo ni la, ona li lon ma tomo mute. taso, jan lawa pi kulupu Waka li wile e ni: kulupu Lanu li lon ma tomo wan taso. ona li open e utala sin. utala ni la, kulupu Lanu li utala kepeken wawa ona ale tan ni: ona li nanpa wan ala lon utala la, ona li ken ala lon ma tomo mute. taso… taso… kulupu Waka li anpa e ona. jan lawa pi kulupu Waka li toki e ni tawa kulupu Lanu: “mi anpa e sina la, sina ken lon ma tomo wan taso. nimi pi ma tomo ni li ma tomo Noko”. jan pi kulupu Lanu li open tawa ma tomo sin ni. pona la, ma tomo Noko li sin la, jan li lon ala. kulupu Lanu li ken lon tomo ale.
 

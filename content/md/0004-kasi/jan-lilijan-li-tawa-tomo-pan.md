@@ -2,7 +2,7 @@
 nimi-suli: jan Lilijan li tawa tomo pan
 jan-pali: jan Anlu Isa
 tags:
-  - toki-toki
+  - toki
 ---
 
 jan Anlu Isa li jan pi jan lili pi toki pona.

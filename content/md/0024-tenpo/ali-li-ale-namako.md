@@ -2,7 +2,7 @@
 nimi-suli: "ali li ale: namako"
 jan-pali: jan Kapesi Pake
 tags:
-  - toki-toki
+  - toki
 ---
 tenpo mun pini la, mi sitelen e lipu musi lili. nimi ona li “ali li ale.” ona li tawa “utala musi pi ma pona.” taso, mi ante lili e nimi pi nanpa lili lon lipu. sina ken lukin e pali pini lon lipu ni: <https://tinyurl.com/ali-li-ale-a>
 

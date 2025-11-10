@@ -2,7 +2,7 @@
 nimi-suli: akesi seli li moli e seli
 jan-pali: jan Tamalu
 tags:
-  - toki-toki
+  - toki
 ---
 
 tenpo wan la akesi seli Poko li lon. akesi seli li ken tawa lon kon sewi li ken pana e seli tan uta ona. ona li ken pana e seli la ni li ike tawa ona. tan ni: ona li jo e pakala lon sijelo ona. tenpo mute la ona li kama jo e kon tawa insa ona la sijelo ona li pini e tawa kon. ona li wile ala, taso insa ona li tawa mute li wile ala kama jo e kon lon tenpo lili lili. ni la seli li tawa tan uta ona tawa ijo ali. ni li ike mute a. tan ni la akesi Poko li lon poka pi jan pona ona la ona li seli e ijo ali. jan ala li wile kama lon poka pi akesi Poko. ona li pilin ike. akesi Poko li wile musi. taso ona li jo ala e jan pona lon tenpo ni. taso tenpo wan la jan pi sona mute li toki e ni tawa akesi Poko:

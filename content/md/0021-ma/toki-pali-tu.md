@@ -2,7 +2,7 @@
 nimi-suli: toki pali tu
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 **o lukin. ni li toki tu. taso nimi li sama.**

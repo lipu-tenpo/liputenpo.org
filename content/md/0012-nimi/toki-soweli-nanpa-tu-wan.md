@@ -2,7 +2,7 @@
 nimi-suli: toki soweli - nanpa tu wan
 jan-pali: jan Eweni Wako
 tags:
-  - toki-toki
+  - toki
 ---
 
 soweli tawa li pilin ike mute lon pona tawa soweli pona pi palisa lawa tan ni: toki la, wawa tawa li suli lon soweli palisa. soweli tawa li ken ala anpa e ona. tan ni la ona li wile moli e soweli palisa, li toki tawa jan:

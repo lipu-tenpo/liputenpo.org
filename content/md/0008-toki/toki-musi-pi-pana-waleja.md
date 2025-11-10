@@ -2,7 +2,7 @@
 nimi-suli: toki musi pi pana waleja
 jan-pali: jan Jonatan
 tags:
-  - toki-toki
+  - toki
 ---
 
 toki! mi pali e toki musi mute kepeken nasin ni: mi kama jo e nimi tu wan pi ijo ni: nimi nanpa tu li sama pini pi nimi nanpa wan li sama open pi nimi nanpa tu wan. o lukin e ni: ...X X X... . nimi tu wan ni li nimi lawa pi toki musi. taso tenpo ale la nimi lawa li jo ala e waleja (ijo toki). tan ni la mi pali e toki musi pi pana waleja tawa nimi lawa ni.

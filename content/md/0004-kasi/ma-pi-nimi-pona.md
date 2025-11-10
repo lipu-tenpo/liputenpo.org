@@ -2,7 +2,7 @@
 nimi-suli: ma pi nimi pona
 jan-pali: jan Telakoman
 tags:
-  - toki-toki
+  - toki
 ---
 
 pimeja li pini, suno sin li kama. jan pona mi o moku pona! suno ni la mi en sina li tawa nena weka.

@@ -117,13 +117,15 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("getTokiTypeTag", (tags) => {
     // get the tag(s) that isn't "nanpa X" or "toki"
     const nanpa_tags = tags.filter(
-      (tag) => !tag.startsWith("nanpa") && tag != "toki"
+      (tag) => !tag.startsWith("nanpa") && tag != "toki-ale-pi-lipu-tenpo",
     );
     if (nanpa_tags.length != 1) {
-      throw Error("could not find toki type tag, found tags: " + tags);
+      throw Error(
+        "could not find toki-ale-pi-lipu-tenpo type tag, found tags: " + tags,
+      );
     }
     let tag = nanpa_tags.at(0);
-    return tag == "toki-toki" ? "toki" : tag;
+    return tag;
   });
 
   // helper for sorting jan pali

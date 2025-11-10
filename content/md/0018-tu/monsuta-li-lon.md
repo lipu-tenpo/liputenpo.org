@@ -2,7 +2,7 @@
 nimi-suli: monsuta[^1] li lon
 jan-pali: jan Penta
 tags:
-  - toki-toki
+  - toki
 ---
 
 [^1]: “monsuta” li ijo ike tan ni: ona li wile pakala e sina a

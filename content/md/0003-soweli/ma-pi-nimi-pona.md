@@ -2,7 +2,7 @@
 nimi-suli: ma pi nimi pona
 jan-pali: jan Telakoman
 tags:
-  - toki-toki
+  - toki
 ---
 
 suno pona tawa sina! sina lape pona anu seme? suno pini la mi en sina li lukin e nimi mute. suno ni la mi en sina o alasa e nimi sin lon ma pi nimi pona. o lukin! suno pini la nimi Kili li lon ni, taso mi ken ala lukin e ona. nimi Soweli li moku e ona. nimi Soweli li sama ala nimi Kili anu nimi Kasi. ona li jo e sijelo sama mi sama sina. ona li pilin li musi li moku li lape li moli sama jan. taso ona li toki ala. ni la mi sona ala e pilin ona. ona li nasa lili tawa mi.

@@ -2,7 +2,7 @@
 nimi-suli: "kalama musi \u201Co walo\u201D"
 jan-pali: jan Sonatan
 tags:
-  - toki-toki
+  - toki
 ---
 
 kalama musi pi toki pona li pona tawa sina anu seme? ona li musi pona tawa mi! pilin mi la jan Nasi [Nardi] li pali e kalama musi pona mute pi toki pona. tenpo ni la ona li pali e kalama musi “o walo”. musi ni li toki e tenpo lete e kon walo. ona li sama seme?

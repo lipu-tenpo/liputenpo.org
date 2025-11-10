@@ -2,7 +2,7 @@
 nimi-suli: toki li seme?
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 
 ni la, mi wile toki e ni: “toki” li ijo seme? mi toki taso e toki sama toki Tosi anu toki Losi anu toki pona. o awen. toki pona li toki ala toki?

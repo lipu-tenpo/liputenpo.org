@@ -2,7 +2,7 @@
 nimi-suli: pimeja
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 
 suno li lon ala. sina lon ma. sina ken ala lukin. sina pilin e ma. ma li telo.

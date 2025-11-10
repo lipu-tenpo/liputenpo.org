@@ -2,7 +2,7 @@
 nimi-suli: jan poka mi li tawa
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 {{{sitelen "0029-nanpa-jan/soweli_en_poki_1_kule.png" "mouse next to box" "jan Alonola"}}}
 

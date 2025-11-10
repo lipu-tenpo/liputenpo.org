@@ -2,7 +2,7 @@
 nimi-suli: mun lili pi toki pona
 jan-pali: jan Sepa
 tags:
-  - toki-toki
+  - toki
 ---
 
 « a! mun lili ni li pona mute tawa mi!

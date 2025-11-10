@@ -2,7 +2,7 @@
 nimi-suli: telo li monsuta
 jan-pali: jan Sonatan
 tags:
-  - toki-toki
+  - toki
 ---
 mi lon ma. mi sona pona e ma li pali lon ma. ona li pona tawa mi. taso telo suli li ante. ona li pimeja li monsuta tawa mi.
 

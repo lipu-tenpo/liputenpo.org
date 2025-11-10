@@ -2,7 +2,7 @@
 nimi-suli: meli Jaka
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 mi lon ma kasi. mi lon tomo mi. mi lon tenpo mute a. ijo pi mute ala li kama tawa mi.

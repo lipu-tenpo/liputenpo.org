@@ -2,7 +2,7 @@
 nimi-suli: toki tu
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 o lukin - sitelen ni li pana e toki tu - nasin pi toki nanpa wan la sitelen lili 「,」 li pini e toki wan li open e toki sin - o lukin ala e sitelen lili 「‘」 - nasin pi toki nanpa tu la sitelen lili 「‘」 li pini e toki wan li open e toki sin - o lukin ala e sitelen lili 「,」 - ni pi nasin tu li musi ala musi tawa sina
