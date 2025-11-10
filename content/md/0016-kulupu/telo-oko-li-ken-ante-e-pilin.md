@@ -2,7 +2,7 @@
 nimi-suli: telo oko li ken ante e pilin
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 *toki ni li kepeken nimi pu ale.*

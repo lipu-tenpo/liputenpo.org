@@ -2,7 +2,7 @@
 nimi-suli: monsuta lon ma pi kasi suli
 jan-pali: jan Tekinowi
 tags:
-  - toki-toki
+  - toki
 ---
 
 sina lon ma tomo Patu (Flatwoods) lon ma Wewesinja (West Virginia) la sina ken lukin e sitelen monsuta[^1] lon ijo mute. nimi ona li monsuta Patu. jan ale pi tomo ni li kute e nimi ona. ni li toki jan pi ma tomo.

@@ -2,7 +2,7 @@
 nimi-suli: ijo mi
 jan-pali: jan Penta
 tags:
-  - toki-toki
+  - toki
 ---
 
 ijo li ale li ken lon ike · ijo li musi li jaki ale · ijo mi li lili li ken suli kin · suli la mi wile kama ijo ni · mi pini open sitelen e sitelen sina tawa sina · mi sitelen lon tomo sina tawa · mi sitelen kepeken ilo mi tawa ni · mi sitelen telo · mi telo e lipu kepeken sitelen nimi · nimi li mi · nimi li tan mi · nimi mi li lon · mi lon... anu seme?

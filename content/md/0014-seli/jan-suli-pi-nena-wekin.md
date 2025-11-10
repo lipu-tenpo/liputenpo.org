@@ -2,7 +2,7 @@
 nimi-suli: jan suli pi nena Wekin
 jan-pali: jan Eli
 tags:
-  - toki-toki
+  - toki
 ---
 
 ma tomo mi la jan mute li toki e toki ni tawa jan lili. toki ni li toki e ni: nena Wekin en nena Eka li lon tan seme?

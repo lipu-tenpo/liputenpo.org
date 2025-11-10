@@ -2,7 +2,7 @@
 nimi-suli: mi tawa ma lete
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 
 jan Te li lon ma seli, taso seli li ike tawa ona. seli lili li pona, taso ma ona li seli mute. ona li wile weka tan ma ni. ona li pilin e ni: »mi wile kama jo e ma mama sin.«

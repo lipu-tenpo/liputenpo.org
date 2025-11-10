@@ -2,7 +2,7 @@
 nimi-suli: toki loje tu
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 {{{sitelen "0020-nanpa-nasin/tomo_tu.png" ""}}}

@@ -2,7 +2,7 @@
 nimi-suli: poka sina o lon jan
 jan-pali: jan Kasape
 tags:
-  - toki-toki
+  - toki
 ---
 jan Sonja li pali e lipu lili · ona li nimi e ona ali wan kepeken kalama wan · lipu ‹pu› li kama · ona li kama e lipu ‹ku› · jan li ken awen sona e ni ·
 

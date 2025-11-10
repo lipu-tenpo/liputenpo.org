@@ -3,7 +3,7 @@ nimi-suli: Letero al la nevo
 jan-pali: mun Luwa
 toki: Esperanto
 tags:
-  - toki-toki
+  - toki
 ---
 
 Ho, kara Tokipono! Ankoraŭ juna kaj brila, kiel la tagon, kiam vi venis en la mondon.

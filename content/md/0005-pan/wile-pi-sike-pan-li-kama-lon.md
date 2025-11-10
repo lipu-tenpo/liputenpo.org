@@ -2,7 +2,7 @@
 nimi-suli: wile pi sike pan li kama lon
 jan-pali: jan Tamalu
 tags:
-  - toki-toki
+  - toki
 ---
 
 tenpo wan la kasi pi pan sike walo li lon. ona li lon telo mute li wile alasa e suno. tan ni la ona li kama suli. jan li sona e ni. tan ni la jan li pana e telo mute la kasi li kama suli mute mute kepeken tenpo lili. tenpo li tawa la ona li suli e ijo walo tawa unpa. ona li open e suli pi kili ona. tenpo kama la sike pi kasi pan ni li lon a! ona li kili li lili mute li lon insa pi sike laso kasi.

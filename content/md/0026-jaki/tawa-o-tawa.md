@@ -2,7 +2,7 @@
 nimi-suli: tawa o tawa
 jan-pali: jan Penta
 tags:
-  - toki-toki
+  - toki
 ---
 mi pakala taso •
 

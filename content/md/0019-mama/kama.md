@@ -2,7 +2,7 @@
 nimi-suli: kama
 jan-pali: jan Penta
 tags:
-  - toki-toki
+  - toki
 ---
 
 {{{sitelen "0019-nanpa-mama/kama.png" ""}}}

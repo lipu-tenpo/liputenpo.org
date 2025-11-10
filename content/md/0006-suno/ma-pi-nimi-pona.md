@@ -2,7 +2,7 @@
 nimi-suli: ma pi nimi pona
 jan-pali: jan Telakoman
 tags:
-  - toki-toki
+  - toki
 ---
 
 jan pona mi o! tenpo suno ni li tenpo suno ike lon ma pi nimi pona. ale li ike tan ni: nimi Sona en nimi Pilin li utala li toki ike kepeken kalama suli. nimi Sona li tawa tomo ona, nimi Pilin li tawa tomo ona. nimi ale li pilin ike.

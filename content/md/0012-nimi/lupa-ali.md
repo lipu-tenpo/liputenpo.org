@@ -2,7 +2,7 @@
 nimi-suli: lupa ali
 jan-pali: jan Kapesi Pake
 tags:
-  - toki-toki
+  - toki
 ---
 
 meli li wile moku. a, soweli li lon ala ma ni. kasi en kili kin li weka. sijelo meli li kule walo. sinpin ona li sama ko jaki. telo li kama ala tan oko ona. akesi wan taso li tawa meli kepeken noka anpa. meli li lukin li wile wawa e akesi. meli li selo e akesi kepeken namako mute. ni la, meli li tawa e akesi tawa uta.

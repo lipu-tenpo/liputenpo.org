@@ -2,7 +2,7 @@
 nimi-suli: ale tenpo
 jan-pali: jan Ke Tami
 tags:
-  - toki-toki
+  - toki
 ---
 
 ale tenpo li tenpo suli a. jan li ken ala ken sona e ona? o kute e toki ni:

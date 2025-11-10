@@ -2,7 +2,7 @@
 nimi-suli: luka Juke - pona sin li lon anu powe[^1]?
 jan-pali: jan Olipija
 tags:
-  - toki-toki
+  - toki
 ---
 
 {{{sitelen "0018-nanpa-tu/luka_Juke.png" ""}}}

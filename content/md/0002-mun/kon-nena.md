@@ -2,7 +2,7 @@
 nimi-suli: kon nena
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 
 lon ma Selonka la, kon nena li lon nena. kon nena li seme? tenpo pini mute la, jan pi pali nena li lon. ona li moli. ona li toki tawa mama sewi e ni: “mi li wile kin lon insa nena.” mama sewi li pali e ni: tenpo ni la, jan ni li kon nena.

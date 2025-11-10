@@ -2,7 +2,7 @@
 nimi-suli: ma Masuno
 jan-pali: jan Na
 tags:
-  - toki-toki
+  - toki
 ---
 
 toki! ma Masuno li ma seli kon suwi! jan Masuno li kepeken taso e toki pona. nasin sewi pi ma Masuno e ni: sewi olin li mama Osusasi. mama Osusasi li sike mama pi kiwen lon ma seli kon. jan Masuno mute li lon insa mama Osusasi. jan Masuno ante li lon e ma tomo Omosuno e ma tomo Ponso e ma Lojema. ma Masuno li suli!

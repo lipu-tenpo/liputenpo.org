@@ -2,7 +2,7 @@
 nimi-suli: pipi lili li tawa mute
 jan-pali: jan Alonola
 tags:
-  - toki-toki
+  - toki
 ---
 
 {{{sitelen "0013-nanpa-pipi/tomo_tawa.png" ""}}}
