@@ -1,10 +1,5 @@
 # npm
-/node_modules
+node_modules
 
 # build
-/_site
-/tailwind/tailwind.out.css
-/scribus
-
-# python
-/env/
+dist
