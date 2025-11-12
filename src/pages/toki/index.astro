@@ -1,0 +1,260 @@
+---
+import ReadableDate from "@/components/ReadableDate.astro";
+import { articles } from "@/content.config";
+import Layout from "@/layouts/Layout.astro";
+import { getIssueTag } from "@/utils";
+const categories = [
+  "kulupu",
+  "toki pona",
+  "sona",
+  "ma",
+  "pilin",
+  "toki",
+  "toki ante",
+  "musi",
+  "moku",
+  "kijetesantakalu",
+  "toki musi",
+  "nasin lawa jan",
+  "nimi",
+  "soweli",
+  "tenpo",
+  "tenpo walo",
+];
+---
+<style>
+.h2 {
+  font-size: 3em;
+  margin: 0 0 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.h2 h2 {
+  margin: 1rem 0 0;
+  padding: 0.5rem 2rem;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--colour-laso-walo);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-03);
+}
+
+#rss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 1rem;
+}
+#rss img {
+  height: 1.75rem;
+  width: auto;
+}
+
+search {
+  width: 100%;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+search > label {
+  margin-right: 1rem;
+}
+search > label.sitelen-pona {
+  font-size: 2rem;
+}
+search > input {
+  width: 100%;
+  max-width: 20rem;
+  padding: 0.5rem;
+  border: 1px solid var(--text-subtle);
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  color: var(--text-colour);
+  background-color: var(--background-colour);
+}
+
+.sitelen-pona {
+  font-family: "sitelen seli kiwen", sans-serif;
+}
+
+.categories {
+  margin-bottom: 5rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.categories .quicklinks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.categories .quicklinks span {
+  margin: 0 0.25rem;
+}
+
+.categories h3 {
+  font-size: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 1.25rem 2.5rem 0;
+}
+.categories h3.hidden {
+  display: none;
+}
+
+.blobby-0 {
+  background-color: var(--colour-unu-walo);
+  color: var(--colour-unu-pimeja);
+  border-radius: var(--blob-border-radius-02);
+}
+.blobby-1 {
+  background-color: var(--colour-jelo-walo);
+  color: var(--colour-jelo-pimeja);
+  border-radius: var(--blob-border-radius-04);
+}
+.blobby-2 {
+  background-color: var(--colour-loje-walo);
+  color: var(--colour-loje-pimeja);
+  border-radius: var(--blob-border-radius-02);
+}
+.blobby-3 {
+  background-color: var(--colour-laso-walo);
+  color: var(--colour-laso-pimeja);
+  border-radius: var(--blob-border-radius-04);
+}
+
+.category-title.sitelen-pona {
+  font-size: 4rem;
+  text-align: center;
+  display: block;
+}
+
+.articles {
+  margin: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.article {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: var(--text-colour);
+}
+
+.article.hidden {
+  display: none;
+}
+
+.article .nimi-suli {
+  font-size: 2rem;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.article .meta {
+  margin-top: 0.25rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.article .meta > * {
+  margin: 0 0.5rem;
+}
+
+.article .jan-pali,
+.article .tenpo,
+.article .lipu,
+.article .category {
+  color: var(--text-subtle);
+}
+
+</style>
+<Layout title="lipu tenpo - toki">
+  <script defer src="/alpine.min.js" slot="script"></script>
+  <div class="h2">
+    <h2>
+      toki
+      <a id="rss" href="./feed.xml">
+        <img alt="_RSS_" src="/rss.svg" />
+      </a>
+    </h2>
+  </div>
+
+  <section class="categories" x-data="{search: ''}">
+    <nav class="quicklinks">
+      {
+        categories
+          .map((category) => <a href={`#${category}`}>{category}</a>)
+          .reduce((prev, curr, i) => (
+            <>
+              {prev}
+              {"•"}
+              {curr}
+            </>
+          ))
+      }
+    </nav>
+
+    <search>
+      <label for="search">alasa</label>
+      <label for="search" class="sitelen-pona">alasa</label>
+      <!-- Alpine:
+        - x-model input to a `search` string
+        - x-on:input to update URL with search param when changed
+        - x-init to load a maybe-existing search param from the URL
+      -->
+      <input type="search" id="search" x-model="search" x-on:input = "window.history.replaceState(search, '', '/toki/' + (search ? '?alasa=' + search : ''))" x-init="let params = new URLSearchParams(window.location.search); search = params.get('alasa') || ''">
+    </search>
+    {categories.map((category, index) => (
+      <h3 id={category} class={`blobby-${index % 4}`} :class="{'hidden': !('{{#each (reversed (getkey ../collections collection))}}{{data.[nimi-suli]}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) || '{{#each (reversed (getkey ../collections collection))}}{{data.[jan-pali]}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) || '{{#each (reversed (getkey ../collections collection))}}{{getIssueTag data.tags}} {{/each}}'.toLowerCase().includes(search.toLowerCase()) )}">
+        {category}
+        <span class="category-title sitelen-pona">{category}</span>
+      </h3>
+
+    <div class="articles">
+      <!-- Alpine:
+        - x-bind:class to hide the article if it doesn't match the search
+      -->
+        {articles.filter((article) => article.data.tags.includes(category)).map((article) => (
+
+        <a class="article" href="{{page.url}}" :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">
+          <span class="nimi-suli">{article.data["nimi-suli"]}</span>
+            <div class="meta">
+                <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
+                    <span class="sitelen-pona">jan</span>
+                    {article.data["jan-pali"]}
+                </span>
+                <span class="tenpo" style="color: {{colourhash data.date}}">
+                    <span class="sitelen-pona">tenpo</span>
+                    <ReadableDate date={article.data.date} />
+                </span>
+                <span class="lipu" style="color: {{colourhash (getIssueTag data.tags)}}">
+                    <span class="sitelen-pona">lipu</span>
+                    {getIssueTag(article.data.tags)}
+                </span>
+            </div>
+        </a>
+        ))}
+    </div>
+    ))}
+  </section>
+</Layout>
