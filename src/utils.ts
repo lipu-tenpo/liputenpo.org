@@ -28,3 +28,22 @@ export const getTokiTypeTag = (tags: string[]) => {
   let tag = nanpa_tags.at(0)!;
   return tag;
 };
+
+export const sortJanPali = (janpali: { name: string; active: boolean }[]) =>
+  // jan pali are obj with "name" and optional "active"
+  // sort first by "active" then by "name"
+  janpali.sort((a, b) => {
+    if (a.active && !b.active) {
+      return -1;
+    } else if (!a.active && b.active) {
+      return 1;
+    } else {
+      // sort by 2nd word if possible
+      let a_name = a.name.split(" ");
+      let b_name = b.name.split(" ");
+      if (a_name.length > 1 && b_name.length > 1) {
+        return a_name[1].localeCompare(b_name[1]);
+      }
+      return a.name.localeCompare(b.name);
+    }
+  });
