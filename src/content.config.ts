@@ -44,7 +44,7 @@ export const articles = (await getCollection("articles"))
   // Update path, e.g. /0034-lon/ -> /nanpa-lon/
   .map((article) => ({
     ...article,
-    id: article.id.replace(/\d\d\d\d-/, "nanpa-"),
+    id: article.id.replace(/^[0-9]+-/, "nanpa-"),
   }))
   // Add issue tags, e.g. [pilin] -> [pilin, nanpa lon]
   .map((article) => ({

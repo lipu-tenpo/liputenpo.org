@@ -1,0 +1,19 @@
+---
+const { separator = "•" } = Astro.props;
+const children = Astro.slots.default ? Astro.slots.default() : [];
+---
+
+{
+  children.length === 0
+    ? null
+    : children.slice(1).reduce(
+        (prev, curr) => (
+          <>
+            {prev}
+            {separator}
+            {curr}
+          </>
+        ),
+        children[0],
+      )
+}
