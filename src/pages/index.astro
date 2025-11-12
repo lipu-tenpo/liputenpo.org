@@ -267,6 +267,7 @@ const mostRecentJo = articles.filter(
         <Image
           src={most_recent.data.cover_image}
           alt={most_recent.data.title}
+          width={400}
         />
       </a>
     </article>
@@ -296,7 +297,11 @@ const mostRecentJo = articles.filter(
           <div>
             <article class="lipuwan">
               <a href={`lipu/${issue.data.title.replace(" ", "-")}`}>
-                <Image src={issue.data.cover_image} alt={issue.data.title} />
+                <Image
+                  src={issue.data.cover_image}
+                  alt={issue.data.title}
+                  width={400}
+                />
                 <h3 id={issue.data.title}>{issue.data.title}</h3>
                 <span class="date">
                   <ReadableDate date={issue.data.date} />
