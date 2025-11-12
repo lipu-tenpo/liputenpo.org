@@ -1,0 +1,17 @@
+---
+interface Props {
+  url: string;
+  gridarea: string;
+  icon: string;
+  alt: string;
+  text: string;
+}
+const { url, gridarea, icon, alt, text } = Astro.props;
+---
+
+<a href={url} class={gridarea}>
+  <img class="icon" src={icon} alt={alt} />
+  <span>
+    {text}
+  </span>
+</a>
