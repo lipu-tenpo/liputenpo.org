@@ -1,14 +1,32 @@
 ---
 import { colourhash } from "@/utils";
+import ReadableDate from "./ReadableDate.astro";
 
 interface Props {
-  text: string;
+  text: string | Date;
   sp?: string;
 }
 const { text, sp } = Astro.props;
 ---
 
-<span style={`color: ${colourhash(text)}`}>
-  <span class="sitelen-pona">{sp ?? text}</span>
-  {text}
-</span>
+<style>
+  div {
+    margin: 0 0.5rem;
+    display: inline-block;
+  }
+</style>
+<div>
+  {
+    text instanceof Date ? (
+      <span style={`color: ${colourhash(text.toISOString().split("T")[0])}`}>
+        <span class="sitelen-pona">{sp ?? text}</span>
+        <ReadableDate date={text} />
+      </span>
+    ) : (
+      <span style={`color: ${colourhash(text)}`}>
+        <span class="sitelen-pona">{sp ?? text}</span>
+        {text}
+      </span>
+    )
+  }
+</div>
