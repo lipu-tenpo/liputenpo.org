@@ -1,4 +1,5 @@
 ---
+import ColourSpan from "@/components/ColourSpan.astro";
 import ReadableDate from "@/components/ReadableDate.astro";
 import { articles } from "@/content.config";
 import Layout from "@/layouts/Layout.astro";
@@ -236,21 +237,12 @@ search > input {
       -->
         {articles.filter((article) => article.data.tags.includes(category)).map((article) => (
 
-        <a class="article" href="{{page.url}}" :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">
+        <a class="article" href={article.id} :class="{'hidden': !('{{data.[nimi-suli]}}'.toLowerCase().includes(search.toLowerCase()) || '{{data.[jan-pali]}}'.toLowerCase().includes(search.toLowerCase()) || '{{getIssueTag data.tags}}'.toLowerCase().includes(search.toLowerCase()))}">
           <span class="nimi-suli">{article.data["nimi-suli"]}</span>
             <div class="meta">
-                <span class="jan-pali" style="color: {{colourhash data.[jan-pali]}}">
-                    <span class="sitelen-pona">jan</span>
-                    {article.data["jan-pali"]}
-                </span>
-                <span class="tenpo" style="color: {{colourhash data.date}}">
-                    <span class="sitelen-pona">tenpo</span>
-                    <ReadableDate date={article.data.date} />
-                </span>
-                <span class="lipu" style="color: {{colourhash (getIssueTag data.tags)}}">
-                    <span class="sitelen-pona">lipu</span>
-                    {getIssueTag(article.data.tags)}
-                </span>
+                <ColourSpan text={article.data["jan-pali"]} sp="jan" />
+                <ColourSpan text={article.data.date} sp="tenpo" />
+                <ColourSpan text={getIssueTag(article.data.tags)!} sp="lipu" />
             </div>
         </a>
         ))}
