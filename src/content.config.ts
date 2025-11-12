@@ -30,6 +30,7 @@ export const collections = {
       "nimi-suli": z.string(), // title
       "jan-pali": z.string(), // author
       tags: z.array(z.string()),
+      date: z.date().default(new Date("1970-01-01")),
     }),
   }),
   meta: defineCollection({
@@ -39,10 +40,20 @@ export const collections = {
 };
 
 export const issues = await getCollection("issues");
-export const articles = (await getCollection("articles")).map((article) => ({
-  ...article,
-  id: article.id.replace(/\d\d\d\d-/, "nanpa-"),
-}));
+export const articles = (await getCollection("articles"))
+  // Update path, e.g. /0034-lon/ -> /nanpa-lon/
+  .map((article) => ({
+    ...article,
+    id: article.id.replace(/\d\d\d\d-/, "nanpa-"),
+  }))
+  // Add issue tags, e.g. [pilin] -> [pilin, nanpa lon]
+  .map((article) => ({
+    ...article,
+    data: {
+      ...article.data,
+      tags: [...article.data.tags, article.id.split("/")[0].replace("-", " ")],
+    },
+  }));
 
 // export const lipu_ale = z
 //   .array(issueSchema)

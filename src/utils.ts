@@ -47,3 +47,12 @@ export const sortJanPali = (janpali: { name: string; active: boolean }[]) =>
       return a.name.localeCompare(b.name);
     }
   });
+
+export const getIssueTag = (tags: string[]) => {
+  // get "nanpa X" from tag list
+  const nanpa_tags = tags.filter((tag) => tag.startsWith("nanpa"));
+  if (nanpa_tags.length != 1) {
+    throw Error("could not find nanpa tag, found tags: " + tags);
+  }
+  return nanpa_tags.at(0);
+};
