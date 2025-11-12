@@ -1,0 +1,311 @@
+---
+import ColourSpan from "../components/ColourSpan.astro";
+import ReadableDate from "../components/ReadableDate.astro";
+import Layout from "../layouts/Layout.astro";
+import { getTokiTypeTag } from "../utils";
+import { Image } from "astro:assets";
+import { articles, issues as allIssues } from "../content.config";
+
+const [most_recent, ...issues] = allIssues;
+
+const getIssueFromPath = (articlePath: string) =>
+  articlePath.split("/")[2].split("-")[1];
+
+const mostRecentJo = articles.filter(
+  (x) => `nanpa ${getIssueFromPath(x.filePath!)}` == most_recent.data.title,
+);
+---
+
+<style>
+  /* stylesheet for /index page */
+
+  @keyframes scrollleft {
+    0% {
+      translate: 0;
+    }
+    50% {
+      translate: -40rem;
+    }
+    100% {
+      translate: 0;
+    }
+  }
+
+  @keyframes scrollright {
+    0% {
+      translate: 0;
+    }
+    50% {
+      translate: +40rem;
+    }
+    100% {
+      translate: 0;
+    }
+  }
+
+  #introduction {
+    margin: 0;
+    position: relative;
+    padding: 0;
+  }
+  /* purple wibbly lines */
+  /* #introduction {
+  background-color: var(--logo-primary);
+}
+#introduction::before {
+  content: "";
+  width: 100%;
+  height: 5rem;
+  background-image: url("/texture_bumps_homepage.svg");
+  background-size: auto;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  position: absolute;
+  top: calc(-5rem + 1px);
+  left: 0;
+  pointer-events: none;
+}
+#introduction::after {
+  content: "";
+  width: 100%;
+  height: 5rem;
+  background-image: url("/texture_bumps_homepage.svg");
+  background-size: auto;
+  background-repeat: repeat-x;
+  background-position: bottom;
+  position: absolute;
+  bottom: calc(-5rem + 1px);
+  right: 0;
+  pointer-events: none;
+  transform: rotate(180deg);
+} */
+  #introduction p {
+    margin: 1rem;
+    font-size: 1.5rem;
+    line-height: 2;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .h2 {
+    font-size: 3em;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .h2 h2 {
+    padding: 0.5rem 2rem;
+    margin: 1rem 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: var(--colour-laso-walo);
+    color: var(--colour-laso-pimeja);
+    border-radius: var(--blob-border-radius-03);
+  }
+  #rss {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 0.5rem;
+  }
+  #rss img {
+    height: 1.25rem;
+    width: auto;
+  }
+
+  #lipu-nanpa-lon {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-end;
+    margin: 2rem;
+  }
+
+  .lipu-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  #lipu_ale {
+    padding: 3rem 2rem 2rem;
+    width: 100%;
+    max-width: 60rem;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr));
+    grid-gap: 4rem;
+  }
+
+  #lipu_ale > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .lipuwan {
+    max-width: 10rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+  }
+  .lipuwan a {
+    height: 100%;
+    width: 100%;
+    color: var(--logo-primary);
+    text-decoration: none;
+    font-weight: bold;
+  }
+  .lipuwan img {
+    width: 100%;
+    height: auto;
+    border-radius: 1rem;
+  }
+  .lipuwan h3 {
+    margin: 0.5rem 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  .lipuwan .date {
+    color: gray;
+  }
+  .lipuwan a:hover {
+    text-decoration: underline;
+  }
+
+  #lipu-nanpa-lon .lipuwan {
+    margin-right: 2rem;
+    max-width: none;
+    display: block;
+    text-align: left;
+  }
+  #lipu-nanpa-lon .lipu-sin {
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+  #lipu-nanpa-lon .lipuwan h3 {
+    margin: 0;
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+  }
+  #lipu-nanpa-lon .lipuwan .date {
+    font-size: 1.7rem;
+  }
+  #lipu-nanpa-lon .lipuwan img {
+    margin-top: 0.7rem;
+    max-width: 12rem;
+  }
+  #lipu-nanpa-lon .jan-pali {
+    padding: 0 0.5rem;
+  }
+
+  #lipu_ale_pdf {
+    padding: 3rem 2rem 2rem;
+    width: 100%;
+    max-width: 60rem;
+
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+    grid-gap: 4rem;
+  }
+
+  .lipuwan_pdf {
+    max-width: 13em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+  }
+</style>
+
+<Layout
+  title="lipu tenpo - lipu ale"
+  description="o kama pona lon lipu pi lipu tenpo!"
+>
+  <div class="h2">
+    <h2 id="lipu">
+      lipu
+      <a id="rss" href="/lipu/feed.xml">
+        <img alt="_RSS_" src="/rss.svg" />
+      </a>
+    </h2>
+  </div>
+
+  <section id="introduction">
+    <p>o kama pona lon lipu tenpo!</p>
+    <p>o lukin e lipu ale lon ni</p>
+  </section>
+
+  <!-- first lipu_ale -->
+  <section id="lipu-nanpa-lon">
+    <article class="lipuwan">
+      <div class="lipu-sin">lipu sin</div>
+      <h3 id={most_recent.data.title}>
+        <a href={`lipu/${most_recent.data.title.replace(" ", "-")}`}>
+          {most_recent.data.title}
+        </a>
+      </h3>
+      <div class="date">
+        <ReadableDate date={most_recent.data.date} />
+      </div>
+      <a href={`lipu/${most_recent.data.title.replace(" ", "-")}`}>
+        <Image
+          src={most_recent.data.cover_image}
+          alt={most_recent.data.title}
+        />
+      </a>
+    </article>
+
+    {
+      mostRecentJo && (
+        <ul>
+          {mostRecentJo.map((article) => (
+            <li>
+              {console.log(article)}
+              <a class="article" href={`toki/${article.id}`}>
+                <span class="nimi-suli">{article.data["nimi-suli"]}</span>
+              </a>
+              <ColourSpan text={article.data["jan-pali"]} sp="jan" />
+              <ColourSpan text={getTokiTypeTag(article.data["tags"])} />
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </section>
+
+  <div class="lipu-flex">
+    <section id="lipu_ale">
+      {
+        issues.map((issue) => (
+          <div>
+            <article class="lipuwan">
+              <a href={`lipu/${issue.data.title.replace(" ", "-")}`}>
+                <Image src={issue.data.cover_image} alt={issue.data.title} />
+                <h3 id={issue.data.title}>{issue.data.title}</h3>
+                <span class="date">
+                  <ReadableDate date={issue.data.date} />
+                </span>
+              </a>
+            </article>
+          </div>
+        ))
+      }
+    </section>
+  </div>
+</Layout>

@@ -1,0 +1,14 @@
+---
+import { colourhash } from "../utils";
+
+interface Props {
+  text: string;
+  sp?: string;
+}
+const { text, sp } = Astro.props;
+---
+
+<span style={`color: ${colourhash(text)}`}>
+  <span class="sitelen-pona">{sp ?? text}</span>
+  {text}
+</span>
