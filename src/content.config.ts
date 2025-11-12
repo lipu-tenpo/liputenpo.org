@@ -1,5 +1,13 @@
 import { file, glob } from "astro/loaders";
-import { defineCollection, getCollection, z } from "astro:content";
+import { defineCollection, getCollection } from "astro:content";
+import { readFileSync } from "node:fs";
+import yaml from "yaml";
+import { z, type infer as zInfer, type ZodTypeAny } from "zod";
+
+const load_yaml = <T extends ZodTypeAny>(
+  filepath: string,
+  schema: T,
+): zInfer<T> => schema.parse(yaml.parse(readFileSync(filepath, "utf8")));
 
 export const collections = {
   issues: defineCollection({
@@ -24,6 +32,10 @@ export const collections = {
       tags: z.array(z.string()),
     }),
   }),
+  meta: defineCollection({
+    loader: glob({ base: "src/_data/", pattern: "**/*.{md,mdx}" }),
+    schema: z.object({}),
+  }),
 };
 
 export const issues = await getCollection("issues");
@@ -35,3 +47,38 @@ export const articles = (await getCollection("articles")).map((article) => ({
 // export const lipu_ale = z
 //   .array(issueSchema)
 //   .parse(parseYaml(readFileSync("src/_data/lipu_ale.yaml", "utf8")));
+
+// const qna = z.array(
+//   z.object({
+//     question: z.string(),
+//     answer: z.string(),
+//   }),
+// );
+
+// export const sona = z
+//   .object({
+//     site: z.string(),
+//     "linluwi-pi-pdf-ale": z.string(),
+//     "ni-li-seme": qna,
+//     faq: qna,
+//     footer: z.array(z.string()),
+//   })
+//   .parse(parseYaml(readFileSync("src/_data/sona.yaml", "utf8")));
+
+export const jan_pali = load_yaml(
+  "src/_data/jan_pali.yaml",
+  z.record(
+    z.string(),
+    z.array(
+      z.object({
+        name: z.string(),
+        active: z.boolean().optional().default(false),
+      }),
+    ),
+  ),
+);
+
+export const lipu_ante = load_yaml(
+  "src/_data/lipu_ante.yaml",
+  z.record(z.string(), z.array(z.record(z.string(), z.string()))),
+);

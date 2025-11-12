@@ -1,0 +1,13 @@
+---
+interface Props {
+  filename: string;
+}
+const { filename } = Astro.props;
+
+import { getCollection, render } from "astro:content";
+const collection = await getCollection("meta");
+const md = collection.find((item) => item.id == filename)!;
+const { Content } = await render(md);
+---
+
+<Content />
