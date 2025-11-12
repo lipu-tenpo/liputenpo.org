@@ -2,7 +2,7 @@
 nimi-suli: lipu tenpo li kulupu
 jan-pali: jan Alonola en jan Sonatan
 tags:
-	- kulupu
+  - kulupu
 ---
 
 o sona! lipu tenpo li kama kulupu lawa. tenpo sike tu wan pini la, mi open e lipu tenpo. mi pana e lipu tenpo nanpa wan. tenpo li kama la mi kama kulupu pona li pana e lipu tenpo mute.

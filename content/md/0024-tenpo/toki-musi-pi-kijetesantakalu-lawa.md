@@ -2,7 +2,7 @@
 nimi-suli: toki musi pi kijetesantakalu lawa
 jan-pali: jan pi nimi ala
 tags:
-	- musi
+  - musi
 ---
 
 ki­je­te­san­ta­ka­lu Winsen li lawa e soweli ale. soweli ale li olin e ona tan ni: ona li lawa pona. ma soweli li ma kasi suli lon poka pi ma tomo. jan mute li lon ma ni. tenpo ala la jan en soweli li utala. taso tenpo lete li kama. jan li wile jo e moku tawa tenpo lete. tan ni la, jan li open alasa. ki­je­te­san­ta­ka­lu lili li lukin e jan kama. ona li toki e ni kepeken kalama mute: “soweli ale o! jan mute li kama! ona li wile moli e mi mute!”. soweli Winsen li kute e ki­je­te­san­ta­ka­lu lili, li pilin ike mute tan ni: moli soweli li ike tawa ona. taso ona li ken ala pali tan ni: ilo utala pi jan mute li wawa.
