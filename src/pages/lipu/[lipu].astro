@@ -1,0 +1,319 @@
+---
+import ColourSpan from "@/components/ColourSpan.astro";
+import PrevnextIssues from "@/components/PrevnextIssues.astro";
+import ReadableDate from "@/components/ReadableDate.astro";
+import { issues, articles } from "@/content.config";
+import Layout from "@/layouts/Layout.astro";
+import { getTokiTypeTag, getIssueTag } from "@/utils";
+import { render } from "astro:content";
+
+export const getStaticPaths = async () =>
+  issues.map((issue) => ({
+    params: {
+      lipu: issue.data.title.replace(" ", "-"),
+    },
+    props: issue,
+  }));
+
+const lipu = Astro.props;
+
+const issueArticles = articles.filter((article) =>
+  article.data.tags.includes(lipu.data.title),
+);
+---
+
+<style>
+  h2 {
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 0;
+  }
+  .date {
+    color: var(--text-subtle);
+    text-align: center;
+    margin: 0;
+    display: block;
+    margin: 1rem 0 2rem;
+  }
+  .main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .main h3 {
+    margin: 0;
+  }
+  .pdfs ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .pdfs li {
+    box-sizing: content-box;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  .pdfs li a {
+    flex: 1 0;
+    border: 3px solid var(--logo-secondary-dark);
+    background-color: var(--logo-primary-dark);
+    padding: 1rem;
+    border-radius: 1.5rem;
+    color: var(--logo-secondary);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .pdfs .icon {
+    height: 1.5rem;
+    width: auto;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+  }
+  .pdfs .icon.colour {
+    /* filter: invert(97%) sepia(82%) saturate(721%) hue-rotate(328deg)
+    brightness(108%) contrast(101%); */
+    filter: invert(80%) sepia(18%) saturate(763%) hue-rotate(8deg)
+      brightness(99%) contrast(87%);
+  }
+  .pdfs .icon.bnw {
+    filter: invert(16%) sepia(0%) saturate(1649%) hue-rotate(146deg)
+      brightness(96%) contrast(87%);
+  }
+  .pdfs .sitelen-pona {
+    font-size: 1.5em;
+    font-family: "sitelen seli kiwen", sans-serif;
+  }
+
+  .how-to-print {
+    margin: 0 0 2rem;
+  }
+
+  .embed {
+    max-width: 100vw;
+    display: flex;
+    flex-direction: column;
+  }
+  .embed embed {
+    max-width: 95vw;
+  }
+  .embed a {
+    margin: 1rem;
+  }
+
+  .nasin-pali {
+    max-width: 40rem;
+    margin: 1rem;
+  }
+
+  .nasin-pali h3 {
+    font-size: 2rem;
+  }
+
+  .nasin-pali .yt-embed {
+    aspect-ratio: 16 / 9;
+    width: 100%;
+  }
+
+  .toki {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+  }
+  .toki h3 {
+    font-size: 2rem;
+    padding: 1rem 1rem;
+
+    background-color: var(--colour-laso-walo);
+    color: var(--colour-laso-pimeja);
+    border-radius: var(--blob-border-radius-04);
+  }
+  .toki ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .article {
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    color: var(--text-colour);
+  }
+  .article .nimi-suli {
+    font-size: 1rem;
+    text-decoration: underline;
+    text-align: center;
+  }
+  .article .meta {
+    margin-top: 0.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .article .meta > * {
+    margin: 0 0.5rem;
+  }
+  .article .jan-pali,
+  .article .tenpo,
+  .article .category {
+    color: var(--text-subtle);
+  }
+</style>
+<Layout title={`lipu tenpo - ${lipu.data.title}`}>
+  <h2 id={`lipu tenpo ${lipu.data.title}`}>lipu tenpo {lipu.data.title}</h2>
+  <span class="date"><ReadableDate date={lipu.data.date} /></span>
+  <section class="main">
+    <h3 id="o kama jo!">o kama jo!</h3>
+    <nav class="pdfs">
+      <ul>
+        <li>
+          <a href={`/pdfs/${lipu.data.pdf}`}>
+            <img class="icon colour" src="/icons/file.svg" alt="file icon" />
+            lipu tenpo {lipu.data.title}
+            <img class="icon colour" src="/icons/file.svg" alt="file icon" />
+          </a>
+        </li>
+        {
+          lipu.data.pdf_sitelen_pona && (
+            <li>
+              <a href={`/pdfs/${lipu.data.pdf_sitelen_pona}`}>
+                <img
+                  class="icon colour"
+                  src="/icons/file.svg"
+                  alt="file icon"
+                />
+                lipu tenpo {lipu.data.title} (sitelen pona&nbsp;
+                <span class="sitelen-pona">sitelen pona</span>)
+                <img
+                  class="icon colour"
+                  src="/icons/file.svg"
+                  alt="file icon"
+                />
+              </a>
+            </li>
+          )
+        }
+        {
+          lipu.data.pdf_pf && (
+            <li>
+              <a href={`/pdfs/${lipu.data.pdf_pf}`}>
+                <img
+                  class="icon colour"
+                  src="/icons/printer.svg"
+                  alt="printer icon"
+                />
+                lipu tenpo {lipu.data.title} (tawa ilo sitelen*)
+                <img
+                  class="icon colour"
+                  src="/icons/printer.svg"
+                  alt="printer icon"
+                />
+              </a>
+            </li>
+          )
+        }
+        {
+          lipu.data.pdf_bwpf && (
+            <li>
+              <a href={`/pdfs/${lipu.data.pdf_bwpf}`}>
+                <img
+                  class="icon colour"
+                  src="/icons/printer.svg"
+                  alt="printer icon"
+                />
+                lipu tenpo {lipu.data.title} (pimeja/walo tawa ilo sitelen*)
+                <img
+                  class="icon colour"
+                  src="/icons/printer.svg"
+                  alt="printer icon"
+                />
+              </a>
+            </li>
+          )
+        }
+      </ul>
+    </nav>
+    <p class="how-to-print">
+      <a href="#ilo-sitelen-li-ni">nasin seme la lipu li ken tan ilo mi?</a>
+    </p>
+    <section class="embed">
+      <embed
+        src={`/pdfs/${lipu.data.pdf}`}
+        width="500"
+        height="670"
+        type="application/pdf"
+      />
+      <a href={`/pdfs/${lipu.data.pdf}`}>view full-page</a>
+    </section>
+    <section class="nasin-pali">
+      <h3 id="ilo-sitelen-li-ni">*ilo sitelen li ni</h3>
+      <p>
+        sina wile pali e lipu tenpo kepeken ilo sitelen la, sina pali e ni: o
+        kama jo e lipu tenpo tawa ilo sitelen. o ante e ijo ni: o pali e lipu
+        lon sinpin tu. sinpin wan la, lipu tu li lon.
+      </p>
+      <h3 id="toki-inli">toki Inli</h3>
+      <p>
+        When you want to print the lipu tenpo out, do this: Download the printer
+        version (“tawa ilo sitelen”) and change these things: Choose “print on
+        both” sides. Also, on one side there should be two pages (in total 4
+        pages with the other side of the paper). When you do this, you can
+        easily connect the pages now with a stapler.
+      </p>
+      <!-- youtube video https://youtu.be/1SP5hGB53Fo -->
+      <iframe
+        class="yt-embed"
+        src="https://www.youtube.com/embed/1SP5hGB53Fo"
+        title="How To Print Out Lipu Tenpo Correctly | Tutorial"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen></iframe>
+    </section>
+
+    {
+      issueArticles && (
+        <section class="toki">
+          <h3 id="toki">toki lon lipu ni</h3>
+          <nav>
+            <ul>
+              {issueArticles.map((article) => (
+                <li>
+                  <a class="article" href={article.id}>
+                    <span class="nimi-suli">{article.data["nimi-suli"]}</span>
+                    <div class="meta">
+                      <span
+                        class="jan-pali"
+                        style="color: {{colourhash data.[jan-pali]}}"
+                      >
+                        <span class="sitelen-pona">jan</span>
+                        {article.data["jan-pali"]}
+                      </span>
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </nav>
+        </section>
+      )
+    }
+    <PrevnextIssues current={lipu.id} />
+  </section>
+</Layout>

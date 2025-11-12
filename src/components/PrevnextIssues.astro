@@ -1,0 +1,59 @@
+---
+import { issues } from "@/content.config";
+
+interface Props {
+  current: string;
+}
+const { current } = Astro.props;
+
+const id = Object.values(issues).findIndex((issue) => issue.id == current);
+const prev = Object.values(issues)[id + 1];
+const next = Object.values(issues)[id - 1];
+---
+
+<style>
+  .prevnext {
+    margin: 3rem 1rem 3rem;
+    width: 100%;
+  }
+  .prevnext ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  }
+  .prevnext a {
+    padding: 1rem 2rem;
+    background-color: var(--logo-primary-dark);
+    border-radius: 1rem;
+    text-decoration: none;
+    color: var(--logo-secondary);
+  }
+  .prevnext .disabled {
+    color: var(--text-subtle);
+  }
+</style>
+<nav class="prevnext">
+  <ul>
+    <li>
+      {
+        next ? (
+          <a href={next.data.title.replace(" ", "-")}>tenpo kama</a>
+        ) : (
+          <span class="disabled">tenpo kama</span>
+        )
+      }
+    </li>
+    <li>
+      {
+        prev ? (
+          <a href={prev.data.title.replace(" ", "-")}>tenpo pini</a>
+        ) : (
+          <span class="disabled">tenpo pini</span>
+        )
+      }
+    </li>
+  </ul>
+</nav>
