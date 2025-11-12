@@ -21,6 +21,7 @@ export const collections = {
         pdf_bleed: z.string().optional(),
         pdf_pf: z.string().optional(),
         pdf_bwpf: z.string().optional(),
+        pdf_sitelen_pona: z.string().optional(),
         cover_image: image(),
       }),
   }),
