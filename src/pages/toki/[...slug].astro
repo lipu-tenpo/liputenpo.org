@@ -1,0 +1,115 @@
+---
+import ColourSpan from "@/components/ColourSpan.astro";
+import { articles } from "@/content.config";
+import Layout from "@/layouts/Layout.astro";
+import { getTokiTypeTag, getIssueTag } from "@/utils";
+import { render } from "astro:content";
+
+export const getStaticPaths = async () =>
+  articles.map((post) => ({
+    params: { slug: post.id },
+    props: post,
+  }));
+const article = Astro.props;
+const { Content } = await render(article);
+---
+
+<style>
+  .toki {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 1rem 3rem;
+  }
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-align: center;
+  }
+
+  .meta {
+    font-size: 1rem;
+    color: var(--text-subtle);
+    margin-top: 0.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+  }
+
+  .meta > * {
+    margin: 0 0.5rem;
+  }
+  .sitelen-pona {
+    font-family: "sitelen seli kiwen", sans-serif;
+  }
+
+  .nimi {
+    margin: 1rem;
+    max-width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    text-align: justify;
+  }
+
+  p:has(.image) {
+    align-self: center;
+  }
+  .nimi a.image {
+    text-decoration: none;
+  }
+  .nimi .image img {
+    max-width: 100%;
+    max-height: 20rem;
+    color: red;
+  }
+  .nimi figcaption {
+    width: 100%;
+    font-size: 0.75rem;
+    color: var(--text-subtle);
+    text-align: center;
+    margin-top: 0.25rem;
+  }
+
+  .nimi blockquote {
+    margin: 1rem 0;
+    padding: 0.5rem 1rem;
+    border-left: 0.25rem solid var(--text-subtle);
+    background-color: var(--bg-subtle);
+    font-style: italic;
+  }
+
+  .nimi hr {
+    width: 100%;
+  }
+</style>
+<Layout title={article.data["nimi-suli"]}>
+  <article class="toki">
+    <h1>
+      {article.data["nimi-suli"]}
+    </h1>
+    <div class="meta">
+      <ColourSpan text={article.data["jan-pali"]} sp="jan" />
+      <ColourSpan
+        text={article.data.date.toISOString().split("T")[0]}
+        sp="tenpo"
+      />
+      <span class="lipu">
+        <span class="sitelen-pona">lipu</span>
+        <a href="/lipu/{{slugify (getIssueTag tags)}}">
+          {getIssueTag(article.data.tags)}
+        </a>
+      </span>
+      <ColourSpan text={getTokiTypeTag(article.data["tags"])} />
+    </div>
+    <section class="nimi">
+      <Content />
+    </section>
+  </article>
+</Layout>
