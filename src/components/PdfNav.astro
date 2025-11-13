@@ -1,0 +1,53 @@
+---
+import type { CollectionEntry } from "astro:content";
+import PdfButton from "./PdfButton.astro";
+
+interface Props {
+  lipu: CollectionEntry<"issues">;
+}
+const { lipu } = Astro.props;
+---
+
+<style>
+  .pdfs ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .pdfs .sitelen-pona {
+    font-size: 1.5em;
+    font-family: "sitelen seli kiwen", sans-serif;
+  }
+</style>
+<nav class="pdfs">
+  <ul>
+    <PdfButton icon="file" pdf={lipu.data.pdf}>
+      lipu tenpo {lipu.data.title}
+    </PdfButton>
+    {
+      lipu.data.pdf_sitelen_pona && (
+        <PdfButton icon="file" pdf={lipu.data.pdf_sitelen_pona}>
+          lipu tenpo {lipu.data.title} (sitelen pona&nbsp;
+          <span class="sitelen-pona">sitelen pona</span>)
+        </PdfButton>
+      )
+    }
+    {
+      lipu.data.pdf_pf && (
+        <PdfButton icon="printer" pdf={lipu.data.pdf_pf}>
+          lipu tenpo {lipu.data.title} (tawa ilo sitelen*)
+        </PdfButton>
+      )
+    }
+    {
+      lipu.data.pdf_bwpf && (
+        <PdfButton bw icon="printer" pdf={lipu.data.pdf_bwpf}>
+          lipu tenpo {lipu.data.title} (pimeja/walo tawa ilo sitelen*)
+        </PdfButton>
+      )
+    }
+  </ul>
+</nav>

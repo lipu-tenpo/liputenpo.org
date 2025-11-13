@@ -1,6 +1,7 @@
 ---
 import ArticleMetadata from "@/components/ArticleMetadata.astro";
 import ColourSpan from "@/components/ColourSpan.astro";
+import PdfNav from "@/components/PdfNav.astro";
 import PrevnextIssues from "@/components/PrevnextIssues.astro";
 import ReadableDate from "@/components/ReadableDate.astro";
 import { articles, issues } from "@/content.config";
@@ -48,53 +49,6 @@ const issueArticles = articles.filter((article) =>
   .main h3 {
     margin: 0;
   }
-  .pdfs ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-  .pdfs li {
-    box-sizing: content-box;
-    margin: 1rem;
-    display: flex;
-    justify-content: center;
-  }
-  .pdfs li a {
-    flex: 1 0;
-    border: 3px solid var(--logo-secondary-dark);
-    background-color: var(--logo-primary-dark);
-    padding: 1rem;
-    border-radius: 1.5rem;
-    color: var(--logo-secondary);
-    text-decoration: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .pdfs .icon {
-    height: 1.5rem;
-    width: auto;
-    margin-right: 0.5rem;
-    margin-left: 0.5rem;
-  }
-  .pdfs .icon.colour {
-    /* filter: invert(97%) sepia(82%) saturate(721%) hue-rotate(328deg)
-    brightness(108%) contrast(101%); */
-    filter: invert(80%) sepia(18%) saturate(763%) hue-rotate(8deg)
-      brightness(99%) contrast(87%);
-  }
-  .pdfs .icon.bnw {
-    filter: invert(16%) sepia(0%) saturate(1649%) hue-rotate(146deg)
-      brightness(96%) contrast(87%);
-  }
-  .pdfs .sitelen-pona {
-    font-size: 1.5em;
-    font-family: "sitelen seli kiwen", sans-serif;
-  }
-
   .how-to-print {
     margin: 0 0 2rem;
   }
@@ -180,75 +134,7 @@ const issueArticles = articles.filter((article) =>
   <span class="date"><ReadableDate date={lipu.data.date} /></span>
   <section class="main">
     <h3 id="o kama jo!">o kama jo!</h3>
-    <nav class="pdfs">
-      <ul>
-        <li>
-          <a href={`/pdfs/${lipu.data.pdf}`}>
-            <img class="icon colour" src="/icons/file.svg" alt="file icon" />
-            lipu tenpo {lipu.data.title}
-            <img class="icon colour" src="/icons/file.svg" alt="file icon" />
-          </a>
-        </li>
-        {
-          lipu.data.pdf_sitelen_pona && (
-            <li>
-              <a href={`/pdfs/${lipu.data.pdf_sitelen_pona}`}>
-                <img
-                  class="icon colour"
-                  src="/icons/file.svg"
-                  alt="file icon"
-                />
-                lipu tenpo {lipu.data.title} (sitelen pona&nbsp;
-                <span class="sitelen-pona">sitelen pona</span>)
-                <img
-                  class="icon colour"
-                  src="/icons/file.svg"
-                  alt="file icon"
-                />
-              </a>
-            </li>
-          )
-        }
-        {
-          lipu.data.pdf_pf && (
-            <li>
-              <a href={`/pdfs/${lipu.data.pdf_pf}`}>
-                <img
-                  class="icon colour"
-                  src="/icons/printer.svg"
-                  alt="printer icon"
-                />
-                lipu tenpo {lipu.data.title} (tawa ilo sitelen*)
-                <img
-                  class="icon colour"
-                  src="/icons/printer.svg"
-                  alt="printer icon"
-                />
-              </a>
-            </li>
-          )
-        }
-        {
-          lipu.data.pdf_bwpf && (
-            <li>
-              <a href={`/pdfs/${lipu.data.pdf_bwpf}`}>
-                <img
-                  class="icon colour"
-                  src="/icons/printer.svg"
-                  alt="printer icon"
-                />
-                lipu tenpo {lipu.data.title} (pimeja/walo tawa ilo sitelen*)
-                <img
-                  class="icon colour"
-                  src="/icons/printer.svg"
-                  alt="printer icon"
-                />
-              </a>
-            </li>
-          )
-        }
-      </ul>
-    </nav>
+    <PdfNav lipu={lipu} />
     <p class="how-to-print">
       <a href="#ilo-sitelen-li-ni">nasin seme la lipu li ken tan ilo mi?</a>
     </p>
