@@ -1,11 +1,11 @@
 ---
+import ArticleMetadata from "@/components/ArticleMetadata.astro";
 import ColourSpan from "@/components/ColourSpan.astro";
 import PrevnextIssues from "@/components/PrevnextIssues.astro";
 import ReadableDate from "@/components/ReadableDate.astro";
-import { issues, articles } from "@/content.config";
+import { articles, issues } from "@/content.config";
 import Layout from "@/layouts/Layout.astro";
-import { getTokiTypeTag, getIssueTag } from "@/utils";
-import { render } from "astro:content";
+import { getIssueTag } from "@/utils";
 
 export const getStaticPaths = async () =>
   issues.map((issue) => ({
@@ -295,17 +295,9 @@ const issueArticles = articles.filter((article) =>
             <ul>
               {issueArticles.map((article) => (
                 <li>
-                  <a class="article" href={article.id}>
+                  <a class="article" href={`/toki/${article.id}`}>
                     <span class="nimi-suli">{article.data["nimi-suli"]}</span>
-                    <div class="meta">
-                      <span
-                        class="jan-pali"
-                        style="color: {{colourhash data.[jan-pali]}}"
-                      >
-                        <span class="sitelen-pona">jan</span>
-                        {article.data["jan-pali"]}
-                      </span>
-                    </div>
+                    <ArticleMetadata hide_issue article={article} />
                   </a>
                 </li>
               ))}

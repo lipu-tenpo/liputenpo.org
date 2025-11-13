@@ -56,27 +56,6 @@ export const articles = (await getCollection("articles"))
     },
   }));
 
-// export const lipu_ale = z
-//   .array(issueSchema)
-//   .parse(parseYaml(readFileSync("src/_data/lipu_ale.yaml", "utf8")));
-
-// const qna = z.array(
-//   z.object({
-//     question: z.string(),
-//     answer: z.string(),
-//   }),
-// );
-
-// export const sona = z
-//   .object({
-//     site: z.string(),
-//     "linluwi-pi-pdf-ale": z.string(),
-//     "ni-li-seme": qna,
-//     faq: qna,
-//     footer: z.array(z.string()),
-//   })
-//   .parse(parseYaml(readFileSync("src/_data/sona.yaml", "utf8")));
-
 export const jan_pali = load_yaml(
   "src/_data/jan_pali.yaml",
   z.record(
@@ -93,4 +72,19 @@ export const jan_pali = load_yaml(
 export const lipu_ante = load_yaml(
   "src/_data/lipu_ante.yaml",
   z.record(z.string(), z.array(z.record(z.string(), z.string()))),
+);
+
+export const redirects = load_yaml(
+  "src/_data/redirects.yaml",
+  z.array(
+    z
+      .union([
+        z.record(z.string(), z.string()).transform((obj) => {
+          const [from, to] = Object.entries(obj)[0];
+          return { from, to };
+        }),
+        z.string().transform((from) => ({ from, to: "/404" })),
+      ])
+      .pipe(z.object({ from: z.string(), to: z.string() })),
+  ),
 );

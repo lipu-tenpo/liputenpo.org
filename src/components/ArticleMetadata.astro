@@ -1,0 +1,35 @@
+---
+import type { CollectionEntry } from "astro:content";
+import ColourSpan from "./ColourSpan.astro";
+import { getIssueTag, getTokiTypeTag } from "@/utils";
+
+interface Props {
+  article: CollectionEntry<"articles">;
+  hide_issue?: boolean;
+  hide_tags?: boolean;
+  hide_date?: boolean;
+}
+
+const {
+  article,
+  hide_issue = false,
+  hide_tags = false,
+  hide_date = false,
+} = Astro.props;
+---
+
+<style>
+  div {
+    display: inline-block;
+  }
+</style>
+<div class="meta">
+  <ColourSpan text={article.data["jan-pali"]} sp="jan" />
+  {!hide_date && <ColourSpan text={article.data.date} sp="tenpo" />}
+  {
+    !hide_issue && (
+      <ColourSpan text={getIssueTag(article.data.tags)!} sp="lipu" />
+    )
+  }
+  {!hide_tags && <ColourSpan text={getTokiTypeTag(article.data.tags)!} />}
+</div>

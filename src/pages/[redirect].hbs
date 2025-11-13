@@ -1,9 +1,0 @@
----
-pagination:
-    data: redirects
-    size: 1
-    alias: redirect
-permalink: /{{#if (isObject redirect)}}{{#each redirect}}{{@key}}{{/each}}{{else}}{{redirect}}{{/if}}
-eleventyExcludeFromCollections: true
----
-<meta http-equiv="refresh" content="0; url={{#if (isObject redirect)}}{{#each redirect}}{{this}}{{/each}}{{else}}/ala/{{/if}}">
