@@ -1,0 +1,11 @@
+---
+interface Props {
+  date: string | Date;
+}
+const { date } = Astro.props;
+
+const transform = (date: string | Date) =>
+  date ? new Date(date).toISOString().split("T")[0] : "unknown";
+---
+
+<time datetime={transform(date)}>{transform(date)}</time>

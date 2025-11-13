@@ -1,0 +1,64 @@
+---
+import FooterLink from "@/components/FooterLink.astro";
+
+const linluwi = {
+  discord: "https://discord.com/invite/XYzZskJuZw",
+  email: "lawapiliputenpo@gmail.com",
+  article_submission_form: "https://forms.gle/rkdZVsr3BmDbzy5d6",
+  linktree: "https://linktr.ee/liputenpo",
+  patreon: "https://www.patreon.com/liputenpo",
+  github_issue:
+    "https://github.com/lipu-tenpo/liputenpo.org/issues/new?title=linluwi%20li%20pakala&&body=seme%20li%20pakala%3F",
+};
+---
+
+<footer>
+  <section>
+    <FooterLink
+      url={linluwi.discord}
+      gridarea="discord"
+      icon="/icons/discord.svg"
+      alt="discord icon"
+      text="Discord"
+    />
+    <FooterLink
+      url={linluwi.linktree}
+      gridarea="linktree"
+      icon="/icons/linktree.svg"
+      alt="linktree icon"
+      text="Linktree"
+    />
+    <FooterLink
+      url={linluwi.patreon}
+      gridarea="patreon"
+      icon="/icons/patreon.svg"
+      alt="patreon icon"
+      text="Patreon"
+    />
+    <FooterLink
+      url="mailto:{{ linluwi.email }}"
+      gridarea="email"
+      icon="/icons/email.svg"
+      alt="email icon"
+      text={linluwi.email}
+    />
+    <FooterLink
+      url={linluwi.article_submission_form}
+      gridarea="form"
+      icon="/icons/pen.svg"
+      alt="pen icon"
+      text="o pana e pali sina"
+    />
+    <FooterLink
+      url={linluwi.github_issue}
+      gridarea="github"
+      icon="/icons/github.svg"
+      alt="github icon"
+      text="linluwi li pakala"
+    />
+    <p class="licence">
+      <em>lipu tenpo</em> is a registered association in Germany. All issues, images,
+      and entries are licenced under the CC BY-SA 4.0 licence.
+    </p>
+  </section>
+</footer>

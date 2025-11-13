@@ -1,12 +1,12 @@
 {
   "name": "lipu-tenpo-website",
+  "type": "module",
   "version": "0.1.0",
-  "description": "Static site generator for lipu tenpo",
-  "main": "index.js",
   "scripts": {
-    "dev": "eleventy --serve --incremental --ignore-initial",
-    "build": "eleventy",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
   },
   "keywords": [
     "tokipona",
@@ -14,13 +14,11 @@
   ],
   "author": "alifeee",
   "license": "ISC",
-  "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-img": "^3.1.8",
-    "npm-run-all": "^4.1.5",
-    "surge": "^0.0.0"
-  },
   "dependencies": {
-    "markdown-it-footnote": "^4.0.0"
+    "@astrojs/mdx": "^4.3.10",
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^5.15.5",
+    "yaml": "^2.8.1",
+    "zod": "^3.25.76"
   }
 }

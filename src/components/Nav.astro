@@ -1,0 +1,27 @@
+---
+interface Props {
+  url: string;
+  label: string;
+}
+const { url, label } = Astro.props;
+
+let isActive = false;
+if (url == "/") {
+  isActive =
+    Astro.url.pathname == "/" || Astro.url.pathname.startsWith("/lipu/");
+} else {
+  isActive = Astro.url.pathname.startsWith(url);
+}
+---
+
+<li class={isActive ? " active" : ""}>
+  <a href={url}>
+    {
+      label.split(" ").map((word) => (
+        <span class="sitelen-tu" data-text={word}>
+          {word}
+        </span>
+      ))
+    }
+  </a>
+</li>
