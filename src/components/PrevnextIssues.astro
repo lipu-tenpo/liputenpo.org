@@ -12,11 +12,11 @@ const next = Object.values(issues)[id - 1];
 ---
 
 <style>
-  .prevnext {
+  nav {
     margin: 3rem 1rem 3rem;
     width: 100%;
   }
-  .prevnext ul {
+  ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -24,18 +24,18 @@ const next = Object.values(issues)[id - 1];
     display: flex;
     justify-content: space-around;
   }
-  .prevnext a {
+  a {
     padding: 1rem 2rem;
     background-color: var(--logo-primary-dark);
     border-radius: 1rem;
     text-decoration: none;
     color: var(--logo-secondary);
   }
-  .prevnext .disabled {
+  .disabled {
     color: var(--text-subtle);
   }
 </style>
-<nav class="prevnext">
+<nav>
   <ul>
     <li>
       {

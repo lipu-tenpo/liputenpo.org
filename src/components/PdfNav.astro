@@ -1,6 +1,6 @@
 ---
+import PdfButton from "@/components/PdfButton.astro";
 import type { CollectionEntry } from "astro:content";
-import PdfButton from "./PdfButton.astro";
 
 interface Props {
   lipu: CollectionEntry<"issues">;
@@ -9,7 +9,7 @@ const { lipu } = Astro.props;
 ---
 
 <style>
-  .pdfs ul {
+  ul {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -17,12 +17,12 @@ const { lipu } = Astro.props;
     flex-direction: column;
     justify-content: center;
   }
-  .pdfs .sitelen-pona {
+  .sitelen-pona {
     font-size: 1.5em;
     font-family: "sitelen seli kiwen", sans-serif;
   }
 </style>
-<nav class="pdfs">
+<nav>
   <ul>
     <PdfButton icon="file" pdf={lipu.data.pdf}>
       lipu tenpo {lipu.data.title}

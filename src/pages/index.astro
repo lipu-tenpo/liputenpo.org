@@ -1,6 +1,5 @@
 ---
 import ArticleMetadata from "@/components/ArticleMetadata.astro";
-import ArticleMetadata from "@/components/ArticleMetadata.astro";
 import ReadableDate from "@/components/ReadableDate.astro";
 import { issues as allIssues, articles } from "@/content.config";
 import Layout from "@/layouts/Layout.astro";
@@ -276,7 +275,6 @@ const mostRecentJo = articles.filter(
         <ul>
           {mostRecentJo.map((article) => (
             <li>
-              {console.log(article)}
               <a class="article" href={`toki/${article.id}`}>
                 <span class="nimi-suli">{article.data["nimi-suli"]}</span>
               </a>
