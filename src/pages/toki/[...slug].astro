@@ -1,8 +1,7 @@
 ---
-import ColourSpan from "@/components/ColourSpan.astro";
+import ArticleMetadata from "@/components/ArticleMetadata.astro";
 import { articles } from "@/content.config";
 import Layout from "@/layouts/Layout.astro";
-import { getTokiTypeTag, getIssueTag } from "@/utils";
 import { render } from "astro:content";
 
 export const getStaticPaths = async () =>
@@ -94,20 +93,7 @@ const { Content } = await render(article);
     <h1>
       {article.data["nimi-suli"]}
     </h1>
-    <div class="meta">
-      <ColourSpan text={article.data["jan-pali"]} sp="jan" />
-      <ColourSpan
-        text={article.data.date.toISOString().split("T")[0]}
-        sp="tenpo"
-      />
-      <span class="lipu">
-        <span class="sitelen-pona">lipu</span>
-        <a href="/lipu/{{slugify (getIssueTag tags)}}">
-          {getIssueTag(article.data.tags)}
-        </a>
-      </span>
-      <ColourSpan text={getTokiTypeTag(article.data["tags"])} />
-    </div>
+    <ArticleMetadata hide_tags article={article} />
     <section class="nimi">
       <Content />
     </section>

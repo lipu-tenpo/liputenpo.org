@@ -1,6 +1,5 @@
 ---
 import ColourSpan from "@/components/ColourSpan.astro";
-import ReadableDate from "@/components/ReadableDate.astro";
 import { articles } from "@/content.config";
 import Layout from "@/layouts/Layout.astro";
 import { getIssueTag } from "@/utils";
@@ -235,7 +234,6 @@ const categories = [
       categories.map((category, index) => {
         const catArticles = articles.filter((article) => article.data.tags.includes(category) && !article.data.tags.includes("nanpa xxx"));
         return <>
-
           <h3 id={category} class={`blobby-${index % 4}`} :class={`{'hidden': !('${catArticles.map((article) => article.data["nimi-suli"]).join(" | ")}'.toLowerCase().includes(search.toLowerCase()) || '${catArticles.map((article) => article.data["jan-pali"]).join(" | ")}'.toLowerCase().includes(search.toLowerCase()) || '${catArticles.map((article) => getIssueTag(article.data.tags)).join(" | ")}'.toLowerCase().includes(search.toLowerCase()) )}`}>
             {category}
             <span class="category-title sitelen-pona">{category}</span>
@@ -246,7 +244,6 @@ const categories = [
             - x-bind:class to hide the article if it doesn't match the search
           -->
             {catArticles.map((article) => (
-
             <a class="article" href={article.id} :class={`{'hidden': !('${article.data["nimi-suli"]}'.toLowerCase().includes(search.toLowerCase()) || '${article.data["jan-pali"]}'.toLowerCase().includes(search.toLowerCase()) || '${article.data.tags}'.toLowerCase().includes(search.toLowerCase()))}`}>
               <span class="nimi-suli">{article.data["nimi-suli"]}</span>
                 <div class="meta">

@@ -1,0 +1,14 @@
+---
+import { redirects } from "@/content.config";
+
+export const getStaticPaths = async () =>
+  redirects.map((redirect) => ({
+    params: {
+      redirect: redirect.from,
+    },
+    props: redirect,
+  }));
+const redirect = Astro.props;
+---
+
+<meta http-equiv="refresh" content={`0; url=${redirect.to}`} />
