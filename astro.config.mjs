@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
+import sitemap from "@astrojs/sitemap";
 
 const deploy = import.meta.env.PROD
   ? { site: `https://liputenpo.org/` }
@@ -9,5 +10,5 @@ const deploy = import.meta.env.PROD
 // https://astro.build/config
 export default defineConfig({
   ...deploy,
-  integrations: [mdx()],
+  integrations: [mdx(), sitemap()],
 });
