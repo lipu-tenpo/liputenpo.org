@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0023-nanpa-sewi/sitelen_pi_nasin_toki_tu-1200x1206.png" "0023-nanpa-sewi/sitelen_pi_nasin_toki_tu-1200x1206.png"}}}
+{{{sitelen "0023-nanpa-sewi/nasin-toki-tu.png" "0023-nanpa-sewi/nasin-toki-tu.png"}}}
 
 .|.|.|.|.|.|.|.|.|.
 -|-|-|-|-|-|-|-|-|-

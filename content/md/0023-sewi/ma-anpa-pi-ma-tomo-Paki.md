@@ -13,7 +13,7 @@ tawa jan mute la ma ni li ma monsuta[^1] a • o tawa ala ona • taso ni li tan
 
 lon la ma ni li suli suli suli a • sina wile e sitelen pi nasin ma • sitelen ni la sina ken sona e ma li ken sona tawa lon ma • kin ma li lon anpa la suno li weka • pimeja taso a li lon • sina wile lon ma li wile tawa li wile alasa la o kepeken ilo suno kin (anu nasin ante tawa suno • suli nanpa wan la suno o lon) •
 
-{{{sitelen "0023-nanpa-sewi/person_with_lantern_and_skulls.png" "person_with_lantern_and_skulls"}}}
+{{{sitelen "0023-nanpa-sewi/moli-kule.png" "person with lantern and skulls"}}}
 
 kin jan mute li lon ma lon tenpo suli a lon tenpo ale ona a • kulupu jan a li lon ma • jan li wile ala e jan ante e jan lukin • sina alasa kama lon ma la ona li ike tawa sina • ona li wile pilin monsuta e sina li kalama nasa li kalama suli li ijo ante tawa pilin monsuta •
 

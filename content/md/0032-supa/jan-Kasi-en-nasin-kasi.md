@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
-{{{sitelen "0032-nanpa-supa/nasin_kasi_lon_telo.png" "nasin kasi lon sewi telo" "jan Alonola"}}}
+{{{sitelen "0032-nanpa-supa/0032_nasin_kasi_lon_telo.png" "nasin kasi lon sewi telo" "jan Alonola"}}}
 
 kulupu Kasi (Khasi) - nimi musi a - li kulupu lon ma Palata. ona li lon tenpo suli. kulupu mi la kulupu ona li ante mute. kulupu mi li pakala e ma tan mani. kulupu ona li awen e ma.
 

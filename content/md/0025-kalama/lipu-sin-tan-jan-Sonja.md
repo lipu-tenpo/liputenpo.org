@@ -8,7 +8,7 @@ ijo sin pona li kama tan jan Sonja: jan Osu pi wawa nasa. ona li pali e lipu sin
 
 tenpo pini suli weka la jan Pan Po li pali e lipu tawa jan lili. lipu la meli lili li kama lon ma nasa namako li wile tawa tomo ona li kama lon poka pi jan nasa pona. tenpo pi suli ala la mi lukin e lipu ni pi toki Inli. ona li musi, taso ona li suli kin. jan Sonja li lili e lipu li toki pona e ijo ale. ona li awen pona e ale lipu li lili suwi kin e ale. mi lukin e ale pi lipu sin lili kepeken tenpo lili a.
 
-{{{sitelen "0025-nanpa-kalama/su.png" "drawing of several figures walking down a road, illustrating the su book" "jan Ke Tami"}}}
+{{{sitelen "0025-nanpa-kalama/0025_su-kule.svg" "drawing of several figures walking down a road, illustrating the su book" "jan Ke Tami"}}}
 
 pona lipu li wawa. kute la jan Sonja li wile pali e lipu mute kepeken nasin sama: sitelen kule li pona lon insa lipu li lon poka pi toki musi pona. lipu kama wan anu lipu kama tu li jo e pona pi suli sama la mi wile pana e mani tawa lipu pi jan Sonja.
 

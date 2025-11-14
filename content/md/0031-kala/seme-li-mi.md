@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - musi
 ---
-{{{sitelen "0031-nanpa-kala/seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+{{{sitelen "0031-nanpa-kala/seme-li-mi-kule.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
 
 insa mi la ilo pilin tu wan li lon  
 mi moku e telo, sina moku e kon  

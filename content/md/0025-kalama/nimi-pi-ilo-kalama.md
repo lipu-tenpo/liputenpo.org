@@ -8,17 +8,17 @@ mi musi lon kulupu pi kalama musi. kulupu ni la, jan mute li kalama kepeken ilo 
 
 **nasin nanpa wan** la, ilo li kalama tan kon. sina pana e kon tawa ilo la, ona li kalama. sina ken ante e kalama kepeken nasin mute. suli la, sina ken open anu pini e lupa. ilo kalama ni li ilo kalama kon.
 
-{{{sitelen "0025-nanpa-kalama/horn.png" "drawing of brass horn" "jan Alonola"}}}
+{{{sitelen "0025-nanpa-kalama/0025_ilo-kon-sike-kule.png" "drawing of brass horn" "jan Alonola"}}}
 
 **nasin nanpa tu** la, ilo li kalama tan linja. sina tawa e linja kepeken palisa anu luka anu ilo ante la, ona li kalama. sina ken ante a kalama kepeken nasin mute. sina ken lili e linja kepeken luka sina. ilo kalama supa pi palisa walo pimeja (ilo Pijano) li tawa e linja kepeken ilo palisa. sina ken ala ante e kalama pi linja wan. taso sina ken kepeken e linja ante. a linja mute li lon. ilo kalama ni li ilo kalama linja.
 
 **nasin nanpa tu wan** la, ilo li kalama tan sijelo. sina luka wawa e ilo la, sijelo ona li kalama. sina ken ante lili e kalama pi ilo ni. ni la, ilo wan li ken kalama mute. sijelo ona li ate mute a. ona li sike anu poki anu lipu. ilo kalama ni li ilo kalama sijelo.
 
-{{{sitelen "0025-nanpa-kalama/xylophone.png" "drawing of xylophone" "jan Alonola"}}}
+{{{sitelen "0025-nanpa-kalama/0025_ilo-kalama-pona-kule.png" "drawing of xylophone" "jan Alonola"}}}
 
 **nasin nanpa tu tu** la, ilo li kalama tan wawa ilo. ken la, sina sona e nimi pika. ona li wawa ilo. ilo kalama ni li sin mute. ilo mute li ken kalama kepeken nasin nanpa wan anu nasin nanpa tu la, sina ken suli e kalama kepeken wawa ilo. taso ilo nasa pi wawa ilo taso li lon kin. ilo Selemin (theremin) li kepeken wawa ilo taso. ilo kalama ni li ilo kalama wawa.
 
-{{{sitelen "0025-nanpa-kalama/harp.png" "drawing of harp" "jan Alonola"}}}
+{{{sitelen "0025-nanpa-kalama/0025_ilo-pi-linja-mute-kule.png" "drawing of harp" "jan Alonola"}}}
 
 ale la, ilo kon en ilo linja en ilo sijelo en ilo wawa li lon. ken la, ilo ante li lon, taso mi sona ala e ona. kulupu musi mi li kulupu musi Sinponi. ilo ona li ante lili. kulupu ilo tu tu li lon: ilo kon kiwen, ilo kon kasi, ilo linja, ilo sijelo. ilo kon kiwen en ilo kon kasi li lon tan ni: sijelo ona li kiwen anu kasi kiwen. 
 
@@ -28,7 +28,7 @@ suli sijelo taso li pona ala tawa ilo kalama. ilo kon kasi la, ilo meso en ilo s
 
 ilo kon kiwen la, suli li nasa kin. ilo lili en ilo meso en ilo suli li sama lili. taso suli ona li ante. ilo sike li nasa, li ken kalama mute. sijelo ona li sike, li sama ala ilo ante. ona li ken kalama anpa, li ken kalama sewi. ni la, mi nimi (pi) “ilo sike” e ona.
 
-{{{sitelen "0025-nanpa-kalama/music_categories.png" "diagram of instrument categories" "jan Alonola"}}}
+{{{sitelen "0025-nanpa-kalama/0025_nimi-pi-ilo-kalama-kule.png" "diagram of instrument categories" "jan Alonola"}}}
 
 ilo linja li nasa lili. mi musi e ilo linja lili, e ilo linja meso. ona tu li sama mute, li jo e linja tu tu. ona tu li jo e linja tu wan sama. ilo lili li jo e linja sewi namako. ilo meso li jo e linja anpa namako. sina musi e ona tu lon poka lawa sina. ante la, sina musi e ilo suli, e ilo suli suli lon poka sijelo sina. ilo suli tu li jo e linja tu tu kin. linja ni li suli, li pana e kalama (pi) anpa a. 
 

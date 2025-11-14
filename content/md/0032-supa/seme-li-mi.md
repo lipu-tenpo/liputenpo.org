@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0032-nanpa-supa/seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
+{{{sitelen "0032-nanpa-supa/0032_seme_li_mi.png" "sitelen sitelen pi toki ni" "jan Alonola"}}}
 
 sina supa e mi lon supa mute  
 mi pana e kon la sina ken kute  

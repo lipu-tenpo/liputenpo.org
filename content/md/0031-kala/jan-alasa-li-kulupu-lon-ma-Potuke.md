@@ -5,7 +5,7 @@ tags:
   - sona
 ---
 
-{{{sitelen "0031-nanpa-kala/len_jan_alasa.png" "len pi jan alasa" "jan Meki"}}}
+{{{sitelen "0031-nanpa-kala/len-lawa-kule.png" "len pi jan alasa" "jan Meki"}}}
 
 sike ni la jan alasa pi ma ale li kama kulupu lon ma Potuke. ni li kulupu alasa Mu (Moot) pi ma ale. ni li suli a tawa mi tan ni: mi kin li jan alasa li kama lon kulupu ni. taso nanpa wan la jan alasa li seme a?
 

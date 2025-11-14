@@ -14,7 +14,7 @@ kasi ali li moku e suno · suno li wawa e kasi ali · taso suno li wawa suli la 
 
 kin ken la kasi li unu e ona tawa ni : pipi en soweli li moku ala e ona · pipi li oko e kasi unu la ken la ona li isipin⁴ e ni : ‹mi moku e kasi ni la ona li moli e mi› · ni la pipi li moku ala e kasi ni · ni la kasi ni li awen wawa ·
 
-{{{sitelen "0030-kasi-unu.png" "kasi unu mute" "jan Alonola"}}}
+{{{sitelen "0030-kasi-unu-kule.png" "kasi unu mute" "jan Alonola"}}}
 
 ### tan seme la o moku e kasi unu
 unu li wawa e kasi · taso jan a li moku e ona la seme li lon sijelo ona ·

@@ -11,7 +11,7 @@ ma mute la, telo Kawa li suli mute tawa jan. taso jan mute ala li sona e tenpo p
 
 kasi Kawa li tan ma Kapa (Kaffa). ma Kapa li ma lili lon ma Isijopija (Ethiopia, ኢትዮጵያ Ityop̣p̣əya). ona li lon ma Apika. tenpo pini mute (~900 AD) la, jan li kama sona e kasi Kawa. ken la, nimi pi kasi Kawa li tan ma Kapa. toki sewi la, soweli len li moku e kasi Kawa la, jan mama ona wan (jan Kali “Kaldi”) kin li moku e kasi Kawa. ni la, ona li wile lape ala, li pilin wawa! kama la, ona li pali e telo tan kasi Kawa: telo Kawa.
 
-{{{sitelen "0023-nanpa-sewi/latte_macchiato.png" "latte macchiato"}}}
+{{{sitelen "0023-nanpa-sewi/telo-kawa-kule.png" "latte macchiato"}}}
 
 tenpo kama la, jan Alapi li kama jo e kasi Kawa, li moku e ona. ona li esun mute e kasi Kawa tawa ma ante. ma tomo pi esun mute li ma tomo Moka (المخا, Mocha) lon ma Jamanija. nimi pi telo Moka li tan ma ni.
 

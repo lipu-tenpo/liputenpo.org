@@ -13,7 +13,7 @@ tomo sewi pi nasin Jesu la, ma li lon kulupu toki Lojanki li kepeken e toki Loja
 
 sitelen O oko ante li lon kin, taso ona li musi ala. ona li jo e oko wan taso anu oko tu taso.
 
-{{{sitelen "0024_juniko-kule.png" "drawing of person typing on computer" "jan Alonola"}}}
+{{{sitelen "0024-nanpa-tenpo/juniko-kule.png" "drawing of person typing on computer" "jan Alonola"}}}
 
 ## moku linja Pijanpijanmijen
 

@@ -4,4 +4,4 @@ jan-pali: jan Kapesi Pake
 tags:
   - musi
 ---
-{{{sitelen "0024_moli_li_anpa.png" "sitelen pona poem"}}}
+{{{sitelen "0024-nanpa-tenpo/moli_li_nanpa.png" "sitelen pona poem"}}}

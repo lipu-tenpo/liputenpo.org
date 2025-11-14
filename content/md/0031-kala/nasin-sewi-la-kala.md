@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
-{{{sitelen "0031-nanpa-kala/kala_li_tawa_telo.png" "jan li pana e kala tawa telo" "jan Alonola"}}}
+{{{sitelen "0031-nanpa-kala/jan-kala-kule.png" "jan li pana e kala tawa telo" "jan Alonola"}}}
 
 nasin sewi Puta la jan li pana e kala tawa telo suli. tan seme? ma mute pi ma Asija la kala li suli tawa jan. ma Sonko la nimi kala li sama nimi ante (o lukin e toki mi “tenpo sike sin li lon ma Asija”). kala Liju (鲤鱼 lǐyú) li suli a tawa jan. toki sin ala la kala li wile tawa sewi lon nasin telo. ona li tawa lupa pi akesi seli la ona li kama akesi seli! jan li toki e ni: kala Liju li tawa sewi pi lupa akesi seli (鲤跃龙门). kon ona li ni: jan li pali mute a la ona li kama wawa a. 
 

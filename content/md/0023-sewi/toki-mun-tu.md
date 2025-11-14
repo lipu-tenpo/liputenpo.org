@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0023-nanpa-sewi/earth_and_moon-1200x1186.png" "0023-nanpa-sewi/earth_and_moon-1200x1186.png"}}}
+{{{sitelen "0023-nanpa-sewi/jan-mun-kule.png" "0023-nanpa-sewi/jan-mun-kule.png"}}}
 
 o lukin. mi pana e nimi sama lon nasin tu. ni li ante e toki a. nimi li awen sama. taso toki li kama ante.
 

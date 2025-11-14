@@ -5,7 +5,7 @@ tags:
   - sona
 ---
 
-{{{sitelen "0022-nanpa-sin/tomo_pi_kiwen_suli.png" ""}}}
+{{{sitelen "0022-nanpa-sin/tomo kiwen.png" ""}}}
 
 ma mute la tomo kiwen ni li awen lon: kulupu jan li pali e ona lon tenpo weka a. tenpo weka ni la jan li ken ala sitelen. tan ni la mi ale li sona ala e toki ona e pilin ona e wile ona. taso ijo ona pi pali suli li awen. tomo pi kiwen suli li lon ma mi. lipu ni la mi wile toki e ona.
 
