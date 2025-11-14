@@ -5,7 +5,7 @@ tags:
   - kulupu
 ---
 
-{{{sitelen "0022-nanpa-sin/selo_sin.png" ""}}}
+{{{sitelen "0022-nanpa-sin/selo sin.png" ""}}}
 
 lipu tenpo li kama sin a · mi mama pi kama ni · mi ante e lipu tan seme · open la lipu tenpo li jaki oko · ona li pana e pilin ni : jan sin li pali e ona · jan li kama pilin e ni la toki pona li ken kama lili tawa ona · mi wile ala e ni · tan ni la mi wile sin e lipu · lipu o pona oko ·
 

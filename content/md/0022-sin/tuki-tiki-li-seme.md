@@ -5,7 +5,7 @@ tags:
   - toki ante
 ---
 
-{{{sitelen "0022-nanpa-sin/Kati_tiki_tu_lili_-_sitelen_pi_tuki_tiki.png" ""}}}
+{{{sitelen "0022-nanpa-sin/tukitiki_logo.png" ""}}}
 
 lon ma ale la jan li toki. toki li mute. nasin toki li mute. kin la nimi li mute lon toki ma. mute nimi li mute a. ijo li sin la jan li pali e nimi sin tawa ijo ni. jan wan li pali ala e toki ma. kulupu li pali e toki ma. ni a li nasin pi toki ma.
 
@@ -17,4 +17,4 @@ tenpo li tawa la toki sin li lon. ona li tuki tiki. (toki pona la, nimi li sama 
 
 a, o sona: tuki tiki li lili. ni li lon. lili ni la lili sin li ken ala ken? ken! a, lili taso ala li lawa e tuki tiki. sama la, musi en suwi en kon pona li nasin e tuki tiki.
 
-{{{sitelen "0022-nanpa-sin/Kati_tiki_tu_lili_-_jan_pi_tuki_tiki.png" ""}}}
+{{{sitelen "0022-nanpa-sin/tuki_tiki_char.png" ""}}}

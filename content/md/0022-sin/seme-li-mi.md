@@ -15,4 +15,4 @@ taso mi waso kiwen taso
 jan mute li lon insa mi  
 li tawa sewi kepeken mi
 
-{{{sitelen "0022-nanpa-sin/sitelen_sitelen.png" ""}}}
+{{{sitelen "0022-nanpa-sin/seme li mi.png" ""}}}

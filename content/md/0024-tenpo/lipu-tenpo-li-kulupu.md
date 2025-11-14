@@ -8,7 +8,7 @@ o sona! lipu tenpo li kama kulupu lawa. tenpo sike tu wan pini la, mi open e lip
 
 tenpo pini lili la, kulupu pi lipu tenpo li kama kulupu lawa lon ma Tosi. toki Tosi la nimi ona li *lipu tenpo e.V.* *(eingetragener Verein)*. ni li pona mute tawa mi, li pona mute tawa jan pali pi lipu tenpo. ni la, kulupu pi lipu tenpo li ken pali e ijo mute. mi wile toki e ijo ni.
 
-{{{sitelen "0024_kulupu-lipu-kule.png" "sketch drawing of stack of lipu tenpo"}}}
+{{{sitelen "0024-nanpa-tenpo/kulupu-lipu-kule.png" "sketch drawing of stack of lipu tenpo"}}}
 
 lipu tenpo li ken jo e poki mani. ni la, lipu tenpo li ken pana e mani tawa jan pi pali musi anu jan pi ilo musi. mani o suli e kulupu pi pali musi pi toki pona. ken la, mi ken kepeken mani tawa tenpo kulupu pi ma Elopa. ijo mute li ken a.
 

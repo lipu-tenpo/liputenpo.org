@@ -8,7 +8,7 @@ tags:
 jan Alonola li toki e sitelen musi.  
 jan Lewiku li sitelen e sitelen musi.  
 
-{{{sitelen "0023-nanpa-sewi/sitelen_musi_Lewiku-1200x724.png" "0023-nanpa-sewi/sitelen_musi_Lewiku-1200x724.png"}}}
+{{{sitelen "0023-nanpa-sewi/telo-li-kama-kule.png" "0023-nanpa-sewi/telo-li-kama-kule.png"}}}
 
 SITELEN NANPA WAN: soweli li lon ma ko pi poka telo · ma ni li lon → soweli li ken wile e telo · soweli li toki → ‹mi wile e telo› · akesi li lon li toki → ‹pona a. o awen›  
 SITELEN NANPA TU: tenpo li tawa · soweli li toki → ‹tenpo seme la, telo li kama?›  

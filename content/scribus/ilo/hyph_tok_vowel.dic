@@ -1,0 +1,25 @@
+UTF-8
+LEFTHYPHENMIN 1
+RIGHTHYPHENMIN 1
+% Toki Pona hyphenation patterns
+% syllabic, vowel-based
+% ilo ni li ken pakala pona e nimi pona ·
+%
+% jan Kasape li pali e ona ·
+% by jan Kasape (Casper de With)
+%
+% 2 oktober 2023
+
+a1
+e1
+i1
+o1
+u1
+
+2n1
+
+3n2a
+3n2e
+3n2i
+3n2o
+3n2u

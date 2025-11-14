@@ -8,7 +8,7 @@ tenpo mun pini la, mi sitelen e lipu musi lili. nimi ona li “ali li ale.” on
 
 tenpo mun ni la, mi pana tawa lipu musi lili mi. mi pali e pini sin. mi wile e ni: ni li suli e toki e musi e sona lon lipu. o lukin pona e lipu “ali li ale: namako.”
 
-{{{sitelen "0024_ali-li-ale-kule.png" "drawing of rodent lookingg at a small paper map, while stood next to a larger paper map"}}}
+{{{sitelen "0024-nanpa-tenpo/ali-li-ale-kule.png" "drawing of rodent lookingg at a small paper map, while stood next to a larger paper map"}}}
 
 musi toki mute li lon ma ni.  
 taso, musi toki nanpa wan li lon.  

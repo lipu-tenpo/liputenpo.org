@@ -6,7 +6,7 @@ tags:
 ---
 tenpo ale la, jan li wile sona e tenpo. taso tenpo pini la, ilo tenpo li lon ala. ni la, jan li pali e ilo tenpo nanpa wan: ma Tosi la, jan mute li open pali e ilo tenpo. mute la, jan li toki e ni: jan Peta Enlan (Peter Henlein) li pali e ilo tenpo nanpa wan. ona ni li sike suli, li jo e luka wan taso. kin la, ona li tawa ike, li nasa. sina sona ike e tenpo tan ona. kama la, ilo tenpo li mu lon tenpo wan.
 
-{{{sitelen "0024_pocket_watches.png" "drawing of two old pocket watches"}}}
+{{{sitelen "0024-nanpa-tenpo/ilo-tenpo-poki-kule.png" "drawing of two old pocket watches"}}}
 
 tenpo kama la, ilo tenpo li kama ante. ona li kama lili, li tawa pona. ni la, sina sona e tenpo tan ona. jan li jo e poki lon len ona la, ilo tenpo li ken lon poki ni. ilo tenpo poki li lon! ona li kama jo e sinpin ni: sina ken lukin e insa ona. sina wile pana e wawa tawa ilo tenpo la, sina kepeken e ilo palisa. wawa li awen lon sike wawa pi ilo tenpo. sina wile ante e tenpo ilo la, sina kepeken kin e ilo palisa. sina kepeken e ilo palisa la, sina tawa sike e sike lili lon ilo tenpo.
 

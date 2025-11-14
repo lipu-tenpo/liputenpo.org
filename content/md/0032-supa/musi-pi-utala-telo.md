@@ -12,7 +12,7 @@ tags:
 jan \#1 li jo e lipu ona. jan \#2 li jo e lipu ona. jan li ken ala lukin e lipu pi jan ante.  
 lipu ni la, jan li jo e leko suli tu. leko suli li jo e leko lili wan ale.  
 
-{{{sitelen "0030-nanpa-loje/musi_pi_utala_telo_1.png" "sitelen pi musi ni" "kije Enki"}}}
+{{{sitelen "0030-nanpa-loje/image3.png" "sitelen pi musi ni" "kije Enki"}}}
 
 leko suli nanpa wan li leko suli sina. leko suli ni la sina sitelen e tomo tawa telo sina. leko suli nanpa tu la sina wile alasa e tomo telo tawa pi jan ante.  
 jan li ken pana e tomo tawa telo ni:
@@ -25,13 +25,13 @@ jan li ken pana e tomo tawa telo ni:
 sitelen ni la, jan li sitelen e tomo tawa telo ona lon leko suli soto[^1]. jan ante li wile pakala e tomo tawa telo ni.  
 tomo telo li ken ala lon poka tomo telo ante; leko wan pi tomo telo ala li wile lon poka ale ona. kin la ona li ken kama tan soto tawa teje1 anu tan sewi tawa anpa taso. ona li ken ala sama sitelen pona pi nimi “pi”. jan li ken ala ante e nanpa pi leko lili pi tomo telo lon insa musi.
 
-{{{sitelen "0030-nanpa-loje/musi_pi_utala_telo_2.png" "sitelen pi musi ni" "kije Enki"}}}
+{{{sitelen "0030-nanpa-loje/image2.png" "sitelen pi musi ni" "kije Enki"}}}
 
 jan tu li sitelen e tomo telo ona lon lipu ona la, musi li open.
 
 # open musi
 
-{{{sitelen "0030-nanpa-loje/musi_pi_utala_telo_3.png" "sitelen pi musi ni" "kije Enki"}}}
+{{{sitelen "0030-nanpa-loje/image1.png" "sitelen pi musi ni" "kije Enki"}}}
 
 jan \#1 li pilin e ni: jan \#2 la tomo telo li lon leko lili seme? jan li pini pilin la ona li toki e nanpa pi leko lili.
 

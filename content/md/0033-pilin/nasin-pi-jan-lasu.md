@@ -6,7 +6,7 @@ tags:
 ---
 **lon ma Sonko pi tenpo weka a la** jan lawa mute li lon. jan lawa li utala li alasa wan e jan ale. utala mute en moli mute en jan ike mute li lon. taso jan pona kin li lon. jan pona mute li lukin e utala e moli li wile sona e ni: jan suli o lawa lon nasin seme? jan lili o pali lon nasin seme?
 
-{{{sitelen "0033-nanpa-pilin/pona_en_ike.png" "walo li lon insa pimeja - pimeja li lon insa walo" "jan Ke Tami"}}} 
+{{{sitelen "0033-nanpa-pilin/grafik.png" "walo li lon insa pimeja - pimeja li lon insa walo" "jan Ke Tami"}}} 
 
 jan pona wan pi tenpo weka li jan Lasu (老子). ken la ona li jan pi lon ala li lon toki pi jan ante taso. ken la ona li jan sewi pi wawa mute. ken ante la ona li sewi ala li jan sona taso. mi wile ala toki e lon ona. mi wile toki e sitelen ona! sitelen suli ona li jo e nimi tu: lipu Lasu (老子) en lipu Tatesin (道德經). nimi nanpa wan li nimi jan kin tan ni: lon ma Sonko pi tenpo weka la nimi jan en nimi pi sitelen ona li sama. nimi nanpa tu li toki e ni: lipu li jo e sona pi nasin wawa pona. lipu Lasu li toki e nasin pi ijo ale e wawa nasin lon lawa lon jan lon ma. mi pana e toki lipu nanpa wan tan ni: ona li sona sewi tawa jan mute a!
 

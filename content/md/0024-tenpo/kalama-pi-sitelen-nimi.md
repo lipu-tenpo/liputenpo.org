@@ -12,13 +12,13 @@ taso nasin ante kin li awen ken. kalama poka wan li pona e sona kute la kalama p
 
 taso nasin ante kin kin li awen ken. nasin sitelen la, mi ken pana e kalama wan kepeken nimi wan lon insa pi selo poki.
 
-{{{sitelen "0024_jan-Losu.png" "sitelen pona for 'jan LOSU'"}}}
+{{{sitelen "0024-nanpa-tenpo/jan-Losu.png" "sitelen pona for 'jan LOSU'"}}}
 
 ni li ken lon nasin uta kin. kalama pi nimi Losu li open sama nimi ni ale: lon, ona, supa, uta.
 
 suli la, nasin wan taso li lon ala. lon la, nasin ale li ken nasa tawa uta li ken nasa tawa kute. musi la, mi wile lukin e nasin ante wan: toki Inli en toki ante mute la, jan li mu wan e kalama ale tawa musi. mu musi ni la, jan li ken awen pona e kalama lon sona ona.
 
-{{{sitelen "0024_kalama_scale.png" "musical notation with ABCDEFGHIJKLMNOP labelled"}}}
+{{{sitelen "0024-nanpa-tenpo/grafik.png" "musical notation with ABCDEFGHIJKLMNOP labelled"}}}
 
 mi ni sama la, mi kama lukin e ijo musi:  
 A, E, I, Ja, Ka, La, Ma, Na, O, Pa, Sa, Ta, U, Wa  
@@ -33,7 +33,7 @@ uta ni o kalama e ijo sewi anpa
 unpa tonsi kalama o wan taso e ni a  
 uta waso kalama, ijo o pan e ni a  
 
-{{{sitelen "0024_kalama_lyrics.png" "musical notation with lyrics: si-na a-wen ka-la-ma e i-jo o-pen u-ta"}}}
+{{{sitelen "0024-nanpa-tenpo/sina-awen-kalama.png" "musical notation with lyrics: si-na a-wen ka-la-ma e i-jo o-pen u-ta"}}}
 
 a taso mi sona, mi sona: kalama “n” li lon pini la jan mute li kepeken nasin tenpo ante lon kalama. mi wile e nimi Kalama e kalama pini N ala la mi alasa sin e nimi ken:
 

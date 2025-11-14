@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0033-nanpa-pilin/kasi_en_soweli.png" "soweli li lon poka kasi" "kije Weku"}}}
+{{{sitelen "0033-nanpa-pilin/liputenpo_soweli_kule.png" "soweli li lon poka kasi" "kije Weku"}}}
 
 🌱 kasi li kama lon  
 ona li lon ma laso  

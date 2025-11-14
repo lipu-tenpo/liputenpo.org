@@ -4,7 +4,7 @@ jan-pali: jan Kasape
 tags:
   - pilin
 ---
-{{{sitelen "0024_juniko-kule.png" "toki pona person writing on laptop" "jan Alonola"}}}
+{{{sitelen "0024-nanpa-tenpo/juniko-kule.png" "toki pona person writing on laptop" "jan Alonola"}}}
 
 ilo nanpa ali li ken ala jo e sitelen · jo ali ona li nanpa · ni la jan li wile sitelen lon ilo la nasin o ante e sitelen ali tawa nanpa o ante e nanpa ni tawa sitelen ni · ilo ali li sin la jan mute li pali e nasin ni ante · ona mute li jo e sitelen ante li jo e ona lon nanpa ante · ni li ike · a¹ ilo tu li kepeken nasin ante la ona li ken ala toki tawa ona ·
 

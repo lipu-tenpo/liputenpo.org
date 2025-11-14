@@ -6,7 +6,7 @@ tags:
 ---
 jan mute li pali e pali pona · ona li pana e pali ona tawa kulupu · ni la jan ali li ken kepeken ona · jan li ni la ona o ni olin · sina kepeken pali pi jan ante la o toki e nimi ona lon pali sina o pana e pali sina kin tawa kulupu · jan mute pali li toki e ni ·
 
-{{{sitelen "0024_github_octopus.png" "drawing GitHub's Octocat, dressed as a theif"}}}
+{{{sitelen "0024-nanpa-tenpo/ilo-ike-kule.png" "drawing GitHub's Octocat, dressed as a theif"}}}
 
 jan mute li kepeken pali pi jan ante · jan mute li pali e pali sin · jan li olin e pali li esun e pali · pali kulupu li kama mute · kulupu li wawa ·
 

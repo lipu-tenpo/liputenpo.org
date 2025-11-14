@@ -4,7 +4,7 @@ jan-pali: jan Alonola
 tags:
   - sona
 ---
-{{{sitelen "0031-nanpa-kala/kala_kupi.png" "kala Kupi mute" "jan Alonola"}}}
+{{{sitelen "0031-nanpa-kala/kala-kupi-kule.png" "kala Kupi mute" "jan Alonola"}}}
 
 tenpo suli la mi jo e kala lon poki telo lon tomo mi. mi jo e kala Kupi tan ni taso: mi wile ala pali mute tan kala mi. 
 

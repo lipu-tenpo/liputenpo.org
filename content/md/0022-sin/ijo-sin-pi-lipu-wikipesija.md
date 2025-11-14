@@ -5,7 +5,7 @@ tags:
   - toki pona
 ---
 
-{{{sitelen "0022-nanpa-sin/lipu_Wikipesija.png" ""}}}
+{{{sitelen "0022-nanpa-sin/lipu Wikipesija.png" ""}}}
 
 lipu tenpo nanpa pan la, mi jan Alonola li toki e sona pi lipu Wikipesija. tenpo ni la, lipu Wikipesija li sin ala. tenpo sike pini tu (2021) la, ona li kama lon. sina ken lukin e ona kepeken nimi linluwi[^1] ni: https://wikipesija.org.
 
