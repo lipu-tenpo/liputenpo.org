@@ -25,7 +25,7 @@ tenpo sike tu wan li pini. jan majuna li moku pona e telo soweli li moli ala. ta
 
 mije pona li kama lon tomo. jan majuna li sona ala e ona. mije li open: “toki! mi ken ala ken awen lon tomo sina lon pimeja ni? suno li kama la mi tawa.”
 
-jan majuna li toki: “ken. taso o sona e ni: ike la mi en monsuta li esun. monsuta li pana e soweli. soweli ni la mi moku e telo li moli ala. taso monsuta o kama lon pimeja ni o toki. ona li alasa e sona mi. mi ken pana pona e sona la soweli li awen lon mi. mi ken ala la monsuta li kama jo e mi. mi sona ala e nasin pona pi toki sona. ken suli la monsuta li anpa e mi. wile mi la ona o anpa ala e sina kin!”
+jan majuna li toki: “ken. taso o sona e ni: ike la mi en monsuta li esun. monsuta li pana e soweli. soweli ni la mi moku e telo li moli ala. taso monsuta o kama lon pimeja ni o toki. ona li alasa e sona mi. mi ken pana pona e sona la soweli li awen lon poka mi. mi ken ala la monsuta li kama jo e mi. mi sona ala e nasin pona pi toki sona. ken suli la monsuta li anpa e mi. wile mi la ona o anpa ala e sina kin!”
 
 mije la: “ale o pona, jan majuna o.” mije li awen lon tomo.
 
