@@ -23,7 +23,7 @@ t|i|m|i|t|j|i|o|a|o|k|u|e|l|o
 l|u|s|e|p|u|a|u|n|j|e|e|e|e|n
 o|o|l|o|m|a|n|i|u|i|e|l|o|s|i
 
-o alasa e nimi pi ma Elopa! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Elopa! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Alan
 - Antola

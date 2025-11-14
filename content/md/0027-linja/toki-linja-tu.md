@@ -4,52 +4,53 @@ jan-pali: jan Ke Tami
 tags:
   - musi
 ---
-ni li toki tu. taso nimi ale pi ona tu li sama.
+
+ni li toki tu. taso nimi ale pi ona tu li sama.
 
 {{{sitelen "0027-nanpa-linja/toki-linja-tu-kule.png" "drawing of a two heads, one bald, one with hair" "jan Ke Tami"}}}
 
 ## toki wan
 
-linja lawa mi li awen kama ante.  
-ona li lon ala lawa mi  
-li weka lon tenpo kama.  
-ken la linja mi li sama tenpo.  
-pini ona li awen kama.  
+linja lawa mi li awen kama ante.  
+ona li lon ala lawa mi  
+li weka lon tenpo kama.  
+ken la linja mi li sama tenpo.  
+pini ona li awen kama.  
 
-kule linja li pimeja.  
-taso ni kin li lon tenpo ni taso.  
-tenpo li ante e ijo la  
-pimeja pi linja mi li awen kama walo  
-li lon ala tenpo kama.  
+kule linja li pimeja.  
+taso ni kin li lon tenpo ni taso.  
+tenpo li ante e ijo la  
+pimeja pi linja mi li awen kama walo  
+li lon ala tenpo kama.  
 
-lawa mi li kiwen sike lon sewi.  
-sijelo li jo e linja mute.  
-ona li pona li awen  
-e selo mi anpa e lawa mi ala.  
+lawa mi li kiwen sike lon sewi.  
+sijelo li jo e linja mute.  
+ona li pona li awen  
+e selo mi anpa e lawa mi ala.  
 
-linja mi li ko.  
-lon lawa mi la ona li kama ala.  
-weka ona li ike ala tawa mi.  
+linja mi li ko.  
+lon lawa mi la ona li kama ala.  
+weka ona li ike ala tawa mi.  
 
 ## toki tu
 
-linja mi li awen kama.  
-ante ona li lon ala.  
-lawa mi li weka lon tenpo kama ken la  
-linja mi li sama tenpo pini.  
-ona li awen kama.  
+linja mi li awen kama.  
+ante ona li lon ala.  
+lawa mi li weka lon tenpo kama ken la  
+linja mi li sama tenpo pini.  
+ona li awen kama.  
 
-kule linja li pimeja taso.  
-ni kin li lon tenpo ni.  
-taso tenpo li ante e ijo la  
-pimeja pi linja mi li awen.  
-kama walo li lon ala tenpo kama.  
+kule linja li pimeja taso.  
+ni kin li lon tenpo ni.  
+taso tenpo li ante e ijo la  
+pimeja pi linja mi li awen.  
+kama walo li lon ala tenpo kama.  
 
-lawa mi li kiwen sike lon sewi sijelo  
-li jo e linja.  
-mute ona li pona li awen e selo.  
-mi anpa e lawa mi ala.  
+lawa mi li kiwen sike lon sewi sijelo  
+li jo e linja.  
+mute ona li pona li awen e selo.  
+mi anpa e lawa mi ala.  
 
-linja mi li ko lon lawa.  
-mi la ona li kama ala weka.  
-ona li ike ala tawa mi.  
+linja mi li ko lon lawa.  
+mi la ona li kama ala weka.  
+ona li ike ala tawa mi.

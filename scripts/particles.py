@@ -2,15 +2,21 @@
 
 # How to use this function:
 # All arguments are file globs.
-# Replace all Markdown files in the toki/ directory
-	# python3 ./ilo/particles.py ./toki/*.md
-# Replace all Markdown files in the toki/ directory
-# whose names start with ‘ni’ or ‘seme’:
-	# python3 ./ilo/particles.py ./toki/ni-*.md ./toki/seme-*.md
+# Replace all Markdown files across all issues
+	# python3 ./scripts/particles.py **/*.md
+
+# Replace all Markdown files in the 0034-lon/ directory
+	# python3 ./scripts/particles.py 0034-lon/*.md
+
+# Replace all Markdown files whose names start with ‘ni’ or ‘seme’:
+	# python3 ./scripts/particles.py **/ni-*.md **/seme-*.md
 
 import re
 import sys
 import glob
+
+MD_DIRECTORY = "./content/md/"
+
 # import scribus # from within Scribus
 
 # TODO test everything
@@ -18,9 +24,6 @@ import glob
 def improved_text_of(toki):
 	# pure function that returns the improved text
 	# use several replaces using the re module
-	# TODO do not replace file names in {{{sitelen}}} tags
-	# and ensure that the regexes don’t replace other markdown things
-	# like headings and lists
 	# TODO remove double/triple/many spaces IF they are surrounded by text.
 	# Not at the end of a line, and not in table headers.
 	# Remove trailing single space, or trailing more-than-two spaces.
@@ -77,6 +80,22 @@ def replace_invisibles(toki):
 	toki = re.sub(r'­', '\033[32m·\033[39m', toki) # coloured cdot as shy
 	return re.sub(r' ', '\033[34m~\033[39m', toki) # coloured tilde as nbsp
 
+def improve_but_not_handlebars(toki):
+	# do not replace file names in {{{sitelen}}} tags
+	# and ensure that the regexes don’t replace other markdown things
+	# like headings and lists
+	new_texts = []
+	subs = 0
+	for line in toki.split("\n"):
+		if re.match(r"(\{\{|#+ )", line):
+			# skip editing this line
+			new_texts.append(line)
+		else:
+			new_text, sub = improved_text_of(line)
+			new_texts.append(new_text)
+			subs += sub
+	return "\n".join(new_texts), subs
+
 def tryout():
 	while True:
 		toki = input('> ')
@@ -99,11 +118,12 @@ def tryout():
 
 def improve_contents_of_file(file_name):
 	with open(file_name, 'r') as f:
-		contents = f.read()
+		_, frontmatter, contents = f.read().split("---", maxsplit=2)
+		print(frontmatter)
 	with open(file_name, 'w') as f:
-		new_text, subs = improved_text_of(contents)
+		new_text, subs = improve_but_not_handlebars(contents)
 		# print(new_text)
-		f.write(new_text)
+		f.write(f"---\n{frontmatter.strip()}\n---\n\n{new_text.strip()}\n")
 	return subs
 
 if __name__ == '__main__':
@@ -113,7 +133,7 @@ if __name__ == '__main__':
 
 	total_subs = 0
 	for arg in sys.argv[1:]:
-		for file_name in glob.glob(arg):
+		for file_name in glob.glob(MD_DIRECTORY + arg):
 			subs = improve_contents_of_file(file_name)
 			total_subs += subs
 			print(f'Applied {str(subs).rjust(3)} change{'' if subs == 1 else 's'} in {file_name}.')

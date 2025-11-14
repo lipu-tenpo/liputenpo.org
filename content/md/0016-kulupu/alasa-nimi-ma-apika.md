@@ -7,7 +7,7 @@ tags:
 
 {{{sitelen "0016-nanpa-kulupu/alasa_nimi_(ma_Apika).png" ""}}}
 
-o alasa e nimi pi ma Apika! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Apika! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Ankola
 - Eliteja

@@ -8,22 +8,22 @@ tags:
 nanpa wan la, mi kama suli.  
 nanpa tu la, mi peta[^1].  
 nanpa san[^2] la, mi kapesi[^3].  
-nanpa po[^4] la, mi mute a.
+nanpa po[^4] la, mi mute a.
 
-sijelo mi li suli.  
+sijelo mi li suli.  
 open la, mi lili.  
 mi awen lon ma mi.  
 mi awen lon ma ni.
 
-mi lili li tawa mute.  
-mi pana e kon, o kute:  
+mi lili li tawa mute.  
+mi pana e kon, o kute:  
 mi pona tawa sina!  
-o kipisi[^5] ala e mi a!
+o kipisi[^5] ala e mi a!
 
-[^1]: "peta" li "laso jelo"  
-[^2]: "san" li "tu wan"  
-[^3]: "kapesi" li kule pi kasi kiwen  
-[^4]: "po" li "tu tu"  
-[^5]: sina "kipisi" e ijo la, sina tu e ona.
+[^1]: "peta" li "laso jelo"  
+[^2]: "san" li "tu wan"  
+[^3]: "kapesi" li kule pi kasi kiwen  
+[^4]: "po" li "tu tu"  
+[^5]: sina "kipisi" e ijo la, sina tu e ona.
 
 {{{sitelen "0011-nanpa-walo/sitelen_sitelen.png" ""}}}

@@ -23,7 +23,7 @@ t|i|m|e|t|j|t|e|l|e|n|o|u|l|e
 n|s|u|w|a|s|i|k|a|n|o|u|u|u|n
 e|e|n|u|m|o|s|i|j|o|u|l|e|k|e
 
-o alasa e nimi pi ma Elopa! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Elopa! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Maketonija
 - Mosijo
