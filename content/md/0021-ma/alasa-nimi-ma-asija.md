@@ -25,7 +25,7 @@ t|u|m|i|t|j|t|i|l|i|n|o|a|l|i
 n|s|a|j|a|o|u|o|n|j|a|a|a|a|n
 i|i|n|a|m|u|n|e|o|e|a|l|i|k|i
 
-o alasa e nimi pi ma Asija! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Asija! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Aja
 - Akanisan

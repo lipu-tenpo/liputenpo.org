@@ -4,6 +4,7 @@ jan-pali: jan Kasape
 tags:
   - kulupu
 ---
+
 kulupu pi lipu tenpo li kama lon ma Tosi · ni li wawa e ona · taso ona o pali e wile pi kulupu Tosi · mi toki pona e wile ni mute ·
 
 {{{sitelen "0028-nanpa-lawa/toki-lawa-kule.png" "drawing of a scroll with rules on it" "jan Alonola"}}}
@@ -76,4 +77,4 @@ kulupu li pini la jan pi kulupu lawa li weka e wawa ali ona · taso tenpo
 
 ¹ ona o alasa e ni : kulupu li alasa e ni  
 ² ni taso : lawa kulupu en tenpo toki kulupu  
-³ tu wan  
+³ tu wan

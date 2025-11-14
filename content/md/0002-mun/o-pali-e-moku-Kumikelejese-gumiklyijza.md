@@ -5,15 +5,15 @@ tags:
   - moku
 ---
 
-sina wile pali e moku Kumikelejese tawa jan tu tu la, sina wile jo e ijo ni:
+sina wile pali e moku Kumikelejese tawa jan tu tu la, sina wile jo e ijo ni:
 
 {{{sitelen "0002-nanpa-mun/moku_open.png" ""}}}
 
-o weka e selo pi kili ma. o pana e kili ma lon telo. o pana e ko namako lon telo. o seli e telo ni. o pakala e kili ma. tenpo ni la, kili ma li ko. o pana e sike mama waso tawa ko pi kili ma.
+o weka e selo pi kili ma. o pana e kili ma lon telo. o pana e ko namako lon telo. o seli e telo ni. o pakala e kili ma. tenpo ni la, kili ma li ko. o pana e sike mama waso tawa ko pi kili ma.
 
-o pali e lupa lon ko. o pana e ko pan lon lupa ni. o pakala e ko. o pali e sike pi ko ni. o pana e sike ko lon telo. tenpo ni kin la, o pana e ko namako tawa telo. o seli e telo ni. sike ko li pona la, sina ken moku e ona!
+o pali e lupa lon ko. o pana e ko pan lon lupa ni. o pakala e ko. o pali e sike pi ko ni. o pana e sike ko lon telo. tenpo ni kin la, o pana e ko namako tawa telo. o seli e telo ni. sike ko li pona la, sina ken moku e ona!
 
-sina wile ala wile e ko soweli anu ko ante tawa moku Kumikelejese? ko soweli en ko soko[^1] li pona lon poka moku Kumikelejese. jan lon ma Selonka (Ślůnsk) li moku e ni.
+sina wile ala wile e ko soweli anu ko ante tawa moku Kumikelejese? ko soweli en ko soko[^1] li pona lon poka moku Kumikelejese. jan lon ma Selonka (Ślůnsk) li moku e ni.
 
 {{{sitelen "0002-nanpa-mun/moku_Kumikelejese.png" ""}}}
 

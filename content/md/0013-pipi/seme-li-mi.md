@@ -5,10 +5,10 @@ tags:
   - musi
 ---
 
-mi jo e poki kiwen  
-ona li awen e mi  
-kule mi li mute  
-mute la, ona li kapesi
+mi jo e poki kiwen  
+ona li awen e mi  
+kule mi li mute  
+mute la, ona li kapesi
 
 kin la, mi laso  
 sama kule kasi  

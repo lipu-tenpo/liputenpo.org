@@ -5,14 +5,14 @@ tags:
   - kijetesantakalu
 ---
 
-kijetesantakalu nanpa wan li toki e ni: mu mu mu!
+ki­je­te­san­ta­ka­lu nanpa wan li toki e ni: mu mu mu!
 
-kijetesantakalu nanpa tu li toki e ni: mu mu? mu.
+ki­je­te­san­ta­ka­lu nanpa tu li toki e ni: mu mu? mu.
 
-kijetesantakalu nanpa wan li tawa kijetesantakalu nanpa tu. kijetesantakalu li uta olin e kijetesantakalu nanpa tu.
+ki­je­te­san­ta­ka­lu nanpa wan li tawa ki­je­te­san­ta­ka­lu nanpa tu. ki­je­te­san­ta­ka­lu li uta olin e ki­je­te­san­ta­ka­lu nanpa tu.
 
-lawa pi kijetesantakalu nanpa tu li kama loje. kijetesantakalu nanpa tu li pilin pona. kijetesantakalu nanpa wan li pilin pona kin.
+lawa pi ki­je­te­san­ta­ka­lu nanpa tu li kama loje. ki­je­te­san­ta­ka­lu nanpa tu li pilin pona. ki­je­te­san­ta­ka­lu nanpa wan li pilin pona kin.
 
-kijetesantakalu nanpa tu li toki e ni: mu mu mu mu!
+ki­je­te­san­ta­ka­lu nanpa tu li toki e ni: mu mu mu mu!
 
-kijetesantakalu nanpa wan li toki e ni: mu mu mu mu mu!
+ki­je­te­san­ta­ka­lu nanpa wan li toki e ni: mu mu mu mu mu!

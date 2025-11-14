@@ -6,4 +6,4 @@ tags:
 ---
 
 {{{sitelen "0004-nanpa-kasi/Kijetesantakalu_o!_-_ep04.png" ""}}} 
-{{{sitelen "0004-nanpa-kasi/Kijetesantakalu_o!_-_ep04_(sitelen_pona).png" ""}}} 
+{{{sitelen "0004-nanpa-kasi/Kijetesantakalu_o!_-_ep04_(sitelen_pona).png" ""}}}

@@ -5,34 +5,34 @@ tags:
   - toki
 ---
 
-tenpo pini wan la kasi palisa suli li lon ma kasi.
+tenpo pini wan la kasi palisa suli li lon ma kasi.
 
-soweli lili li tomo lon lupa pi kasi palisa ni.
+soweli lili li tomo lon lupa pi kasi palisa ni.
 
-lupa ni li lon noka pi kasi palisa. waso suli li tomo lon sewi pi kasi palisa.
+lupa ni li lon noka pi kasi palisa. waso suli li tomo lon sewi pi kasi palisa.
 
-soweli pi kulupu poka li toki e ni tawa soweli lili:
+soweli pi kulupu poka li toki e ni tawa soweli lili:
 
-“waso suli ni li jaki li ike mute. ona li moli e soweli ale. o toki ala tawa ona.” soweli lili li lukin ala e waso suli.
+“waso suli ni li jaki li ike mute. ona li moli e soweli ale. o toki ala tawa ona.” soweli lili li lukin ala e waso suli.
 
-soweli lili li kama pilin ike tawa waso suli. tenpo suno nanpa tu la soweli lili weka. tenpo suno ni la soweli lili li lon tomo ona.
+soweli lili li kama pilin ike tawa waso suli. tenpo suno nanpa tu la soweli lili weka. tenpo suno ni la soweli lili li lon tomo ona.
 
-soweli lili li kute e kalama tan lupa tomo. ona li open e lupa li lukin. soweli lili li lukin e sewi.
+soweli lili li kute e kalama tan lupa tomo. ona li open e lupa li lukin. soweli lili li lukin e sewi.
 
-waso suli li lon.
+waso suli li lon.
 
-waso ni li suli mute li kule wawa. ona li jaki ala.
+waso ni li suli mute li kule wawa. ona li jaki ala.
 
-soweli lili li pilin utala li pilin ike. taso waso suli li toki e ni:
+soweli lili li pilin utala li pilin ike. taso waso suli li toki e ni:
 
-“toki. tenpo pini la soweli ante li tawa tomo sina. sina weka la ona li pana e lipu tawa mi”
+“toki. tenpo pini la soweli ante li tawa tomo sina. sina weka la ona li pana e lipu tawa mi”
 
-waso suli li pana e lipu tawa soweli lili. soweli lili li toki e ni: “a pona tawa sina”
+waso suli li pana e lipu tawa soweli lili. soweli lili li toki e ni: “a pona tawa sina”
 
-waso suli li kama pona li kama suwi tawa soweli lili.
+waso suli li kama pona li kama suwi tawa soweli lili.
 
-soweli lili li kama sona e ni:
+soweli lili li kama sona e ni:
 
-“o kute ala e soweli ante. mi kama sona e ijo kepeken lukin mi. ”
+“o kute ala e soweli ante. mi kama sona e ijo kepeken lukin mi. ”
 
 {{{sitelen "0008-nanpa-toki/soweli_lili.png" ""}}}

@@ -14,15 +14,15 @@ tags:
 
 ## Tadle
 
--- *Maccheroni* zoma : 40 g-
--- Krubeda : 1 fadafroiacek
--- Nyorkue : 1
--- Kumlane lueze : 130 g-
--- Batakacot ke wila : 70 g-
--- Kusaxote : 50 g-
--- Kuntime : 50 g-
--- *Parmigiano* bluda : 5 g-
--- Fedafa vayna vas 20% : 10 g-
+-- *Maccheroni* zoma : 40 g-
+-- Krubeda : 1 fadafroiacek
+-- Nyorkue : 1
+-- Kumlane lueze : 130 g-
+-- Batakacot ke wila : 70 g-
+-- Kusaxote : 50 g-
+-- Kuntime : 50 g-
+-- *Parmigiano* bluda : 5 g-
+-- Fedafa vayna vas 20% : 10 g-
 -- Eip
 -- Culo
 

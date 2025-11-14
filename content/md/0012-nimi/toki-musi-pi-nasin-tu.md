@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-toki musi ni li kepeken nasin Leko Nimi. nasin ni la, sina ken lukin e toki sama toki ante. sina ken lukin tan poka tawa poka. sina ken kama sona e toki tan ni. taso sina ken lukin e toki sama ala toki ante kin! sina ken lukin tan sewi tawa anpa. sina ken kama sona e toki ante a tan ni e kon ante. (sike lili · li lon anpa nimi anu poka nimi la, ni li pini e toki wan, li open e toki ante)
+toki musi ni li kepeken nasin Leko Nimi. nasin ni la, sina ken lukin e toki sama toki ante. sina ken lukin tan poka tawa poka. sina ken kama sona e toki tan ni. taso sina ken lukin e toki sama ala toki ante kin! sina ken lukin tan sewi tawa anpa. sina ken kama sona e toki ante a tan ni e kon ante. (sike lili · li lon anpa nimi anu poka nimi la, ni li pini e toki wan, li open e toki ante)
 
 .|.|.|.|.|.|.
 -|-|-|-|-|-|-

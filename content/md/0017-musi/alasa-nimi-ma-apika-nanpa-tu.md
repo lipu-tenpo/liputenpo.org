@@ -23,7 +23,7 @@ n|a|j|a|n|i|e|s|a|w|a|s|i|e|n
 i|m|a|s|i|j|e|l|a|l|i|j|o|n|k
 i|s|a|n|t|a|p|i|k|e|n|i|t|a|w
 
-o alasa e nimi pi ma Apika! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Apika! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Namipija
 - Naselija

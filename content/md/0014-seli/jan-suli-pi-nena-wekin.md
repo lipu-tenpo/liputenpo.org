@@ -5,12 +5,12 @@ tags:
   - toki
 ---
 
-ma tomo mi la jan mute li toki e toki ni tawa jan lili. toki ni li toki e ni: nena Wekin en nena Eka li lon tan seme?
+ma tomo mi la jan mute li toki e toki ni tawa jan lili. toki ni li toki e ni: nena Wekin en nena Eka li lon tan seme?
 
-jan suli pi nena Wekin li pilin ike tawa jan pi ma tomo Suwepewi (Shrewsbury) li wile moli e jan ale pi ma tomo Suwepewi. jan suli ni li jo e ma mute li tawa ma tomo Suwepewi. ona li lon ma tomo Weliton (Wellington) la ona li toki tawa jan pali pi len noka. jan pali ni li jo e len noka mute li wile pona e len noka. jan suli li toki tawa jan pali ni e ni: “mi tawa seme tan mi lon ma tomo Suwepewi? mi wile moli e jan ale pi ma tomo Suwepewi”. jan pali toki e ni: “tawa pi ma tomo Suwepewi li suli mute. mi tawa ma tomo Suwepewi la mi pakala e len noka mute!”.
+jan suli pi nena Wekin li pilin ike tawa jan pi ma tomo Suwepewi (Shrewsbury) li wile moli e jan ale pi ma tomo Suwepewi. jan suli ni li jo e ma mute li tawa ma tomo Suwepewi. ona li lon ma tomo Weliton (Wellington) la ona li toki tawa jan pali pi len noka. jan pali ni li jo e len noka mute li wile pona e len noka. jan suli li toki tawa jan pali ni e ni: “mi tawa seme tan mi lon ma tomo Suwepewi? mi wile moli e jan ale pi ma tomo Suwepewi”. jan pali toki e ni: “tawa pi ma tomo Suwepewi li suli mute. mi tawa ma tomo Suwepewi la mi pakala e len noka mute!”.
 
-jan suli li wile ala awen tawa li pana e ma mute ona tawa poka pi ma tomo Weliton. ona li pana kin e ma pi len noka ona tawa poka ni.
+jan suli li wile ala awen tawa li pana e ma mute ona tawa poka pi ma tomo Weliton. ona li pana kin e ma pi len noka ona tawa poka ni.
 
-tenpo ni la nimi pi ma ni li nena Wekin (The Wrekin) li nena Eka (Ercall Hill).
+tenpo ni la nimi pi ma ni li nena Wekin (The Wrekin) li nena Eka (Ercall Hill).
 
 {{{sitelen "0014-nanpa-seli/nena_Wekin.png" ""}}}
