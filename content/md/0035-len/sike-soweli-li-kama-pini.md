@@ -5,13 +5,13 @@ tags:
   - kulupu
 ---
 
-**tenpo sike ni li sike soweli.** ken la sina wile sona. mi toki e soweli li tan seme a? ni li tan nasin tenpo pi ma Sonko anu seme? ala a! nasin pi ma Sonko la tenpo sike ni li tenpo akesi. tenpo sike lon li sike nanpa 2025. nasin nanpa pi toki pona la ni li sike nanpa MAML. kalama pi nimi MAML li sama nimi soweli pi toki Inli. musi lili toki a.
+**tenpo sike ni li sike soweli.** ken la sina wile sona. mi toki e soweli tan seme a? ni li tan nasin tenpo pi ma Sonko anu seme? ala a! nasin pi ma Sonko la tenpo sike ni li tenpo akesi. tenpo sike lon li sike nanpa 2025. nasin nanpa pi toki pona la ni li sike nanpa MAML. kalama pi nimi MAML li sama nimi soweli pi toki Inli. musi lili toki a.
 
 tenpo sike MAML li suli tawa kulupu pi toki pona. mi kulupu li pali mute a. tenpo kama poka la, sike li pini. ni la mi o toki e ijo suli ale ona!
 
-**jan li kulupu li musi lon ma.** kulupu li kama lon ma Sanpansiko, lon ma Ansetan, lon ma Lanten, lon ma Sijato, lon ma Sapu kin. lipu tenpo nanpa kala la, jan Kasape li toki e tenpo kulupu pi ma Ansetan. lipu tenpo nanpa lon la, jan Ke Tami li toki e tenpo kulupu pi ma Sapu. sina lon ma Mewika anu lon ma Kanata anu lon ma Elopa la, ken suli la, sina kin li ken kama lon kulupu! mi lon ma weka li ken ala. taso mi sona e ni: jan li kama lon poka la, tenpo  musi li pona e pilin ona, li wawa e wile kulupu ona.
+**jan li kulupu li musi lon ma**. kulupu li kama lon ma Sanpansiko, lon ma Ansetan, lon ma Lanten, lon ma Sijato, lon ma Sapu kin. lipu tenpo nanpa kala la, jan Kasape li toki e tenpo kulupu pi ma Ansetan. lipu tenpo nanpa lon la, jan Ke Tami li toki e tenpo kulupu pi ma Sapu. sina lon ma Mewika anu lon ma Kanata anu lon ma Elopa la, ken suli la, sina kin li ken kama lon kulupu! mi lon ma weka li ken ala. taso mi sona e ni: jan li kama lon poka la, tenpo  musi li pona e pilin ona, li wawa e wile kulupu ona.
 
-**lipu tenpo luka wan li kama!** ni li lipu tenpo nanpa kala, nanpa kokosila, nanpa supa,  nanpa pilin, nanpa ____ kin a! lipu ale la jan li pana e toki, li alasa pona e pakala toki, li pana e sitelen, li nasin e toki e sitelen. ni ale li wile e pali suli a! taso kulupu li awen pali, li pini ala. sike lon la mi kin li kama pana e pali mi tawa kulupu. pali ni li musi tawa mi, li pona tawa kulupu. jan ale pi toki pona li ken pana e toki e sitelen e musi e pona mute ante tawa lipu!
+**lipu tenpo luka wan li kama!** ni li lipu tenpo nanpa kala, nanpa kokosila, nanpa supa,  nanpa pilin, nanpa lon, nanpa len kin a! lipu ale la jan li pana e toki, li alasa pona e pakala toki, li pana e sitelen, li nasin e toki e sitelen lon lipu. ni ale li wile e pali suli a! taso kulupu li awen pali, li pini ala. sike lon la mi kin li kama pana e pali mi tawa kulupu. pali ni li musi tawa mi, li pona tawa kulupu. jan ale pi toki pona li ken pana e toki e sitelen e musi e pona mute ante tawa lipu!
 
 **seme li soweli?** mun #T la mi en jan Ke Tami li kama sona a! mi pali e lipu. lipu la jan li ken lukin e sitelen li ken toki e soweli e akesi e waso e kala e pipi e kasi e ante mute. lipu li wan e sona ale. tenpo mute la jan li toki e nimi ijo lon toki Inli li wile sona e ni: “a, ijo ni li seme lon toki pona?” lipu wawa pi jan Ke Tami la mi ken pana e sona kepeken pali lili a. ni li pona e kama sona!
 
