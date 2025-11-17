@@ -5,10 +5,10 @@ tags:
   - musi
 ---
 
-tenpo li ante
+tenpo li ante
 
-nasin li ante
+nasin li ante
 
-ale li ante
+ale li ante
 
-ala li ante
+ala li ante

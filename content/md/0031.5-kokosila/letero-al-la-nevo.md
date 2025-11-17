@@ -22,13 +22,13 @@ Nu, oni neniam scias, kiel la sorto iros. Foje mi volis fariĝi ĉies dua lingvo
 
 Mi lernis, ke pacon lingva konkero ne faras. Simple demandu Anglalingvon.
 
-Necesis por mi iom da tempo, sed miaj prioritatoj ŝanĝiĝis dum mi pliaĝiĝas. Mi havas familion por prizorgi — grandan rondon familian. Enfine, mi akiris ion eĉ pli belan ol mi celis. Mi ne havas la mondon; la mondo havas min. Kaj nun, la mondo havas vin.
+Necesis por mi iom da tempo, sed miaj prioritatoj ŝanĝiĝis dum mi pliaĝiĝas. Mi havas familion por prizorgi — grandan rondon familian. Enfine, mi akiris ion eĉ pli belan ol mi celis. Mi ne havas la mondon; la mondo havas min. Kaj nun, la mondo havas vin.
 
 Sed vi ne bezonis tiom da tempo, kiom bezonis mi. Vi komprenis de la komenco. Viaj ambicioj estas pli puraj. Simpleco estas kara al vi. Vi atingis gradojn de neŭtraleco kaj inkluziveco, kiujn mi nur revis. El pli diversa ŝtofo vi kudris mondan tapeton eĉ pli buntan.
 
 Mi esperas, ke vi pardonos mian mankintan klerecon. Mi kondutis tiel bone, kiel mi povis, naskiĝinte en la mezo de Eŭropo en epoko antaŭ la Interreto!
 
-Mi volas, ke niaj familioj amu unu la alian. Multajn parencojn ni kunhavas. Ni estas pacemaj lingvoj — ni ne bezonas kvereli.
+Mi volas, ke niaj familioj amu unu la alian. Multajn parencojn ni kunhavas. Ni estas pacemaj lingvoj — ni ne bezonas kvereli.
 
 Ĉiuokaze tamen, daŭre sekvu vian propran vojon. Vi neniam bezonis min. Rigardu, kian grandan potencon havas tiel malgranda lingvo! Kiel mia patro foje diris al mi: *“Eĉ guto malgranda, konstante frapante, traboras la monton granitan.”*
 

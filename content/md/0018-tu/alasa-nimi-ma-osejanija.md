@@ -23,7 +23,7 @@ n|a|j|e|n|o|o|s|e|w|e|s|o|i|j
 i|k|e|s|o|j|o|l|e|l|o|j|u|n|a
 o|s|e|n|t|e|p|o|k|i|n|o|t|e|w
 
-o alasa e nimi pi ma Osejanija! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
+o alasa e nimi pi ma Osejanija! ona li lon nasin supa sama ni: “\_” li lon nasin sinpin sama ni: “|”. nimi ma ni li lon poki nimi:
 
 - Intonesija
 - Nusilan

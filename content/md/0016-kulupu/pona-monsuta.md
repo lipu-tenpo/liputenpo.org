@@ -16,4 +16,4 @@ nasa|.|ni|li|wawa|
 e||mi|taso|a|.
 ||||.|
 
-[^1]: "monsuta" li ike, li wile pakala e jan
+[^1]: "monsuta" li ike, li wile pakala e jan

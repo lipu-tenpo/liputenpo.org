@@ -5,6 +5,7 @@ toki: Solresol
 tags:
   - musi
 ---
+
 La redo fasi resolsire re solsifa mimidomǐ,  
 Dofa faremi fa sîfaremi, mire dosisola dôfadomi.  
 Mírefare domifála dofa mifami faredomǐ, soldo mirerefǎ mifala mírefare lafamído  
@@ -18,4 +19,4 @@ re dore refarefa lala dofadore mimifado rêmilafa.
 Dore fasifa reredore rêmifala mido dofa,  
 fare fâdosire, farêsimi re dorêmiresol,  
 Dôredo lafamîdo lasi fâsidosol famí dóremi,  
-mimidola doré mimisifǎ dosolfami fa dôdomido sifasǐ.  
+mimidola doré mimisifǎ dosolfami fa dôdomido sifasǐ.

@@ -5,43 +5,43 @@ tags:
   - toki
 ---
 
-jan Anlu Isa li jan pi jan lili pi toki pona.
+jan Anlu Isa li jan pi jan lili pi toki pona.
 
-jan lili ona li ken toki e toki pona. ona li sitelen e ni:
+jan lili ona li ken toki e toki pona. ona li sitelen e ni:
 
-tenpo pimeja wan la, mi toki e toki ni tawa jan lili mi:
+tenpo pimeja wan la, mi toki e toki ni tawa jan lili mi:
 
-tenpo wan la, jan Lilijan li tawa tomo pan.
+tenpo wan la, jan Lilijan li tawa tomo pan.
 
-jan Lilijan li open e lupa pi tomo pan.
+jan Lilijan li open e lupa pi tomo pan.
 
-pan mute li lon!
+pan mute li lon!
 
 pan lili en pan suli.
 
 pan sike en pan linja.
 
-taso jan Lilijan li wile ala e pan ni.
+taso jan Lilijan li wile ala e pan ni.
 
-jan Lilijan li wile e pan suwi.
+jan Lilijan li wile e pan suwi.
 
-ona li lukin e pan suwi.
+ona li lukin e pan suwi.
 
-ni li jo e ko suwi pimeja e kili loje
+ni li jo e ko suwi pimeja e kili loje
 
-jan Lilijan li toki e ni tawa jan pi tomo pan:
+jan Lilijan li toki e ni tawa jan pi tomo pan:
 
-"mi wile e pan suwi."
+"mi wile e pan suwi."
 
-jan Lilijan li esun e pan suwi li tawa.
+jan Lilijan li esun e pan suwi li tawa.
 
-jan Lilijan li pilin pona li wile moku e pan.
+jan Lilijan li pilin pona li wile moku e pan.
 
-ona li tawa tomo ona li open e lupa li pini e lupa li tawa supa moku.
+ona li tawa tomo ona li open e lupa li pini e lupa li tawa supa moku.
 
-jan Lilijan li moku e pan suwi lon supa moku.
+jan Lilijan li moku e pan suwi lon supa moku.
 
-ali li pona.
+ali li pona.
 
 pini!
 

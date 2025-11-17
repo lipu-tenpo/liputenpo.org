@@ -6,25 +6,25 @@ tags:
 ---
 
 meli pona lukin mi  
-li pona ala tawa mi.
+li pona ala tawa mi.
 
 meli pona lukin mi  
-li pona ala tawa mi.
+li pona ala tawa mi.
 
-taso ona li weka e mi  
-la ale mi li pini.
+taso ona li weka e mi  
+la ale mi li pini.
 
-ona li weka e mi la  
-mi jo e ala! pakala!
+ona li weka e mi la  
+mi jo e ala! pakala!
 
-o kute. mi toki e ni:  
-o kute. mi toki e ni:
+o kute. mi toki e ni:  
+o kute. mi toki e ni:
 
 meli pona lukin mi  
-li pona ala tawa mi.
+li pona ala tawa mi.
 
-taso ona li weka e mi  
-la ale mi li pini.
+taso ona li weka e mi  
+la ale mi li pini.
 
-ona li weka e mi la  
-mi jo e ala! pakala!
+ona li weka e mi la  
+mi jo e ala! pakala!

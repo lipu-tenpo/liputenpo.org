@@ -11,7 +11,7 @@ laso pimeja
 pi sewi, pi telo.
 ## 2
 kon telo li  
-len e nena  
+len e nena  
 tan lukin mi.
 ## 3
 musi lili pi  
@@ -19,8 +19,8 @@ tenpo seli
 lon poka sina.
 ## 4
 tenpo pini  
-li weka tan  
+li weka tan  
 tenpo lon mi  
 la ken ante  
-kin li weka  
+kin li weka  
 a pilin ike.

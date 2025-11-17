@@ -5,16 +5,16 @@ tags:
   - musi
 ---
 
-pini. pimeja li lon.  
+pini. pimeja li lon.  
 tenpo la sina lili,  
 tenpo la sina sike.
 
-pona sina li suno.  
-sewi li pona lukin,  
-ma kin li pona lukin.  
+pona sina li suno.  
+sewi li pona lukin,  
+ma kin li pona lukin.  
 sina la tenpo mun en  
-mi li pilin pona a.
+mi li pilin pona a.
 
 tenpo la sina sike.  
 tenpo la sina lili.  
-pimeja li lon. open.
+pimeja li lon. open.

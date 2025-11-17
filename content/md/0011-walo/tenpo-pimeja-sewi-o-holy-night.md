@@ -6,36 +6,36 @@ tags:
 ---
 
 tenpo pimeja sewi.  
-mun li suno mute a.  
-tenpo ni li tenpo pi jan sewi kama.  
-ma li pakala li pilin ike a.  
+mun li suno mute a.  
+tenpo ni li tenpo pi jan sewi kama.  
+ma li pakala li pilin ike a.  
 taso ona li  
-lon li pona e kon.  
+lon li pona e kon.  
 pilin pona!  
-ma pakala li sewi.  
+ma pakala li sewi.  
 mi lon poka  
 pi tenpo suli sina.
 
-o tawa nena noka!  
-o kute e kalama sewi!  
+o tawa nena noka!  
+o kute e kalama sewi!  
 tenpo pimeja, sewi, li  
 tenpo pi jan Jesu.  
 pimeja, sewi.  
-ni li tenpo sewi.
+ni li tenpo sewi.
 
-ona li pana e sona  
+ona li pana e sona  
 pi olin pi jan ante.  
-nasin ona li olin li utala ala.  
-ona li weka e ike.  
-jan anpa li pata mi.  
-nimi ona, la nasin ike li ala.  
+nasin ona li olin li utala ala.  
+ona li weka e ike.  
+jan anpa li pata mi.  
+nimi ona, la nasin ike li ala.  
 kalama suwi,  
-la mi mute li pana  
-e pona ali tawa nimi sewi.
+la mi mute li pana  
+e pona ali tawa nimi sewi.
 
-jan Jesu li ali.  
-o sewi e nimi ona.  
+jan Jesu li ali.  
+o sewi e nimi ona.  
 wawa ona  
-en sewi ona li wawa mute.  
+en sewi ona li wawa mute.  
 wawa ona  
-en sewi ona li wawa mute!
+en sewi ona li wawa mute!

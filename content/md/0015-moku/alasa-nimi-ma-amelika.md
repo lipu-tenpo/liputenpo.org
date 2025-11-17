@@ -7,7 +7,7 @@ tags:
 
 {{{sitelen "0015-nanpa-moku/alasa_nimi_(ma_Amelika).png" ""}}}
 
-o alasa e nimi ma Amelika! ona li lon nasin supa sama nimi “Alensina” li lon nasin sinpin sama “Awisi”. nimi ma ni li lon poki nimi:
+o alasa e nimi ma Amelika! ona li lon nasin supa sama nimi “Alensina” li lon nasin sinpin sama “Awisi”. nimi ma ni li lon poki nimi:
 
 - ~~Alensina~~
 - ~~Awisi~~
