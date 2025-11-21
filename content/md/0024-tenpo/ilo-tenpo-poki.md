@@ -2,7 +2,7 @@
 nimi-suli: ilo tenpo poki
 jan-pali: jan Alonola
 tags:
-	- sona
+  - sona
 ---
 
 tenpo ale la, jan li wile sona e tenpo. taso tenpo pini la, ilo tenpo li lon ala. ni la, jan li pali e ilo tenpo nanpa wan: ma Tosi la, jan mute li open pali e ilo tenpo. mute la, jan li toki e ni: jan Peta Enlan (Peter Henlein) li pali e ilo tenpo nanpa wan. ona ni li sike suli, li jo e luka wan taso. kin la, ona li tawa ike, li nasa. sina sona ike e tenpo tan ona. kama la, ilo tenpo li mu lon tenpo wan.

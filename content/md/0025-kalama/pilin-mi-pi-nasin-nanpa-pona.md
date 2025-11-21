@@ -2,7 +2,7 @@
 nimi-suli: pilin mi pi nasin nanpa pona
 jan-pali: jan Momo
 tags:
-	- toki
+  - toki
 ---
 
 {{{sitelen "0025-nanpa-kalama/0025_nasin_nanpa_pona.png" "sitelen pona of the below text" "jan Momo"}}}

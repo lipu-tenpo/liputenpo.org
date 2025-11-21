@@ -1,0 +1,31 @@
+---
+import Nav from "@/components/Nav.astro";
+---
+
+<header>
+  <div class="sewi-lipu">
+    <a href="/">
+      <img src="/logo.png" alt="lipu tenpo logo" class="logo" />
+    </a>
+    <div>
+      <h1><a href="/">lipu tenpo</a></h1>
+      <div class="subtitle">
+        <a href="/sona#faq">li alasa e jan pali sin</a>
+      </div>
+    </div>
+  </div>
+  <nav>
+    <ul>
+      <!--
+    Conversation about menu links: https://discord.com/channels/795288348024373289/796468535672963122/1278030295211442291
+    -->
+      <Nav url="/" label="lipu ale" />
+      <Nav url="/toki/" label="toki ale" />
+      <Nav url="/sona/" label="ni li seme" />
+    </ul>
+    <!-- search bar -->
+    <!-- <form onsubmit="">
+    <input type="text" name="q" placeholder="search" />
+  </form> -->
+  </nav>
+</header>

@@ -1,0 +1,30 @@
+---
+import BaseHead from "@/components/BaseHead.astro";
+import Footer from "@/components/Footer.astro";
+import Header from "@/components/Header.astro";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title = "lipu tenpo", description = "lipu tenpo" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="tok">
+  <head>
+    <title>{title}</title>
+    <BaseHead title={title} description={description} />
+    <!-- scripts -->
+    <slot name="script" />
+  </head>
+  <body>
+    <div class="poki-insa">
+      <Header />
+      <hr class="anpa-sewi" />
+    </div>
+    <main><slot /></main>
+    <Footer />
+  </body>
+</html>

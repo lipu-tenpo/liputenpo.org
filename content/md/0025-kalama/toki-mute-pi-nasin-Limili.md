@@ -2,7 +2,7 @@
 nimi-suli: toki 10,000,000,000 pi nasin Limili
 jan-pali: jan Kapesi Pake
 tags:
-	- musi
+  - musi
 ---
 
 musi toki li suli mute tawa mi. tenpo ali la, mi wile pali e ona. ni la, mi alasa pali e musi toki sin kepeken nasin nasa pona. ona li ni! ni li pali suli nasa pi toki pi nasin Limili. toki pi nasin Limili o jo e linja luka, o kepeken lawa pi nasin Limili pi nanpa kalama. toki 10,000,000,000 pi nasin Limili li lon. taso, lipu ni li ken ala jo e toki 10,000,000,000 a! ni la, sina wile lukin e ona la, sina o pali e toki ni! o pali e toki ni kepeken nasin ni: 

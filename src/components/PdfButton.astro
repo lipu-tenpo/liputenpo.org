@@ -1,0 +1,60 @@
+---
+interface Props {
+  icon: "file" | "printer";
+  pdf: string;
+  bw?: boolean;
+}
+const { pdf, icon, bw = false } = Astro.props;
+---
+
+<style>
+  li {
+    box-sizing: content-box;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+  li a {
+    flex: 1 0;
+    border: 3px solid var(--logo-secondary-dark);
+    background-color: var(--logo-primary-dark);
+    padding: 1rem;
+    border-radius: 1.5rem;
+    color: var(--logo-secondary);
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    height: 1.5rem;
+    width: auto;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+  }
+  img.colour {
+    /* filter: invert(97%) sepia(82%) saturate(721%) hue-rotate(328deg)
+brightness(108%) contrast(101%); */
+    filter: invert(80%) sepia(18%) saturate(763%) hue-rotate(8deg)
+      brightness(99%) contrast(87%);
+  }
+  img.bw {
+    filter: invert(16%) sepia(0%) saturate(1649%) hue-rotate(146deg)
+      brightness(96%) contrast(87%);
+  }
+</style>
+<li>
+  <a href={`/pdfs/${pdf}`}>
+    <img
+      class={bw ? "bw" : "colour"}
+      src={`/icons/${icon}.svg`}
+      alt={`${icon} icon`}
+    />
+    <slot />
+    <img
+      class={bw ? "bw" : "colour"}
+      src={`/icons/${icon}.svg`}
+      alt={`${icon} icon`}
+    />
+  </a>
+</li>

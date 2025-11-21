@@ -1,0 +1,274 @@
+---
+import Markdown from "@/components/Markdown.astro";
+import Layout from "@/layouts/Layout.astro";
+import { jan_pali, lipu_ante } from "@/content.config";
+import { sortJanPali } from "@/utils";
+---
+
+<style>
+  .h2 {
+    font-size: 3rem;
+    text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .h2 h2 {
+    margin: 1rem 0 0;
+    padding: 0.5rem 2rem;
+
+    background-color: var(--colour-laso-walo);
+    color: var(--colour-laso-pimeja);
+    border-radius: var(--blob-border-radius-03);
+  }
+
+  .esun-tawa-ni {
+    text-align: center;
+    font-size: 2rem;
+  }
+  .esun-tawa-ni img.icon {
+    height: 2rem;
+    width: auto;
+    filter: invert(100%) sepia(7%) saturate(0%) hue-rotate(112deg)
+      brightness(106%) contrast(109%);
+  }
+
+  .ni-li-seme {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+  }
+  .ni-li-seme > * {
+    max-width: 40rem;
+  }
+  .ni-li-seme h3 {
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: var(--colour-loje-walo);
+    color: var(--colour-loje-pimeja);
+    border-radius: var(--blob-border-radius-04);
+  }
+  .ni-li-seme h4 {
+    margin: 1rem 0 0;
+  }
+
+  .faq {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+  }
+  .faq > * {
+    max-width: 40rem;
+  }
+  .faq h3 {
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: var(--colour-laso-walo);
+    color: var(--colour-laso-pimeja);
+    border-radius: var(--blob-border-radius-01);
+  }
+  .faq h4 {
+    margin: 1rem 0 0;
+  }
+
+  .nimi-pi-pu-ala {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .nimi-pi-pu-ala h3 {
+    font-size: 2rem;
+    margin: 0.5rem;
+    padding: 0.75rem 2rem;
+    background-color: var(--colour-loje-walo);
+    color: var(--colour-loje-pimeja);
+    border-radius: var(--blob-border-radius-04);
+  }
+  .nimi-pi-pu-ala h4 {
+    margin: 0.5rem 0 0;
+  }
+  .nimi-pi-pu-ala p {
+    margin: 0;
+  }
+
+  .jan-pali {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .jan-pali h3 {
+    margin: 4rem 0 1rem;
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: var(--colour-unu-walo);
+    color: var(--colour-unu-pimeja);
+    border-radius: var(--blob-border-radius-01);
+  }
+  .jan-pali .jan {
+    color: var(--colour-pimeja-lili);
+  }
+  .jan-pali .active {
+    color: var(--logo-secondary);
+  }
+  .jan-pali .lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  .jan-pali .jan-mute {
+    margin: 0.5rem;
+  }
+  .jan-pali h4 {
+    margin: 0;
+  }
+  .jan-pali ul {
+    min-width: 10rem;
+    max-height: 39.5rem;
+    overflow-y: auto;
+  }
+
+  .lipu-ante {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .lipu-ante h3 {
+    margin: 4rem 0 1rem;
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: var(--colour-unu-walo);
+    color: var(--colour-unu-pimeja);
+    border-radius: var(--blob-border-radius-01);
+  }
+  .lipu-ante h4 {
+    text-align: center;
+  }
+  .lipu-ante .lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 1rem;
+  }
+  .lipu-ante .lipu-ante-wan {
+    margin: 0.5rem;
+  }
+  .lipu-ante li {
+    margin: 0.5rem;
+  }
+
+  .sona {
+    text-align: center;
+    margin-bottom: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .sona h3 {
+    font-size: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: var(--colour-jelo-walo);
+    color: var(--colour-jelo-pimeja);
+    border-radius: var(--blob-border-radius-03);
+  }
+</style>
+<Layout title="lipu tenpo - sona">
+  <div class="h2">
+    <h2 id="sona">sona</h2>
+  </div>
+
+  <section class="esun-tawa-ni">
+    <p>
+      <a href="https://www.patreon.com/liputenpo">
+        <img class="icon" src="/icons/patreon.svg" alt="patreon icon" />
+        esun tawa mi! (Patreon)
+      </a>
+    </p>
+  </section>
+
+  <section class="ni-li-seme">
+    <h3 id="ni-li-seme">ni li seme?</h3>
+    <Markdown filename="sona_ni_li_seme" />
+  </section>
+
+  <section class="faq">
+    <h3 id="faq">FAQ</h3>
+    <Markdown filename="sona_faq" />
+  </section>
+
+  <section class="nimi-pi-pu-ala">
+    <h3 id="nimi-pi-pu-ala">nimi pi pu ala</h3>
+    <p>o lukin e linluwi...</p>
+    <nav>
+      <ul>
+        <li>
+          <a href="https://linku.la/">linku.la</a>
+        </li>
+        <li>
+          <a href="https://nimi.li/">nimi.li</a>
+        </li>
+      </ul>
+    </nav>
+  </section>
+
+  <section class="jan-pali">
+    <h3 id="jan-pali">jan pali</h3>
+    <div class="lists">
+      {
+        Object.entries(jan_pali).map(([task, people]) => (
+          <div class="jan-mute">
+            <h4 id={task}>{task}</h4>
+            <ul>
+              {sortJanPali(people).map((person) => (
+                <li class={`jan ${person.active && "active"}`}>
+                  <span>{person.name}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))
+      }
+    </div>
+    <p>
+      <span class="active">jan jelo li pali lon tenpo ni.</span> jan walo li pali
+      lon tenpo pini.
+    </p>
+  </section>
+
+  <section class="lipu-ante">
+    <h3 id="lipu-ante">lipu ante</h3>
+    <div class="lists">
+      {
+        Object.entries(lipu_ante).map(([category, pages]) => (
+          <div class="lipu-ante-wan">
+            <h4 id={category}>{category}</h4>
+            <nav>
+              <ul>
+                {pages.map((page) => (
+                  <li>
+                    <a href={Object.values(page)[0]}>{Object.keys(page)[0]}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <section class="sona">
+    <h3 id="sona-footer">sona</h3>
+    <Markdown filename="sona_footer" />
+  </section>
+</Layout>
