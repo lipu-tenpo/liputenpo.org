@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0035-nanpa-len/jan-len-kule.png" "jan len" "jan Alonola"}}}
+
 tenpo pini mute la jan li kepeken ala e len. ona li jo e linja mute a. taso linja ni li weka tan sijelo jan. tan seme? jan li wile tawa mute la linja mute li ike. linja mute en len li seli e jan. ma seli la ni li ike. kin la pipi ike li ken awen lon linja li ken pakala e jan. linja mute li awen taso lon lawa lon lupa luka lon poka pi ijo unpa. 
 
 tenpo suli la jan li kepeken ala e len li jo ala e linja mute. taso ona li awen lon ma seli. tenpo suli li weka la ona li tawa ma ante: ma ni li lete. ma lete la jan li wile e selo namako. ni la ona li pali e len kepeken selo soweli. tenpo kama la ona li kepeken kin e kasi.

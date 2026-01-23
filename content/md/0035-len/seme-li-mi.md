@@ -19,3 +19,5 @@ mi ken kiwen li ko li telo
 mi ken pimeja anu walo  
 mi mute tu tu li lon insa  
 pi lipu tenpo mun pona
+
+{{{sitelen "0035-nanpa-len/seme-li-mi-kule.png" "sitelen sitelen" "jan Alonola"}}}

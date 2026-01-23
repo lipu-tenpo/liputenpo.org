@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0035-nanpa-len/flag-kule.png" "len loje" "kala Asi"}}}
+
 **ma mute la len kule ma li lon.** ma insa en ma tomo kin la len ma li ken lon. ma Mewika la len pi ma Mewilen en len pi ma Kaliponija en len pi ma ante li lon. ma Tosi en ma Pasiju en ma Nijon en ma ante mute li sama. ma Sonko li ma suli, taso sina alasa e len pi ma kipisi pi ma Sonko la sina ken ala lukin a. ken lukin la len ni li pali sin pi jan ante taso (sina ken lukin e len lon pi ma insa tu, mi toki e ona lon pini). 
 
 **ni li tan seme?** ken suli la lawa ma li wile e ni: ma o wan, ma lili o ken ala pilin pi ken taso o sewi ala tawa ma lili ante. len li ken kama e pilin ni la nasin lawa li ken ala e ni. len ma o len pi ma Sonko taso. 

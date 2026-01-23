@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0035-nanpa-len/kiwen-akesi-kule.png" "kiwen akesi" "jan Ke Tami"}}}
+
 *akesi suli li ken wawa tawa jan.* jan li lukin e kiwen moli pi akesi pi tenpo weka mute (Dinosauria) la, ona li toki insa: "akesi ni li seme tawa lukin? selo ona li len seme?" tenpo mute la, sijelo pi akesi moli la, kiwen insa li awen taso lon tenpo mute suli. 
 
 tenpo pini la, jan sona li toki: "kiwen moli ni li sama akesi, la selo li sama akesi kin! ona li jo e nena lili mute a!"

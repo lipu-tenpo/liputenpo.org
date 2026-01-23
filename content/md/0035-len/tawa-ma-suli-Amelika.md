@@ -11,6 +11,8 @@ toki suli mi li open lon tenpo sike 2020. sina sona: jan ale li kama monsuta t
 
 tomo tawa kon la, mi sitelen e toki pona tawa jan mi, tawa kulupu mama mi. pilin mi li suli tan ni: tenpo ala la, mi weka tan ma suli Elopa. kepeken sona lili pi toki Epanja la, mi kama jo e jan pona mute. ona en jan lili pi toki lili a li pana e sona toki tawa mi. ni a li nasin pona! mi jo e mani lili. mi kama jo e mani kepeken kalama musi. palisa pi kalama kon li pona tawa jan.
 
+{{{sitelen "0035-nanpa-len/waso-ilo.png" "waso ilo" "jan Ke Tami"}}}
+
 jan pi ma Ulukawi¹ li pona mute tawa jan tawa. jan li toki e ni: “o tawa tomo mi. o pona e tomo mi. mi o pana e pan e tomo.” mi sona ala e nasin. taso jan li pana e nasin tawa mi. mi lukin li pilin e suno wawa, e telo suli, e nena ante e ale pi ma Ulukawi. ale jan pi ma weka li sama jan pi ma mi a! mi jan tawa li kama jo e tomo sin lon tenpo sin, taso tenpo suli poka la, mi kama jo e tomo. nasin ni li pini lon poka pi mije olin mi. mi en ona li olin tan ni: mi tu li tan ma weka, taso mi jo e pilin sama.
 
 ---
