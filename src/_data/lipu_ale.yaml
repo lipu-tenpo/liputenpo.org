@@ -1,3 +1,11 @@
+- id: 35
+  title: nanpa len
+  date: 2026-12-23
+  pdf: "0035len.pdf"
+  pdf_bleed: "0035len_bleed.pdf"
+  pdf_pf: "0035len_pf.pdf"
+  pdf_bwpf: "0035len_bwpf.pdf"
+  cover_image: "0035len_sinpin.png"
 - id: 34
   title: nanpa lon
   date: 2025-11-09
