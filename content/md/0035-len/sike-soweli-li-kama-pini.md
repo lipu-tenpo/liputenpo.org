@@ -33,11 +33,11 @@ tan seme la kulupu li wile e poki pi lipu ale? lipu ale li lon poki wan la mi
 
 tenpo ale la kulupu li wile pona e kulupu. lon la pali suli li awen lon tenpo kama, lon sike sin. ken suli la pona sin li tawa kulupu a!
 
-¹  https://antetokipona.infinityfreeapp.com/soweli/soweli.php
-²  https://sin-kulupu.pona.la/
-³  https://sitelenpona.org/
-⁴  https://lipu.pona.la/
-⁵  https://wasona.com/
-⁶  https://itch.io/jam/mu/
-⁷  https://suno.pona.la/
+¹  https://antetokipona.infinityfreeapp.com/soweli/soweli.php  
+²  https://sin-kulupu.pona.la/  
+³  https://sitelenpona.org/  
+⁴  https://lipu.pona.la/  
+⁵  https://wasona.com/  
+⁶  https://itch.io/jam/mu/  
+⁷  https://suno.pona.la/  
 ⁸  https://kute.pona.la/
