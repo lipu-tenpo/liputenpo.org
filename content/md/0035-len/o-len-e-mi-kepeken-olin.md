@@ -1,5 +1,5 @@
 ---
-nimi-suli: o weka e len sona!
+nimi-suli: o len e mi kepeken olin
 jan-pali: jan Wemi
 tags:
   - musi
