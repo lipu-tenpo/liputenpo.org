@@ -1,3 +1,5 @@
+from pathlib import Path
+
 # To be run from within Scribus.
 try:
 	import scribus
@@ -80,12 +82,12 @@ def ilo_settings(lipu):
 	# Indicate the length of crop and bleed marks.
 	lipu.markLength = 3
 
-def name_and_save(lipu, suffix):
+def name_and_save(lipu, suffix: str):
 	# Name of file to save into.
-	nimi = scribus.getDocName()
+	nimi = Path(scribus.getDocName())
 
 	# HACK cut off the last four letters (.sla), and append suffix + .pdf extension
-	lipu.file = scribus.valueDialog('Enter file name', 'Enter the name of the pdf file to save to.', nimi[:-4] + suffix + '.pdf')
+	lipu.file = scribus.valueDialog('Enter file name', 'Enter the name of the pdf file to save to.', str(nimi.parent.parent / "pdf" / f"{nimi.stem}{suffix}.pdf"))
 
 	# Save selected pages to PDF file.
 	lipu.save()
@@ -110,9 +112,8 @@ if __name__ == '__main__':
 		elif choice == 16384:
 			# greyscale version
 			pimeja_settings(lipu)
-			name_and_save(lipu, '-pimeja')
+			name_and_save(lipu, '_bw')
 		elif choice == 65536:
 			# print version
 			ilo_settings(lipu)
-			name_and_save(lipu, '-ilo')
-
+			name_and_save(lipu, '_bleed')
