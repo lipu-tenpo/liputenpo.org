@@ -15,7 +15,7 @@ nanpa tu la o lukin e nasin pi jan sina. jan li ken utala li ken kepeken waw
 
 tenpo ni la o open. jan lawa li toki e ma pi musi ni. sina lon tomo pi telo nasa anu tomo pi kama sona anu seme? sina lukin e seme?
 
-{{{sitelen "0035-nanpa-len/die-kule.png" "leko lili musi" "jan Ke Tami"}}}
+{{{sitelen "0035-nanpa-len/die.png" "leko lili musi" "jan Ke Tami"}}}
 
 sina o toki e wile sina tawa jan lawa la toki pi sina mute li kama suli! sina ken tawa li ken utala li ken toki li ken wawa!
 
