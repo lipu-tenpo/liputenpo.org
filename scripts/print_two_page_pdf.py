@@ -5,8 +5,8 @@ import subprocess
 import tempfile
 
 # TODO: cli-input of desired pdf
-INPUT_PDF = "../content/pdf/0035len_bw.pdf"
-OUTPUT_PDF = "../content/pdf/0035len_bwpf.pdf"
+INPUT_PDF = "../content/pdf/0035len.pdf"
+OUTPUT_PDF = "../content/pdf/0035len_pf.pdf"
 
 # Desired page order
 PAGE_ORDER = [16, 1, 2, 15, 14, 3, 4, 13, 12, 5, 6, 11, 10, 7, 8, 9]
