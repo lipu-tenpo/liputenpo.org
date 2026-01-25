@@ -10,7 +10,7 @@ import sys
 # pip install pyyaml
 import yaml
 
-LIPU_ALE = "_data/lipu_ale.yaml"
+LIPU_ALE = "src/_data/lipu_ale.yaml"
 
 
 class bcolors:
