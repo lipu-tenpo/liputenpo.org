@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.5">
+    <DOCUMENT ANZPAGES="16" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="36.8503937007874" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="0" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A5" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="1" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="kulupu pi lipu tenpo" COMMENTS="" KEYWORDS="" PUBLISHER="lipu tenpo e.V." DOCDATE="2025" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="tok" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="lipu tenpo nanpa " SUBJECT="" VHOCH="0" VHOCHSC="100" VTIEF="0" VTIEFSC="100" VKAPIT="100" BASEGRID="14.17" BASEO="11.34" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_GB" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" SnapToElement="1" MINGRID="14.1732283464567" MAJGRID="28.3464566929134" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="1" rulerMode="1" showrulers="0" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="0" AutoSaveTime="300000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="28.3464566929134" ScratchLeft="141.732283464567" ScratchRight="141.732283464567" ScratchTop="28.3464566929134" GapHorizontal="0" GapVertical="56.6929133858268" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0006299212598" dispY="10.0006299212598" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="FromPDF#12445b" SPACE="RGB" R="17.9997253417969" G="67.9989624023438" B="90.9986114501953"/>
+        <COLOR NAME="FromPDF#1a6e96" SPACE="RGB" R="25.9996032714844" G="109.998321533203" B="149.997711181641"/>
+        <COLOR NAME="FromPDF#1f83b3" SPACE="RGB" R="30.9995269775391" G="130.998001098633" B="178.997268676758"/>
+        <COLOR NAME="FromPDF#269ed8" SPACE="RGB" R="37.9994201660156" G="157.997589111328" B="215.996704101563"/>
+        <COLOR NAME="FromPDF#2d7a5a" SPACE="RGB" R="44.9993133544922" G="121.998138427734" B="89.9986267089844"/>
+        <COLOR NAME="FromPDF#341b47" SPACE="RGB" R="51.9992065429688" G="26.9995880126953" B="70.9989166259766"/>
+        <COLOR NAME="FromPDF#42b485" SPACE="RGB" R="65.9989929199219" G="179.997253417969" B="132.997970581055"/>
+        <COLOR NAME="FromPDF#4b2766" SPACE="RGB" R="74.9988555908203" G="38.9994049072266" B="101.998443603516"/>
+        <COLOR NAME="FromPDF#6b6615" SPACE="RGB" R="106.99836730957" G="101.998443603516" B="20.9996795654297"/>
+        <COLOR NAME="FromPDF#9b4aa5" SPACE="RGB" R="154.997634887695" G="73.9988708496094" B="164.997482299805"/>
+        <COLOR NAME="FromPDF#9e9d9d" SPACE="RGB" R="157.997589111328" G="156.997604370117" B="156.997604370117"/>
+        <COLOR NAME="FromPDF#a11732" SPACE="RGB" R="160.997543334961" G="22.9996490478516" B="49.9992370605469"/>
+        <COLOR NAME="FromPDF#aaa228" SPACE="RGB" R="169.997406005859" G="161.997528076172" B="39.9993896484375"/>
+        <COLOR NAME="FromPDF#adadad" SPACE="RGB" R="172.997360229492" G="172.997360229492" B="172.997360229492"/>
+        <COLOR NAME="FromPDF#b1b1b1" SPACE="RGB" R="176.997299194336" G="176.997299194336" B="176.997299194336"/>
+        <COLOR NAME="FromPDF#bcb587" SPACE="RGB" R="187.997131347656" G="180.99723815918" B="134.997940063477"/>
+        <COLOR NAME="FromPDF#c5c5c5" SPACE="RGB" R="196.996994018555" G="196.996994018555" B="196.996994018555"/>
+        <COLOR NAME="FromPDF#c7be36" SPACE="RGB" R="198.996963500977" G="189.997100830078" B="53.9991760253906"/>
+        <COLOR NAME="FromPDF#d11e41" SPACE="RGB" R="208.996810913086" G="29.9995422363281" B="64.9990081787109"/>
+        <COLOR NAME="FromPDF#d22f95" SPACE="RGB" R="209.996795654297" G="46.9992828369141" B="148.99772644043"/>
+        <COLOR NAME="FromPDF#d3d1d1" SPACE="RGB" R="210.996780395508" G="208.996810913086" B="208.996810913086"/>
+        <COLOR NAME="FromPDF#dcdae4" SPACE="RGB" R="219.996643066406" G="217.996673583984" B="227.996520996094"/>
+        <COLOR NAME="FromPDF#dcdcdc" SPACE="RGB" R="219.996643066406" G="219.996643066406" B="219.996643066406"/>
+        <COLOR NAME="FromPDF#e7de3c" SPACE="RGB" R="230.996475219727" G="221.996612548828" B="59.9990844726563"/>
+        <COLOR NAME="FromSVG#000000" SPACE="RGB" R="0" G="0" B="0"/>
+        <COLOR NAME="FromSVG#080812" SPACE="RGB" R="8" G="8" B="18"/>
+        <COLOR NAME="FromSVG#0a0a12" SPACE="RGB" R="10" G="10" B="18"/>
+        <COLOR NAME="FromSVG#0c3066" SPACE="RGB" R="12" G="48" B="102"/>
+        <COLOR NAME="FromSVG#151414" SPACE="RGB" R="21" G="20" B="20"/>
+        <COLOR NAME="FromSVG#171729" SPACE="RGB" R="23" G="23" B="41"/>
+        <COLOR NAME="FromSVG#1c1b4c" SPACE="RGB" R="28" G="27" B="76"/>
+        <COLOR NAME="FromSVG#222120" SPACE="RGB" R="34" G="33" B="32"/>
+        <COLOR NAME="FromSVG#260000" SPACE="RGB" R="38" G="0" B="0"/>
+        <COLOR NAME="FromSVG#262630" SPACE="RGB" R="38" G="38" B="48"/>
+        <COLOR NAME="FromSVG#2e2d30" SPACE="RGB" R="46" G="45" B="48"/>
+        <COLOR NAME="FromSVG#2e508d" SPACE="RGB" R="46" G="80" B="141"/>
+        <COLOR NAME="FromSVG#2e7a46" SPACE="RGB" R="46" G="122" B="70"/>
+        <COLOR NAME="FromSVG#303034" SPACE="RGB" R="48" G="48" B="52"/>
+        <COLOR NAME="FromSVG#322c2b" SPACE="RGB" R="50" G="44" B="43"/>
+        <COLOR NAME="FromSVG#361818" SPACE="RGB" R="54" G="24" B="24"/>
+        <COLOR NAME="FromSVG#370000" SPACE="RGB" R="55" G="0" B="0"/>
+        <COLOR NAME="FromSVG#3b3431" SPACE="RGB" R="59" G="52" B="49"/>
+        <COLOR NAME="FromSVG#3c2e34" SPACE="RGB" R="60" G="46" B="52"/>
+        <COLOR NAME="FromSVG#3d1800" SPACE="RGB" R="61" G="24" B="0"/>
+        <COLOR NAME="FromSVG#3e1f4d" SPACE="RGB" R="62" G="31" B="77"/>
+        <COLOR NAME="FromSVG#3e3e4e" SPACE="RGB" R="62" G="62" B="78"/>
+        <COLOR NAME="FromSVG#40000f" SPACE="RGB" R="64" G="0" B="15"/>
+        <COLOR NAME="FromSVG#4075c4" SPACE="RGB" R="64" G="117" B="196"/>
+        <COLOR NAME="FromSVG#41131c" SPACE="RGB" R="65" G="19" B="28"/>
+        <COLOR NAME="FromSVG#452718" SPACE="RGB" R="69" G="39" B="24"/>
+        <COLOR NAME="FromSVG#460d03" SPACE="RGB" R="70" G="13" B="3"/>
+        <COLOR NAME="FromSVG#460e03" SPACE="RGB" R="70" G="14" B="3"/>
+        <COLOR NAME="FromSVG#470008" SPACE="RGB" R="71" G="0" B="8"/>
+        <COLOR NAME="FromSVG#505050" SPACE="RGB" R="80" G="80" B="80"/>
+        <COLOR NAME="FromSVG#50514a" SPACE="RGB" R="80" G="81" B="74"/>
+        <COLOR NAME="FromSVG#541300" SPACE="RGB" R="84" G="19" B="0"/>
+        <COLOR NAME="FromSVG#542737" SPACE="RGB" R="84" G="39" B="55"/>
+        <COLOR NAME="FromSVG#54546e" SPACE="RGB" R="84" G="84" B="110"/>
+        <COLOR NAME="FromSVG#553c46" SPACE="RGB" R="85" G="60" B="70"/>
+        <COLOR NAME="FromSVG#564041" SPACE="RGB" R="86" G="64" B="65"/>
+        <COLOR NAME="FromSVG#5b0015" SPACE="RGB" R="91" G="0" B="21"/>
+        <COLOR NAME="FromSVG#5b0500" SPACE="RGB" R="91" G="5" B="0"/>
+        <COLOR NAME="FromSVG#5c2319" SPACE="RGB" R="92" G="35" B="25"/>
+        <COLOR NAME="FromSVG#5e0017" SPACE="RGB" R="94" G="0" B="23"/>
+        <COLOR NAME="FromSVG#5f8187" SPACE="RGB" R="95" G="129" B="135"/>
+        <COLOR NAME="FromSVG#603f41" SPACE="RGB" R="96" G="63" B="65"/>
+        <COLOR NAME="FromSVG#604a4a" SPACE="RGB" R="96" G="74" B="74"/>
+        <COLOR NAME="FromSVG#620d00" SPACE="RGB" R="98" G="13" B="0"/>
+        <COLOR NAME="FromSVG#651f24" SPACE="RGB" R="101" G="31" B="36"/>
+        <COLOR NAME="FromSVG#693429" SPACE="RGB" R="105" G="52" B="41"/>
+        <COLOR NAME="FromSVG#6a3931" SPACE="RGB" R="106" G="57" B="49"/>
+        <COLOR NAME="FromSVG#6a6a6a" SPACE="RGB" R="106" G="106" B="106"/>
+        <COLOR NAME="FromSVG#70405a" SPACE="RGB" R="112" G="64" B="90"/>
+        <COLOR NAME="FromSVG#70676a" SPACE="RGB" R="112" G="103" B="106"/>
+        <COLOR NAME="FromSVG#720011" SPACE="RGB" R="114" G="0" B="17"/>
+        <COLOR NAME="FromSVG#7a0006" SPACE="RGB" R="122" G="0" B="6"/>
+        <COLOR NAME="FromSVG#7b352a" SPACE="RGB" R="123" G="53" B="42"/>
+        <COLOR NAME="FromSVG#7f6a73" SPACE="RGB" R="127" G="106" B="115"/>
+        <COLOR NAME="FromSVG#802502" SPACE="RGB" R="128" G="37" B="2"/>
+        <COLOR NAME="FromSVG#80796f" SPACE="RGB" R="128" G="121" B="111"/>
+        <COLOR NAME="FromSVG#80808f" SPACE="RGB" R="128" G="128" B="143"/>
+        <COLOR NAME="FromSVG#820039" SPACE="RGB" R="130" G="0" B="57"/>
+        <COLOR NAME="FromSVG#824c00" SPACE="RGB" R="130" G="76" B="0"/>
+        <COLOR NAME="FromSVG#841149" SPACE="RGB" R="132" G="17" B="73"/>
+        <COLOR NAME="FromSVG#842011" SPACE="RGB" R="132" G="32" B="17"/>
+        <COLOR NAME="FromSVG#873021" SPACE="RGB" R="135" G="48" B="33"/>
+        <COLOR NAME="FromSVG#886257" SPACE="RGB" R="136" G="98" B="87"/>
+        <COLOR NAME="FromSVG#8a5059" SPACE="RGB" R="138" G="80" B="89"/>
+        <COLOR NAME="FromSVG#8d000b" SPACE="RGB" R="141" G="0" B="11"/>
+        <COLOR NAME="FromSVG#8d5647" SPACE="RGB" R="141" G="86" B="71"/>
+        <COLOR NAME="FromSVG#8f8a74" SPACE="RGB" R="143" G="138" B="116"/>
+        <COLOR NAME="FromSVG#923120" SPACE="RGB" R="146" G="49" B="32"/>
+        <COLOR NAME="FromSVG#966e6f" SPACE="RGB" R="150" G="110" B="111"/>
+        <COLOR NAME="FromSVG#96745e" SPACE="RGB" R="150" G="116" B="94"/>
+        <COLOR NAME="FromSVG#980019" SPACE="RGB" R="152" G="0" B="25"/>
+        <COLOR NAME="FromSVG#980800" SPACE="RGB" R="152" G="8" B="0"/>
+        <COLOR NAME="FromSVG#982929" SPACE="RGB" R="152" G="41" B="41"/>
+        <COLOR NAME="FromSVG#98fb98" SPACE="RGB" R="152" G="251" B="152"/>
+        <COLOR NAME="FromSVG#9ac9d9" SPACE="RGB" R="154" G="201" B="217"/>
+        <COLOR NAME="FromSVG#9d766a" SPACE="RGB" R="157" G="118" B="106"/>
+        <COLOR NAME="FromSVG#a00a18" SPACE="RGB" R="160" G="10" B="24"/>
+        <COLOR NAME="FromSVG#a15a4e" SPACE="RGB" R="161" G="90" B="78"/>
+        <COLOR NAME="FromSVG#a9856c" SPACE="RGB" R="169" G="133" B="108"/>
+        <COLOR NAME="FromSVG#aa1111" SPACE="RGB" R="170" G="17" B="17"/>
+        <COLOR NAME="FromSVG#ac3f0b" SPACE="RGB" R="172" G="63" B="11"/>
+        <COLOR NAME="FromSVG#accb84" SPACE="RGB" R="172" G="203" B="132"/>
+        <COLOR NAME="FromSVG#ae1f00" SPACE="RGB" R="174" G="31" B="0"/>
+        <COLOR NAME="FromSVG#b10800" SPACE="RGB" R="177" G="8" B="0"/>
+        <COLOR NAME="FromSVG#b11800" SPACE="RGB" R="177" G="24" B="0"/>
+        <COLOR NAME="FromSVG#b15648" SPACE="RGB" R="177" G="86" B="72"/>
+        <COLOR NAME="FromSVG#b19ba4" SPACE="RGB" R="177" G="155" B="164"/>
+        <COLOR NAME="FromSVG#b48e74" SPACE="RGB" R="180" G="142" B="116"/>
+        <COLOR NAME="FromSVG#b7ada8" SPACE="RGB" R="183" G="173" B="168"/>
+        <COLOR NAME="FromSVG#ba7468" SPACE="RGB" R="186" G="116" B="104"/>
+        <COLOR NAME="FromSVG#bc9579" SPACE="RGB" R="188" G="149" B="121"/>
+        <COLOR NAME="FromSVG#bd6339" SPACE="RGB" R="189" G="99" B="57"/>
+        <COLOR NAME="FromSVG#c09b81" SPACE="RGB" R="192" G="155" B="129"/>
+        <COLOR NAME="FromSVG#c2c2c2" SPACE="RGB" R="194" G="194" B="194"/>
+        <COLOR NAME="FromSVG#c6cbd3" SPACE="RGB" R="198" G="203" B="211"/>
+        <COLOR NAME="FromSVG#c8c49d" SPACE="RGB" R="200" G="196" B="157"/>
+        <COLOR NAME="FromSVG#c8c8b4" SPACE="RGB" R="200" G="200" B="180"/>
+        <COLOR NAME="FromSVG#c9ab58" SPACE="RGB" R="201" G="171" B="88"/>
+        <COLOR NAME="FromSVG#ccccff" SPACE="RGB" R="204" G="204" B="255"/>
+        <COLOR NAME="FromSVG#cf8832" SPACE="RGB" R="207" G="136" B="50"/>
+        <COLOR NAME="FromSVG#d50b00" SPACE="RGB" R="213" G="11" B="0"/>
+        <COLOR NAME="FromSVG#d5b28d" SPACE="RGB" R="213" G="178" B="141"/>
+        <COLOR NAME="FromSVG#d6d7eb" SPACE="RGB" R="214" G="215" B="235"/>
+        <COLOR NAME="FromSVG#d8556d" SPACE="RGB" R="216" G="85" B="109"/>
+        <COLOR NAME="FromSVG#d9bc98" SPACE="RGB" R="217" G="188" B="152"/>
+        <COLOR NAME="FromSVG#db7093" SPACE="RGB" R="219" G="112" B="147"/>
+        <COLOR NAME="FromSVG#ddd8cd" SPACE="RGB" R="221" G="216" B="205"/>
+        <COLOR NAME="FromSVG#dee6c4" SPACE="RGB" R="222" G="230" B="196"/>
+        <COLOR NAME="FromSVG#dfc19b" SPACE="RGB" R="223" G="193" B="155"/>
+        <COLOR NAME="FromSVG#e4691b" SPACE="RGB" R="228" G="105" B="27"/>
+        <COLOR NAME="FromSVG#e65000" SPACE="RGB" R="230" G="80" B="0"/>
+        <COLOR NAME="FromSVG#e7baa5" SPACE="RGB" R="231" G="186" B="165"/>
+        <COLOR NAME="FromSVG#e9ccd1" SPACE="RGB" R="233" G="204" B="209"/>
+        <COLOR NAME="FromSVG#e9d048" SPACE="RGB" R="233" G="208" B="72"/>
+        <COLOR NAME="FromSVG#ebcfb8" SPACE="RGB" R="235" G="207" B="184"/>
+        <COLOR NAME="FromSVG#eed1ad" SPACE="RGB" R="238" G="209" B="173"/>
+        <COLOR NAME="FromSVG#eee8aa" SPACE="RGB" R="238" G="232" B="170"/>
+        <COLOR NAME="FromSVG#fae78b" SPACE="RGB" R="250" G="231" B="139"/>
+        <COLOR NAME="FromSVG#fbf4a6" SPACE="RGB" R="251" G="244" B="166"/>
+        <COLOR NAME="FromSVG#fcf6ea" SPACE="RGB" R="252" G="246" B="234"/>
+        <COLOR NAME="FromSVG#ff002a" SPACE="RGB" R="255" G="0" B="42"/>
+        <COLOR NAME="FromSVG#ffb37a" SPACE="RGB" R="255" G="179" B="122"/>
+        <COLOR NAME="FromSVG#ffc499" SPACE="RGB" R="255" G="196" B="153"/>
+        <COLOR NAME="FromSVG#ffe074" SPACE="RGB" R="255" G="224" B="116"/>
+        <COLOR NAME="FromSVG#ffedb0" SPACE="RGB" R="255" G="237" B="176"/>
+        <COLOR NAME="FromSVG#fff4ce" SPACE="RGB" R="255" G="244" B="206"/>
+        <COLOR NAME="FromSVG#fff7dd" SPACE="RGB" R="255" G="247" B="221"/>
+        <COLOR NAME="FromSVG#ffffff" SPACE="RGB" R="255" G="255" B="255"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="jelo pimeja" SPACE="RGB" R="102" G="85" B="0"/>
+        <COLOR NAME="jelo sin" SPACE="RGB" R="255" G="255" B="170"/>
+        <COLOR NAME="jelo walo" SPACE="RGB" R="255" G="255" B="170"/>
+        <COLOR NAME="kapesi" SPACE="RGB" R="85" G="85" B="85"/>
+        <COLOR NAME="kapesi ante" SPACE="RGB" R="170" G="170" B="170"/>
+        <COLOR NAME="kapesi pimeja" SPACE="RGB" R="51" G="51" B="51"/>
+        <COLOR NAME="kapesi walo" SPACE="RGB" R="238" G="238" B="238"/>
+        <COLOR NAME="kapesi walo pimeja" SPACE="RGB" R="153" G="102" B="51"/>
+        <COLOR NAME="laso pimeja" SPACE="RGB" R="17" G="68" B="68"/>
+        <COLOR NAME="laso walo" SPACE="RGB" R="170" G="238" B="221"/>
+        <COLOR NAME="laso waso" SPACE="RGB" R="0" G="102" B="136"/>
+        <COLOR NAME="loje pimeja" SPACE="RGB" R="170" G="17" B="17"/>
+        <COLOR NAME="loje walo" SPACE="RGB" R="255" G="204" B="204"/>
+        <COLOR NAME="pimeja lili" SPACE="RGB" R="90" G="90" B="90"/>
+        <COLOR NAME="unu pimeja" SPACE="RGB" R="51" G="51" B="204"/>
+        <COLOR NAME="unu walo" SPACE="RGB" R="204" G="204" B="255"/>
+        <Gradient Name="c" Ext="0">
+            <CSTOP RAMP="0.26276" NAME="FromSVG#460e03" SHADE="100" TRANS="0.62917"/>
+            <CSTOP RAMP="0.77551" NAME="FromSVG#460e03" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="g" Ext="0">
+            <CSTOP RAMP="0.26276" NAME="FromSVG#ffffff" SHADE="100" TRANS="0.47083"/>
+            <CSTOP RAMP="0.77551" NAME="FromSVG#ffffff" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="a" Ext="0">
+            <CSTOP RAMP="0.26276" NAME="FromSVG#b11800" SHADE="100" TRANS="0.78333"/>
+            <CSTOP RAMP="0.77551" NAME="FromSVG#b11800" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="bv" Ext="0">
+            <CSTOP RAMP="0.17269" NAME="FromSVG#460e03" SHADE="100" TRANS="0.77632"/>
+            <CSTOP RAMP="1" NAME="FromSVG#460e03" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="bw" Ext="0">
+            <CSTOP RAMP="0.17269" NAME="FromSVG#ffffff" SHADE="100" TRANS="0.77368"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffffff" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="b" Ext="0">
+            <CSTOP RAMP="0.26276" NAME="FromSVG#ffffff" SHADE="100" TRANS="0.78333"/>
+            <CSTOP RAMP="0.77551" NAME="FromSVG#ffffff" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="bx" Ext="0">
+            <CSTOP RAMP="0.17269" NAME="FromSVG#b11800" SHADE="100" TRANS="0.78431"/>
+            <CSTOP RAMP="1" NAME="FromSVG#b11800" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="linearGradient33415" Ext="0">
+            <CSTOP RAMP="0" NAME="FromSVG#eee8aa" SHADE="100" TRANS="1"/>
+            <CSTOP RAMP="1" NAME="FromSVG#98fb98" SHADE="100" TRANS="1"/>
+        </Gradient>
+        <Gradient Name="bs" Ext="0">
+            <CSTOP RAMP="0.17269" NAME="FromSVG#982929" SHADE="100" TRANS="0.77632"/>
+            <CSTOP RAMP="1" NAME="FromSVG#982929" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <Gradient Name="bt" Ext="0">
+            <CSTOP RAMP="0.17269" NAME="FromSVG#ffffff" SHADE="100" TRANS="0.77632"/>
+            <CSTOP RAMP="1" NAME="FromSVG#ffffff" SHADE="100" TRANS="0"/>
+        </Gradient>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Andika Regular" FONTSIZE="8.5" FONTFEATURES="-clig,+ss01" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="lawa" FONT="Bricolage Grotesque 48pt SemiCondensed Medium" FONTSIZE="19.8" FONTFEATURES="-clig,-liga" LANGUAGE="en_GB"/>
+        <CHARSTYLE CNAME="jan pali" CPARENT="Default Character Style" FONT="Bricolage Grotesque Medium" FONTSIZE="9.9"/>
+        <CHARSTYLE CNAME="toki lili poka" CPARENT="Default Character Style" FONTSIZE="7.1" FCOLOR="kapesi"/>
+        <CHARSTYLE CNAME="jan pali la nimi" CPARENT="jan pali" FONT="Bricolage Grotesque Bold" FONTFEATURES="-clig,-liga"/>
+        <CHARSTYLE CNAME="toki wawa" CPARENT="Default Character Style" FONT="Andika Bold" FONTFEATURES="-clig,+ss01" FCOLOR="kapesi ante"/>
+        <CHARSTYLE CNAME="nanpa lili sewi" CPARENT="Default Character Style" FCOLOR="kapesi"/>
+        <CHARSTYLE CNAME="toki pi lipu open" CPARENT="Default Character Style" FONTSIZE="11.3"/>
+        <CHARSTYLE CNAME="toki pi lipu open la nimi open" CPARENT="toki pi lipu open" FONT="Andika Bold" FONTFEATURES="-clig,+ss01" FCOLOR="laso waso"/>
+        <CHARSTYLE CNAME="jan sitelen la nimi" CPARENT="jan pali" FONT="Bricolage Grotesque SemiCondensed Bold"/>
+        <CHARSTYLE CNAME="Default Character Style (2)" FONT="Liberation Sans Regular" FONTSIZE="8.5" FONTFEATURES="-clig" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_GB"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="12.755905511811" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6.37795275590551" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" OpticalMargins="0" HyphenConsecutiveLines="0" KeepLinesEnd="1" BCOLOR="None" BSHADE="100" CPARENT="Default Character Style">
+            <Tabs Type="0" Pos="14.1732283464567" Fill=""/>
+            <Tabs Type="0" Pos="28.3464566929134" Fill=""/>
+        </STYLE>
+        <STYLE NAME="lawa" LINESP="18.4251968503937" CPARENT="lawa"/>
+        <STYLE NAME="jan pali" LINESP="12.755905511811" NACH="0" KeepWithNext="1" KeepTogether="1" CPARENT="jan pali"/>
+        <STYLE NAME="toki lili poka" PARENT="Default Paragraph Style" LINESP="11.3385826771654" INDENT="4.53543307086614" FIRST="-4.53543307086614" NACH="5.66929133858268" CPARENT="toki lili poka"/>
+        <STYLE NAME="jo" PARENT="Default Paragraph Style" INDENT="21.259842519685" FIRST="-21.259842519685" CPARENT="Default Character Style">
+            <Tabs Type="0" Pos="21.259842519685" Fill=""/>
+        </STYLE>
+        <STYLE NAME="toki pi lipu open" PARENT="Default Paragraph Style" LINESP="14.1732283464567" NACH="6.37795275590551" CPARENT="toki pi lipu open"/>
+        <STYLE NAME="toki open" PARENT="Default Paragraph Style" LINESP="12.755905511811" NACH="6.37795275590551"/>
+        <STYLE NAME="toki open suli" PARENT="toki open" ALIGN="1" LINESP="21.259842519685"/>
+        <STYLE NAME="nanpa lipu" ALIGN="1" CPARENT="lawa" FONT="Bricolage Grotesque 24pt SemiCondensed Medium" FONTSIZE="22.7"/>
+        <STYLE NAME="poki" PARENT="Default Paragraph Style" INDENT="14.1732283464567" RMARGIN="14.1732283464567"/>
+        <STYLE NAME="poki lili" PARENT="poki" RMARGIN="0"/>
+        <STYLE NAME="jan sitelen" PARENT="jan pali" FONT="Bricolage Grotesque Condensed Medium"/>
+        <STYLE NAME="Default Paragraph Style (2)" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="14.1732283464567" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="7.08661417322835" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" OpticalMargins="0" HyphenConsecutiveLines="0" KeepLinesEnd="1" BCOLOR="None" BSHADE="100" CPARENT="Default Character Style"/>
+        <STYLE NAME="Default Paragraph Style (3)" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="12.755905511811" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="6.37795275590551" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" OpticalMargins="0" HyphenConsecutiveLines="0" KeepLinesEnd="1" BCOLOR="None" BSHADE="100" CPARENT="Default Character Style">
+            <Tabs Type="0" Pos="62.3622047244095" Fill=""/>
+            <Tabs Type="0" Pos="99.2125984251969" Fill=""/>
+        </STYLE>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0013" markOffset="0" BleedTop="8.50393700787402" BleedLeft="0" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" printer="File" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="1" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Andika Regular"/>
+            <Subset Name="Andika Bold"/>
+            <Subset Name="Andika Italic"/>
+            <Subset Name="Bricolage Grotesque 24pt SemiCondensed Medium"/>
+            <Subset Name="Bricolage Grotesque 48pt SemiCondensed ExtraBold"/>
+            <Subset Name="Bricolage Grotesque 48pt SemiCondensed Medium"/>
+            <Subset Name="Bricolage Grotesque Medium"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes>
+            <ItemAttribute Name="lawa" Type="string" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+        </DocItemAttributes>
+        <TablesOfContents>
+            <TableOfContents Name="jo" ItemAttributeName="lawa" FrameName="poki_jo" ListNonPrinting="0" Style="jo" NumberPlacement="Beginning"/>
+        </TablesOfContents>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="1" Type="Type_1_2_3" Range="2" Prefix="" Suffix="" AutoHeight="0" AutoWidth="0" AutoRemove="1" AutoWeld="0" SuperNote="1" SuperMaster="1" MarksStyle="nanpa lili sewi" NotesStyle="toki lili poka"/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="lipu ali" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="Normal Left" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="Normal Right" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="walo sinpin" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="walo monsi" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="walo selo monsi" MNAM="" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTERPAGE PAGEXPOS="141.732283464567" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="5" NAM="walo selo sinpin" MNAM="" Size="A5" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="28.3465 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="28.3464566929134" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="0" NAM="" MNAM="walo selo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 391.181 428.031 " HorizontalGuides="-8.50394 603.78 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="680.314960629921" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="1" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="680.314960629921" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="2" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="1332.28346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="3" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="1332.28346456693" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="4" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="1984.25196850394" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="5" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="1984.25196850394" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="6" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="2636.22047244094" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="7" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="2636.22047244094" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="8" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="3288.18897637795" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="9" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="3288.18897637795" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="10" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="3940.15748031496" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="11" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="3940.15748031496" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="12" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="4592.12598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="13" NAM="" MNAM="walo monsi" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="36.8504 206.929 221.102 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="561.259842519685" PAGEYPOS="4592.12598425197" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="36.8503937007874" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="14" NAM="" MNAM="walo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 198.425 212.598 382.677 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="141.732283464567" PAGEYPOS="5244.09448818898" PAGEWIDTH="419.527559055118" PAGEHEIGHT="595.275590551181" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" NUM="15" NAM="" MNAM="walo selo sinpin" Size="A5" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="28.3465 391.181 " HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="1" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="206.124131610029" YPOS="5304.06236220472" OwnPage="15" ItemID="2081486751" PTYPE="12" WIDTH="61.8383170949025" HEIGHT="39" FRTYPE="0" CLIPEDIT="0" ANNAME="Group148" LOCK="1" groupWidth="61.8383170949025" groupHeight="39" groupClips="1" path="M0 0 L61.8383 0 L61.8383 39 L0 39 L0 0 Z" copath="M0 0 L61.8383 0 L61.8383 39 L0 39 L0 0 Z" gXpos="206.124131610029" gYpos="5304.06236220472" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="164.392478066722" YPOS="5162.17133858267" OwnPage="15" ItemID="2081450783" PTYPE="6" WIDTH="61.8383170949025" HEIGHT="39" FRTYPE="3" CLIPEDIT="1" PWIDTH="5.67189466537323" PCOLOR="laso pimeja" PLINEART="1" PLINEEND="32" PLINEJOIN="128" ANNAME=" path50" TEXTFLOWMODE="1" path="M46.7803 2.00517 C58.2153 5.30137 61.5418 13.4051 61.8193 20.5068 C62.0968 27.6085 59.3253 33.7073 54.2089 36.5895 C49.0925 39.4716 41.6312 39.1372 34.0698 37.6621 C26.5083 36.187 18.8467 33.5714 13.9598 34.5446 C9.07289 35.5176 6.96079 40.0795 4.55287 38.7636 C2.14496 37.4477 -0.558476 30.2547 0.100656 22.9415 C0.759887 15.6282 4.78188 8.19511 14.4737 3.88446 C24.1655 -0.426189 35.3451 -1.29093 46.7803 2.00517 Z" copath="M15.058 2.00517 C3.62298 5.30137 0.296553 13.4051 0.019003 20.5068 C-0.258448 27.6085 2.51298 33.7073 7.62939 36.5895 C12.7458 39.4716 20.2071 39.1372 27.7686 37.6621 C35.33 36.187 42.9916 33.5714 47.8785 34.5446 C52.7654 35.5176 54.8775 40.0795 57.2854 38.7636 C59.6934 37.4477 62.3968 30.2547 61.7377 22.9415 C61.0784 15.6282 57.0564 8.19511 47.3646 3.88446 C37.6728 -0.426189 26.4932 -1.29093 15.058 2.00517 Z" fillRule="0" gXpos="0" gYpos="0" gWidth="61.8383170949025" gHeight="39" LAYER="0"/>
+            <PAGEOBJECT XPOS="180.935536500207" YPOS="5174.26309590051" OwnPage="15" ItemID="2081479535" PTYPE="4" WIDTH="34.1900041442192" HEIGHT="20.3300787401575" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L34.19 0 L34.19 20.3301 L0 20.3301 L0 0 Z" copath="M0 0 L34.19 0 L34.19 20.3301 L0 20.3301 L0 0 Z" gXpos="16.543058433485" gYpos="12.0917573178394" gWidth="61.8383170949025" gHeight="39" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+                <StoryText>
+                    <DefaultStyle FONT="Bricolage Grotesque 48pt SemiCondensed ExtraBold" FCOLOR="White"/>
+                    <ITEXT FONT="Bricolage Grotesque 48pt SemiCondensed ExtraBold" FCOLOR="White" CH="FAQ"/>
+                    <trail PARENT="lawa"/>
+                </StoryText>
+            </PAGEOBJECT>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="419.527559055118" YPOS="739.1168503937" OwnPage="1" ItemID="2081446111" PTYPE="4" WIDTH="113.385826771654" HEIGHT="508.127244094489" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="poki_jo" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L113.386 0 L113.386 508.127 L0 508.127 L0 0 Z" copath="M0 0 L113.386 0 L113.386 508.127 L0 508.127 L0 0 Z" gXpos="419.527559055118" gYpos="739.1168503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="3"/>
+                <tab/>
+                <ITEXT CH="toki lili nanpa wan"/>
+                <breakline/>
+                <para PARENT="jo"/>
+                <ITEXT CH="3"/>
+                <tab/>
+                <ITEXT CH="toki nanpa tu"/>
+                <breakline/>
+                <ITEXT CH="li suli ete"/>
+                <para PARENT="jo"/>
+                <ITEXT CH="3"/>
+                <tab/>
+                <ITEXT CH="toki ni li suli a"/>
+                <breakline/>
+                <ITEXT CH="li jo e supa"/>
+                <breakline/>
+                <ITEXT CH="pi mute ali"/>
+                <breakline/>
+                <para PARENT="jo"/>
+                <ITEXT CH="3"/>
+                <tab/>
+                <ITEXT CH="toki ni"/>
+                <breakline/>
+                <ITEXT CH="li lon kulupu kama"/>
+                <para PARENT="jo"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="419.527559055118" YPOS="708.661417322834" OwnPage="1" ItemID="2081666159" PTYPE="4" WIDTH="113.385826771654" HEIGHT="30.4554330708661" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L113.386 0 L113.386 30.4554 L0 30.4554 L0 0 Z" copath="M0 0 L113.386 0 L113.386 30.4554 L0 30.4554 L0 0 Z" gXpos="419.527559055118" gYpos="708.661417322834" gWidth="0" gHeight="0" PSTYLE="lawa" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="lawa" BASEO="20"/>
+                <ITEXT BASEO="20" CH="jo"/>
+                <para PARENT="lawa"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="935.15752175715" OwnPage="1" ItemID="2081681247" PTYPE="4" WIDTH="127.559055118111" HEIGHT="312.086572731038" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L127.559 0 L127.559 312.087 L0 312.087 L0 0 Z" copath="M0 0 L127.559 0 L127.559 312.087 L0 312.087 L0 0 Z" gXpos="178.582677165354" gYpos="935.15752175715" gWidth="0" gHeight="0" PSTYLE="toki pi lipu open" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="toki pi lipu open"/>
+                <ITEXT CPARENT="toki pi lipu open la nimi open" FCOLOR="unu pimeja" CH="o"/>
+                <nbspace CPARENT="toki pi lipu open la nimi open" FCOLOR="unu pimeja"/>
+                <ITEXT CPARENT="toki pi lipu open la nimi open" FCOLOR="unu pimeja" CH="kama pona"/>
+                <breakline/>
+                <ITEXT CH="lon lipu tenpo ni!"/>
+                <breakline/>
+                <ITEXT CH="mi mu e mu lili"/>
+                <breakline/>
+                <ITEXT CH="lon open ona:"/>
+                <breakline/>
+                <ITEXT CH="mu, mu mu mu."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+                <ITEXT CH="taso mu ni taso ala"/>
+                <breakline/>
+                <ITEXT CH="li lon! o lukin"/>
+                <breakline/>
+                <ITEXT CH="e insa pi lipu tenpo ni."/>
+                <breakline/>
+                <ITEXT CH="jan mute ante"/>
+                <breakline/>
+                <ITEXT CH="li mu anu toki."/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+                <ITEXT CH="ni la o musi pona"/>
+                <breakline/>
+                <ITEXT CH="kepeken lipu tenpo!"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+                <ITEXT CPARENT="toki pi lipu open la nimi open" FCOLOR="unu pimeja" CH="– jan Sonatan"/>
+                <para ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="215.360385940737" YPOS="5638.26897637796" OwnPage="15" ItemID="2081802175" PTYPE="4" WIDTH="276.915902308042" HEIGHT="128.786114829062" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L276.916 0 L276.916 128.786 L0 128.786 L0 0 Z" copath="M0 0 L276.916 0 L276.916 128.786 L0 128.786 L0 0 Z" gXpos="634.887944995855" gYpos="5002.99370078741" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Do you want to contribute?"/>
+                <breakline/>
+                <ITEXT CH="That’s great! You can join us on"/>
+                <breakline/>
+                <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="liputenpo.org"/>
+                <ITEXT CH=". We communicate"/>
+                <breakline/>
+                <ITEXT CH="in"/>
+                <nbspace/>
+                <ITEXT CH="a Discord server."/>
+                <para/>
+                <ITEXT CH="sina wile pali tawa lipu tenpo la"/>
+                <breakline/>
+                <ITEXT CH="o"/>
+                <nbspace/>
+                <ITEXT CH="tawa lipu "/>
+                <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="liputenpo.org"/>
+                <nbspace/>
+                <ITEXT CH="· lon"/>
+                <breakline/>
+                <ITEXT CH="ona la sina ken tawa ma mi"/>
+                <nbspace/>
+                <ITEXT CH="· jan"/>
+                <breakline/>
+                <ITEXT CH="pali li"/>
+                <nbspace/>
+                <ITEXT CH="toki lon ona"/>
+                <nbspace/>
+                <ITEXT CH="· sina kama"/>
+                <breakline/>
+                <ITEXT CH="lon kulupu la ni li"/>
+                <nbspace/>
+                <ITEXT CH="pona"/>
+                <nbspace/>
+                <ITEXT CH="a"/>
+                <nbspace/>
+                <ITEXT CH="·"/>
+                <breakcol/>
+                <ITEXT CH="All text and images in this document are licenced under"/>
+                <breakline/>
+                <ITEXT CH="a "/>
+                <ITEXT CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc,+ss01" FCOLOR="laso pimeja" CH="CC BY-SA"/>
+                <nbspace CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc,+ss01" FCOLOR="laso pimeja"/>
+                <ITEXT CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc,+ss01" FCOLOR="laso pimeja" CH="4.0"/>
+                <ITEXT CH=" licence, unless indicated otherwise."/>
+                <para wordTrack="0.99"/>
+                <ITEXT CH="sina wile pana anu ante e"/>
+                <nbspace/>
+                <ITEXT CH="ijo pi"/>
+                <breakline/>
+                <ITEXT CH="lipu ni la o"/>
+                <nbspace/>
+                <ITEXT CH="lon nasin"/>
+                <nbspace/>
+                <ITEXT CH="· nimi nasin"/>
+                <breakline/>
+                <ITEXT CH="li"/>
+                <nbspace/>
+                <ITEXT CH="lon poka pi ijo ni la o"/>
+                <nbspace/>
+                <ITEXT CH="lon ona"/>
+                <nbspace/>
+                <ITEXT CH="·"/>
+                <breakline/>
+                <ITEXT CH="tawa ijo ali ante pi lipu ni la"/>
+                <breakline/>
+                <ITEXT CH="o"/>
+                <nbspace/>
+                <ITEXT CH="lon nasin "/>
+                <ITEXT CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc" FCOLOR="laso pimeja" CH="CC BY-SA"/>
+                <nbspace CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc" FCOLOR="laso pimeja"/>
+                <ITEXT CPARENT="toki wawa" FONTFEATURES="-clig,+c2sc" FCOLOR="laso pimeja" CH="4.0"/>
+                <nbspace/>
+                <ITEXT CH="·"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="164.878986264218" YPOS="937.988677994197" OwnPage="1" ItemID="2081615167" PTYPE="7" WIDTH="8.0343995625542" HEIGHT="12" FRTYPE="3" CLIPEDIT="1" PWIDTH="7.08661417322835" PCOLOR="unu pimeja" PLINEART="1" ANNAME="Copy of  path143" TEXTFLOWMODE="1" path="M4.02885 0 C3.97199 0.0177534 3.80518 0.0285629 3.6878 0.10617 C3.50213 0.228962 3.18787 0.460529 3.10255 0.791287 C2.95695 1.35576 3.32815 3.01984 3.62448 3.3797 C3.75313 3.53598 4.00382 3.53346 4.0798 3.56394 C4.15478 3.531 4.40531 3.52608 4.52927 3.36602 C4.81518 2.99756 5.13867 1.32348 4.97695 0.763541 C4.88223 0.43546 4.56154 0.213436 4.37242 0.0961836 C4.25289 0.0220487 4.08604 0.016107 4.02885 5.74213e-14 L4.02885 0 M6.9849 0.449096 C6.92569 0.451246 6.86926 0.45955 6.82148 0.479093 C6.59479 0.57169 6.35936 0.802369 6.21076 1.11834 C5.96618 1.6384 5.79129 3.09689 5.92396 3.51476 C5.981 3.69437 6.17211 3.78792 6.2217 3.84252 C6.29437 3.83416 6.49866 3.89034 6.65735 3.7922 C7.02639 3.56399 7.83196 2.34368 7.98106 1.78753 C8.0717 1.44964 8.04171 1.11849 7.92973 0.897845 C7.83526 0.71189 7.52476 0.567674 7.44383 0.501643 C7.36601 0.498779 7.16248 0.443657 6.98487 0.449096 L6.9849 0.449096 M0.825276 0.79166 C0.668168 0.785933 0.493471 0.897314 0.426014 0.916694 C0.370937 0.968092 0.164576 1.07022 0.0977238 1.22485 C-0.00656947 1.46605 -0.0550961 1.94842 0.0949065 2.32762 C0.319925 2.89594 1.41251 3.99709 1.78768 4.11034 C1.93118 4.15364 2.07734 4.04248 2.13526 4.02894 C2.17688 3.98593 2.34653 3.91798 2.38567 3.7711 C2.48782 3.38708 2.13922 1.86401 1.7815 1.37098 C1.54274 1.04204 1.11292 0.830747 0.856308 0.794244 C0.846025 0.792812 0.835883 0.792098 0.825386 0.791381 L0.825276 0.79166 M4.39534 4.38371 C4.0928 4.38871 3.7707 4.4228 3.44434 4.50096 C2.97641 4.61309 2.48116 4.82065 2.03725 5.17871 C1.63871 5.50016 1.31219 5.89741 1.07422 6.34916 C0.843468 6.78722 0.700918 7.2669 0.652397 7.75897 C0.603942 8.25035 0.64958 8.74805 0.789243 9.22318 C0.932457 9.71158 1.17132 10.1657 1.49459 10.5623 C2.21512 11.4462 3.17575 11.8604 4.007 11.9685 C4.31815 12.0089 4.61327 12.0082 4.88524 11.9792 C5.06811 11.9597 5.25356 11.9266 5.43953 11.8778 C5.90471 11.756 6.36406 11.5381 6.77964 11.2035 C7.13075 10.9219 7.39329 10.558 7.57744 10.1754 C7.77422 9.76655 7.88508 9.33008 7.92719 8.9143 C7.97755 8.41747 7.93003 7.9573 7.82455 7.57699 C7.68355 7.06817 7.44423 6.72575 7.24585 6.60925 C7.01191 6.47179 6.72277 6.6911 6.63551 6.71136 L6.63513 6.71136 C6.56719 6.78892 6.27013 6.93215 6.20386 7.14565 C6.14997 7.3194 6.17779 7.56805 6.19258 7.89216 C6.2037 8.13587 6.2064 8.41196 6.16674 8.70824 C6.13335 8.95774 6.07259 9.19694 5.98112 9.40556 C5.89542 9.60106 5.79356 9.74513 5.68922 9.84024 C5.48265 10.0197 5.2517 10.1398 5.01082 10.205 C4.91406 10.2312 4.81624 10.2486 4.71855 10.2572 C4.57342 10.27 4.41359 10.2665 4.24359 10.2391 C3.78336 10.1647 3.26254 9.9124 2.8853 9.41782 C2.72125 9.20275 2.60579 8.96314 2.53916 8.71087 C2.47408 8.46452 2.45627 8.20787 2.48492 7.9551 C2.51359 7.70195 2.58866 7.45711 2.70514 7.23373 C2.82477 7.0043 2.98712 6.79889 3.18957 6.62557 C3.38276 6.45924 3.62141 6.33648 3.89492 6.2512 C4.20179 6.15546 4.53292 6.11298 4.85393 6.10136 C5.24849 6.08712 5.61783 6.12006 5.90359 6.14869 C6.26083 6.18456 6.49563 6.21355 6.65625 6.18347 C6.90192 6.13753 7.03735 5.89547 7.1174 5.84203 C7.11705 5.75627 7.24263 5.47769 7.07154 5.24682 C6.95966 5.09494 6.69884 4.90175 6.27665 4.72742 C5.93204 4.58519 5.46354 4.45243 4.91546 4.40298 C4.75119 4.38818 4.57687 4.38073 4.39534 4.38373 L4.39534 4.38371 " copath="M4.02885 0 C3.97199 0.0177534 3.80518 0.0285629 3.6878 0.10617 C3.50213 0.228962 3.18787 0.460529 3.10255 0.791287 C2.95695 1.35576 3.32815 3.01984 3.62448 3.3797 C3.75313 3.53598 4.00382 3.53346 4.0798 3.56394 C4.15478 3.531 4.40531 3.52608 4.52927 3.36602 C4.81518 2.99756 5.13867 1.32348 4.97695 0.763541 C4.88223 0.43546 4.56154 0.213436 4.37242 0.0961836 C4.25289 0.0220487 4.08604 0.016107 4.02885 5.74213e-14 L4.02885 0 Z M6.9849 0.449096 C6.92569 0.451246 6.86926 0.45955 6.82148 0.479093 C6.59479 0.57169 6.35936 0.802369 6.21076 1.11834 C5.96618 1.6384 5.79129 3.09689 5.92396 3.51476 C5.981 3.69437 6.17211 3.78792 6.2217 3.84252 C6.29437 3.83416 6.49866 3.89034 6.65735 3.7922 C7.02639 3.56399 7.83196 2.34368 7.98106 1.78753 C8.0717 1.44964 8.04171 1.11849 7.92973 0.897845 C7.83526 0.71189 7.52476 0.567674 7.44383 0.501643 C7.36601 0.498779 7.16248 0.443657 6.98487 0.449096 L6.9849 0.449096 Z M0.825276 0.79166 C0.668168 0.785933 0.493471 0.897314 0.426014 0.916694 C0.370937 0.968092 0.164576 1.07022 0.0977238 1.22485 C-0.00656947 1.46605 -0.0550961 1.94842 0.0949065 2.32762 C0.319925 2.89594 1.41251 3.99709 1.78768 4.11034 C1.93118 4.15364 2.07734 4.04248 2.13526 4.02894 C2.17688 3.98593 2.34653 3.91798 2.38567 3.7711 C2.48782 3.38708 2.13922 1.86401 1.7815 1.37098 C1.54274 1.04204 1.11292 0.830747 0.856308 0.794244 C0.846025 0.792812 0.835883 0.792098 0.825386 0.791381 L0.825276 0.79166 Z M4.39534 4.38371 C4.0928 4.38871 3.7707 4.4228 3.44434 4.50096 C2.97641 4.61309 2.48116 4.82065 2.03725 5.17871 C1.63871 5.50016 1.31219 5.89741 1.07422 6.34916 C0.843468 6.78722 0.700918 7.2669 0.652397 7.75897 C0.603942 8.25035 0.64958 8.74805 0.789243 9.22318 C0.932457 9.71158 1.17132 10.1657 1.49459 10.5623 C2.21512 11.4462 3.17575 11.8604 4.007 11.9685 C4.31815 12.0089 4.61327 12.0082 4.88524 11.9792 C5.06811 11.9597 5.25356 11.9266 5.43953 11.8778 C5.90471 11.756 6.36406 11.5381 6.77964 11.2035 C7.13075 10.9219 7.39329 10.558 7.57744 10.1754 C7.77422 9.76655 7.88508 9.33008 7.92719 8.9143 C7.97755 8.41747 7.93003 7.9573 7.82455 7.57699 C7.68355 7.06817 7.44423 6.72575 7.24585 6.60925 C7.01191 6.47179 6.72277 6.6911 6.63551 6.71136 L6.63513 6.71136 C6.56719 6.78892 6.27013 6.93215 6.20386 7.14565 C6.14997 7.3194 6.17779 7.56805 6.19258 7.89216 C6.2037 8.13587 6.2064 8.41196 6.16674 8.70824 C6.13335 8.95774 6.07259 9.19694 5.98112 9.40556 C5.89542 9.60106 5.79356 9.74513 5.68922 9.84024 C5.48265 10.0197 5.2517 10.1398 5.01082 10.205 C4.91406 10.2312 4.81624 10.2486 4.71855 10.2572 C4.57342 10.27 4.41359 10.2665 4.24359 10.2391 C3.78336 10.1647 3.26254 9.9124 2.8853 9.41782 C2.72125 9.20275 2.60579 8.96314 2.53916 8.71087 C2.47408 8.46452 2.45627 8.20787 2.48492 7.9551 C2.51359 7.70195 2.58866 7.45711 2.70514 7.23373 C2.82477 7.0043 2.98712 6.79889 3.18957 6.62557 C3.38276 6.45924 3.62141 6.33648 3.89492 6.2512 C4.20179 6.15546 4.53292 6.11298 4.85393 6.10136 C5.24849 6.08712 5.61783 6.12006 5.90359 6.14869 C6.26083 6.18456 6.49563 6.21355 6.65625 6.18347 C6.90192 6.13753 7.03735 5.89547 7.1174 5.84203 C7.11705 5.75627 7.24263 5.47769 7.07154 5.24682 C6.95966 5.09494 6.69884 4.90175 6.27665 4.72742 C5.93204 4.58519 5.46354 4.45243 4.91546 4.40298 C4.75119 4.38818 4.57687 4.38073 4.39534 4.38373 L4.39534 4.38371 Z" fillRule="0" gXpos="25.4689413823263" gYpos="47.3656858682142" gWidth="10.9370417322831" gHeight="10" LAYER="0"/>
+        <PAGEOBJECT XPOS="215.360385940737" YPOS="5356.19622047244" OwnPage="15" ItemID="2081605791" PTYPE="4" WIDTH="276.915902308042" HEIGHT="257.271386275384" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="14.1732283464567" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L276.916 0 L276.916 257.271 L0 257.271 L0 0 Z" copath="M0 0 L276.916 0 L276.916 257.271 L0 257.271 L0 0 Z" gXpos="215.360385940739" gYpos="4720.92094488189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="Hello!"/>
+                <ITEXT FCOLOR="laso pimeja" CH=" "/>
+                <ITEXT CH="You’re looking at "/>
+                <ITEXT FONT="Andika Italic" CH="lipu tenpo"/>
+                <ITEXT CH=","/>
+                <nbspace/>
+                <ITEXT CH="a magazine written in Toki Pona."/>
+                <breakline/>
+                <ITEXT CH="Maybe you’re new and want to know more about this lan­­guage. Great!"/>
+                <breakline/>
+                <ITEXT CH="This page hopes to answer some of your questions."/>
+                <para/>
+                <ITEXT CH="What is Toki Pona?"/>
+                <para PARENT="jan pali"/>
+                <ITEXT CH="Toki Pona is an elegant minimal lan­­guage. It was created by the"/>
+                <breakline/>
+                <ITEXT CH="Canadian linguist Sonja Lang in 2001. It has only got 14 letters and"/>
+                <breakline/>
+                <ITEXT CH="about 130 words."/>
+                <para/>
+                <ITEXT CH="Why would I learn Toki Pona?"/>
+                <para PARENT="jan pali"/>
+                <ITEXT CH="Despite how tiny the language is, it is still possible to describe any"/>
+                <breakline/>
+                <ITEXT CH="concept with it. This might fascinate you. Maybe you just want to take"/>
+                <breakline/>
+                <ITEXT CH="a break from the complex world we live in. Or perhaps you just want"/>
+                <breakline/>
+                <ITEXT CH="to talk to your friends without others knowing what you’re saying."/>
+                <para/>
+                <ITEXT CH="How can I learn Toki Pona, and where can I use it?"/>
+                <para PARENT="jan pali"/>
+                <ITEXT CH="There is the official book: "/>
+                <ITEXT FONT="Andika Italic" CH="Toki Pona: The Language of Good"/>
+                <ITEXT CH=" by Sonja"/>
+                <breakline/>
+                <ITEXT CH="Lang. It teaches how to use Toki Pona. Sonja made"/>
+                <nbspace/>
+                <ITEXT CH="a "/>
+                <ITEXT FONT="Andika Italic" CH="Toki Pona"/>
+                <breakline/>
+                <ITEXT FONT="Andika Italic" CH="Dictionary"/>
+                <ITEXT CH=" too. There are also several free online courses. You can"/>
+                <breakline/>
+                <ITEXT CH="find Toki Pona groups and learning resources on "/>
+                <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="tokipona.org"/>
+                <ITEXT CH=", the"/>
+                <breakline/>
+                <ITEXT CH="official website, as well as on our own website: "/>
+                <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="liputenpo.org"/>
+                <ITEXT CH="."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="206.124131610029" YPOS="5358.06236220472" OwnPage="15" ItemID="2081781535" PTYPE="7" WIDTH="6.53544999999982" HEIGHT="9.99999999999962" FRTYPE="3" CLIPEDIT="1" PWIDTH="7.08661417322835" PCOLOR="laso pimeja" PLINEART="1" ANNAME=" path143" TEXTFLOWMODE="1" LOCK="1" path="M3.2772 0 C3.23095 0.0147945 3.09526 0.0238024 2.99978 0.0884748 C2.84875 0.190802 2.59312 0.383774 2.52372 0.659406 C2.40528 1.1298 2.70723 2.51653 2.94827 2.81642 C3.05292 2.94665 3.25684 2.94455 3.31865 2.96995 C3.37964 2.9425 3.58343 2.9384 3.68426 2.80502 C3.91683 2.49797 4.17997 1.1029 4.04842 0.636284 C3.97137 0.362883 3.71051 0.177863 3.55667 0.080153 C3.45944 0.0183739 3.32372 0.0134225 3.2772 4.78511e-14 L3.2772 0 M5.68175 0.374247 C5.63359 0.376038 5.58769 0.382958 5.54882 0.399244 C5.36442 0.476408 5.17292 0.668641 5.05204 0.931948 C4.85309 1.36533 4.71083 2.58074 4.81875 2.92897 C4.86515 3.07864 5.0206 3.1566 5.06094 3.2021 C5.12005 3.19513 5.28623 3.24195 5.41531 3.16017 C5.7155 2.96999 6.37078 1.95307 6.49206 1.48961 C6.56579 1.20803 6.5414 0.932079 6.45031 0.748204 C6.37346 0.593242 6.12089 0.473062 6.05506 0.418036 C5.99176 0.415649 5.8262 0.369714 5.68173 0.374247 L5.68175 0.374247 M0.671307 0.659717 C0.54351 0.654944 0.401406 0.747762 0.346534 0.763912 C0.301733 0.806743 0.133872 0.891853 0.0794918 1.02071 C-0.00534383 1.22171 -0.044817 1.62368 0.0772001 1.93968 C0.260238 2.41328 1.14898 3.33091 1.45416 3.42528 C1.57089 3.46137 1.68978 3.36873 1.73689 3.35745 C1.77075 3.32161 1.90875 3.26498 1.94058 3.14258 C2.02368 2.82257 1.74011 1.55334 1.44913 1.14248 C1.25492 0.868363 0.905287 0.692289 0.69655 0.66187 C0.688185 0.660677 0.679935 0.660082 0.671397 0.659484 L0.671307 0.659717 M3.57532 3.65309 C3.32922 3.65726 3.06721 3.68567 2.80174 3.7508 C2.42111 3.84424 2.01826 4.01721 1.65717 4.31559 C1.33298 4.58347 1.06738 4.91451 0.87381 5.29097 C0.686105 5.65602 0.57015 6.05575 0.530682 6.46581 C0.491267 6.87529 0.52839 7.29004 0.641997 7.68598 C0.758492 8.09298 0.952792 8.47143 1.21575 8.80194 C1.80185 9.5385 2.58326 9.88364 3.25943 9.97371 C3.51253 10.0074 3.75259 10.0068 3.97382 9.98266 C4.12257 9.96643 4.27342 9.93882 4.4247 9.8982 C4.80309 9.79668 5.17674 9.61508 5.51479 9.33621 C5.80039 9.10158 6.01395 8.79832 6.16374 8.47951 C6.32381 8.13879 6.41399 7.77507 6.44824 7.42858 C6.48921 7.01456 6.45055 6.63108 6.36475 6.31416 C6.25006 5.89014 6.05539 5.60479 5.89402 5.50771 C5.70372 5.39316 5.46853 5.57592 5.39755 5.5928 L5.39724 5.5928 C5.34197 5.65743 5.10033 5.77679 5.04643 5.95471 C5.00259 6.0995 5.02522 6.30671 5.03725 6.5768 C5.0463 6.77989 5.04849 7.00997 5.01623 7.25687 C4.98907 7.46478 4.93965 7.66412 4.86524 7.83797 C4.79553 8.00088 4.71268 8.12094 4.6278 8.2002 C4.45977 8.34975 4.27191 8.4498 4.07597 8.50415 C3.99726 8.526 3.91769 8.5405 3.83823 8.54765 C3.72017 8.55832 3.59016 8.5554 3.45188 8.53257 C3.07751 8.47059 2.65386 8.26033 2.347 7.84818 C2.21356 7.66896 2.11964 7.46928 2.06544 7.25906 C2.0125 7.05377 1.99801 6.83989 2.02132 6.62925 C2.04464 6.41829 2.1057 6.21426 2.20045 6.02811 C2.29776 5.83692 2.42982 5.66574 2.5945 5.52131 C2.75165 5.3827 2.94578 5.2804 3.16826 5.20933 C3.41788 5.12955 3.68723 5.09415 3.94835 5.08447 C4.2693 5.0726 4.56973 5.10005 4.80218 5.12391 C5.09277 5.1538 5.28376 5.17796 5.41442 5.15289 C5.61425 5.11461 5.72442 4.91289 5.78953 4.86836 C5.78925 4.79689 5.8914 4.56474 5.75223 4.37235 C5.66122 4.24578 5.44906 4.08479 5.10564 3.93952 C4.82532 3.82099 4.44423 3.71036 3.9984 3.66915 C3.86478 3.65682 3.72298 3.65061 3.57532 3.65311 L3.57532 3.65309 " copath="M3.2772 0 C3.23095 0.0147945 3.09526 0.0238024 2.99978 0.0884748 C2.84875 0.190802 2.59312 0.383774 2.52372 0.659406 C2.40528 1.1298 2.70723 2.51653 2.94827 2.81642 C3.05292 2.94665 3.25684 2.94455 3.31865 2.96995 C3.37964 2.9425 3.58343 2.9384 3.68426 2.80502 C3.91683 2.49797 4.17997 1.1029 4.04842 0.636284 C3.97137 0.362883 3.71051 0.177863 3.55667 0.080153 C3.45944 0.0183739 3.32372 0.0134225 3.2772 4.78511e-14 L3.2772 0 Z M5.68175 0.374247 C5.63359 0.376038 5.58769 0.382958 5.54882 0.399244 C5.36442 0.476408 5.17292 0.668641 5.05204 0.931948 C4.85309 1.36533 4.71083 2.58074 4.81875 2.92897 C4.86515 3.07864 5.0206 3.1566 5.06094 3.2021 C5.12005 3.19513 5.28623 3.24195 5.41531 3.16017 C5.7155 2.96999 6.37078 1.95307 6.49206 1.48961 C6.56579 1.20803 6.5414 0.932079 6.45031 0.748204 C6.37346 0.593242 6.12089 0.473062 6.05506 0.418036 C5.99176 0.415649 5.8262 0.369714 5.68173 0.374247 L5.68175 0.374247 Z M0.671307 0.659717 C0.54351 0.654944 0.401406 0.747762 0.346534 0.763912 C0.301733 0.806743 0.133872 0.891853 0.0794918 1.02071 C-0.00534383 1.22171 -0.044817 1.62368 0.0772001 1.93968 C0.260238 2.41328 1.14898 3.33091 1.45416 3.42528 C1.57089 3.46137 1.68978 3.36873 1.73689 3.35745 C1.77075 3.32161 1.90875 3.26498 1.94058 3.14258 C2.02368 2.82257 1.74011 1.55334 1.44913 1.14248 C1.25492 0.868363 0.905287 0.692289 0.69655 0.66187 C0.688185 0.660677 0.679935 0.660082 0.671397 0.659484 L0.671307 0.659717 Z M3.57532 3.65309 C3.32922 3.65726 3.06721 3.68567 2.80174 3.7508 C2.42111 3.84424 2.01826 4.01721 1.65717 4.31559 C1.33298 4.58347 1.06738 4.91451 0.87381 5.29097 C0.686105 5.65602 0.57015 6.05575 0.530682 6.46581 C0.491267 6.87529 0.52839 7.29004 0.641997 7.68598 C0.758492 8.09298 0.952792 8.47143 1.21575 8.80194 C1.80185 9.5385 2.58326 9.88364 3.25943 9.97371 C3.51253 10.0074 3.75259 10.0068 3.97382 9.98266 C4.12257 9.96643 4.27342 9.93882 4.4247 9.8982 C4.80309 9.79668 5.17674 9.61508 5.51479 9.33621 C5.80039 9.10158 6.01395 8.79832 6.16374 8.47951 C6.32381 8.13879 6.41399 7.77507 6.44824 7.42858 C6.48921 7.01456 6.45055 6.63108 6.36475 6.31416 C6.25006 5.89014 6.05539 5.60479 5.89402 5.50771 C5.70372 5.39316 5.46853 5.57592 5.39755 5.5928 L5.39724 5.5928 C5.34197 5.65743 5.10033 5.77679 5.04643 5.95471 C5.00259 6.0995 5.02522 6.30671 5.03725 6.5768 C5.0463 6.77989 5.04849 7.00997 5.01623 7.25687 C4.98907 7.46478 4.93965 7.66412 4.86524 7.83797 C4.79553 8.00088 4.71268 8.12094 4.6278 8.2002 C4.45977 8.34975 4.27191 8.4498 4.07597 8.50415 C3.99726 8.526 3.91769 8.5405 3.83823 8.54765 C3.72017 8.55832 3.59016 8.5554 3.45188 8.53257 C3.07751 8.47059 2.65386 8.26033 2.347 7.84818 C2.21356 7.66896 2.11964 7.46928 2.06544 7.25906 C2.0125 7.05377 1.99801 6.83989 2.02132 6.62925 C2.04464 6.41829 2.1057 6.21426 2.20045 6.02811 C2.29776 5.83692 2.42982 5.66574 2.5945 5.52131 C2.75165 5.3827 2.94578 5.2804 3.16826 5.20933 C3.41788 5.12955 3.68723 5.09415 3.94835 5.08447 C4.2693 5.0726 4.56973 5.10005 4.80218 5.12391 C5.09277 5.1538 5.28376 5.17796 5.41442 5.15289 C5.61425 5.11461 5.72442 4.91289 5.78953 4.86836 C5.78925 4.79689 5.8914 4.56474 5.75223 4.37235 C5.66122 4.24578 5.44906 4.08479 5.10564 3.93952 C4.82532 3.82099 4.44423 3.71036 3.9984 3.66915 C3.86478 3.65682 3.72298 3.65061 3.57532 3.65311 L3.57532 3.65309 Z" fillRule="0" gXpos="88.7140867281375" gYpos="174.930393700782" gWidth="10.9370417322831" gHeight="10" LAYER="0"/>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="739.1168503937" OwnPage="1" ItemID="2081772287" PTYPE="4" WIDTH="170.078606299213" HEIGHT="181" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L170.079 0 L170.079 181 L0 181 L0 0 Z" copath="M0 0 L170.079 0 L170.079 181 L0 181 L0 0 Z" gXpos="178.582677165354" gYpos="4550.768503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Alonola +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Kasape +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Ke"/>
+                <nbspace/>
+                <ITEXT CH="Tami li"/>
+                <nbspace/>
+                <ITEXT CH="toki."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Alonola +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Kasape +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Ke"/>
+                <nbspace/>
+                <ITEXT CH="Tami li"/>
+                <nbspace/>
+                <ITEXT CH="alasa e"/>
+                <nbspace/>
+                <ITEXT CH="pakala."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Alonola +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Ke"/>
+                <nbspace/>
+                <ITEXT CH="Tami li"/>
+                <nbspace/>
+                <ITEXT CH="sitelen."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Simo li"/>
+                <nbspace/>
+                <ITEXT CH="sitelen e"/>
+                <nbspace/>
+                <ITEXT CH="sitelen"/>
+                <nbspace/>
+                <ITEXT CH="sinpin."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Kasape li"/>
+                <nbspace/>
+                <ITEXT CH="sijelo e"/>
+                <nbspace/>
+                <ITEXT CH="lipu."/>
+                <para PARENT="Default Paragraph Style"/>
+                <ITEXT CH="jan Alonola +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
+                <ITEXT CH="Kasape +"/>
+                <nbspace/>
+                <ITEXT CH="jan Sonatan li"/>
+                <nbspace/>
+                <ITEXT CH="lawa"/>
+                <nbspace/>
+                <ITEXT CH="e"/>
+                <nbspace/>
+                <ITEXT CH="kulupu."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="708.661417322834" OwnPage="1" ItemID="2082655647" PTYPE="4" WIDTH="170.078606299213" HEIGHT="30.4554330708661" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L170.079 0 L170.079 30.4554 L0 30.4554 L0 0 Z" copath="M0 0 L170.079 0 L170.079 30.4554 L0 30.4554 L0 0 Z" gXpos="598.110236220472" gYpos="4520.31307086614" gWidth="0" gHeight="0" PSTYLE="lawa" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="lawa" BASEO="20"/>
+                <ITEXT BASEO="20" CH="jan pali"/>
+                <trail PARENT="lawa"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="643.189628133562" YPOS="518.349914434728" OwnPage="0" ItemID="2082185919" PTYPE="4" WIDTH="255.667987827364" HEIGHT="33.148293799421" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.668 0 L255.668 33.1483 L0 33.1483 L0 0 Z" copath="M0 0 L255.668 0 L255.668 33.1483 L0 33.1483 L0 0 Z" gXpos="643.189628133562" gYpos="518.349914434728" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" ALIGN="1"/>
+                <ITEXT CH="nanpa"/>
+                <para PARENT="nanpa lipu"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="483.864629092416" YPOS="5596.92861168669" OwnPage="15" ItemID="2082952143" PTYPE="6" WIDTH="6.54070866141717" HEIGHT="7" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.599998287737877" PCOLOR="laso pimeja" PLINEART="1" ANNAME="Copy of t_pini (10)" TEXTFLOWMODE="1" LOCK="1" path="M3.12354 4.00768e-05 C2.70137 0.000724343 2.31749 0.010133 2.03065 0.0225525 C1.27101 0.0553971 0.431732 0.0833562 0.148 0.336609 C-0.0154852 0.482533 0.0246696 0.824668 0 0.922292 C0.0246553 1.01992 -0.0154996 1.36238 0.148 1.5083 C0.431732 1.76155 1.27101 1.7892 2.03065 1.82204 C2.15428 1.82737 2.30309 1.83179 2.45804 1.83555 C2.40863 2.47335 2.40861 3.2043 2.40759 3.7456 C2.40687 4.21826 2.38822 4.81085 2.41573 5.31719 C1.47567 5.34695 0.485384 5.42902 0.18561 5.65406 C0.0103919 5.78559 0.0309667 6.06738 1.80228e-05 6.15007 C0.0309813 6.23275 0.0103992 6.51485 0.18561 6.64638 C0.621274 6.97344 2.51778 7.00087 3.59462 6.99997 C4.56468 6.99929 5.97819 7.00866 6.36018 6.70842 C6.53982 6.56725 6.51057 6.24309 6.5407 6.15007 C6.51057 6.05702 6.53998 5.73321 6.36018 5.59202 C6.04353 5.34313 5.01979 5.30762 4.12566 5.30207 C4.15195 4.79911 4.13398 4.21352 4.13313 3.7456 C4.13204 3.20302 4.13241 2.46991 4.08266 1.83105 C5.09861 1.79858 6.09273 1.70251 6.37712 1.47938 C6.56419 1.33263 6.51341 1.01512 6.54072 0.922305 C6.51341 0.829496 6.56419 0.512298 6.37712 0.365554 C6.00178 0.0710599 4.39001 -0.00249854 3.12356 6.4026e-05 L3.12354 4.00768e-05 Z" copath="M3.12354 4.00768e-05 C2.70137 0.000724343 2.31749 0.010133 2.03065 0.0225525 C1.27101 0.0553971 0.431732 0.0833562 0.148 0.336609 C-0.0154852 0.482533 0.0246696 0.824668 0 0.922292 C0.0246553 1.01992 -0.0154996 1.36238 0.148 1.5083 C0.431732 1.76155 1.27101 1.7892 2.03065 1.82204 C2.15428 1.82737 2.30309 1.83179 2.45804 1.83555 C2.40863 2.47335 2.40861 3.2043 2.40759 3.7456 C2.40687 4.21826 2.38822 4.81085 2.41573 5.31719 C1.47567 5.34695 0.485384 5.42902 0.18561 5.65406 C0.0103919 5.78559 0.0309667 6.06738 1.80228e-05 6.15007 C0.0309813 6.23275 0.0103992 6.51485 0.18561 6.64638 C0.621274 6.97344 2.51778 7.00087 3.59462 6.99997 C4.56468 6.99929 5.97819 7.00866 6.36018 6.70842 C6.53982 6.56725 6.51057 6.24309 6.5407 6.15007 C6.51057 6.05702 6.53998 5.73321 6.36018 5.59202 C6.04353 5.34313 5.01979 5.30762 4.12566 5.30207 C4.15195 4.79911 4.13398 4.21352 4.13313 3.7456 C4.13204 3.20302 4.13241 2.46991 4.08266 1.83105 C5.09861 1.79858 6.09273 1.70251 6.37712 1.47938 C6.56419 1.33263 6.51341 1.01512 6.54072 0.922305 C6.51341 0.829496 6.56419 0.512298 6.37712 0.365554 C6.00178 0.0710599 4.39001 -0.00249854 3.12356 6.4026e-05 L3.12354 4.00768e-05 Z" fillRule="0" gXpos="728.490862207511" gYpos="1392.0878750222" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="362.834220472441" YPOS="860.297952755905" OwnPage="1" ItemID="2083009151" PTYPE="4" WIDTH="56.693338582677" HEIGHT="29.7094736842106" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="11.3385826771654" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6933 0 L56.6933 29.7095 L0 29.7095 L0 0 Z" copath="M0 0 L56.6933 0 L56.6933 29.7095 L0 29.7095 L0 0 Z" gXpos="362.834220472441" gYpos="860.297952755905" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" FONT="Andika Bold" FCOLOR="loje pimeja"/>
+                <ITEXT FONT="Andika Bold" FCOLOR="loje pimeja" CH="sona"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="362.834220472441" YPOS="739.1168503937" OwnPage="1" ItemID="2083026063" PTYPE="4" WIDTH="56.693338582677" HEIGHT="31.8897637795276" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="11.3385826771654" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6933 0 L56.6933 31.8898 L0 31.8898 L0 0 Z" copath="M0 0 L56.6933 0 L56.6933 31.8898 L0 31.8898 L0 0 Z" gXpos="362.834220472441" gYpos="739.1168503937" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" FONT="Andika Bold" FCOLOR="laso pimeja"/>
+                <ITEXT FONT="Andika Bold" FCOLOR="laso pimeja" CH="pilin"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="362.834220472441" YPOS="771.006614173228" OwnPage="1" ItemID="2083105743" PTYPE="4" WIDTH="56.693338582677" HEIGHT="89.2913385826772" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="11.3385826771654" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L56.6933 0 L56.6933 89.2913 L0 89.2913 L0 0 Z" copath="M0 0 L56.6933 0 L56.6933 89.2913 L0 89.2913 L0 0 Z" gXpos="362.834220472441" gYpos="771.006614173228" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" FONT="Andika Bold" FCOLOR="unu pimeja"/>
+                <ITEXT FONT="Andika Bold" FCOLOR="unu pimeja" CH="musi"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="323.149472440945" YPOS="1145.43705419011" OwnPage="1" ItemID="2083096927" PTYPE="7" WIDTH="58.0000067554697" HEIGHT="101.806704665855" FRTYPE="3" CLIPEDIT="1" PWIDTH="2.83464566929134" PCOLOR="unu pimeja" PLINEART="1" PLINEEND="32" PLINEJOIN="128" ANNAME=" path282" path="M33.2269 0.00938441 C32.0348 -0.101266 30.9793 0.779353 30.8698 1.97584 C30.5992 4.95397 30.7657 7.78923 30.7268 10.4576 C30.708 11.6587 31.663 12.6476 32.8597 12.6661 C33.4351 12.6753 33.9904 12.4542 34.4032 12.0518 C34.8161 11.6494 35.0524 11.0988 35.0602 10.5214 C35.1035 7.64588 34.9562 4.9244 35.1881 2.37084 C35.2958 1.176 34.419 0.119314 33.2287 0.00938441 L33.2269 0.00938441 M15.6014 4.27787 C14.6101 4.94815 14.347 6.29743 15.0131 7.2934 C16.5686 9.61804 17.8038 12.2604 19.0588 14.9937 C19.2991 15.5185 19.7374 15.9258 20.2773 16.1258 C20.8171 16.3257 21.4141 16.302 21.9364 16.0597 C22.4586 15.8178 22.8635 15.3775 23.0619 14.8358 C23.2603 14.294 23.2361 13.6954 22.9944 13.1716 C21.7336 10.4255 20.4147 7.56514 18.6101 4.86823 C17.942 3.87084 16.5945 3.60643 15.6014 4.27787 L15.6014 4.27787 M49.0964 5.89607 C48.5259 5.96328 48.0055 6.25506 47.6493 6.70728 C45.8292 9.02327 44.0917 11.4317 42.5158 13.9658 C42.2112 14.4557 42.1131 15.0471 42.2433 15.6096 C42.3735 16.1722 42.7214 16.6595 43.21 16.9644 C44.2245 17.5991 45.5596 17.2894 46.1934 16.2721 C47.6659 13.9042 49.3074 11.6194 51.0516 9.40001 C51.7924 8.45704 51.6314 7.08993 50.692 6.34628 C50.2405 5.98991 49.6667 5.82798 49.0964 5.89607 M30.0235 16.4674 C21.4045 17.2847 13.4275 25.4647 15.4532 34.7222 C16.7348 41.5299 22.3591 46.167 28.6862 47.6678 C28.853 49.7194 28.5345 52.4729 28.445 55.3723 C26.9593 55.65 25.3447 55.9595 23.9296 56.0985 C19.7559 56.5087 16.1266 56.126 12.6391 53.3803 C7.46299 49.0047 6.65893 39.0546 6.35472 30.339 C6.31335 29.1394 5.31137 28.2003 4.11608 28.2409 C3.54129 28.2607 2.99796 28.5092 2.60581 28.9314 C2.21366 29.3536 2.00485 29.915 2.02542 30.4919 C2.332 39.2714 2.56406 50.6012 9.88817 56.7442 C9.90384 56.7585 9.91974 56.7726 9.93587 56.7866 C14.4784 60.376 19.6122 60.8924 24.3538 60.4265 C25.765 60.2877 26.9437 60.0315 28.3107 59.7893 C28.1785 61.5088 28.3605 63.3254 28.159 64.61 C26.5613 71.4946 25.0649 78.3289 22.2218 84.2957 C22.1902 84.3625 22.162 84.4307 22.1372 84.4998 C19.0493 93.1801 10.3878 98.6567 2.78073 96.4006 C1.63317 96.0607 0.428205 96.7182 0.0892388 97.8704 C-0.249562 99.0219 0.405982 100.231 1.5535 100.572 C11.7473 103.594 22.411 96.5471 26.1871 86.0203 C27.1058 84.0756 27.6876 82.0296 28.3707 80.0104 C29.2112 86.3778 31.2767 92.4812 36.1702 96.8723 C36.1908 96.8908 36.2117 96.9092 36.233 96.9276 C40.9144 100.809 46.7669 101.943 52.1406 101.794 C53.3375 101.762 54.2814 100.762 54.2482 99.5604 C54.2159 98.3591 53.2191 97.4124 52.0223 97.4454 C47.3537 97.5743 42.6532 96.5793 39.0305 93.5928 C32.1083 87.3436 31.6513 75.457 32.4584 65.1621 C32.4584 65.1577 32.4584 65.1533 32.4584 65.1489 C32.7217 63.4457 32.8352 61.1838 32.9873 59.0415 C34.5122 58.7585 36.2458 58.4115 37.6551 58.2897 C37.6833 58.2873 37.7115 58.2844 37.7395 58.281 C40.3069 57.9568 43.1704 58.2364 45.5557 59.364 C47.9411 60.4917 49.9024 62.3688 51.0235 65.684 C51.0343 65.7154 51.0459 65.7466 51.0581 65.7775 C52.3607 69.1232 52.9774 73.046 53.7031 77.0454 C53.9175 78.2261 55.0444 79.0093 56.221 78.7953 C56.7868 78.6917 57.2886 78.3672 57.6155 77.8923 C57.9426 77.4175 58.0681 76.8314 57.9646 76.2639 C57.258 72.3689 56.6357 68.2018 55.108 64.2527 C53.6265 59.9079 50.7099 56.993 47.4059 55.4312 C44.1025 53.8696 40.474 53.5616 37.2325 53.9659 C35.8621 54.0864 34.6273 54.3644 33.2801 54.5987 C33.3385 52.2265 33.2345 50.1513 33.1023 48.1684 C37.2137 48.1347 41.2811 46.7929 44.3675 43.6153 C47.8479 40.1382 48.7497 35.0369 47.6642 30.555 C46.6534 26.3824 43.716 22.6275 39.3063 21.2238 C39.8493 20.2063 39.5055 18.9403 38.5232 18.3399 C35.8543 16.7386 32.9065 16.1941 30.03 16.4669 L30.0235 16.4674 M30.3875 20.8973 C31.0087 20.8241 31.5692 21.2161 32.1861 21.2541 C31.9918 21.4727 31.8435 21.7284 31.7501 22.0059 C31.5897 23.1964 32.4216 24.2918 33.6078 24.4523 C34.9625 24.6358 36.2222 24.7911 37.353 25.0767 C37.3739 25.0827 37.3948 25.0886 37.4158 25.094 C40.5805 25.7915 42.671 28.3826 43.4462 31.5839 C44.2217 34.7851 43.5156 38.3329 41.3008 40.5413 C41.292 40.5511 41.2834 40.5611 41.2747 40.5711 C34.8433 47.2143 21.3701 42.9268 19.6965 33.8859 C19.6897 33.8617 19.6825 33.8377 19.6748 33.8137 C18.2794 27.5131 24.2537 21.6204 30.3773 20.8978 L30.3875 20.8973 M27.3532 32.6919 C26.1606 32.7693 25.2555 33.8011 25.3304 34.9982 C25.4431 36.7646 26.269 38.3387 27.4589 39.3177 C28.6489 40.2967 30.0891 40.7251 31.5005 40.8042 C34.3231 40.9623 37.3194 39.8754 38.9358 37.2492 C39.5661 36.2278 39.2515 34.8869 38.2334 34.2549 C37.7441 33.9516 37.1547 33.8558 36.595 33.9889 C36.0354 34.1219 35.5515 34.4728 35.2498 34.9642 C34.7593 35.7613 33.1132 36.5361 31.7417 36.4592 C31.0559 36.4208 30.5162 36.2095 30.2055 35.9538 C29.8947 35.6983 29.7013 35.4425 29.6553 34.7222 C29.5784 33.5234 28.5475 32.6144 27.3532 32.6919 L27.3532 32.6919 " copath="M33.2269 0.00938441 C32.0348 -0.101266 30.9793 0.779353 30.8698 1.97584 C30.5992 4.95397 30.7657 7.78923 30.7268 10.4576 C30.708 11.6587 31.663 12.6476 32.8597 12.6661 C33.4351 12.6753 33.9904 12.4542 34.4032 12.0518 C34.8161 11.6494 35.0524 11.0988 35.0602 10.5214 C35.1035 7.64588 34.9562 4.9244 35.1881 2.37084 C35.2958 1.176 34.419 0.119314 33.2287 0.00938441 L33.2269 0.00938441 Z M15.6014 4.27787 C14.6101 4.94815 14.347 6.29743 15.0131 7.2934 C16.5686 9.61804 17.8038 12.2604 19.0588 14.9937 C19.2991 15.5185 19.7374 15.9258 20.2773 16.1258 C20.8171 16.3257 21.4141 16.302 21.9364 16.0597 C22.4586 15.8178 22.8635 15.3775 23.0619 14.8358 C23.2603 14.294 23.2361 13.6954 22.9944 13.1716 C21.7336 10.4255 20.4147 7.56514 18.6101 4.86823 C17.942 3.87084 16.5945 3.60643 15.6014 4.27787 L15.6014 4.27787 Z M49.0964 5.89607 C48.5259 5.96328 48.0055 6.25506 47.6493 6.70728 C45.8292 9.02327 44.0917 11.4317 42.5158 13.9658 C42.2112 14.4557 42.1131 15.0471 42.2433 15.6096 C42.3735 16.1722 42.7214 16.6595 43.21 16.9644 C44.2245 17.5991 45.5596 17.2894 46.1934 16.2721 C47.6659 13.9042 49.3074 11.6194 51.0516 9.40001 C51.7924 8.45704 51.6314 7.08993 50.692 6.34628 C50.2405 5.98991 49.6667 5.82798 49.0964 5.89607 Z M30.0235 16.4674 C21.4045 17.2847 13.4275 25.4647 15.4532 34.7222 C16.7348 41.5299 22.3591 46.167 28.6862 47.6678 C28.853 49.7194 28.5345 52.4729 28.445 55.3723 C26.9593 55.65 25.3447 55.9595 23.9296 56.0985 C19.7559 56.5087 16.1266 56.126 12.6391 53.3803 C7.46299 49.0047 6.65893 39.0546 6.35472 30.339 C6.31335 29.1394 5.31137 28.2003 4.11608 28.2409 C3.54129 28.2607 2.99796 28.5092 2.60581 28.9314 C2.21366 29.3536 2.00485 29.915 2.02542 30.4919 C2.332 39.2714 2.56406 50.6012 9.88817 56.7442 C9.90384 56.7585 9.91974 56.7726 9.93587 56.7866 C14.4784 60.376 19.6122 60.8924 24.3538 60.4265 C25.765 60.2877 26.9437 60.0315 28.3107 59.7893 C28.1785 61.5088 28.3605 63.3254 28.159 64.61 C26.5613 71.4946 25.0649 78.3289 22.2218 84.2957 C22.1902 84.3625 22.162 84.4307 22.1372 84.4998 C19.0493 93.1801 10.3878 98.6567 2.78073 96.4006 C1.63317 96.0607 0.428205 96.7182 0.0892388 97.8704 C-0.249562 99.0219 0.405982 100.231 1.5535 100.572 C11.7473 103.594 22.411 96.5471 26.1871 86.0203 C27.1058 84.0756 27.6876 82.0296 28.3707 80.0104 C29.2112 86.3778 31.2767 92.4812 36.1702 96.8723 C36.1908 96.8908 36.2117 96.9092 36.233 96.9276 C40.9144 100.809 46.7669 101.943 52.1406 101.794 C53.3375 101.762 54.2814 100.762 54.2482 99.5604 C54.2159 98.3591 53.2191 97.4124 52.0223 97.4454 C47.3537 97.5743 42.6532 96.5793 39.0305 93.5928 C32.1083 87.3436 31.6513 75.457 32.4584 65.1621 C32.4584 65.1577 32.4584 65.1533 32.4584 65.1489 C32.7217 63.4457 32.8352 61.1838 32.9873 59.0415 C34.5122 58.7585 36.2458 58.4115 37.6551 58.2897 C37.6833 58.2873 37.7115 58.2844 37.7395 58.281 C40.3069 57.9568 43.1704 58.2364 45.5557 59.364 C47.9411 60.4917 49.9024 62.3688 51.0235 65.684 C51.0343 65.7154 51.0459 65.7466 51.0581 65.7775 C52.3607 69.1232 52.9774 73.046 53.7031 77.0454 C53.9175 78.2261 55.0444 79.0093 56.221 78.7953 C56.7868 78.6917 57.2886 78.3672 57.6155 77.8923 C57.9426 77.4175 58.0681 76.8314 57.9646 76.2639 C57.258 72.3689 56.6357 68.2018 55.108 64.2527 C53.6265 59.9079 50.7099 56.993 47.4059 55.4312 C44.1025 53.8696 40.474 53.5616 37.2325 53.9659 C35.8621 54.0864 34.6273 54.3644 33.2801 54.5987 C33.3385 52.2265 33.2345 50.1513 33.1023 48.1684 C37.2137 48.1347 41.2811 46.7929 44.3675 43.6153 C47.8479 40.1382 48.7497 35.0369 47.6642 30.555 C46.6534 26.3824 43.716 22.6275 39.3063 21.2238 C39.8493 20.2063 39.5055 18.9403 38.5232 18.3399 C35.8543 16.7386 32.9065 16.1941 30.03 16.4669 L30.0235 16.4674 Z M30.3875 20.8973 C31.0087 20.8241 31.5692 21.2161 32.1861 21.2541 C31.9918 21.4727 31.8435 21.7284 31.7501 22.0059 C31.5897 23.1964 32.4216 24.2918 33.6078 24.4523 C34.9625 24.6358 36.2222 24.7911 37.353 25.0767 C37.3739 25.0827 37.3948 25.0886 37.4158 25.094 C40.5805 25.7915 42.671 28.3826 43.4462 31.5839 C44.2217 34.7851 43.5156 38.3329 41.3008 40.5413 C41.292 40.5511 41.2834 40.5611 41.2747 40.5711 C34.8433 47.2143 21.3701 42.9268 19.6965 33.8859 C19.6897 33.8617 19.6825 33.8377 19.6748 33.8137 C18.2794 27.5131 24.2537 21.6204 30.3773 20.8978 L30.3875 20.8973 Z M27.3532 32.6919 C26.1606 32.7693 25.2555 33.8011 25.3304 34.9982 C25.4431 36.7646 26.269 38.3387 27.4589 39.3177 C28.6489 40.2967 30.0891 40.7251 31.5005 40.8042 C34.3231 40.9623 37.3194 39.8754 38.9358 37.2492 C39.5661 36.2278 39.2515 34.8869 38.2334 34.2549 C37.7441 33.9516 37.1547 33.8558 36.595 33.9889 C36.0354 34.1219 35.5515 34.4728 35.2498 34.9642 C34.7593 35.7613 33.1132 36.5361 31.7417 36.4592 C31.0559 36.4208 30.5162 36.2095 30.2055 35.9538 C29.8947 35.6983 29.7013 35.4425 29.6553 34.7222 C29.5784 33.5234 28.5475 32.6144 27.3532 32.6919 L27.3532 32.6919 Z" fillRule="0" gXpos="237.531945555463" gYpos="681.028336205878" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="437.333098099579" YPOS="1145.436886374" OwnPage="1" ItemID="2083126527" PTYPE="4" WIDTH="95.5802877271922" HEIGHT="101.807040298079" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L95.5803 0 L95.5803 101.807 L0 101.807 L0 0 Z" copath="M0 0 L95.5803 0 L95.5803 101.807 L0 101.807 L0 0 Z" gXpos="437.333098099579" gYpos="1145.436886374" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CPARENT="toki lili poka" CH="lipu ni li"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="tan kulupu"/>
+                <ITEXT CH="  "/>
+                <breakline/>
+                <ITEXT CPARENT="toki lili poka" FONT="Andika Italic" CH="lipu tenpo e.V."/>
+                <nbspace CPARENT="toki lili poka" FONT="Andika Regular"/>
+                <ITEXT CPARENT="toki lili poka" FONT="Andika Regular" CH="·"/>
+                <para ALIGN="2"/>
+                <ITEXT CPARENT="toki lili poka" CH="kulupu ni li"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="lon ma Aken"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="·"/>
+                <breakline/>
+                <ITEXT CPARENT="toki lili poka" CH="ona li"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="lon ma Tosi"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="·"/>
+                <para ALIGN="2"/>
+                <ITEXT CPARENT="toki lili poka" CH="mi pana e"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="lipu ni  "/>
+                <breakline/>
+                <ITEXT CPARENT="toki lili poka" CH="lon tenpo nanpa 2026"/>
+                <nbspace CPARENT="toki lili poka"/>
+                <ITEXT CPARENT="toki lili poka" CH="·"/>
+                <trail ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="421.912795716117" YPOS="5302.46121011188" OwnPage="15" ItemID="2083194287" PTYPE="4" WIDTH="68.4925420377157" HEIGHT="12.4133858267714" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L68.4925 0 L68.4925 12.4134 L0 12.4134 L0 0 Z" copath="M0 0 L68.4925 0 L68.4925 12.4134 L0 12.4134 L0 0 Z" gXpos="41.7316535433063" gYpos="141.891023622046" gWidth="68.4925420377157" gHeight="42.76923331953" PSTYLE="toki lili poka" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="toki lili poka" ALIGN="1"/>
+                <ITEXT FONTSIZE="7.1" CH="ISSN 2752-4639"/>
+                <trail PARENT="toki lili poka" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="421.912795716117" YPOS="5329.04782428511" OwnPage="15" ItemID="2083175359" PTYPE="4" WIDTH="68.4925420377157" HEIGHT="16.1826191462997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L68.4925 0 L68.4925 16.1826 L0 16.1826 L0 0 Z" copath="M0 0 L68.4925 0 L68.4925 16.1826 L0 16.1826 L0 0 Z" gXpos="41.7316535433063" gYpos="168.477637795277" gWidth="68.4925420377157" gHeight="42.76923331953" PSTYLE="toki lili poka" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="toki lili poka" ALIGN="1" FCOLOR="Black"/>
+                <ITEXT FONTSIZE="7.1" FCOLOR="Black" CH="977 2752 463 00 6"/>
+                <trail PARENT="toki lili poka" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="688.818897637795" OwnPage="2" ItemID="2083154671" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="kulupu"/>
+                <nbspace/>
+                <ITEXT CH="· "/>
+                <var name="pgno"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="1340.7874015748" OwnPage="4" ItemID="2083145679" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="toki"/>
+                <nbspace/>
+                <ITEXT CH="· 5"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="1992.75590551181" OwnPage="6" ItemID="2083286095" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="toki"/>
+                <nbspace/>
+                <ITEXT CH="· 7"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="2644.72440944882" OwnPage="8" ItemID="2083315295" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="sona"/>
+                <nbspace/>
+                <ITEXT CH="· 9"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="3296.69291338583" OwnPage="10" ItemID="2083339263" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="musi"/>
+                <nbspace/>
+                <ITEXT CH="· 11"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="3948.66141732283" OwnPage="12" ItemID="2083377071" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="musi"/>
+                <nbspace/>
+                <ITEXT CH="· 13"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="888.031462909242" YPOS="4600.62992125984" OwnPage="14" ItemID="2083424207" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="468.503903854124" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2"/>
+                <ITEXT CH="musi"/>
+                <nbspace/>
+                <ITEXT CH="· 15"/>
+                <trail PARENT="toki lili poka" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="1340.7874015748" OwnPage="3" ItemID="2083331359" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="4 · pilin"/>
+                <trail PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="1992.75590551181" OwnPage="5" ItemID="2083399935" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="6 · toki"/>
+                <trail PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="2644.72440944882" OwnPage="7" ItemID="2083370943" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="8 · sona"/>
+                <trail PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="3296.69291338583" OwnPage="9" ItemID="2083501503" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="10 · sona"/>
+                <trail PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="3948.66141732283" OwnPage="11" ItemID="2083415631" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="12 · musi"/>
+                <para PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="178.582677165354" YPOS="4600.62992125984" OwnPage="13" ItemID="2083461391" PTYPE="4" WIDTH="55.905544964774" HEIGHT="19.8425196850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" copath="M0 0 L55.9055 0 L55.9055 19.8425 L0 19.8425 L0 0 Z" gXpos="178.582677165354" gYpos="4500.4705511811" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0"/>
+                <ITEXT CH="14 · musi"/>
+                <trail PARENT="toki lili poka" ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="421.912081394203" YPOS="5314.87459593865" OwnPage="15" ItemID="2083506447" PTYPE="12" WIDTH="68.4939706815455" HEIGHT="14.1732283464398" FRTYPE="0" CLIPEDIT="0" ANNAME="Copy of Group29" LOCK="1" groupWidth="68.4939706815455" groupHeight="14.1732283464398" groupClips="1" path="M0 0 L68.494 0 L68.494 14.1732 L0 14.1732 L0 0 Z" copath="M0 0 L68.494 0 L68.494 14.1732 L0 14.1732 L0 0 Z" gXpos="421.912081394203" gYpos="5314.87459593865" gWidth="0" gHeight="0" LAYER="0">
+            <PAGEOBJECT XPOS="422.169884568783" YPOS="5315.67628667672" OwnPage="15" ItemID="2083465327" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line1" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="0.257803174579919" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="423.616231093845" YPOS="5315.67628667672" OwnPage="15" ItemID="2083580255" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line2" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="1.70414969964253" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="425.785753513793" YPOS="5315.67628667672" OwnPage="15" ItemID="2083577759" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line3" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="3.87367211959048" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="428.316863411121" YPOS="5315.67628667672" OwnPage="15" ItemID="2083525503" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.0594929699151" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line4" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="6.40478201691781" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="430.847973308448" YPOS="5315.67628667672" OwnPage="15" ItemID="2083537311" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line5" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="8.93589191424513" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="433.740678392192" YPOS="5315.67628667672" OwnPage="15" ItemID="2083633007" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line6" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="11.8285969979887" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="436.271780768508" YPOS="5315.67628667672" OwnPage="15" ItemID="2083595423" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.0594929699151" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line7" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="14.3596993743046" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="438.441308641189" YPOS="5315.67628667672" OwnPage="15" ItemID="2083644671" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.0594929699151" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line8" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="16.5292272469858" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="440.972416658263" YPOS="5315.67628667672" OwnPage="15" ItemID="2083596863" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line9" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="19.0603352640603" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="443.503519034579" YPOS="5315.67628667672" OwnPage="15" ItemID="2083605791" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.0594929699151" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line10" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="21.5914376403762" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="446.034640213424" YPOS="5315.67628667672" OwnPage="15" ItemID="2083697279" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line11" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="24.1225588192207" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="448.92733401565" YPOS="5315.67628667672" OwnPage="15" ItemID="2083710927" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line12" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="27.0152526214471" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="451.096863768584" YPOS="5315.67628667672" OwnPage="15" ItemID="2083657087" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line13" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="29.1847823743811" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="453.6279661449" YPOS="5315.67628667672" OwnPage="15" ItemID="2083706207" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.0594929699151" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line14" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="31.715884750697" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="455.435904471923" YPOS="5315.67628667672" OwnPage="15" ItemID="2083658287" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line15" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="33.5238230777206" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="456.882251373037" YPOS="5315.67628667672" OwnPage="15" ItemID="2083765279" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line16" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="34.9701699788338" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="458.32859827415" YPOS="5315.67628667672" OwnPage="15" ItemID="2083775007" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line17" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="36.416516879947" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="460.498128027084" YPOS="5315.67628667672" OwnPage="15" ItemID="2083772399" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line18" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="38.5860466328811" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="463.39082182931" YPOS="5315.67628667672" OwnPage="15" ItemID="2083734815" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line19" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="41.4787404351074" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="464.837168730424" YPOS="5315.67628667672" OwnPage="15" ItemID="2083718527" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line20" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="42.9250873362206" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="468.453026581942" YPOS="5315.67628667672" OwnPage="15" ItemID="2083736271" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line21" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="46.5409451877393" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="472.06890323599" YPOS="5315.67628667672" OwnPage="15" ItemID="2083843375" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line22" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="50.1568218417866" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="474.238432988924" YPOS="5315.67628667672" OwnPage="15" ItemID="2083836607" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line23" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="52.3263515947206" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="477.13112679115" YPOS="5315.67628667672" OwnPage="15" ItemID="2083782671" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line24" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="55.219045396947" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="479.300637741555" YPOS="5315.67628667672" OwnPage="15" ItemID="2083894719" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="1.60338147614754" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line25" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="57.3885563473524" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="482.19335034631" YPOS="5315.67628667672" OwnPage="15" ItemID="2083812767" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line26" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="60.2812689521073" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="483.639697247423" YPOS="5315.67628667672" OwnPage="15" ItemID="2083895663" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line27" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="61.7276158532205" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="485.086044148537" YPOS="5315.67628667672" OwnPage="15" ItemID="2083904591" PTYPE="7" WIDTH="0" HEIGHT="12.5698538727618" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line28" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="63.1739627543337" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="488.701902000055" YPOS="5315.67628667672" OwnPage="15" ItemID="2083848671" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line29" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="66.7898206058524" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+            <PAGEOBJECT XPOS="490.148248901169" YPOS="5315.67628667672" OwnPage="15" ItemID="2083878575" PTYPE="7" WIDTH="0" HEIGHT="12.5698468702926" FRTYPE="3" CLIPEDIT="1" PWIDTH="0.515606349159804" PCOLOR="FromSVG#c2c2c2" PCOLOR2="FromSVG#000000" PLINEART="1" ANNAME=" line30" TEXTFLOWMODE="1" path="M0 12.5699 L0 0 " copath="M0 12.5699 L0 0 L0 12.5699 Z" gXpos="68.2361675069656" gYpos="0.801690738073376" gWidth="68.4939706815455" gHeight="14.1732283464398" LAYER="0"/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
