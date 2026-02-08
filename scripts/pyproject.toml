@@ -1,0 +1,20 @@
+[project]
+name = "lipu-tenpo-scripts"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "", email = ""},
+]
+dependencies = ["pdf2image>=1.17.0"]
+requires-python = "==3.14.*"
+readme = "README.md"
+license = {text = "ISC"}
+
+
+[tool.pdm]
+distribution = false
+
+[tool.pdm.scripts]
+particles = "pdm run python particles.py"
+cover = "pdm run python pdf_extract_cover.py"
+pf = "pdm run python print_two_page_pdf.py"
