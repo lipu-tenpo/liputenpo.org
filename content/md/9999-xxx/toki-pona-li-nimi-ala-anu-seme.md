@@ -5,7 +5,7 @@ tags:
   - toki pona
 ---
 
-**mi wile toki e toki la mi kepeken nimi ona.** mi pana e nimi Toki e nimi Inli la sina sona e ni: mi toki e toki Inli e toki ante ala. nimi Inli en nimi Tosi en nimi Kanse en nimi Sonko en nimi ante mute li ken e nasin ni. taso toki pona la seme? toki mute li pona tawa mi. ona ale li toki pona anu seme? nasin seme la mi o toki e toki pona wan taso?
+**toki mute li lon ma.** mi wile toki e toki la mi kepeken nimi ona. mi pana e nimi Toki e nimi Inli la sina sona e ni: mi toki e toki Inli e toki ante ala. nimi Inli en nimi Tosi en nimi Kanse en nimi Sonko en nimi ante mute li ken e nasin ni. taso toki pona la seme? toki mute li pona tawa mi. ona ale li toki pona anu seme? nasin seme la mi o toki e toki pona wan taso?
 
 ni li nasa tawa jan mute. “nimi ala li pana e toki pona! pakala suli a! toki pona o nimi.” ona li ante lili e toki ona. mi toki pona la ona li toki Toki Pona. anu la ona li toki Pona. anu la ona li toki Tokipona. mi la nasa ike. toki Inli la nimi ***Toki Pona*** li lon li pana e toki wan taso. toki pona la ala. ni li nasa anu seme?
 
