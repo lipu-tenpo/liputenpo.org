@@ -1,22 +1,28 @@
-"""extract first page from pdf as image
-requires poppler: https://stackoverflow.com/a/48583124
-Ubuntu should have poppler preinstalled, if not, install it
-example:
+HELP = """
+Extract first page from pdf as image.
+
+Example usage:
+  pdm run cover 0035len
+
+Requires poppler: https://stackoverflow.com/a/48583124
+Ubuntu should have poppler preinstalled; if not, install it:
   sudo apt install poppler-utils
-  python3 -m venv envv
-  pip install pdf2image
-  python3 scripts/pdf_extract_cover.py pdfs/0025kalama.pdf pdfs/0025kalama_sinpin.png
 """
 
 import sys
+from pathlib import Path
+
 from pdf2image import convert_from_path
 
-if len(sys.argv) < 3:
-    print("Usage: python extract_images_from_pdf.py <pdf_file> <output_file>")
+if len(sys.argv) < 2:
+    print(HELP)
     sys.exit(1)
 
-pdf_file = sys.argv[1]
-output_file = sys.argv[2]
+PDF_DIRECTORY = "../content/pdf/"
+
+stem = sys.argv[1]
+pdf_file = Path(PDF_DIRECTORY) / f"{stem}.pdf"
+output_file = Path(PDF_DIRECTORY) / f"{stem}_sinpin.png"
 
 pages = convert_from_path(pdf_file, 500)
 
