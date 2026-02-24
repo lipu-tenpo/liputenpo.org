@@ -20,3 +20,10 @@ mi jo e wawa lawa.
 mu mi li suwi,  
 jan li olin e mi.  
 seme li mi?
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>soweli ko</strong></p>
+  <p>cat</p>
+</details>
+

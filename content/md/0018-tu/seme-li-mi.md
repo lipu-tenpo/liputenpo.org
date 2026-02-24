@@ -16,3 +16,10 @@ nimi pali mi li sama “kipisi”
 pona en ike, ku en pu li mi.
 
 {{{sitelen "0018-nanpa-tu/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>tu</strong></p>
+  <p>two</p>
+</details>
+

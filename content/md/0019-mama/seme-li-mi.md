@@ -22,3 +22,10 @@ jan lili li wile e mi
 tawa ____ mi
 
 {{{sitelen "0019-nanpa-mama/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>mama (meli)</strong></p>
+  <p>mother</p>
+</details>
+

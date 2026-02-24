@@ -22,3 +22,10 @@ mi alasa e kala, e pipi telo
 mi pana tawa mi lili e moku ko  
 len mi li len esun, li pimeja walo  
 mi lon kulupu suli, li lon poka telo
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>waso lete/kala</strong></p>
+  <p>penguin</p>
+</details>
+

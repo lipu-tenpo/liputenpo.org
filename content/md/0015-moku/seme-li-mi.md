@@ -17,3 +17,10 @@ mi seli ala
 
 o moku e mi pona!  
 seme li mi?
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>kala</strong></p>
+  <p>fish</p>
+</details>
+

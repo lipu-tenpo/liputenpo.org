@@ -20,3 +20,10 @@ sina sona ala e ona la, o lukin e sitelen nanpa wan pi nimi nanpa tu pi linja
 [^1]: nimi "alu" li sama nimi "la", taso ona li tawa e nasin ante
 
 {{{sitelen "0004-nanpa-kasi/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>linluwi</strong></p>
+  <p>internet</p>
+</details>
+

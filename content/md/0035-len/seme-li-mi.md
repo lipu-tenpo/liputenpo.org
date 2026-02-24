@@ -21,3 +21,10 @@ mi mute tu tu li lon insa
 pi lipu tenpo mun pona
 
 {{{sitelen "0035-nanpa-len/seme-li-mi-kule.png" "sitelen sitelen" "jan Alonola"}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>suwi kapesi</strong></p>
+  <p>chocolate</p>
+</details>
+

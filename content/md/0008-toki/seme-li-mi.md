@@ -27,3 +27,10 @@ ma en jan li wile e mi
 ma en jan o jo e mi
 
 seme li mi?
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>ante</strong></p>
+  <p>change</p>
+</details>
+

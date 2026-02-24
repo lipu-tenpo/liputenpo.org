@@ -12,3 +12,10 @@ mi tawa ala kepeken noka wan.
 seme li mi?
 
 {{{sitelen "0003-nanpa-soweli/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>jan</strong></p>
+  <p>person</p>
+</details>
+

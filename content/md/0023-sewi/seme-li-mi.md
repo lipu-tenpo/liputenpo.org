@@ -21,3 +21,10 @@ soweli lili li ike tawa mi
 mi jo e nena linja wawa suli
 
 {{{sitelen "0023-nanpa-sewi/seme-li-mi-kule.png" "0023-nanpa-sewi/seme-li-mi-kule.png" "jan Alonola"}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>soweli suli pi nena linja</strong></p>
+  <p>elephant</p>
+</details>
+

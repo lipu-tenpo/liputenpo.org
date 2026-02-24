@@ -21,3 +21,10 @@ mi pini sijelo li sewi e ona
 mi wan e insa kepeken noka  
 mi sike li nimi pu – ale la ijo tu  
 seme li mi?
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>monsi</strong></p>
+  <p>ass</p>
+</details>
+

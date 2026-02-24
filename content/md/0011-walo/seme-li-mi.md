@@ -27,3 +27,10 @@ o kipisi[^5] ala e mi a!
 [^5]: sina "kipisi" e ijo la, sina tu e ona.
 
 {{{sitelen "0011-nanpa-walo/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>kala suli</strong></p>
+  <p>Whale</p>
+</details>
+

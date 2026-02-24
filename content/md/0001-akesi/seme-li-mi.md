@@ -18,3 +18,10 @@ mi ike tawa sina.
 seme li mi?
 
 [^1]: lanpan = kama jo kepeken wawa mute
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>insa pilin</strong></p>
+  <p>heart</p>
+</details>
+

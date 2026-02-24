@@ -24,3 +24,10 @@ mi mani pi suli ala
 jan li toki e ni:  
 mi lon telo jaki  
 taso mi la jaki ala
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>soweli loje walo</strong></p>
+  <p>pig</p>
+</details>
+

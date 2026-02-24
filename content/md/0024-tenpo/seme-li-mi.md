@@ -19,3 +19,10 @@ sinpin mi li walo, selo mi li kiwen
 
 mi lili lon poki len, li suli lon tomo  
 sina lukin e mi la, sina sona e tenpo
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>ilo tenpo</strong></p>
+  <p>clock</p>
+</details>
+

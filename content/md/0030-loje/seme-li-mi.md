@@ -21,3 +21,10 @@ mi la ijo ale ni li ken lon
 mi lon lawa sina sama kon
 taso mi weka sama ona kin
 lon pini lape; ni li awen: pilin
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>sitelen lape, jume</strong></p>
+  <p>dream</p>
+</details>
+

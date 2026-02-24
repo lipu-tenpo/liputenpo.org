@@ -21,3 +21,10 @@ ken la sona li sona jaki
 ken la mi ike tawa jan lili  
 ken la nasin mi li nasa  
 taso mi wile pana e sona
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>tomo sona</strong></p>
+  <p>school</p>
+</details>
+

@@ -14,3 +14,10 @@ mi moku e soweli.
 a, seme li mi?
 
 pona ale tawa Nelo.
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>soweli alasa</strong></p>
+  <p>dog</p>
+</details>
+
