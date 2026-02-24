@@ -32,5 +32,16 @@ eleventyComputed:
     </div>
     <section class="nimi">
         {{{content}}}
+        {{#if (eq [nimi-suli] "seme li mi?")}}
+            {{#with (lookup semeLiMiSolutions (getIssueTag tags)) as |solution|}}
+                {{#if solution}}
+                <details class="seme-li-mi-solutions">
+                    <summary>Show solution</summary>
+                    <p><strong>{{solution.tp}}</strong></p>
+                    <p>{{solution.en}}</p>
+                </details>
+                {{/if}}
+            {{/with}}
+            {{/if}}
     </section>
 </article>
