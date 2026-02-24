@@ -21,3 +21,10 @@ mi jo taso e tan wan:
 mi tawa e ijo, e jan.
 
 {{{sitelen "0020-nanpa-nasin/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>tomo tawa</strong></p>
+  <p>car</p>
+</details>
+

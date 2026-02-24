@@ -20,3 +20,10 @@ jan li lon tan mi.
 pona li lon tan mi.  
 jan ale li pilin e mi.  
 mi pana e tan.
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>olin</strong></p>
+  <p>love</p>
+</details>
+

@@ -16,3 +16,10 @@ mi ken lon kepeken toki ala,
 mi ala la, sina kute taso e ma.
 
 {{{sitelen "0017-nanpa-musi/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>kalama musi</strong></p>
+  <p>music</p>
+</details>
+

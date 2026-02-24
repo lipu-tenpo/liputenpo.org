@@ -18,3 +18,10 @@ ona li pali e musi la,
 mi mute li pilin pona, a!
 
 {{{sitelen "0006-nanpa-suno/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>ma Kanse</strong></p>
+  <p>France</p>
+</details>
+

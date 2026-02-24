@@ -16,3 +16,10 @@ mi jo e kasi kule mute
 lon ma pi telo ala.
 
 {{{sitelen "0012-nanpa-nimi/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>ma Netelan</strong></p>
+  <p>Nethelands</p>
+</details>
+

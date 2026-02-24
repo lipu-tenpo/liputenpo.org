@@ -21,3 +21,10 @@ telo mute li kama anpa
 palisa mi li kama tan ma  
 sijelo mi li awen lon ma  
 lawa mi li sama sike a
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>soko</strong></p>
+  <p>mushroom</p>
+</details>
+

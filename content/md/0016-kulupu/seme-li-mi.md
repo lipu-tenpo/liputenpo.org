@@ -16,3 +16,10 @@ kala li tawa lon mi la,
 mi lon poki suli.
 
 {{{sitelen "0016-nanpa-kulupu/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>telo</strong></p>
+  <p>water</p>
+</details>
+

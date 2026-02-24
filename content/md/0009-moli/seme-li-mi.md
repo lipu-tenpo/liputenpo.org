@@ -18,3 +18,10 @@ mi pali e moli
 seme li mi?
 
 {{{sitelen "0009-nanpa-moli/sitelen_sitelen.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>tenpo lete</strong></p>
+  <p>winter</p>
+</details>
+

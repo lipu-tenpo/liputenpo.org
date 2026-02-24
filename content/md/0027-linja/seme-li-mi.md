@@ -21,3 +21,10 @@ sitelen mi li lon misikeke
 mi tawa sike la ni li ike  
 mi ken pana e telo pakala  
 mi tawa linja la ni li pona
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>akesi linja</strong></p>
+  <p>snake</p>
+</details>
+

@@ -19,3 +19,10 @@ ale li lon tan mi taso
 
 mi lon telo mi lon ma mi lon sewi a  
 seme li mi?
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>sike mama</strong></p>
+  <p>egg</p>
+</details>
+

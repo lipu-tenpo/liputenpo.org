@@ -18,3 +18,10 @@ mi pana e telo pimeja a
 
 noka luka tu wan li lon lawa mi  
 jan li pilin e ni: mi wawa li suli
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>kala pi luka luka tu wan</strong></p>
+  <p>octopus</p>
+</details>
+

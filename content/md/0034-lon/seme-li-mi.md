@@ -21,3 +21,10 @@ wawa mi li pilin lon lawa sina
 noka mi li palisa luka sina
 nimi mi li tan ilo sitelen
 sina lukin e lipu la mi awen
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>jan lon lipu, jan powe, jan pi lon ala</strong></p>
+  <p>fictional person</p>
+</details>
+

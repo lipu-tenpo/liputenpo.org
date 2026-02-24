@@ -16,3 +16,10 @@ jan mute li lon insa mi
 li tawa sewi kepeken mi
 
 {{{sitelen "0022-nanpa-sin/seme li mi.png" ""}}}
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>tomo tawa kon/waso</strong></p>
+  <p>airplane</p>
+</details>
+
