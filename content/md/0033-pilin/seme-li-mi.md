@@ -1,5 +1,5 @@
 ---
-nimi-suli: seme li mi? nanpa lon
+nimi-suli: seme li mi?
 jan-pali: jan Alonola
 tags:
   - musi
