@@ -37,8 +37,8 @@ if __name__ == "__main__":
 
     with open(in_path / f"{nanpa}.11tydata.json", "w") as f:
         json.dump({
-    "tags": [nanpa.replace("-", " ")],
-    "date": date
-}, f, indent=4)
+            "tags": [nanpa.replace("-", " ")],
+            "date": date
+        }, f, indent=4)
         f.write("\n")
 
