@@ -13,6 +13,9 @@ pdm install
 # Add special characters:
 pdm run particles 0035-len
 
+# Generate credits:
+pdm run credits 0035-len
+
 # Extract pdf cover image:
 pdm run cover 0035len
 
