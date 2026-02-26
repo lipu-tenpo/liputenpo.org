@@ -22,4 +22,7 @@ pdm run cover 0035len
 # Generate two-sided printable pdf:
 pdm run pf 0035len
 pdm run pf 0035len_bw
+
+# Add a symlink and 11tydata:
+pdm run register 0035-len 2026-01-24
 ```
