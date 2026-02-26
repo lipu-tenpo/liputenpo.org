@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "9999-nanpa-xxx/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
+{{{sitelen "0036-nanpa-poki/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
 
 mi kama tan ma Apika  
 soweli li moku e mi a  

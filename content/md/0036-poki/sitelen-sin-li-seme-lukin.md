@@ -14,7 +14,7 @@ sina wile ala wile kama sona e sitelen leko? wile la o lukin e lipu mi¹. mi 
 
 sina wile ala wile lukin e sitelen leko? wile la o lukin! o kama sona e ona o alasa sona e toki ni!
 
-{{{sitelen "9999-nanpa-xxx/sitelen-Kuwi.png" "jan Kuwi" "toki ni li kepeken sitelen Kuwi"}}}
+{{{sitelen "0036-nanpa-poki/sitelen-Kuwi.png" "jan Kuwi" "toki ni li kepeken sitelen Kuwi"}}}
 
 > waso pimeja li kama jo e moku suwi tan jan pi pali moku. soweli lili li wile e suwi ni la ona li tawa waso pimeja li toki e ni: “sina pana ala pana e suwi lili tawa mi?” taso waso pimeja li toki e ni: “pana ala.” soweli lili li sona pona e waso ni la ona li toki e ni: “kalama musi sina li wawa a! mi wile kute e ona!” nimi soweli li pona a tawa waso pimeja. ona li kama kalama musi la suwi ona li tawa anpa la soweli lili li kama jo e suwi ni.
 

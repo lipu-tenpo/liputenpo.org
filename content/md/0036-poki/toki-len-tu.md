@@ -49,4 +49,4 @@ taso lete en seli li ken moli e mi ale
 li kama weka lon pali len.  
 mi ale li pali tawa ni.
 
-{{{sitelen "9999-nanpa-xxx/toki-len-tu.svg" "len tu ante sama" "kala Asi"}}}
+{{{sitelen "0036-nanpa-poki/toki-len-tu.svg" "len tu ante sama" "kala Asi"}}}
