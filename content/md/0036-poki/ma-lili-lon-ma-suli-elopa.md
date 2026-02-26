@@ -25,3 +25,5 @@ ma Elopa la ma Samalino li ma lawa pi lili nanpa tu wan (ma ale la, ona li ma 
 * tomo palisa tu wan pi majuna mute li lon nena Sitano. ona li pona lukin mute. sitelen ona li lon lipu ma.
 
 ma lawa lili ante li lon ma suli Elopa. tenpo kama la mi toki e ma Lisensan e ma Mata. sona la, ma suli ante li jo e ma lawa lili. sina sona e ona la o toki e ona!
+
+{{{sitelen "9999-nanpa-xxx/ma-elopa-kule.png" "ma lili lon ma suli Elopa" "jan Alonola"}}}

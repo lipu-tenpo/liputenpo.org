@@ -13,7 +13,7 @@ ma mi li ma Tosi. ona la poki jaki mute li lon: poki tawa jaki kasi, poki tawa
 
 jaki li lon poki pona la nasin ona li open. ona li tawa tomo jaki. tomo ni la ilo li kulupu e jaki kepeken sona tan ilo oko anu ilo ante. ilo oko li ken sona e ijo mute tan lukin: jaki li tan kiwen seme li suli seme. ilo taki li ken sona e ni: jaki li kiwen taki anu kiwen taki ante. ilo kon li pana e kon. poki kiwen li awen taso poki lipu li tawa weka. ni la ilo li ken kulupu e poki kiwen e poki lipu. pini la kulupu pi jaki wan taso o lon. jaki wan taso li lon la ilo li ken pona pali sin e ijo tan ona.
 
-{{{sitelen "9999-nanpa-xxx/poki-pi-selo-mute.png" "poki pi selo mute" "jan Alonola"}}}
+{{{sitelen "9999-nanpa-xxx/poki-pi-selo-mute.png" "poki pi selo mute" "jan Ke Tami"}}}
 
 taso poki mute li tan kiwen wan li tan kiwen mute! o lukin e poki ni. selo la ona li lipu. insa la kiwen powe li lon. ken la kiwen ante li lon kin. lupa li tan kiwen powe. poki lili ni li tan kiwen mute a! ni li ike tawa sike pi kama sin: ilo o kipisi e ijo ni. mute la poki ni li lon telo. telo la lipu li pakala. lipu pakala li ken kama sin lipu. lipu ala la kiwen powe li lon. ken la kiwen powe li kama sin. taso mute la jan li seli e ona.
 

@@ -1,6 +1,6 @@
 ---
 nimi-suli: poki pi insa ala li ijo musi
-jan-pali: jan Ke tami
+jan-pali: jan Ke Tami
 tags:
   - sona
 ---
@@ -17,6 +17,8 @@ ni la, ijo li lon insa lawa taso pi jan sona anu seme? sina a ken ala ken sona
 o jo e lipu. sina lukin e sinpin ona la, sinpin lipu li walo. monsi lipu li pimeja. suli ona o suli tan anpa tawa sewi o lili tan poka wan tawa poka ante. ni la ona li sama linja anu palisa li sama ala ma. o wan e sewi lipu e anpa lipu: o jo e sewi lipu, o tawa e ona tawa anpa lipu, o sike lili e ona tawa anpa. sewi lipu la, sina lukin e pimeja. walo li lon anpa. o wan e walo pi sewi lipu ni lon walo pi anpa lipu. sina kama pali e sike pona kepeken lipu. sike taso. nasa ala. pipi li tawa lon selo insa pi sike lipu ni, li awen tawa la, ona li awen lon insa. ona li tawa lon selo pi insa ala li awen tawa la, ona li awen lon insa ala. nasa ala a.
 
 ni la o pali e ijo nasa. o jo e lipu. sama la lipu o sama linja. o wan e sewi lipu e anpa lipu, taso o kepeken nasin ante: o jo e sewi lipu. o tawa sike e luka sina: o anpa e sewi luka, o sewi e anpa luka. tan ni la, sina lukin e pimeja lon sewi lipu e walo lon anpa lipu. sewi lipu la, walo li lon monsi. insa lipu la, lipu li tawa sike li kama ante tan walo tawa pimeja. o tawa e sewi lipu pimeja tawa anpa lipu. o sike lili e ona tawa anpa. o wan e pimeja pi sewi lipu lon walo pi anpa lipu. ni kin la, sina kama pali e sike kepeken lipu - taso ona li nasa lili. pipi li open e tawa lon insa pi selo sike lon poka sina la, ona li awen tawa la, ona li kama sin lon poka sina - taso ona li kama lon insa ala pi selo sike. ona li awen tawa la, ona li kama sin lon poka sina lon insa lon open pi tawa ona. jan Mepiju (Möbius) li kama sona e sike nasa ni.
+
+{{{sitelen "9999-nanpa-xxx/mobius.svg" "linja nasa" "jan Ke Tami"}}}
 
 jan Kalin (Klein) li kama sona e poki pi toki open mi: o jo e sike tu pi jan Mepiju. pini lipu pi sike ni wan li kama lon pini lipu pi sike sama la, ona tu li wan, li ijo sin. ijo sin ni la pini tu li kama wan la, ni li poki nasa pi jan Kalin. o sona: sina wile ni kepeken lipu sina la, sina ken ala a! lipu li wile kama tawa insa lipu li kama wile lupa e selo. ike la, mi pali e ijo la, ijo li suli pi nasin tu wan. poki nasa li wile e suli pi nasin tu tu li lupa ala e selo. 
 
