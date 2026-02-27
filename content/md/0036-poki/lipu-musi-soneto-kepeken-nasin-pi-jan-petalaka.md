@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0036-nanpa-poki/petrarch-kule.png" "poki tu wan" "jan Ke Tami"}}}
+
 tenpo ale la jan li sitelen e lipu musi lili.  
 lipu ni la, linja mute li pini kepeken kalama sama.  
 kin la nanpa kalama li suli lon lipu ni.  

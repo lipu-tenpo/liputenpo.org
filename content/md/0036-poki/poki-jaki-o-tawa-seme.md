@@ -7,13 +7,15 @@ tags:
 
 sina kama jo e moku tan tomo esun la sina esun e moku lon poki. poki mute li ken. ken la poki li kiwen anu lipu, li lili anu suli. mute la jan li kepeken e poki lon tenpo wan taso. ni li ike. taso poki ni li ken kama sin. poki mute li kama sin kepeken nasin ni:
 
+{{{sitelen "0036-nanpa-poki/tetra-kule.png" "poki telo (li tawa poki seme?)" "jan Ke Tami"}}}
+
 pona la sina ken awen e sike pi kama sin. sina wile weka e poki tawa poki jaki la o kute: o anu e poki jaki pona. ma mute la jan li weka ala e poki telo lon poki jaki: jan li pana e poki telo (pi telo ala) lon tomo esun. poki li kiwen la ilo li weka e jaki li pana sin e telo lon ona.
 
 ma mi li ma Tosi. ona la poki jaki mute li lon: poki tawa jaki kasi, poki tawa jaki poki, poki tawa jaki lipu, poki tawa kiwen lukin, poki tawa ijo ante. kin la mi weka e poki telo lon tomo esun. mute a! taso nasin ni li pona tan ni: ijo ante li wile e nasin ante. mi wile pali sin e lipu tan jaki lipu la mi wile e lipu taso. ijo ante li lon jaki lipu la mi o weka e ijo ni. ni li pali suli!
 
 jaki li lon poki pona la nasin ona li open. ona li tawa tomo jaki. tomo ni la ilo li kulupu e jaki kepeken sona tan ilo oko anu ilo ante. ilo oko li ken sona e ijo mute tan lukin: jaki li tan kiwen seme li suli seme. ilo taki li ken sona e ni: jaki li kiwen taki anu kiwen taki ante. ilo kon li pana e kon. poki kiwen li awen taso poki lipu li tawa weka. ni la ilo li ken kulupu e poki kiwen e poki lipu. pini la kulupu pi jaki wan taso o lon. jaki wan taso li lon la ilo li ken pona pali sin e ijo tan ona.
 
-{{{sitelen "0036-nanpa-poki/poki-pi-selo-mute.png" "poki pi selo mute" "jan Ke Tami"}}}
+{{{sitelen "0036-nanpa-poki/pokituwan-kule.png" "poki tu wan" "jan Ke Tami"}}}
 
 taso poki mute li tan kiwen wan li tan kiwen mute! o lukin e poki ni. selo la ona li lipu. insa la kiwen powe li lon. ken la kiwen ante li lon kin. lupa li tan kiwen powe. poki lili ni li tan kiwen mute a! ni li ike tawa sike pi kama sin: ilo o kipisi e ijo ni. mute la poki ni li lon telo. telo la lipu li pakala. lipu pakala li ken kama sin lipu. lipu ala la kiwen powe li lon. ken la kiwen powe li kama sin. taso mute la jan li seli e ona.
 
