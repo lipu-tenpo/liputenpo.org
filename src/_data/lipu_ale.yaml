@@ -1,3 +1,11 @@
+- id: 36
+  title: nanpa poki
+  date: 2026-03-01
+  pdf: "0036poki.pdf"
+  pdf_bleed: "0036poki_bleed.pdf"
+  pdf_pf: "0036poki_pf.pdf"
+  pdf_bwpf: "0036poki_bwpf.pdf"
+  cover_image: "0036poki_sinpin.png"
 - id: 35
   title: nanpa len
   date: 2026-01-24

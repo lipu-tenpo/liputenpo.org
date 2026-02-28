@@ -5,7 +5,7 @@ description = ""
 authors = [
     {name = "", email = ""},
 ]
-dependencies = ["pdf2image>=1.17.0"]
+dependencies = ["pdf2image>=1.17.0", "pyyaml>=6.0.3"]
 requires-python = "==3.14.*"
 readme = "README.md"
 license = {text = "ISC"}
@@ -18,3 +18,5 @@ distribution = false
 particles = "pdm run python particles.py"
 cover = "pdm run python pdf_extract_cover.py"
 pf = "pdm run python print_two_page_pdf.py"
+credits = "pdm run python credits.py"
+register = "pdm run python register.py"

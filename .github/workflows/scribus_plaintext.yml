@@ -1,24 +1,26 @@
 # workflow to convert `./toki/` articles to plaintext for easier Scribus import
-name: toki-plaintext
-
-on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
-
-jobs:
-  export-plaintext:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - name: Convert to plaintext
-        run: |
-          chmod +x ./scripts/scribus_export_ALL.sh
-          chmod +x ./scripts/scribus_export.sh
-          ./scripts/scribus_export_ALL.sh
-      - name: Upload plaintext
-        uses: actions/upload-artifact@v4
-        with:
-          name: plaintext
-          path: ./scribus/
+# no longer needed because we use the same Markdown files now
+#
+# name: toki-plaintext
+#
+# on:
+#   push:
+#     branches:
+#       - main
+#   workflow_dispatch:
+#
+# jobs:
+#   export-plaintext:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v4
+#       - name: Convert to plaintext
+#         run: |
+#           chmod +x ./scripts/scribus_export_ALL.sh
+#           chmod +x ./scripts/scribus_export.sh
+#           ./scripts/scribus_export_ALL.sh
+#       - name: Upload plaintext
+#         uses: actions/upload-artifact@v4
+#         with:
+#           name: plaintext
+#           path: ./scribus/
