@@ -609,7 +609,9 @@
             <Subset Name="Bricolage Grotesque 48pt SemiCondensed ExtraBold"/>
             <Subset Name="Bricolage Grotesque 48pt SemiCondensed Medium"/>
             <Subset Name="Bricolage Grotesque Bold"/>
+            <Subset Name="Bricolage Grotesque Condensed Medium"/>
             <Subset Name="Bricolage Grotesque Medium"/>
+            <Subset Name="Bricolage Grotesque SemiCondensed Bold"/>
             <Subset Name="DejaVu Sans Book"/>
             <Subset Name="Liberation Sans Regular"/>
             <Subset Name="Noto Sans Bold"/>
