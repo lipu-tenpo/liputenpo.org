@@ -19,19 +19,18 @@ tags:
 
 ᚲᚢᛚᚢᛈᚢ ᛃᚨᚾ ᚾᛁ ᛚᚨ ᛃᚨᚾ ᛗᚢᛏᛖ ᛚᛁ ᛈᛁᛚᛁᚾ ᛗᛟᚾᛊᚢᛏᚨ ᚨᚾᚢ ᛈᛁᛚᛁᚾ ᛖ ᚹᚨᚹᚨ ᚢᛏᚨᛚᚨ ᛟᚾᚨ᛫ ᛏᚨᛊᛟ ᚾᛁ ᛚᛁ ᛏᚨᚾ ᚾᚨᛊᚨ ᚲᚢᛚᚢᛈᚢ ᛏᚨᛊᛟ᛫ ᛃᚨᚾ ᚾᛁ ᛚᛁ ᚲᛖᚾ ᚨᚾᛏᛖ ᛗᚢᛏᛖ᛫ ᛗᛁ ᛊᛟᚾᚨ ᛈᛟᚾᚨ ᛖ ᚢᛏᚨᛚᚨ ᛏᚨᛊᛟ ᛟᚾᚨ ᛏᚨᚾ ᚾᛁ᛬ ᛟᚾᚨ ᛚᛁ ᛊᛁᛏᛖᛚᛖᚾ ᛚᛁᛚᛁ ᚨ ᛖ ᚾᚨᛊᛁᚾ ᚲᚢᛚᚢᛈᚢ ᛟᚾᚨ᛫ ᛗᛁ ᚹᛁᛚᛖ ᛊᛟᚾᚨ ᛖ ᛟᚾᚨ ᛚᚨ ᛗᛁ ᛟ ᚨᛚᚨᛊᚨ ᛊᛟᚾᚨ ᚹᚨᚹᚨ᛫
 
----
+***
 
 # jan majuna pi ma lete
 
-**ken suli la** sitelen insa sina la jan majuna pi ma lete li jo e kiwen awen lawa pi palisa tu e selo soweli lon sijelo ona. taso ona li sama ala a ni. mi wile kama sona e ona lon la mi o lukin e tenpo e tawa e pali ona. tenpo sike nanpa luka tu ale mute mute mute mute luka luka tu wan la ona li pakala e tomo sewi pi ma Linsipan. ni la jan lawa ante pi ma Elopa li kama pilin monsuta tan ona li toki e ike monsuta ona. jan Akuwin pi ma tomo Joki li toki e ni: sewi li ken e moli pi jan mute ni tan pali anu kon ike ona.
+**ken suli la** sitelen insa sina la jan majuna pi ma lete li jo e kiwen awen lawa pi palisa tu e selo soweli lon sijelo ona. taso ona li sama ala a ni. mi wile kama sona e ona lon la mi o lukin e tenpo e tawa e pali ona. tenpo sike nanpa luka tu ale mute mute mute mute luka luka tu wan la ona li pakala e tomo sewi pi ma Linsipan. ni la jan lawa ante pi ma Elopa li kama pilin monsuta tan ona li toki e ike monsuta ona. jan Akuwin pi ma tomo Joki li toki e ni: sewi li ken e moli pi jan mute ni tan pali anu kon ike ona.
 
-open la ona li tawa ma Piten li tawa ma Lusikaja Senja (tenpo ni la ma Ukawina li lon sama). taso ona li kama tawa ma Nomansi lon ma Panki (tenpo ni la ona lon ma Kanse). ni la lili ona li kama kulupu Noman li kama lawa e ma Inli. taso jan majuna pi ma lete li tawa ma ante kin pi ma Elopa. ona li utala e ma mute a: ma Italija en ma Ipelija en ma tomo Kontansinopoli pi ma Pasileja Loma (tenpo ni la ona li ma tomo Itanpu pi ma Tukije). jan mute a li sona e ni: ona li tawa ma Amelika lon tenpo sike nanpa luka luka ale mute wan. toki ona la ni li ma Winlan.
+open la ona li tawa ma Piten li tawa ma Lusikaja Senja (tenpo ni la ma Ukawina li lon sama). taso ona li kama tawa ma Nomansi lon ma Panki (tenpo ni la ona lon ma Kanse). ni la lili ona li kama kulupu Noman li kama lawa e ma Inli. taso jan majuna pi ma lete li tawa ma ante kin pi ma Elopa. ona li utala e ma mute a: ma Italija en ma Ipelija en ma tomo Kontansinopoli pi ma Pasileja Loma (tenpo ni la ona li ma tomo Itanpu pi ma Tukije). jan mute a li sona e ni: ona li tawa ma Amelika lon tenpo sike nanpa luka luka ale mute wan. toki ona la ni li ma Winlan.
 
-jan sona li toki e tan ken mute tawa tenpo ni. ken la ona li tan seli anu lili moku anu mute jan anu ante. taso tenpo sike nanpa luka luka ale la pini pi tawa weka ona li kama tan nasin pi jan Jesu.
+jan sona li toki e tan ken mute tawa tenpo ni. ken la ona li tan seli anu lili moku anu mute jan anu ante. taso tenpo sike nanpa luka luka ale la pini pi tawa weka ona li kama tan nasin pi jan Jesu.
 
-tan nanpa wan pi wawa ona li ilo tawa telo suli ona. ni la ona li ken tawa wawa li ken utala e ma weka. ona li esun la ona li kepeken ilo tawa ante pi wawa ni ala. nasa la jan sona ala li sona e ni: ona li sona e tawa ona kepeken nasin seme. utala la ona li wan e kulupu pi ilo tawa mute kepeken linja. ni la ona li sike e ilo tawa ante li lili e sike. tenpo sama la ona li pana e palisa utala li anpa e ilo tawa ante. ona li tawa ma mute la ona li esun mute kin. lon la ona li esun e ijo pi ma weka a kin: ma Pasileja Loma en ma Kilapa Umawija (ma Alapi pi tenpo ni).
+tan nanpa wan pi wawa ona li ilo tawa telo suli ona. ni la ona li ken tawa wawa li ken utala e ma weka. ona li esun la ona li kepeken ilo tawa ante pi wawa ni ala. nasa la jan sona ala li sona e ni: ona li sona e tawa ona kepeken nasin seme. utala la ona li wan e kulupu pi ilo tawa mute kepeken linja. ni la ona li sike e ilo tawa ante li lili e sike. tenpo sama la ona li pana e palisa utala li anpa e ilo tawa ante. ona li tawa ma mute la ona li esun mute kin. lon la ona li esun e ijo pi ma weka a kin: ma Pasileja Loma en ma Kilapa Umawija (ma Alapi pi tenpo ni).
 
-nasin pi jan Jesu li kama ala la sitelen li suli ala lon nasin kulupu ona. ni la mi sona lili taso e ona. tenpo pi tawa weka la sitelen li kama suli lili. taso ona li suli tawa suli ona pi tenpo pini taso. ona li awen lili a tawa suli ona pi ma ante. lipu pi mute lili li toki e nasin sewi li toki musi e tenpo utala e jan suli pini.
+nasin pi jan Jesu li kama ala la sitelen li suli ala lon nasin kulupu ona. ni la mi sona lili taso e ona. tenpo pi tawa weka la sitelen li kama suli lili. taso ona li suli tawa suli ona pi tenpo pini taso. ona li awen lili a tawa suli ona pi ma ante. lipu pi mute lili li toki e nasin sewi li toki musi e tenpo utala e jan suli pini.
 
-kulupu jan ni la jan mute li pilin monsuta anu pilin e wawa utala ona. taso ni li tan nasa kulupu taso. jan ni li ken ante mute. mi sona pona e utala taso ona tan ni: ona li sitelen lili a e nasin kulupu ona. mi wile sona e ona la mi o alasa sona wawa.
-
+kulupu jan ni la jan mute li pilin monsuta anu pilin e wawa utala ona. taso ni li tan nasa kulupu taso. jan ni li ken ante mute. mi sona pona e utala taso ona tan ni: ona li sitelen lili a e nasin kulupu ona. mi wile sona e ona la mi o alasa sona wawa.

@@ -5,9 +5,6 @@ tags:
   - sona
 ---
 
-թէնպո պի կօլօպօ Այա  
-թան յան լիլի Էնթա
-
 մա Այա (Հայաստանի), լի լոն պոկա պի կօլօպօ նէնա Կովկաս, լի լոն պոկա պի նէնա սօլի Արարատ։ մա Կաթէլո էն մա Թօկի էն մա Իլան էն մա Ասէպասան լի լոն պոկա պի մա նի։ կօլօպօ յան Այա լի մայօնա ա, սամա մա սօլի Ասորեստան, սամա կօլօպօ Էլին։ յան սոնա լա կօլօպօ Այա լի կէն լոն թէնպո պի մա Պիյանի (Վանի), թան նի․ նիմի պի թոկի Պիյանի լի ավէն ա լոն թոկի Այա։ թոկի լա ոնա լի թան կօլօպօ Ինթո֊Էլոպա, թասո ոնա լի կամա լոն մա նի լոն նասին սէ՞մէ։ յան լի ավէն սոնա պոնա ալա։
 
 կօլօպօ Այա լի լիլի թավա կօլօպօ անթէ։ նի լա կօլօպօ անթէ լի լավա է ոնա լոն թէնպո մօթէ։ մօթէ լա կօլօպօ Իլան լի լավա է ոնա։ մօթէ լիլի լա կօլօպօ Լոմա կին լի վիլէ է մա Այա, լի օթալա է լավա Իլան թավա նի։ թասո, նէնա մօթէ լի լոն մա լա․ կօլօպօ Այա լի կէն լավա լիլի լոն անպա պի լավա անթէ, լի կէն լավա պի անպա ալա։ ոնա լի կէն ավէն լոն նասին ոնա։ 
@@ -22,6 +19,7 @@ tags:
 
 ավէն լա յան պի կօլօպօ անթէ լի իկէ թավա յան պի կօլօպօ Այա, լի պակալա է թոմո մայօնա կօլօպօ լոն վէկա ոնա, լի ավէն թոկի է մոլի կօլօպօ։ թասո, կօլօպօ Այա լի ավէն, լոն մա լիլի Այա, լոն մա մօթէ վէկա։ յան մօթէ պի կօլօպօ նի լի ավէն ա՜ լոն նասին ոնա, լի թոկի Այա, լի թոկի է թէնպո պինի ոնա, լի պոնա է թէնպո կամա կօլօպօ։ ոնա ո ա՛վէն պո՜նա ա։
 
+<!--
 Conversion:
 
 | a | e | i | j | k | l | m | n | o | p | s | t | u | w |
@@ -30,30 +28,27 @@ Conversion:
 
 Some names written completely in Armenian language, indicated by square brackets in sitelen Lasina version
 
-| , | . | : | \- | Tones  punc. \-\> | \! (exclamation) | vocative | ? (question) |
+| , | . | : | - | Tones  punc. -> | ! (exclamation) | vocative | ? (question) |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | , | ։ | ․ | ֊ |  | ՜ (applies onto a or word emphasised by a) | ՛ (applies to same word that o applies to) | ՞ (applies onto seme) |
 
-Punctuation roughly follows Armenian conventions, but does not directly map to those used in the sitelen Lasina version, Tone punctuations applies to the words itself by being put right after the vowel of stressed syllable, instead of sentence end. A period (:) is usually put at the end instead, like a normal sentence.
+Punctuation roughly follows Armenian conventions, but does not directly map to those used in the sitelen Lasina version, Tone punctuations applies to the words itself by being put right after the vowel of stressed syllable, instead of sentence end. A period (:) is usually put at the end instead, like a normal sentence.
+-->
 
 ---
 
-tenpo pi kulupu Aja
-tan jan lili Enta
+ma Aja ([Hayastan]), li lon poka pi kulupu nena [Kovkas], li lon poka pi nena suli [Ararat]. ma Katelo en ma Tuki en ma Pasi en ma Asepasan li lon poka pi ma ni. kulupu jan Aja li majuna a, sama ma suli [Asorestan], sama kulupu Elin. jan sona la kulupu Aja li ken lon tenpo pi ma Pijani ([Vani]), tan ni: nimi pi toki Pijani li awen a lon toki Aja. toki la ona li tan kulupu Into-Elopa, taso ona li kama lon ma ni lon nasin seme? jan li awen sona pona ala. 
 
-ma Aja (\[Hayastan\]), li lon poka pi kulupu nena \[Kovkas\], li lon poka pi nena suli \[Ararat\]. ma Katelo en ma Tuki en ma Pasi en ma Asepasan li lon poka pi ma ni. kulupu jan Aja li majuna a, sama ma suli \[Asorestan\], sama kulupu Elin. jan sona la kulupu Aja li ken lon tenpo pi ma Pijani (\[Vani\]), tan ni: nimi pi toki Pijani li awen a lon toki Aja. toki la ona li tan kulupu Into-Elopa, taso ona li kama lon ma ni lon nasin seme? jan li awen sona pona ala. 
+kulupu Aja li lili tawa kulupu ante. ni la kulupu ante li lawa e ona lon tenpo mute. mute la kulupu Pasi li lawa e ona. mute lili la kulupu Loma kin li wile e ma Aja, li utala e lawa Pasi tawa ni. taso, nena mute li lon ma la, kulupu Aja li ken lawa lili lon anpa pi lawa ante, li ken lawa pi anpa ala. ona li ken awen lon nasin ona.
 
-kulupu Aja li lili tawa kulupu ante. ni la kulupu ante li lawa e ona lon tenpo mute. mute la kulupu Pasi li lawa e ona. mute lili la kulupu Loma kin li wile e ma Aja, li utala e lawa Pasi tawa ni. taso, nena mute li lon ma la, kulupu Aja li ken lawa lili lon anpa pi lawa ante, li ken lawa pi anpa ala. ona li ken awen lon nasin ona.
+ni la nasin ona li ante lon seme? wan la ona li ma nanpa wan pi nasin sewi Kolisu. lawa ona li kama lon nasin ni la lawa pi ma ante li awen lon nasin ni ala. tenpo lon la, nena li weka e ona tan kulupu ante pi nasin sewi sama la, kulupu Aja en kulupu ante li awen wan ala. ante la nasin sitelen toki li lon tawa toki Aja taso. ni li tan jan [Mesrop Mashtots], li tan pana ona pi nasin sewi. ona li wile toki e nasin sewi e lipu sewi tawa kulupu kepeken toki Aja. ni la ona li pali e nasin sitelen toki ni! lukin la ona en sitelen Elin li sama lili, taso sitelen li mute, li pana e kalama ante. pali ona li open e sitelen Aja li wawa tenpo e toki Aja. ni la ona li kama mama pi toki lipu Aja tawa kulupu. 
 
-ni la nasin ona li ante lon seme? wan la ona li ma nanpa wan pi nasin sewi Kolisu. lawa ona li kama lon nasin ni la lawa pi ma ante li awen lon nasin ni ala. tenpo lon la, nena li weka e ona tan kulupu ante pi nasin sewi sama la, kulupu Aja en kulupu ante li awen wan ala. ante la nasin sitelen toki li lon tawa toki Aja taso. ni li tan jan \[Mesrop Mashtots\], li tan pana ona pi nasin sewi. ona li wile toki e nasin sewi e lipu sewi tawa kulupu kepeken toki Aja. ni la ona li pali e nasin sitelen toki ni\! lukin la ona en sitelen Elin li sama lili, taso sitelen li mute, li pana e kalama ante. pali ona li open e sitelen Aja li wawa tenpo e toki Aja. ni la ona li kama mama pi toki lipu Aja tawa kulupu. 
+kulupu Aja li ken awen e toki ona, taso ona li awen wawa ala, li awen anpa lon mute. kulupu Alapi en lawa Loma sin en kulupu Tuki en lawa Katelo en lawa Pasi sin en lawa Lusi li kama lawa e ma Aja. tenpo lili taso la kulupu Aja li ken lawa e ma ona. lawa pi ma suli la ona li tawa ma ante kin, tan mani, tan utala ala, tan wile pi pona lon. anpa la weka ma la jan mute li awen lon nasin ona. 
 
-kulupu Aja li ken awen e toki ona, taso ona li awen wawa ala, li awen anpa lon mute. kulupu Alapi en lawa Loma sin en kulupu Tuki en lawa Katelo en lawa Pasi sin en lawa Lusi li kama lawa e ma Aja. tenpo lili taso la kulupu Aja li ken lawa e ma ona. lawa pi ma suli la ona li tawa ma ante kin, tan mani, tan utala ala, tan wile pi pona lon. anpa la weka ma la jan mute li awen lon nasin ona. 
+taso lawa li ken wile ala e ni. ma pi lawa Tuki la jan li kama pilin e ni: ma insa Tuki la jan ale o lon nasin pi kulupu Tuki. kin la lawa Lusi pi nasin Kolisu li utala mute e lawa Tuki, la jan mute li kama pilin ike tawa jan pi nasin Kolisu, li pilin e ni: ona a li utala lon poka pi lawa Lusi! ni la lawa li alasa nasin Tuki e jan ni lon wile ala ona. jan li awen ante ala e nasin ona la, lawa li lanpan e ijo ona, li weka e ona tan ma ona tawa ma pi telo ala, li moli e ona mute. ni la kulupu Aja pi ma ni li kama lili li kama weka. tenpo lon la lawa Tuki li awen wile ala toki e ike ni. 
 
-taso lawa li ken wile ala e ni. ma pi lawa Tuki la jan li kama pilin e ni: ma insa Tuki la jan ale o lon nasin pi kulupu Tuki. kin la lawa Lusi pi nasin Kolisu li utala mute e lawa Tuki, la jan mute li kama pilin ike tawa jan pi nasin Kolisu, li pilin e ni: ona a li utala lon poka pi lawa Lusi\! ni la lawa li alasa nasin Tuki e jan ni lon wile ala ona. jan li awen ante ala e nasin ona la, lawa li lanpan e ijo ona, li weka e ona tan ma ona tawa ma pi telo ala, li moli e ona mute. ni la kulupu Aja pi ma ni li kama lili li kama weka. tenpo lon la lawa Tuki li awen wile ala toki e ike ni. 
+tenpo poka la lawa Aja en lawa Asepasan li utala lon ma [Artsakh]. ma ni la jan mute pi kulupu Aja en jan mute kin pi kulupu Asepasan li lon, taso lawa li wile weka e jan pi kulupu ante lon utala. pini la lawa Asepasan li wawa, li anpa e lawa utala Aja, li toki e wile moli pi kulupu Aja. jan pi kulupu Aja li wile ala moli la ona li weka tan ma ni.
 
-tenpo poka la lawa Aja en lawa Asepasan li utala lon ma \[Artsakh\]. ma ni la jan mute pi kulupu Aja en jan mute kin pi kulupu Asepasan li lon, taso lawa li wile weka e jan pi kulupu ante lon utala. pini la lawa Asepasan li wawa, li anpa e lawa utala Aja, li toki e wile moli pi kulupu Aja. jan pi kulupu Aja li wile ala moli la ona li weka tan ma ni.
+awen la jan pi kulupu ante li ike tawa jan pi kulupu Aja, li pakala e tomo majuna kulupu lon weka ona, li awen toki e moli kulupu. taso, kulupu Aja li awen, lon ma lili Aja, lon ma mute weka. jan mute pi kulupu ni li awen a lon nasin ona, li toki Aja, li toki e tenpo pini ona, li pona e tenpo kama kulupu. ona o awen pona a!
 
-awen la jan pi kulupu ante li ike tawa jan pi kulupu Aja, li pakala e tomo majuna kulupu lon weka ona, li awen toki e moli kulupu. taso, kulupu Aja li awen, lon ma lili Aja, lon ma mute weka. jan mute pi kulupu ni li awen a lon nasin ona, li toki Aja, li toki e tenpo pini ona, li pona e tenpo kama kulupu. ona o awen pona a\!
-
-> mi lon ala kulupu Aja, li poka ala tawa jan ni anu ma ona, taso nasin sitelen ona li pona mute a tawa mi. lipu musi li kama li ken e mi la mi wile toki lon sitelen ni. nasin mi pi toki pona la kalama wan li kepeken sitelen wan taso. lukin la sitelen wan o sama ala sitelen ante. ni la kalama sitelen pi toki Aja li ken sama ala kalama pi toki pona. ni li nasin mi taso. kin la mi alasa sona e nasin pi namako nimi, taso sona lili li lon ma ilo la mi ken pakala. sina sona toki Հայերեն li wile pona e nasin mi lon pali sina la o ni\!
-
+> mi lon ala kulupu Aja, li poka ala tawa jan ni anu ma ona, taso nasin sitelen ona li pona mute a tawa mi. lipu musi li kama li ken e mi la mi wile toki lon sitelen ni. nasin mi pi toki pona la kalama wan li kepeken sitelen wan taso. lukin la sitelen wan o sama ala sitelen ante. ni la kalama sitelen pi toki Aja li ken sama ala kalama pi toki pona. ni li nasin mi taso. kin la mi alasa sona e nasin pi namako nimi, taso sona lili li lon ma ilo la mi ken pakala. sina sona toki Հայերեն li wile pona e nasin mi lon pali sina la o ni!
