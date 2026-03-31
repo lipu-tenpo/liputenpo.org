@@ -23,7 +23,7 @@ jan-pinanpalili en mi- lianu-- esitelenante. mianu- esitelenmi. mianu- esitelenk
 
 jan li anu e sitelen seme?
 
-jan mute il anu e sitelen pi nimi Sitelen Pona tan ni: sitelen ni li pona li ike ala. toki pona li jo e nimi mute mute mute la sitelen pona li jo e sitelen lili pi nanpa sama.  
+jan mute li anu e sitelen pi nimi Sitelen Pona tan ni: sitelen ni li pona li ike ala. toki pona li jo e nimi mute mute mute la sitelen pona li jo e sitelen lili pi nanpa sama.  
 jan mute li anu e ona tan ni: sitelen lili pi sitelen pona li pona tawa lukin. jan li ken kama sona pona e ona.   
 jan mute li anu e ona tan ni: ona li lon ma ale. jan li wile lukin e ona la jan li ken lukin e ona.  
 jan mute li anu e ona tan ni: ona li sitelen pona.

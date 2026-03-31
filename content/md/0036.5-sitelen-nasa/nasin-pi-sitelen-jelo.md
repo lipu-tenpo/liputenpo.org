@@ -46,7 +46,7 @@ tags:
 👆😊↩️👀  
 ☀️👆🅾️🍬
 
-<details><summary>sitelen Lasina</summary>
+***
 
 toki a  
 sina pilin seme  
@@ -88,5 +88,3 @@ taso ona li ken e jan
 
 sina pona tan lukin  
 suno sina o suwi
-
-</details>
