@@ -5,12 +5,12 @@ tags:
   - musi
 ---
 
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi - sitelen open.svg" "" "soweli suli Alu pi ko lete"}}}
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi-1.svg" "" "soweli suli Alu pi ko lete"}}}
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi-2.svg" "" "soweli suli Alu pi ko lete"}}}
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi-3.svg" "" "soweli suli Alu pi ko lete"}}}
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi-4.svg" "" "soweli suli Alu pi ko lete"}}}
-{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi-5.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/0-kule.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/1-kule.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/2-kule.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/3-kule.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/4-kule.svg" "" "soweli suli Alu pi ko lete"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/lisi/5-kule.svg" "" "soweli suli Alu pi ko lete"}}}
 
 ***
 
