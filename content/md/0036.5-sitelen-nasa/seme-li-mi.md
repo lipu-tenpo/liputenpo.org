@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "0036.5-nanpa-sitelen-nasa/seme-li-mi.png" "seme li mi" "jan Alonola"}}}
+{{{sitelen "0036.5-nanpa-sitelen-nasa/seme_li_mi-kule.png" "seme li mi" "jan Alonola"}}}
 
 mi toki ala li tawa ala  
 mi wile awen lon sinpin sina  

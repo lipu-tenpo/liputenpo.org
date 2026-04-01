@@ -36,3 +36,16 @@ jan mi o! mi kute e sina. sina pakala e ijo. ijo pakala o weka.
 
 jan li pana e nasin tawa ijo pali ona  
 ijo pali li pana e nasin tawa jan ona
+
+<style>
+  img {
+    min-width: 100px;
+    min-height: 100px;
+    max-width: 300px;
+    max-height: 300px; 
+  }
+  a:has(img) {
+    text-align: center;
+    width: 100%;
+  }
+</style>

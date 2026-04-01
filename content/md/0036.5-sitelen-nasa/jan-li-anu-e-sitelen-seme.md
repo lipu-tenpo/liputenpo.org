@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+<div class="custom-font">
+
 jan- lianu-- esitelenseme?
 
 janmute lianu-- esitelen-pi\_nimi-sitelenpona tanni: sitelenni lipona-liikeala. tokipona lijo- e\_nimimutemutemutela sitelenpona lijo- esitelenlilipinanpasama.  
@@ -18,6 +20,8 @@ janmute lianu-- eona- tanni: sitelenmajunapitoki-MAYAla sitelensuwi lisama-tawa-
 janmute lianu-- eona- tanni: jan- likenkule eona-\!
 
 jan-pinanpalili en mi- lianu-- esitelenante. mianu- esitelenmi. mianu- esitelenkuwi.  
+
+</div>
 
 ***
 
@@ -34,3 +38,18 @@ jan mute li anu e ona tan ni: sitelen majuna pi toki Maya la sitelen suwi li 
 jan mute li anu e ona tan ni: jan li ken kule e ona\!
 
 jan pi nanpa lili en mi li anu e sitelen ante… mi anu e sitelen mi. mi anu e sitelen pi nimi Sitelen Kuwi.
+
+
+<style>
+  @font-face {
+    font-family: sitelen-kuwi;
+    src: url(https://raw.githubusercontent.com/ClockWise3411/sitelen-leko-Kuwi/refs/heads/main/sitelen.Kuwi.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .custom-font {
+    font-family: "sitelen-kuwi", sans-serif;
+    font-size: 170%;
+  }
+</style>

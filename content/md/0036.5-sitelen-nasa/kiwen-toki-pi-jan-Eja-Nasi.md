@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+<div class="custom-font">
+
 jan 𒂍𒀀𒈾𒍢𒅕o. jan 𒈾𒀭𒉌li toki e ni
 
 sina kama la, sina toki e ni tawa mi.   
@@ -31,6 +33,8 @@ o sona e ni, tenpo kama la kiwen mani loje li pona mute ala la mi wile ala e�
 kama la mi wan li lukin e leko ale li kama jo e leko pi wile mi lon ma mi.   
 mi kama ken a wile ala e ijo sina tan ni, sina ike mute tawa mi.
 
+</div>
+
 ***
 
 jan Eja Nasi o: jan Nani li pana e toki ni:  
@@ -45,3 +49,17 @@ o sona e ni: tenpo kama la kiwen mani loje li pona mute ala la mi wile ala e�
 ***
 
 toki ni li kepeken pali pi jan A. Leo Oppenheim lon lipu ni *Letters From Mesopotamia*: https://isac.uchicago.edu/research/publications/misc/letters-mesopotamia-official-business-and-private-letters-clay-tablets
+
+
+<style>
+  @font-face {
+    font-family: sitelenko;
+    src: url(https://raw.githubusercontent.com/AromaticWaffle/AromaticWaffle.github.io/refs/heads/main/badcopper/sitelenko.otf) format("opentype");
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .custom-font {
+    font-family: "sitelenko", sans-serif;
+  }
+</style>
