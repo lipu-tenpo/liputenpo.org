@@ -97,11 +97,11 @@ def replace_invisibles(toki):
 def improve_but_not_handlebars(toki):
     # do not replace file names in {{{sitelen}}} tags
     # and ensure that the regexes don’t replace other markdown things
-    # like headings and lists
+    # like headings and lists and Markdown tables
     new_texts = []
     subs = 0
     for line in toki.split("\n"):
-        if re.match(r"(\{\{|#+ )", line):
+        if re.match(r"(\{\{|#+ |\|)", line):
             # skip editing this line
             new_texts.append(line)
         else:

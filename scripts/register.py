@@ -25,7 +25,7 @@ if __name__ == "__main__":
     # e.g. 0035-len
     issue = sys.argv[1]
     # e.g. nanpa-len
-    nanpa = f"nanpa-{issue.split("-")[1]}"
+    nanpa = f"nanpa-{"-".join(issue.split("-")[1:])}"
 
     date = sys.argv[2]
 
@@ -33,7 +33,7 @@ if __name__ == "__main__":
     out_path = OUT_DIRECTORY / nanpa
 
     if not out_path.exists():
-        os.symlink(in_path, out_path)
+        os.symlink(Path("..") / in_path, out_path)
 
     with open(in_path / f"{nanpa}.11tydata.json", "w") as f:
         json.dump({

@@ -1,3 +1,11 @@
+- id: 36.5
+  title: nanpa sitelen nasa
+  date: 2026-04-01
+  pdf: "0036.5sitelen-nasa.pdf"
+  pdf_bleed: "0036.5sitelen-nasa_bleed.pdf"
+  pdf_pf: "0036.5sitelen-nasa_pf.pdf"
+  pdf_bwpf: "0036.5sitelen-nasa_bwpf.pdf"
+  cover_image: "0036.5sitelen-nasa_sinpin.png"
 - id: 36
   title: nanpa poki
   date: 2026-03-01
