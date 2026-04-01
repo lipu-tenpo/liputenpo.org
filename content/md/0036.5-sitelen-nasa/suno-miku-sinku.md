@@ -2,7 +2,7 @@
 nimi-suli: suno Miku-Sinku
 jan-pali: jan Alonola + jan Siniseli
 tags:
-  - sona
+  - musi
 ---
 
 # **s̈n̊“ṃk̤-s̄k̤”** 

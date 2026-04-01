@@ -2,7 +2,7 @@
 nimi-suli: tan pi pali sitelen
 jan-pali: jan Lusi
 tags:
-  - pilin
+  - musi
 ---
 
 {{{sitelen "0036.5-nanpa-sitelen-nasa/sitelen-pi-ma-kuma.png" "sitelen pi ma Kuma" "jan Lusi"}}}
