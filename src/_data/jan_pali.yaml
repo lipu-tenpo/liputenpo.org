@@ -1,10 +1,14 @@
-jan sitelen toki:
+jan toki:
+  - name: waso Aki
+    active: true
   - name: jan Ala
   - name: kulupu Alesanwa
   - name: jan Ali
     active: true
   - name: jan Alipi
   - name: jan Alonola
+    active: true
+  - name: soweli suli Alu pi ko lete
     active: true
   - name: jan Anan
   - name: jan Anlu Isa
@@ -15,7 +19,10 @@ jan sitelen toki:
     active: true
   - name: jan Eli
   - name: soweli Eli
+  - name: kije En Ken
+    active: true
   - name: kije Enki
+  - name: jan Esuwa
     active: true
   - name: jan Eweni Wako
   - name: jan Imi
@@ -28,25 +35,40 @@ jan sitelen toki:
   - name: jan Kamute
   - name: jan Kapan
   - name: jan Kapesi Pake
-  - name: jan Kasape
     active: true
+  - name: jan Kasape
   - name: jan Kasimun
+  - name: jan Ke Kame
+    active: true
   - name: jan Ke Tami
     active: true
+  - name: jan Kekami
+    active: true
   - name: jan Kekan San
+  - name: waso Keli
+    active: true
   - name: kiki Kijana
   - name: jan Kuku
   - name: jan Kuleku Nena
+    active: true
+  - name: jan Kuwi
+    active: true
   - name: jan Lapate
   - name: jan Lentan
+  - name: jan lili Enta
+    active: true
   - name: jan Lim
+  - name: jan linluwi Mota
     active: true
   - name: mije Luke
   - name: jan Lulu
-  - name: jan Luwiso
+  - name: jan Lusi
     active: true
+  - name: jan Luwiso
+  - name: jan Masa
   - name: kulupu Maken
   - name: jan Masine
+    active: true
   - name: jan Masu
   - name: kili Melon
   - name: jan Na
@@ -54,16 +76,19 @@ jan sitelen toki:
   - name: kijetesantakalu Nasan
   - name: sama Natanale
   - name: jan Nikola
+    active: true
   - name: jan Nowa
   - name: jan Olipija
   - name: jan Ono
-    active: true
   - name: jan Owekano
+  - name: ko Pa
+    active: true
   - name: jan Pa Ipa
   - name: jan Palisona
     active: true
-  - name: jan Pasijan
+  - name: jan Pasalis
     active: true
+  - name: jan Pasijan
   - name: jan Penanto
   - name: jan Penta
   - name: jan Peton
@@ -75,50 +100,52 @@ jan sitelen toki:
     active: true
   - name: jan San
   - name: jan Satase
-    active: true
   - name: jan Sepa
   - name: soko Sijeni
-    active: true
+  - name: ijo Sikipele
   - name: jan Simiman
   - name: jan Simo
   - name: jan Siniseli
     active: true
   - name: jan Sinke
   - name: jan Siwa
-    active: true
   - name: jan Sonatan
-    active: true
   - name: jan Sose L-S
   - name: akesi Tala
-    active: true
   - name: jan Tamalu
   - name: jan Tanije
   - name: jan Tekinowi
   - name: jan Telakoman
+  - name: jan Tene
+    active: true
   - name: jan Tesu
   - name: jan Tomeson
-    active: true
   - name: jan Tomisu
   - name: jan Tumu
     active: true
-  - name: kije Weku
+  - name: jan Wemi
     active: true
-  - name: jan pi nimi ala
+  - name: kijetesantakalu Wilame
+    active: true
+  - name: kije Weku
   - name: waso
+  - name: jan pi nimi ala
+  - name: mute ante
     active: true
 
-jan pi pona pali:
+jan alasa pi pakala toki:
   - name: jan Alonola
     active: true
   - name: kala Asi
     active: true
   - name: jan Asilu
+    active: true
   - name: jan Eli
+  - name: soweli Eli
   - name: jan Ini
   - name: jan Itan
-  - name: lon Jawen
+  - name: lon Jawin
   - name: jan Juwan
-    active: true
   - name: ilo Kali
   - name: jan Kapesi Pake
   - name: jan Kasape
@@ -127,6 +154,7 @@ jan pi pona pali:
     active: true
   - name: mun Kekan San
   - name: jan Lakuse
+  - name: jan Lapate
     active: true
   - name: jan Lentan
   - name: jan Lipamanka#
@@ -136,9 +164,13 @@ jan pi pona pali:
   - name: jan Palisona
   - name: jan Pije
   - name: jan Simiman
+  - name: jan Simo
+  - name: jan Siwa
+    active: true
   - name: jan Sonatan
     active: true
   - name: jan Sonja
+  - name: jan Sose L-S
   - name: jan Tamalu
   - name: jan Telakoman
   - name: jan Tepo
@@ -146,13 +178,17 @@ jan pi pona pali:
   - name: jan Tumu
     active: true
   - name: waso
+    active: true
   
-jan sitelen sitelen:
+jan sitelen:
   - name: jan Alonola
     active: true
   - name: jan Akesi Seli
   - name: jan Aki
+  - name: kala Asi
+    active: true
   - name: jan Atan
+  - name: soweli Eli
   - name: kije Enki
   - name: jan Jane
   - name: jan Kapesi Pake
@@ -162,6 +198,7 @@ jan sitelen sitelen:
   - name: jan Kuwimaku
   - name: jan Lewiku
   - name: jan Meki
+    active: true
   - name: jan Na
   - name: jan Opukju
   - name: jan Piku
@@ -173,9 +210,12 @@ jan sitelen sitelen:
   - name: jan Tenten
   - name: kije Weku
     active: true
+  - name: jan Wemi
+    active: true
     
 jan pi selo lipu:
   - name: jan Alonola
+  - name: kala Asi
     active: true
   - name: jan Atan
   - name: jan Eli
@@ -185,11 +225,9 @@ jan pi selo lipu:
   - name: jan Kini
   - name: jan Sewa
   - name: jan Simo
-    active: true
   - name: jan Sonatan
-    active: true
     
-jan lawa toki lon ma Siko:
+jan lawa toki lon lipu Siko:
   - name: jan Alonola
     active: true
   - name: jan Kapesi Pake
@@ -203,13 +241,16 @@ jan pi lipu ni:
     active: true
   - name: jan Alonola
     active: true
+  - name: kala Asi
+    active: true
+  - name: jan Kasape
+    active: true
   - name: jan Kuku
   - name: sama Natanale
   - name: jan Peja
   - name: jan Sonatan
-    active: true
     
-jan lawa lipu:
+jan lawa kulupu:
   - name: jan Alipi
   - name: jan Alonola
     active: true
