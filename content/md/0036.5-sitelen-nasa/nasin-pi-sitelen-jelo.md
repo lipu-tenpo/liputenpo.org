@@ -1,5 +1,5 @@
 ---
-nimi-suli: 🛤️📎🖼️🍋
+nimi-suli: nasin pi sitelen jelo
 jan-pali: waso Keli
 tags:
   - musi
@@ -9,7 +9,7 @@ tags:
 👆❤️❓  
 👇🧡😊↩️↙️  
 👆👀⏩💬👇  
-👆\*️⃣🅾️💛😃
+👆*️⃣🅾️💛😃
 
 👇🦜🖌️🌱🛒❄️🔦🖌️  
 🤷🦩🖍️🌸🏪🥶🔨🖍️  
@@ -21,8 +21,8 @@ tags:
 📛▶️↩️↙️  
 🖼️👐▶️🍋  
 👆💪⚡👐✍️🍌🍋  
-🖼️👐▶️🧱\*️⃣  
-🅿️ℹ️↗️▶️🆚\#️⃣1️⃣
+🖼️👐▶️🧱*️⃣  
+🅿️ℹ️↗️▶️🆚#️⃣1️⃣
 
 🛤️⬇️💁🖼️🌌▶️💪  
 🅾️✍️🛤️👆🅰️  
@@ -50,13 +50,13 @@ tags:
 
 toki a  
 sina pilin seme  
-ni pilin pona tan ni  
+mi pilin pona tan ni  
 sina lukin e toki mi  
 sina kin o pilin pona
 
-mi waso \[kasi esun lete ilo\]  
-anu waso \[kasi esun lete ilo\]  
-anu waso \[kasi esun lete ilo\]
+mi waso [kasi esun lete ilo]  
+anu waso [kasi esun lete ilo]  
+anu waso [kasi esun lete ilo]
 
 mi pali e nasin sitelen kepeken sitelen kule  
 nimi ona li nasin pi sitelen jelo  
