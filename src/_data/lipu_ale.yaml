@@ -283,6 +283,11 @@
   pdf_bwpf: 0003soweli_bwpf.pdf
   cover_image: 0003soweli_sinpin.png
   pdf_sitelen_pona: 0003soweli_sp.pdf
+- id: 2.5
+  title: nanpa ala
+  date: 2021-04-01
+  pdf: "0002.5ala.pdf"
+  cover_image: "0002.5ala_sinpin.png"
 - id: 2
   title: nanpa mun
   date: 2021-03-01
