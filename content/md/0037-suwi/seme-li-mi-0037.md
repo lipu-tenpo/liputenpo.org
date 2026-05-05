@@ -5,17 +5,23 @@ tags:
   - musi
 ---
 
-mi open lon ma Posuka  
-taso ma Posuka li lon ala  
-ma tomo mi la mi ken kute  
-e pakala e toki mute
+kasi kule li mama wan mi  
+pipi mute li mama ante  
+soweli li wile moku e mi  
+mi pali mute tawa pipi
 
-mama li pana e sona toki taso  
-mi kama sona e misikeke oko  
-taso mi awen oko e utala  
-mi wile e ni: jan ale o jan pona
+pipi mi li pali e tomo suli  
+jan li alasa e mi tan tomo ni  
+len li awen e jan tan pakala  
+pipi mi li ken pona utala
 
-mi sona e sona toki la  
-mi pali e toki wan sin a  
-toki ni li toki pi jan ali  
-taso ona li pini ala e moli pi jan lili mi
+pipi li jelo li pimeja  
+mi jo e kule wan ni a  
+mi ken taki e luka sina   
+sina esun e mi lon poki a  
+
+<details class="seme-li-mi-solution">
+  <summary>mi ni</summary>
+  <p><strong>ko suwi</strong></p>
+  <p>honey</p>
+</details>
