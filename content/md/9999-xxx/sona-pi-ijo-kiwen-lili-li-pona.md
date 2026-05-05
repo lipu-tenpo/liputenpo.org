@@ -1,6 +1,6 @@
 ---
-nimi-suli: ko suwi pipi
-jan-pali: jan Tumu
+nimi-suli: sona pi ijo kiwen lili li pona
+jan-pali: jan Alon
 tags:
   - sona
 ---
