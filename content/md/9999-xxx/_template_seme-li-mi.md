@@ -5,7 +5,6 @@ tags:
   - musi
 ---
 
-
 <details class="seme-li-mi-solution">
   <summary>mi ni</summary>
   <p><strong>toki pona answer</strong></p>
