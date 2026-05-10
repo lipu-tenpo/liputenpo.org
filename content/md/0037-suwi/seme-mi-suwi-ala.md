@@ -7,7 +7,7 @@ tags:
 
 mi lon ma pi kasi mute. kiwen kasi li utala e mi. mi utala e kasi. kalama li utala lon sewi. pimeja li utala e walo la, kon li utala e telo. telo sewi lili wan li utala e ma suli anpa. noka mi li utala e tawa la, mi kama lon tomo. telo mute li utala e ma. telo wan li kama utala e lawa mi. luka mi li utala e sinpin tomo – “jan li lon ala lon insa?” – kalama tomo ala en kalama sewi taso en kalama telo taso li utala e kute mi. telo li kama mute. mi lupa e sinpin tomo li tawa insa.
 
-{{{sitelen "0037-nanpa-suwi/suwi-li-seme-kule.png" "jan Alonola" "jan tu li toki e suwi"}}}
+{{{sitelen "0037-nanpa-suwi/suwi-li-seme-kule.png" "jan tu li toki e suwi" "jan Alonola"}}}
 
 telo li awen kama tan sewi li kama len e poka ale. kule en kalama ale pi telo ala li kama weka anu seme? a, ala, mi kute e kalama ante wan – “aaaaa” – a, pona, ona kalama li kama: jan li tawa tan len pi telo mute tawa tomo la, mi kama lukin e ona. ona li pilin pi pona ala lon telo. luka ona la, kili mute pi kule mute li awen – “a, pona, alasa sina li kama e ijo moku” – “a, pona, alasa sina li kama e tomo” – ona li tawa insa. 
 
