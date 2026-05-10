@@ -14,7 +14,7 @@ ma tomo Watu li lawa e ma Lisensan. tomo pi jan lawa li lon poka ona. tenpo s
 
 ma Lisensan li ma pi esun wawa. nasa la, sitelen pi tomo mani pi ma Lisensan li sama sitelen pona ‘tu sina’ tawa lukin!
 
-{{{sitelen "0037-nanpa-suwi/elopa-1.png" "jan Masine" "tu sina"}}}
+{{{sitelen "0037-nanpa-suwi/elopa-1-kule.png" "jan Masine" "tu sina"}}}
 
 ### ma Mata
 ma Elopa la ma Mata li ma pi lili nanpa luka. telo li sike e ona. suno en tawa telo li pona tawa sina la ma ni li pona mute tawa sina!
