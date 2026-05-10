@@ -19,8 +19,10 @@ pipi mi li ken pona utala
 
 pipi li jelo li pimeja  
 mi jo e kule wan ni a  
-mi ken taki e luka sina   
-sina esun e mi lon poki a  
+mi ken taki¹ e luka sina  
+sina esun e mi lon poki a
+
+¹ ijo taki li wan e ijo tu
 
 <details class="seme-li-mi-solution">
   <summary>mi ni</summary>
