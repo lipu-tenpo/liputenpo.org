@@ -1073,6 +1073,10 @@
                 <DefaultStyle PARENT="Default Paragraph Style" LINESPMode="1" CPARENT="Default Character Style"/>
                 <ITEXT CH="jan"/>
                 <nbspace/>
+                <ITEXT CH="Alonola +"/>
+                <nbspace/>
+                <ITEXT CH="jan"/>
+                <nbspace/>
                 <ITEXT CH="Esuwa +"/>
                 <nbspace/>
                 <ITEXT CH="jan"/>
