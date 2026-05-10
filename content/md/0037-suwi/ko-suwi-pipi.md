@@ -7,6 +7,8 @@ tags:
 
 **seli sin** li weka e lape tan ma mi. sina lon ma laso lon poka ma sama, la sina ken lukin e ante tenpo ni: soweli li kama tan lupa lape tawa sewi ma; akesi li weka tan anpa telo; kasi la palisa li pana sewi e kule e kili; insa linja ona li ken e tomo sin tawa waso kama.
 
+{{{sitelen "0037-nanpa-suwi/pipi-kule.png" "pipi pi ko suwi" "jan Ke Tami"}}}
+
 pipi kin li lon pali suli ni. ona lili li ken kama lon kulupu suli a, li awen alasa li awen pali lon ma ale. tenpo lili la kulupu wan li kama tawa poka mi, li kama wawa e wile sona; ona li pimeja li jelo, li sijelo lili li pali suli, li tawa musi lon kasi lon kon. nasin sona la nimi *Apis Mellifera* li tawa ona.
 
 pipi ni li sona pali e tomo lon kasi, anu lupa ma, anu ijo ante. ona li ni kepeken ijo ko: selo pipi la lupa lili li pana e ona. pipi li sijelo e ko kepeken noka mute tawa selo tomo. tomo ni li ken awen seli pona e kulupu ale, li ken poki tawa ijo moku ona; kin la pipi mama en pipi lili li lon insa. kulupu ale la meli wan li mama; ona taso li ken pana e pipi sin. pipi ante la mute suli li meli: ona o alasa o pali. mije li mute ala a: ona o unpa taso e mama ante.

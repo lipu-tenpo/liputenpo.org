@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0037-nanpa-suwi/seme-li-mi-kule.png" "jan Alonola" "seme li mi"}}}
+
 kasi kule li mama wan mi  
 pipi mute li mama ante  
 soweli li wile moku e mi  

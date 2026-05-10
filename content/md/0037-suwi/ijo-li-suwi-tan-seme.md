@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0037-nanpa-suwi/leko-kule.png" "leko suwi" "jan Alonola"}}}
+
 **suwi li seme?** ale li toki insa la, suwi li nasa a. pilin ni li lon anu seme? kili li jo e lili e wawa, taso, uta la lili ni li kama lon nena lili la suwi li kama lon. nena uta, en ilo pi wawa tawa, en lawa li lon ala la suwi li lon ala lon? ala, suwi li lon ala. tan ni la ijo li poki ala e “suwi”, taso, “suwi” li tan ijo tan jan kin. jan li toki mute e ni: “suwi” li “nasin pi pilin jan” (ona li lon tawa pilin jan taso). jan tu li ken pilin e kili wan li toki e ni: “ni li suwi”. taso mi ken ala sona e ni: jan wan li pilin ala pilin sama jan ante? suwi li lon lawa mi taso.
 
 sona sijelo la ijo li suwi tan ni: lili pi ijo suwi li ken kama lon (supa pi)ilo pilin uta. lili li ken lili Kuko (D-Glucose), li ken lili Puko (D-*arabino*\-Hex-2-ulose), li ken lili Suko (β-D-Fructofuranosyl α-D-glucopyranoside). telo uta en lili suwi li wan la, lili suwi en ilo pilin li ken wan li toki e suwi tawa lawa. ni li wile e tenpo lili. 
