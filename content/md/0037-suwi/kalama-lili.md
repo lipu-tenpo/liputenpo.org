@@ -22,4 +22,4 @@ mi kute e kalama tan tomo lape.
 
 *jan Ulansisu li pali e ni.*
 
-{{{sitelen "9999-nanpa-xxx/kalama-lili-kule.png" "kalama lili - sitelen sitelen" "jan Ulansisu"}}}
+{{{sitelen "0037-nanpa-suwi/kalama-lili-kule.png" "kalama lili - sitelen sitelen" "jan Ulansisu"}}}

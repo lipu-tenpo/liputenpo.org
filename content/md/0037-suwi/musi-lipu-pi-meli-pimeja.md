@@ -5,7 +5,7 @@ tags:
   - musi
 ---
 
-{{{sitelen "9999-nanpa-xxx/meli-pimeja-2-kule.png" "jan Esuwa" "lipu"}}}
+{{{sitelen "9999-nanpa-xxx/meli-pimeja-2-kule.png" "lipu" "jan Esuwa"}}}
 
 ### open
 

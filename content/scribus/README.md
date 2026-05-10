@@ -43,24 +43,27 @@ You can manage them in the *Windows* menu.
 
 TODO Show margins, boxes, text flow. And enable ‘rulers relative to page’. Toggle these options all on or off using a custom shortcut, like `\`, to preview.
 
-### the scrapbook
+### scrapbooks
 
 A scrapbook is a collection of reusable elements.
 While layouting in Scribus, you can click on an element in the scrapbook to immediately put it on the page, with proper positioning.
 This saves a lot of time.
 
-The scrapbook for *lipu tenpo* is the `/jo` directory.
+The scrapbooks for *lipu tenpo* is the `/jo` directory.
 You can load it in Scribus as follows:
 1. Go to the *Scrapbook* pane.
 1. At the top of the pane, click the first, rectangle-shaped icon.
 1. Navigate to the `selo` repository on your computer.
-1. Select `/jo`.
-1. Click *Choose*.
+1. Select `/jo` and click *Choose*.
+1. Do the same for `/jo/blobs` and click *Choose* again.
 
-Now, the *jo* scrapbook is loaded in Scribus.
+Now, the scrapbooks are loaded in Scribus.
 It will remain loaded the next time you TODO.
 
-TODO what’s in the *lipu tenpo* scrapbook?
+- In the `jo` scrapbook, you will find, among others:
+	- arrows and ‹pini› symbols to mark the start, page flips and end of an article
+	- precombined text columns (`toki_soto` and `toki_teje` for left and right pages respectively)
+- In the `blobs` scrapbook, you will find blobs to be used as the backgrounds for article titles.
 
 ## working with Inkscape
 
@@ -165,41 +168,43 @@ Footnote in the text: regular letter (or superscript? TODO), and apply the style
 
 ### title
 
-### background shape
+### background blob
 
-Every article has a title, and every title has a background shape. You must draw this background shape manually. For every article, do this:
+Every article has a title, and every title has a background blob.
+You can use one of the pre-made background blobs in the `blobs` scrapbook,
+or you can draw one yourself.
 
+The blobs have file names like `s3_2`. This means:
+
+1. **width** `s`. There are three widths of blobs: *lili* `l`, *meso* `m` and *suli* `s`. All are two lines high.
+	- Note that `l`, `m` and `s` do not stand for *large*, *medium* and *small*!
+2. **shape** `3`. The blobs can have one of several shapes, like that of a rounded rectangle, an ellipse or a speech bubble.
+3. **variant** `2`. Most width–shape combinations have five variants. They are there so you can avoid repeating blobs within one edition.
+
+To use a blob:
+
+1. Double-click on a blob to insert it in the top-left page corner, or drag it directly onto the page.
+1. Stretch and reposition the blob to make it fit the title.
+1. In *Properties › Colors › Fill* TODO, set the blob’s fill colour to one of the `walo` colours to match the category that the article it is in.
+
+If you want something more specific than one of the pre-made blobs, such as something that fits the article, you can draw it yourself.
+
+- For an article about a Toki Pona meetup in *nanpa kalama*, I drew three text bubbles, like a conversation.
+- For an article about coffee in *nanpa sewi* TODO I drew a leaf and a drop.
+
+You can do this as follows:
+
+1. In Scribus, copy the title of the article.
 1. Open the file `ijo/ko.svg` in Inkscape.
-1. In Scribus, a screenshot of the title.
-1. Paste the screenshot in `ijo/ko.svg` in Inkscape.
+1. Duplicate (*Ctrl + `d`*) the ‹toki› text object.
+1. Paste the title in it, ensuring that the line breaks are in the same place.
 1. With the TODO tool, draw a path around the title.
-	1. Draw a shape that fits the article, if this is possible.
-		- For an article about a Toki Pona meetup in *nanpa kalama*, I drew three text bubbles, like a conversation.
-		- For an article about coffee in *nanpa sewi* TODO I drew a leaf and a drop.
-	1. Otherwise, draw a simple bubble or a text bubble.
 1. Give the path the light background that corresponds with the colour for the category that the article is in.
-
-Now that you have drawn all the blobs, it is time to export them.
-
-1. Go to the *Layers* menu in Inkscape with *Control + Shift + `l`*.
-1. Find the paths that you drew.
-1. Rename each path to the title of the article that it is drawn for.
-	- A name like `path0053` TODO would be replaced by `jan li toki pona`.
-1. Go to the *Export* menu with *Control + Shift + `e`*.
-1. TODO the batch tab (Inkscape 1.3+, I think)
-1. TODO prefix
-1. TODO position
-
-You now have a file for each background shape. Let’s put it in Scribus. For every article, do this:
-
-1. Navigate to the page of an article that doesn’t have a background shape yet.
-1. Go to *TODO › Import Vector File…* with your custom shortcut *Control + Shift + `i`*.
-1. Select the right shape from the file list.
-1. Click near the title that you want to place the shape on.
-	- The shape will be big. I don’t know what the regularity is, but it happens.
-1. Move the shape to the background using *Control + End*.
-1. Resize the shape.
-	- For precise rescaling, go to the *Properties* pane (*F4*) TODO. There, you can add an arithmetic expression to the position and scale fields.
+1. Remove the stroke (TODO)
+1. Copy the path.
+1. In Scribus, paste the blob and reposition it.
+	1. Resizing should not be necessary, because the font size of the ‹toki› object in the Inkscape file is the same as the heading text in the Scribus file.
+1. Move the object to the background (*End*).
 
 ## the cover
 
