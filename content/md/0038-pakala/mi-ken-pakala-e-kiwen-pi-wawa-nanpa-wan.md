@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0038-nanpa-pakala/kiwen-kiwen-kule.png" "kiwen kiwen" "jan Ke Tami"}}}
+
 o lon ma. o lukin e kiwen lon ma. o jo e kiwen. ona li pona tawa lukin la, sina wile awen e ona. taso sina ken ala ken awen e ona lon tenpo suli? sina pana e ona tawa poki sina la, ona li kama ala kama pakala?  
 kiwen li kiwen - sina wile pakala e ona la, ni li wile e wawa. taso pakala li ken, li ken lon kiwen ale a. ni la, sina ken wile sona: kiwen seme li wawa a lon kiwen ale? kiwen ante li pakala mute la kiwen seme li pakala lili?
 

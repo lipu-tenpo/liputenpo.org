@@ -660,7 +660,7 @@
                 <para PARENT="jan pali"/>
                 <ITEXT CH="There are several free courses, of which "/>
                 <ITEXT FONT="Andika Italic" CH="Wasona"/>
-                <ITEXT CH=" is the most popular. It’s available in 14 languages on "/>
+                <ITEXT CH=" is the most popular. It’s available in 16 languages on "/>
                 <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="wasona.com"/>
                 <ITEXT CH=". More resources, as well as Toki Pona communities and content, can be found on "/>
                 <ITEXT CPARENT="toki wawa" FCOLOR="laso pimeja" CH="tokipona.net"/>

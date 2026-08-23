@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0038-nanpa-pakala/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
+
 ma sina li lon insa mi kin  
 sina ken lukin li ken ala pilin  
 ma powe[^1] ni li sama ma ni  

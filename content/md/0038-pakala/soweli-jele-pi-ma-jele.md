@@ -5,7 +5,7 @@ tags:
   - sona
 ---
 
-{{{sitelen "0038-nanpa-pakala/gavle-kule.png" "the gavle goat" "jan Ke Tami"}}}
+{{{sitelen "0038-nanpa-pakala/goat-soweli-kule.png" "the gavle goat" "jan Ke Tami"}}}
 
 **kon li lete la**, pali mute li ken ala. kasi li kama pana ala e pan e kili. kili li alasa tawa ma lete la, ona li kama ala kasi sin. jan li wile tawa kepeken noka la, noka li wile e wawa pi mute ike tan ko lete mute. kulupu li lili e pali tan tenpo lete. pali ala la jan o seme? jan o musi a. ma lete mute la musi li lon. ken la kulupu li tawa lon poka, li kalama. ken la kulupu li open e kasi suli, li namako suwi e ona. ken la jan suli li pana suwi e ijo tawa jan lili.
 

@@ -5,7 +5,7 @@ tags:
   - sona
 ---
 
-{{{sitelen "9999-nanpa-xxx/ilo-pi-ijo-lili.png" "ilo pi ijo lili" "jan Alon"}}}
+{{{sitelen "0038-nanpa-pakala/ilo-lukin-kule.png" "ilo lukin" "jan Alon"}}}
 
 ***sina wile alasa e ijo kiwen lili la, sina ken tawa ma wan taso.*** mi toki e tomo sona lon ma Suwasi. nimi ona li tomo Sen (toki Inli la, nimi li CERN). tomo ni li suli la, jan mute en ilo pi alasa sona li lon. nanpa wan la, mi toki e jan ni. nanpa tu la, mi toki e ilo ni. pini la, mi toki e alasa ni.
 

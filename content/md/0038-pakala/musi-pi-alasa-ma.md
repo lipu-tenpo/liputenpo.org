@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0038-nanpa-pakala/nasin-pi-alasa-e-nanpa-lon-kule.PNG" "musi pi alasa ma" "jan Taka"}}}
+
 *o kama sona e ma sin* lon poka sina! musi ni la tenpo suno ale la ilo li pana e sona ma. sina o tawa ma ni. ni li musi pi alasa ma.
 
 **sona ma li kama tan seme?**
