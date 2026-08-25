@@ -14,3 +14,8 @@ kin la mi mute li lukin e ma tomo Aken. jan Alonola li toki e ijo suli ona. 
 tenpo lawa la mi mute li kulupu lon poka pi jan ante pi lipu tenpo li toki e lawa ona. mi pana e sona sin li toki e pilin e pali pi tenpo kama. jan mute li wile pali e ijo sin. pini la jan Alonola li pana e lipu tenpo mute ona tawa jan ale. tenpo ni la jan lon ma mute li jo e lipu tenpo mute lon tomo ona.
 
 {{{sitelen "0038-nanpa-pakala/nasin-kisa-kule.png" "nasin Kisa" "jan Alonola"}}}
+
+> sitelen ni li lon tomo mi. tomo mi li lili, taso jan luka wan pi toki pona li lape lon ona.
+> nimi Kisa li kama tan nimi sin *kisa*. kisa li soweli lili li soweli tomo li soweli ko. ona li suwi. tenpo ale la soweli mute ni li tawa lon nasin Kisa. ni la ona li kama jo e nimi ona.
+> sina lukin e “nasin Kisa” la o kama pona, o toki tawa mi. mi pali e telo seli pona.
+> ~ jan Alonola
