@@ -1,3 +1,11 @@
+- id: 38
+  title: nanpa pakala
+  date: 2026-08-26
+  pdf: "0038pakala.pdf"
+  pdf_bleed: "0038pakala_bleed.pdf"
+  pdf_pf: "0038pakala_pf.pdf"
+  pdf_bwpf: "0038pakala_bwpf.pdf"
+  cover_image: "0038pakala_sinpin.png"
 - id: 37
   title: nanpa suwi
   date: 2026-05-10
