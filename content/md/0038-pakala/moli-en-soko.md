@@ -1,6 +1,6 @@
 ---
 nimi-suli: moli ale la, soko li kama suli. soko ale la, soweli li kama suli.
-jan-pali: jan Ke Tami
+jan-pali: jan Kenitan
 tags:
   - sona
 ---

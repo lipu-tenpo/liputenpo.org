@@ -1,6 +1,6 @@
 ---
 nimi-suli: nena pakala pi ma Pilipina
-jan-pali: juna Jona pi toki Takalo
+jan-pali: jan Jona
 tags:
   - sona
 ---

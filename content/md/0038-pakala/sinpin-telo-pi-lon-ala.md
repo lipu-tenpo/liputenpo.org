@@ -1,6 +1,6 @@
 ---
 nimi-suli: sinpin telo pi lon ala
-jan-pali: juna Jona pi toki Takalo
+jan-pali: jan Jona
 tags:
   - sona
 ---
