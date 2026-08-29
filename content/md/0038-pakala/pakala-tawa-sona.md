@@ -17,7 +17,7 @@ pipi li lon ala poka soko. ona li weka. ma ante la pipi li awen. ken la… so
 
 jan Lemin li kama sona e ni: soko ni li moli e pipi lili. kama la jan li nimi e soko ni: soko Penisilin. misikeke la soko Penisilin li suli a. ona li ken moli e pipi lili ike lon sijelo sina. tenpo ni kin la jan li kepeken e soko Penisilin. 
 
-{{{sitelen "0038-nanpa-pakala/jaki-kule.png" "jaki" "jan Alonola"}}}
+{{{sitelen "0038-nanpa-pakala/jaki-kule.png" "jaki" "jan Milese"}}}
 
 ## kalama tan pimeja
 
