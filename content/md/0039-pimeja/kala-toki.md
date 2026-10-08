@@ -2,7 +2,7 @@
 nimi-suli: kala toki
 jan-pali: kala Asi
 tags:
-  - musi
+  - toki
 ---
 
 {{{sitelen "0039-nanpa-pimeja/jan-kala-kule.png" "kala li toki tawa jan" "jan Ke Tami"}}}

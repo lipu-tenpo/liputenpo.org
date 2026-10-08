@@ -2,7 +2,7 @@
 nimi-suli: jan sona li ken awen lon sewi pimeja anu seme?
 jan-pali: jan Penanto
 tags:
-  - sona
+  - pilin
 ---
 **jan sona li wile kama sona e sewi pimeja e mun.** tan tenpo pini suli la, jan sona li tawa sewi pimeja li awen lon tomo sewi. tomo ni li mun ilo suli li sike e ma. tan ni la, jan sona li pilin ala e wawa anpa, li awen lon kon. jan sona pi ma ante mute li kepeken tomo sewi tan ni: lon ni la jan li kama sona e ijo suli pi mun ale.
 
