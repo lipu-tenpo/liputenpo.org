@@ -5,6 +5,8 @@ tags:
   - sona
 ---
 
+{{{sitelen "0039-nanpa-pimeja/len-pimeja-waso-kule.svg" "len pimeja waso lon suno" "jan Ijenpa"}}}
+
 **tomo mama mi la ma kasi li lon poka tu.** kule ona li sama ala lon tenpo ale: sewi li ante e ma lon tenpo mute. tenpo pini la seli utala li awen, la suno suli en telo lili li kama jelo e ma. taso tenpo sin la telo sin li kama tan sewi; la laso sin li kama lon ma. telo en ma la ni li nasin pona.
 
 mi weka e len lape la mi ken kute: tawa telo li moku e kalama ale. ni la laso sin o lon! lukin mi li alasa lon lupa tomo - a, telo li lon sewi ale. taso anpa la ma li laso lili a… pimeja lili mute a li len e ona, li tawa lon ona, li open e lupa lon ona. tenpo ni la telo li wawa tu: ona li laso e ma, li waso e ma.
