@@ -5,6 +5,8 @@ tags:
   - musi
 ---
 
+{{{sitelen "0039-nanpa-pimeja/seme-li-mi-kule.png" "seme li mi" "jan Alonola"}}}
+
 oko[^1] sina la mi pimeja  
 taso pimeja li kule mi ala  
 suno li kama ala tan insa mi  
