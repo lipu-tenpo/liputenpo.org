@@ -10,7 +10,7 @@ tags:
 oko[^1] sina la mi pimeja  
 taso pimeja li kule mi ala  
 suno li kama ala tan insa mi  
-taso nasin suno li ante tan mi
+taso nasin suno li ken ante tan mi
 
 wawa mi li suli mute  
 poka mi la ijo li ken tawa sike  
