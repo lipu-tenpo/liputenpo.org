@@ -21,6 +21,6 @@ taso a, ilo toki sina li kepeken ala e ni. ni la, wile sona sin li lon: "nasin s
 
 o lukin e sinpin pi ilo toki sina. ona li ken pana e sitelen tawa lukin sina kepeken kule ale a! ona li pana e suno pi kule ona tan ona. sina lukin e ona la, ona li ilo suno lili mute. ona li loje, li laso sewi, li laso kasi. ilo li pana e kule mute a kepeken ni: ona li ante e wawa pi suno ni. nasin ni li nasin RGB. sina wile e pimeja la, ilo li pana ala e wawa tawa ilo suno. walo la, wawa mute tawa ale.
 
-lon la, ilo sitelen mute li ni ala. ona li wile ala e loje tan pimeja tan ni: ona li jo kin e poki pi telo sitelen pimeja. nasin CMYK li toki e ni a. toki Inli la, sitelen K li nimi "Key", li pimeja. taso a, ilo sitelen ale li kepeken ni a.
+lon la, ilo sitelen mute li ni ala. ona li wile ala e loje tan pimeja tan ni: ona li jo kin e poki pi telo sitelen pimeja. nasin CMYK li toki e ni a. toki Inli la, sitelen K li nimi "Key", li pimeja. taso a, ilo sitelen ale li kepeken ala ni a.
 
 sina ante e poki sina pi telo sitelen, li kama jo e lipu tenpo. wawa a! sina ken lukin e toki ni lon lipu. kin la, sina kama sona e ni: nasin seme la ilo sitelen li sitelen e kule? sona ni li pona a.
