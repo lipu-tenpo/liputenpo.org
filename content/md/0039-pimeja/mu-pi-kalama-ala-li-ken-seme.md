@@ -2,8 +2,10 @@
 nimi-suli: mu pi kalama ala li ken seme?
 jan-pali: jan Ke Tami
 tags:
-  - sona
+  - toki pona
 ---
+
+{{{sitelen "0039-nanpa-pimeja/mu-soweli-pi-kalama-ala.png" "soweli pimeja" "jan Ke Tami"}}}
 
 **nimi Mu li musi.** jan mute li alasa e sona ona. soweli anu akesi anu waso anu ijo sama li kalama e wile ona la kalama ni li mu. mute la, soweli li kalama tan ala wile la kalama ni kin li mu. mute la, ilo li ken mu. jan li toki tawa sina la sina sona ala e toki ona la ni li mu ala mu tawa sina? suli la, kalama mute li mu. tenpo la, jan li ken toki sama ni: “kalama ale li ken mu.” - ni la nimi tu li lon tan seme? kalama en mu li ante seme? alasa musi a. taso mi wile alasa pi nasin ante!
 

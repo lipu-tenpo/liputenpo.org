@@ -2,8 +2,10 @@
 nimi-suli: kala toki
 jan-pali: kala Asi
 tags:
-  - musi
+  - toki
 ---
+
+{{{sitelen "0039-nanpa-pimeja/jan-kala-kule.png" "kala li toki tawa jan" "jan Ke Tami"}}}
 
 *toki musi ni li tan toki Aja. jan Owane Tumunjan li pali e ona lon tenpo sike nanpa LLLTTALTW. jan mute li sona e toki ni tan sitelen musi. kulupu pali Amenpin li sitelen e toki ni  kepeken toki Lusi lon tenpo sike LLLTTAMMMMTW. sitelen ona li pona nasa tawa jan mute. sina ken alasa e sitelen lon lipu Jutu. taso mi wile toki pona e toki pi jan Tumunjan. kin la mi ante lili e toki. toki pona la musi ni li pona.*
 

@@ -71,3 +71,18 @@ p:has(.image) {
 .nimi hr {
   width: 100%;
 }
+
+.nimi table {
+  margin: 1rem;
+  border-collapse: collapse;
+}
+
+.nimi th {
+  padding: 0.25rem 0.75rem;
+  border-bottom: 0.15rem solid var(--text);
+}
+
+.nimi td {
+  padding: 0.25rem 0.75rem;
+  border-top: 0.075rem solid var(--text);
+}
